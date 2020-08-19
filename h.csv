@@ -1,0 +1,822 @@
+word,syllables,tonic,class,canonic
+hã,['hã'],0,oxítona,True
+há,['há'],0,oxítona,True
+habanera,"['ha', 'ba', 'ne', 'ra']",2,paroxítona,True
+hábil,"['há', 'bil']",0,paroxítona,False
+habilidade,"['ha', 'bi', 'li', 'da', 'de']",3,paroxítona,True
+habilidosa,"['ha', 'bi', 'li', 'do', 'sa']",3,paroxítona,True
+habilidosamente,"['ha', 'bi', 'li', 'do', 'sa', 'men', 'te']",5,paroxítona,False
+habilidoso,"['ha', 'bi', 'li', 'do', 'so']",3,paroxítona,True
+habilitação,"['ha', 'bi', 'li', 'ta', 'ção']",4,oxítona,False
+habilitado,"['ha', 'bi', 'li', 'ta', 'do']",3,paroxítona,True
+habilitando,"['ha', 'bi', 'li', 'tan', 'do']",3,paroxítona,False
+habilitante,"['ha', 'bi', 'li', 'tan', 'te']",3,paroxítona,False
+habilitar,"['ha', 'bi', 'li', 'tar']",3,oxítona,False
+habilmente,"['ha', 'bil', 'men', 'te']",2,paroxítona,False
+habitabilidade,"['ha', 'bi', 'ta', 'bi', 'li', 'da', 'de']",5,paroxítona,True
+habitação,"['ha', 'bi', 'ta', 'ção']",3,oxítona,False
+habitacional,"['ha', 'bi', 'ta', 'ci', 'o', 'nal']",5,oxítona,False
+habitáculo,"['ha', 'bi', 'tá', 'cu', 'lo']",2,proparoxítona,True
+habitado,"['ha', 'bi', 'ta', 'do']",2,paroxítona,True
+habitante,"['ha', 'bi', 'tan', 'te']",2,paroxítona,False
+habitar,"['ha', 'bi', 'tar']",2,oxítona,False
+habitat,"['ha', 'bi', 'tat']",1,paroxítona,False
+habitável,"['ha', 'bi', 'tá', 'vel']",2,paroxítona,False
+hábito,"['há', 'bi', 'to']",0,proparoxítona,True
+habituação,"['ha', 'bi', 'tu', 'a', 'ção']",4,oxítona,False
+habituado,"['ha', 'bi', 'tu', 'a', 'do']",3,paroxítona,False
+habitual,"['ha', 'bi', 'tu', 'al']",3,oxítona,False
+habitualidade,"['ha', 'bi', 'tu', 'a', 'li', 'da', 'de']",5,paroxítona,False
+habitualmente,"['ha', 'bi', 'tu', 'al', 'men', 'te']",4,paroxítona,False
+habituar,"['ha', 'bi', 'tu', 'ar']",3,oxítona,False
+habitué,"['ha', 'bi', 'tué']",2,oxítona,False
+habitus,"['ha', 'bi', 'tus']",2,oxítona,False
+hacer,"['ha', 'cer']",1,oxítona,False
+hacker,"['hac', 'ker']",0,paroxítona,False
+haco,"['ha', 'co']",0,paroxítona,True
+hagiografia,"['ha', 'gi', 'o', 'gra', 'fi', 'a']",4,paroxítona,False
+hagiográfico,"['ha', 'gi', 'o', 'grá', 'fi', 'co']",3,proparoxítona,False
+hagiógrafo,"['ha', 'gi', 'ó', 'gra', 'fo']",2,proparoxítona,False
+haitiana,"['hai', 'ti', 'a', 'na']",2,paroxítona,False
+haitiano,"['hai', 'ti', 'a', 'no']",2,paroxítona,False
+halali,"['ha', 'la', 'li']",2,oxítona,True
+haliêutico,"['ha', 'li', 'êu', 'ti', 'co']",2,proparoxítona,False
+hálito,"['há', 'li', 'to']",0,proparoxítona,True
+hall,['hall'],0,oxítona,False
+halo,"['ha', 'lo']",0,paroxítona,True
+halogenado,"['ha', 'lo', 'ge', 'na', 'do']",3,paroxítona,True
+halogenar,"['ha', 'lo', 'ge', 'nar']",3,oxítona,False
+halogéneo,"['ha', 'lo', 'gé', 'ne', 'o']",2,proparoxítona,False
+halogénio,"['ha', 'lo', 'gé', 'ni', 'o']",2,proparoxítona,False
+haltere,"['hal', 'te', 're']",1,paroxítona,False
+halterofilia,"['hal', 'te', 'ro', 'fi', 'li', 'a']",4,paroxítona,False
+halterofilismo,"['hal', 'te', 'ro', 'fi', 'lis', 'mo']",4,paroxítona,False
+halterofilista,"['hal', 'te', 'ro', 'fi', 'lis', 'ta']",4,paroxítona,False
+hamada,"['ha', 'ma', 'da']",1,paroxítona,True
+hambúrguer,"['ham', 'búr', 'guer']",1,paroxítona,False
+hamburguês,"['ham', 'bur', 'guês']",2,oxítona,False
+hamster,"['ham', 'ster']",0,paroxítona,False
+handicap,"['han', 'di', 'cap']",2,oxítona,False
+hangar,"['han', 'gar']",1,oxítona,False
+hansa,"['han', 'sa']",0,paroxítona,False
+hanseático,"['han', 'se', 'á', 'ti', 'co']",2,proparoxítona,False
+happening,"['hap', 'pe', 'ning']",0,proparoxítona,False
+hard,['hard'],0,oxítona,False
+hard-rock,"['hard', 'rock']",1,oxítona,False
+hardware,"['hard', 'wa', 're']",1,paroxítona,False
+harém,"['ha', 'rém']",1,oxítona,False
+harmonia,"['har', 'mo', 'ni', 'a']",2,paroxítona,False
+harmónica,"['har', 'mó', 'ni', 'ca']",1,proparoxítona,False
+harmonicamente,"['har', 'mo', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+harmónico,"['har', 'mó', 'ni', 'co']",1,proparoxítona,False
+harmónio,"['har', 'mó', 'ni', 'o']",1,proparoxítona,False
+harmoniosamente,"['har', 'mo', 'ni', 'o', 'sa', 'men', 'te']",5,paroxítona,False
+harmonioso,"['har', 'mo', 'ni', 'o', 'so']",3,paroxítona,False
+harmonização,"['har', 'mo', 'ni', 'za', 'ção']",4,oxítona,False
+harmonizado,"['har', 'mo', 'ni', 'za', 'do']",3,paroxítona,False
+harmonizador,"['har', 'mo', 'ni', 'za', 'dor']",4,oxítona,False
+harmonizar,"['har', 'mo', 'ni', 'zar']",3,oxítona,False
+harpa,"['har', 'pa']",0,paroxítona,False
+harpagão,"['har', 'pa', 'gão']",2,oxítona,False
+harpar,"['har', 'par']",1,oxítona,False
+harpejo,"['har', 'pe', 'jo']",1,paroxítona,False
+harpista,"['har', 'pis', 'ta']",1,paroxítona,False
+harto,"['har', 'to']",0,paroxítona,False
+hasta,"['has', 'ta']",0,paroxítona,False
+hastado,"['has', 'ta', 'do']",1,paroxítona,False
+haste,"['has', 'te']",0,paroxítona,False
+hasteado,"['has', 'te', 'a', 'do']",2,paroxítona,False
+hasteamento,"['has', 'te', 'a', 'men', 'to']",3,paroxítona,False
+hastear,"['has', 'te', 'ar']",2,oxítona,False
+hastifino,"['has', 'ti', 'fi', 'no']",2,paroxítona,False
+hausto,"['haus', 'to']",0,paroxítona,False
+havaiana,"['ha', 'vai', 'a', 'na']",2,paroxítona,False
+havaiano,"['ha', 'vai', 'a', 'no']",2,paroxítona,False
+havana,"['ha', 'va', 'na']",1,paroxítona,True
+havanês,"['ha', 'va', 'nês']",2,oxítona,False
+havano,"['ha', 'va', 'no']",1,paroxítona,True
+haver,"['ha', 'ver']",1,oxítona,False
+haveres,"['ha', 've', 'res']",1,paroxítona,False
+haxixe,"['ha', 'xi', 'xe']",1,paroxítona,True
+heavy-metal,"['hea', 'vy-', 'me', 'tal']",2,paroxítona,False
+hebdomadário,"['heb', 'do', 'ma', 'dá', 'ri', 'o']",3,proparoxítona,False
+hebraica,"['he', 'brai', 'ca']",1,paroxítona,False
+hebraico,"['he', 'brai', 'co']",1,paroxítona,False
+hebreu,"['he', 'breu']",1,oxítona,False
+hecatombe,"['he', 'ca', 'tom', 'be']",2,paroxítona,False
+hectare,"['hec', 'ta', 're']",1,paroxítona,False
+hectolitro,"['hec', 'to', 'li', 'tro']",2,paroxítona,False
+hectómetro,"['hec', 'tó', 'me', 'tro']",1,proparoxítona,False
+hediondamente,"['he', 'di', 'on', 'da', 'men', 'te']",4,paroxítona,False
+hediondez,"['he', 'di', 'on', 'dez']",3,oxítona,False
+hediondo,"['he', 'di', 'on', 'do']",2,paroxítona,False
+hedonismo,"['he', 'do', 'nis', 'mo']",2,paroxítona,False
+hedonista,"['he', 'do', 'nis', 'ta']",2,paroxítona,False
+hedonístico,"['he', 'do', 'nís', 'ti', 'co']",2,proparoxítona,False
+hegeliana,"['he', 'ge', 'li', 'a', 'na']",3,paroxítona,False
+hegelianismo,"['he', 'ge', 'li', 'a', 'nis', 'mo']",4,paroxítona,False
+hegeliano,"['he', 'ge', 'li', 'a', 'no']",3,paroxítona,False
+hegemonia,"['he', 'ge', 'mo', 'ni', 'a']",3,paroxítona,False
+hegemónico,"['he', 'ge', 'mó', 'ni', 'co']",2,proparoxítona,True
+hegemonização,"['he', 'ge', 'mo', 'ni', 'za', 'ção']",5,oxítona,False
+hegemonizar,"['he', 'ge', 'mo', 'ni', 'zar']",4,oxítona,False
+hégira,"['hé', 'gi', 'ra']",0,proparoxítona,True
+helenicamente,"['he', 'le', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+helénico,"['he', 'lé', 'ni', 'co']",1,proparoxítona,True
+helénio,"['he', 'lé', 'ni', 'o']",1,proparoxítona,False
+helenismo,"['he', 'le', 'nis', 'mo']",2,paroxítona,False
+helenista,"['he', 'le', 'nis', 'ta']",2,paroxítona,False
+helenisticamente,"['he', 'le', 'nis', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+helenístico,"['he', 'le', 'nís', 'ti', 'co']",2,proparoxítona,False
+heleno,"['he', 'le', 'no']",1,paroxítona,True
+helíaco,"['he', 'lí', 'a', 'co']",1,proparoxítona,False
+hélice,"['hé', 'li', 'ce']",0,proparoxítona,True
+helicicultor,"['he', 'li', 'ci', 'cul', 'tor']",4,oxítona,False
+helicoidal,"['he', 'li', 'coi', 'dal']",3,oxítona,False
+helicóptero,"['he', 'li', 'cóp', 'te', 'ro']",2,proparoxítona,False
+hélio,"['hé', 'li', 'o']",0,proparoxítona,False
+heliocêntrico,"['he', 'li', 'o', 'cên', 'tri', 'co']",3,proparoxítona,False
+heliocentrismo,"['he', 'li', 'o', 'cen', 'tris', 'mo']",4,paroxítona,False
+heliporto,"['he', 'li', 'por', 'to']",2,paroxítona,False
+helitransportado,"['he', 'li', 'trans', 'por', 'ta', 'do']",4,paroxítona,False
+helitransportar,"['he', 'li', 'trans', 'por', 'tar']",4,oxítona,False
+helitransporte,"['he', 'li', 'trans', 'por', 'te']",3,paroxítona,False
+hélix,"['hé', 'lix']",0,paroxítona,False
+helvécio,"['hel', 'vé', 'ci', 'o']",1,proparoxítona,False
+helvética,"['hel', 'vé', 'ti', 'ca']",1,proparoxítona,False
+helvético,"['hel', 'vé', 'ti', 'co']",1,proparoxítona,False
+hem,['hem'],0,oxítona,False
+hematócrito,"['he', 'ma', 'tó', 'cri', 'to']",2,proparoxítona,False
+hematologia,"['he', 'ma', 'to', 'lo', 'gi', 'a']",4,paroxítona,False
+hematológico,"['he', 'ma', 'to', 'ló', 'gi', 'co']",3,proparoxítona,True
+hematologista,"['he', 'ma', 'to', 'lo', 'gis', 'ta']",4,paroxítona,False
+hematoma,"['he', 'ma', 'to', 'ma']",2,paroxítona,True
+hematúria,"['he', 'ma', 'tú', 'ri', 'a']",2,proparoxítona,False
+hemeroteca,"['he', 'me', 'ro', 'te', 'ca']",3,paroxítona,True
+hemiciclo,"['he', 'mi', 'ci', 'clo']",2,paroxítona,False
+hemiplegia,"['he', 'mi', 'ple', 'gi', 'a']",3,paroxítona,False
+hemiplégica,"['he', 'mi', 'plé', 'gi', 'ca']",2,proparoxítona,False
+hemiplégico,"['he', 'mi', 'plé', 'gi', 'co']",2,proparoxítona,False
+hemisférico,"['he', 'mis', 'fé', 'ri', 'co']",2,proparoxítona,False
+hemisfério,"['he', 'mis', 'fé', 'ri', 'o']",2,proparoxítona,False
+hemocromatose,"['he', 'mo', 'cro', 'ma', 'to', 'se']",4,paroxítona,False
+hemodialisada,"['he', 'mo', 'di', 'a', 'li', 'sa', 'da']",5,paroxítona,False
+hemodialisado,"['he', 'mo', 'di', 'a', 'li', 'sa', 'do']",5,paroxítona,False
+hemodialisar,"['he', 'mo', 'di', 'a', 'li', 'sar']",5,oxítona,False
+hemodiálise,"['he', 'mo', 'di', 'á', 'li', 'se']",3,proparoxítona,False
+hemodiluição,"['he', 'mo', 'di', 'lu', 'i', 'ção']",5,oxítona,False
+hemodinâmica,"['he', 'mo', 'di', 'nâ', 'mi', 'ca']",3,proparoxítona,True
+hemofilia,"['he', 'mo', 'fi', 'li', 'a']",3,paroxítona,False
+hemofílico,"['he', 'mo', 'fí', 'li', 'co']",2,proparoxítona,True
+hemoglobina,"['he', 'mo', 'glo', 'bi', 'na']",3,paroxítona,False
+hemograma,"['he', 'mo', 'gra', 'ma']",2,paroxítona,False
+hemolítico,"['he', 'mo', 'lí', 'ti', 'co']",2,proparoxítona,True
+hemorragia,"['he', 'mor', 'ra', 'gi', 'a']",3,paroxítona,False
+hemorrágico,"['he', 'mor', 'rá', 'gi', 'co']",2,proparoxítona,False
+hemorroida,"['he', 'mor', 'roi', 'da']",2,paroxítona,False
+hemorroidal,"['he', 'mor', 'roi', 'dal']",3,oxítona,False
+hemóstase,"['he', 'mós', 'ta', 'se']",1,proparoxítona,False
+hemoterapia,"['he', 'mo', 'te', 'ra', 'pi', 'a']",4,paroxítona,False
+hena,"['he', 'na']",0,paroxítona,True
+henoteísmo,"['he', 'no', 'te', 'ís', 'mo']",3,paroxítona,False
+henriquino,"['hen', 'ri', 'qui', 'no']",2,paroxítona,False
+henry,"['hen', 'ry']",0,paroxítona,False
+hepática,"['he', 'pá', 'ti', 'ca']",1,proparoxítona,True
+hepático,"['he', 'pá', 'ti', 'co']",1,proparoxítona,True
+hepatite,"['he', 'pa', 'ti', 'te']",2,paroxítona,True
+hepatomegalia,"['he', 'pa', 'to', 'me', 'ga', 'li', 'a']",5,paroxítona,False
+heptatlo,"['hep', 'ta', 'tlo']",1,paroxítona,False
+hera,"['he', 'ra']",0,paroxítona,True
+heráldica,"['he', 'rál', 'di', 'ca']",1,proparoxítona,False
+heraldicamente,"['he', 'ral', 'di', 'ca', 'men', 'te']",4,paroxítona,False
+heráldico,"['he', 'rál', 'di', 'co']",1,proparoxítona,False
+heraldo,"['he', 'ral', 'do']",1,paroxítona,False
+herança,"['he', 'ran', 'ça']",1,paroxítona,False
+herbáceo,"['her', 'bá', 'ce', 'o']",1,proparoxítona,False
+herbanário,"['her', 'ba', 'ná', 'ri', 'o']",2,proparoxítona,False
+herbário,"['her', 'bá', 'ri', 'o']",1,proparoxítona,False
+herbicida,"['her', 'bi', 'ci', 'da']",2,paroxítona,False
+herbívoro,"['her', 'bí', 'vo', 'ro']",1,proparoxítona,False
+herculano,"['her', 'cu', 'la', 'no']",2,paroxítona,False
+hercúleo,"['her', 'cú', 'le', 'o']",1,proparoxítona,False
+hércules,"['hér', 'cu', 'les']",0,proparoxítona,False
+herdade,"['her', 'da', 'de']",1,paroxítona,False
+herdar,"['her', 'dar']",1,oxítona,False
+herdeira,"['her', 'dei', 'ra']",1,paroxítona,False
+herdeiro,"['her', 'dei', 'ro']",1,paroxítona,False
+hereditariamente,"['he', 're', 'di', 'ta', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+hereditariedade,"['he', 're', 'di', 'ta', 'ri', 'e', 'da', 'de']",6,paroxítona,False
+hereditário,"['he', 're', 'di', 'tá', 'ri', 'o']",3,proparoxítona,False
+herege,"['he', 're', 'ge']",1,paroxítona,True
+herero,"['he', 're', 'ro']",1,paroxítona,True
+heresia,"['he', 're', 'si', 'a']",2,paroxítona,False
+heresiarca,"['he', 're', 'si', 'ar', 'ca']",3,paroxítona,False
+herética,"['he', 'ré', 'ti', 'ca']",1,proparoxítona,True
+hereticamente,"['he', 're', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+herético,"['he', 'ré', 'ti', 'co']",1,proparoxítona,True
+herma,"['her', 'ma']",0,paroxítona,False
+hermafrodita,"['her', 'ma', 'fro', 'di', 'ta']",3,paroxítona,False
+hermafrodito,"['her', 'ma', 'fro', 'di', 'to']",3,paroxítona,False
+hermeneuta,"['her', 'me', 'neu', 'ta']",2,paroxítona,False
+hermenêutica,"['her', 'me', 'nêu', 'ti', 'ca']",2,proparoxítona,False
+hermenêutico,"['her', 'me', 'nêu', 'ti', 'co']",2,proparoxítona,False
+hermes,"['her', 'mes']",0,paroxítona,False
+hermeticamente,"['her', 'me', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+hermeticidade,"['her', 'me', 'ti', 'ci', 'da', 'de']",4,paroxítona,False
+hermético,"['her', 'mé', 'ti', 'co']",1,proparoxítona,False
+hermetismo,"['her', 'me', 'tis', 'mo']",2,paroxítona,False
+hermínio,"['her', 'mí', 'ni', 'o']",1,proparoxítona,False
+hérnia,"['hér', 'ni', 'a']",0,proparoxítona,False
+herói,"['he', 'rói']",1,oxítona,False
+heroicamente,"['he', 'roi', 'ca', 'men', 'te']",3,paroxítona,False
+heroicidade,"['he', 'roi', 'ci', 'da', 'de']",3,paroxítona,False
+heroico,"['he', 'roi', 'co']",1,paroxítona,False
+heroína,"['he', 'ro', 'í', 'na']",2,paroxítona,False
+heroinómana,"['he', 'roi', 'nó', 'ma', 'na']",2,proparoxítona,False
+heroinómano,"['he', 'roi', 'nó', 'ma', 'no']",2,proparoxítona,False
+heroísmo,"['he', 'ro', 'ís', 'mo']",2,paroxítona,False
+herpes,"['her', 'pes']",0,paroxítona,False
+hertz,['hertz'],0,oxítona,False
+hertziano,"['hert', 'zi', 'a', 'no']",2,paroxítona,False
+hesitação,"['he', 'si', 'ta', 'ção']",3,oxítona,False
+hesitante,"['he', 'si', 'tan', 'te']",2,paroxítona,False
+hesitantemente,"['he', 'si', 'tan', 'te', 'men', 'te']",4,paroxítona,False
+hesitar,"['he', 'si', 'tar']",2,oxítona,False
+heteroavaliação,"['he', 'te', 'ro', 'a', 'va', 'li', 'a', 'ção']",7,oxítona,False
+heteroclitamente,"['he', 'te', 'ro', 'cli', 'ta', 'men', 'te']",5,paroxítona,False
+heteróclito,"['he', 'te', 'ró', 'cli', 'to']",2,proparoxítona,False
+heterodoxa,"['he', 'te', 'ro', 'do', 'xa']",3,paroxítona,True
+heterodoxia,"['he', 'te', 'ro', 'do', 'xi', 'a']",4,paroxítona,False
+heterodoxo,"['he', 'te', 'ro', 'do', 'xo']",3,paroxítona,True
+heterofonia,"['he', 'te', 'ro', 'fo', 'ni', 'a']",4,paroxítona,False
+heterogeneidade,"['he', 'te', 'ro', 'ge', 'nei', 'da', 'de']",5,paroxítona,False
+heterogéneo,"['he', 'te', 'ro', 'gé', 'ne', 'o']",3,proparoxítona,False
+heterogenia,"['he', 'te', 'ro', 'ge', 'ni', 'a']",4,paroxítona,False
+heteroide,"['he', 'te', 'roi', 'de']",2,paroxítona,False
+heteroinfecção,"['he', 'te', 'ro', 'in', 'fec', 'ção']",5,oxítona,False
+heterólogo,"['he', 'te', 'ró', 'lo', 'go']",2,proparoxítona,True
+heteronímia,"['he', 'te', 'ro', 'ní', 'mi', 'a']",3,proparoxítona,False
+heteronímico,"['he', 'te', 'ro', 'ní', 'mi', 'co']",3,proparoxítona,True
+heterónimo,"['he', 'te', 'ró', 'ni', 'mo']",2,proparoxítona,True
+heteronomia,"['he', 'te', 'ro', 'no', 'mi', 'a']",4,paroxítona,False
+heterosséptico,"['he', 'te', 'ros', 'sép', 'ti', 'co']",3,proparoxítona,False
+heterossexual,"['he', 'te', 'ros', 'se', 'xu', 'al']",5,oxítona,False
+heterossexualidade,"['he', 'te', 'ros', 'se', 'xu', 'a', 'li', 'da', 'de']",7,paroxítona,False
+heterossilábico,"['he', 'te', 'ros', 'si', 'lá', 'bi', 'co']",4,proparoxítona,False
+heurística,"['heu', 'rís', 'ti', 'ca']",1,proparoxítona,False
+heuristicamente,"['heu', 'ris', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+heurístico,"['heu', 'rís', 'ti', 'co']",1,proparoxítona,False
+hexacampeão,"['he', 'xa', 'cam', 'pe', 'ão']",4,oxítona,False
+hexagonal,"['he', 'xa', 'go', 'nal']",3,oxítona,False
+hexágono,"['he', 'xá', 'go', 'no']",1,proparoxítona,True
+hexano,"['he', 'xa', 'no']",1,paroxítona,True
+hi-fi,"['hi', 'fi']",1,oxítona,True
+hiante,"['hi', 'an', 'te']",1,paroxítona,False
+hiato,"['hi', 'a', 'to']",1,paroxítona,False
+hibernação,"['hi', 'ber', 'na', 'ção']",3,oxítona,False
+hibernar,"['hi', 'ber', 'nar']",2,oxítona,False
+hiberno,"['hi', 'ber', 'no']",1,paroxítona,False
+hibridação,"['hi', 'bri', 'da', 'ção']",3,oxítona,False
+hibridamente,"['hi', 'bri', 'da', 'men', 'te']",3,paroxítona,False
+hibridar,"['hi', 'bri', 'dar']",2,oxítona,False
+hibridez,"['hi', 'bri', 'dez']",2,oxítona,False
+hibridismo,"['hi', 'bri', 'dis', 'mo']",2,paroxítona,False
+hibridização,"['hi', 'bri', 'di', 'za', 'ção']",4,oxítona,False
+híbrido,"['hí', 'bri', 'do']",0,proparoxítona,False
+hidra,"['hi', 'dra']",0,paroxítona,False
+hidrargiria,"['hi', 'drar', 'gi', 'ri', 'a']",3,paroxítona,False
+hidratação,"['hi', 'dra', 'ta', 'ção']",3,oxítona,False
+hidratado,"['hi', 'dra', 'ta', 'do']",2,paroxítona,False
+hidratante,"['hi', 'dra', 'tan', 'te']",2,paroxítona,False
+hidratar,"['hi', 'dra', 'tar']",2,oxítona,False
+hidrato,"['hi', 'dra', 'to']",1,paroxítona,False
+hidráulica,"['hi', 'dráu', 'li', 'ca']",1,proparoxítona,False
+hidraulicamente,"['hi', 'drau', 'li', 'ca', 'men', 'te']",4,paroxítona,False
+hidraulicidade,"['hi', 'drau', 'li', 'ci', 'da', 'de']",4,paroxítona,False
+hidráulico,"['hi', 'dráu', 'li', 'co']",1,proparoxítona,False
+hidreto,"['hi', 'dre', 'to']",1,paroxítona,False
+hídrico,"['hí', 'dri', 'co']",0,proparoxítona,False
+hidro,"['hi', 'dro']",0,paroxítona,False
+hidroavião,"['hi', 'dro', 'a', 'vi', 'ão']",4,oxítona,False
+hidrocarboneto,"['hi', 'dro', 'car', 'bo', 'ne', 'to']",4,paroxítona,False
+hidrocefalia,"['hi', 'dro', 'ce', 'fa', 'li', 'a']",4,paroxítona,False
+hidrodinâmica,"['hi', 'dro', 'di', 'nâ', 'mi', 'ca']",3,proparoxítona,False
+hidrodinâmico,"['hi', 'dro', 'di', 'nâ', 'mi', 'co']",3,proparoxítona,False
+hidroeléctrica,"['hi', 'dro', 'e', 'léc', 'tri', 'ca']",3,proparoxítona,False
+hidroeléctrico,"['hi', 'dro', 'e', 'léc', 'tri', 'co']",3,proparoxítona,False
+hidroelétrico,"['hi', 'dro', 'e', 'lé', 'tri', 'co']",3,proparoxítona,False
+hidrofobia,"['hi', 'dro', 'fo', 'bi', 'a']",3,paroxítona,False
+hidrofone,"['hi', 'dro', 'fo', 'ne']",2,paroxítona,False
+hidrófugo,"['hi', 'dró', 'fu', 'go']",1,proparoxítona,False
+hidrogénio,"['hi', 'dro', 'gé', 'ni', 'o']",2,proparoxítona,False
+hidrogeologia,"['hi', 'dro', 'ge', 'o', 'lo', 'gi', 'a']",5,paroxítona,False
+hidrogeológico,"['hi', 'dro', 'ge', 'o', 'ló', 'gi', 'co']",4,proparoxítona,False
+hidrografia,"['hi', 'dro', 'gra', 'fi', 'a']",3,paroxítona,False
+hidrográfico,"['hi', 'dro', 'grá', 'fi', 'co']",2,proparoxítona,False
+hidrologia,"['hi', 'dro', 'lo', 'gi', 'a']",3,paroxítona,False
+hidrológico,"['hi', 'dro', 'ló', 'gi', 'co']",2,proparoxítona,False
+hidromecânica,"['hi', 'dro', 'me', 'câ', 'ni', 'ca']",3,proparoxítona,False
+hidromecânico,"['hi', 'dro', 'me', 'câ', 'ni', 'co']",3,proparoxítona,False
+hidromel,"['hi', 'dro', 'mel']",2,oxítona,False
+hidrométrico,"['hi', 'dro', 'mé', 'tri', 'co']",2,proparoxítona,False
+hidropneumática,"['hi', 'drop', 'neu', 'má', 'ti', 'ca']",3,proparoxítona,False
+hidropneumático,"['hi', 'drop', 'neu', 'má', 'ti', 'co']",3,proparoxítona,False
+hidropónica,"['hi', 'dro', 'pó', 'ni', 'ca']",2,proparoxítona,False
+hidropónico,"['hi', 'dro', 'pó', 'ni', 'co']",2,proparoxítona,False
+hidrosfera,"['hi', 'dros', 'fe', 'ra']",2,paroxítona,False
+hidrospeed,"['hi', 'dro', 'speed']",2,oxítona,False
+hidrostática,"['hi', 'dros', 'tá', 'ti', 'ca']",2,proparoxítona,False
+hidrostático,"['hi', 'dros', 'tá', 'ti', 'co']",2,proparoxítona,False
+hidrotécnico,"['hi', 'dro', 'téc', 'ni', 'co']",2,proparoxítona,False
+hidroterapia,"['hi', 'dro', 'te', 'ra', 'pi', 'a']",4,paroxítona,False
+hidrotermal,"['hi', 'dro', 'ter', 'mal']",3,oxítona,False
+hidrovia,"['hi', 'dro', 'vi', 'a']",2,paroxítona,False
+hidróxido,"['hi', 'dró', 'xi', 'do']",1,proparoxítona,False
+hidroxilo,"['hi', 'dro', 'xi', 'lo']",2,paroxítona,False
+hiena,"['hi', 'e', 'na']",1,paroxítona,False
+hierarquia,"['hi', 'e', 'rar', 'qui', 'a']",3,paroxítona,False
+hierarquicamente,"['hi', 'e', 'rar', 'qui', 'ca', 'men', 'te']",5,paroxítona,False
+hierárquico,"['hi', 'e', 'rár', 'qui', 'co']",2,proparoxítona,False
+hierarquização,"['hi', 'e', 'rar', 'qui', 'za', 'ção']",5,oxítona,False
+hierarquizado,"['hi', 'e', 'rar', 'qui', 'za', 'do']",4,paroxítona,False
+hierarquizar,"['hi', 'e', 'rar', 'qui', 'zar']",4,oxítona,False
+hierática,"['hi', 'e', 'rá', 'ti', 'ca']",2,proparoxítona,False
+hieraticamente,"['hi', 'e', 'ra', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+hierático,"['hi', 'e', 'rá', 'ti', 'co']",2,proparoxítona,False
+hieratismo,"['hi', 'e', 'ra', 'tis', 'mo']",3,paroxítona,False
+hieroglífico,"['hi', 'e', 'ro', 'glí', 'fi', 'co']",3,proparoxítona,False
+hieróglifo,"['hi', 'e', 'ró', 'gli', 'fo']",2,proparoxítona,False
+hífen,"['hí', 'fen']",0,paroxítona,False
+hifenização,"['hi', 'fe', 'ni', 'za', 'ção']",4,oxítona,False
+hifenizar,"['hi', 'fe', 'ni', 'zar']",3,oxítona,False
+high-tech,"['high', 'tech']",1,oxítona,False
+higiene,"['hi', 'gi', 'e', 'ne']",2,paroxítona,False
+higienicamente,"['hi', 'gi', 'e', 'ni', 'ca', 'men', 'te']",5,paroxítona,False
+higiénico,"['hi', 'gi', 'é', 'ni', 'co']",2,proparoxítona,False
+higienista,"['hi', 'gi', 'e', 'nis', 'ta']",3,paroxítona,False
+higienização,"['hi', 'gi', 'e', 'ni', 'za', 'ção']",5,oxítona,False
+higienizado,"['hi', 'gi', 'e', 'ni', 'za', 'do']",4,paroxítona,False
+higienizar,"['hi', 'gi', 'e', 'ni', 'zar']",4,oxítona,False
+higrómetro,"['hi', 'gró', 'me', 'tro']",1,proparoxítona,False
+hilária,"['hi', 'lá', 'ri', 'a']",1,proparoxítona,False
+hilariante,"['hi', 'la', 'ri', 'an', 'te']",3,paroxítona,False
+hilariantemente,"['hi', 'la', 'ri', 'an', 'te', 'men', 'te']",5,paroxítona,False
+hilariar,"['hi', 'la', 'ri', 'ar']",3,oxítona,False
+hilaridade,"['hi', 'la', 'ri', 'da', 'de']",3,paroxítona,True
+hilário,"['hi', 'lá', 'ri', 'o']",1,proparoxítona,False
+hímen,"['hí', 'men']",0,paroxítona,False
+himenóptero,"['hi', 'me', 'nóp', 'te', 'ro']",2,proparoxítona,False
+hindi,"['hin', 'di']",1,oxítona,False
+hindu,"['hin', 'du']",1,oxítona,False
+hinduísmo,"['hin', 'du', 'ís', 'mo']",2,paroxítona,False
+hinduísta,"['hin', 'du', 'ís', 'ta']",2,paroxítona,False
+hino,"['hi', 'no']",0,paroxítona,True
+hip-hop,"['hip', 'hop']",1,oxítona,False
+hiparco,"['hi', 'par', 'co']",1,paroxítona,False
+hiper-hedonismo,"['hi', 'per-he', 'do', 'nis', 'mo']",3,paroxítona,False
+hiper-humano,"['hi', 'per-hu', 'ma', 'no']",2,paroxítona,False
+hiper-rancoroso,"['hi', 'per-ran', 'co', 'ro', 'so']",3,paroxítona,False
+hiper-realismo,"['hi', 'per-re', 'a', 'lis', 'mo']",3,paroxítona,False
+hiper-realista,"['hi', 'per-re', 'a', 'lis', 'ta']",3,paroxítona,False
+hiper-requintado,"['hi', 'per-re', 'quin', 'ta', 'do']",3,paroxítona,False
+hiper-rugoso,"['hi', 'per-ru', 'go', 'so']",2,paroxítona,False
+hiperacidez,"['hi', 'pe', 'ra', 'ci', 'dez']",4,oxítona,False
+hiperácido,"['hi', 'pe', 'rá', 'ci', 'do']",2,proparoxítona,True
+hiperacústico,"['hi', 'pe', 'ra', 'cús', 'ti', 'co']",3,proparoxítona,False
+hiperafrodisíaco,"['hi', 'pe', 'ra', 'fro', 'di', 'sí', 'a', 'co']",5,proparoxítona,False
+hiperagressividade,"['hi', 'pe', 'ra', 'gres', 'si', 'vi', 'da', 'de']",6,paroxítona,False
+hiperagressivo,"['hi', 'pe', 'ra', 'gres', 'si', 'vo']",4,paroxítona,False
+hiperagudo,"['hi', 'pe', 'ra', 'gu', 'do']",3,paroxítona,True
+hiperalimentação,"['hi', 'pe', 'ra', 'li', 'men', 'ta', 'ção']",6,oxítona,False
+hiperamnésico,"['hi', 'pe', 'ram', 'né', 'si', 'co']",3,proparoxítona,False
+hiperatividade,"['hi', 'pe', 'ra', 'ti', 'vi', 'da', 'de']",5,paroxítona,True
+hiperativo,"['hi', 'pe', 'ra', 'ti', 'vo']",3,paroxítona,True
+hiperbárico,"['hi', 'per', 'bá', 'ri', 'co']",2,proparoxítona,False
+hipérbole,"['hi', 'pér', 'bo', 'le']",1,proparoxítona,False
+hiperbolicamente,"['hi', 'per', 'bo', 'li', 'ca', 'men', 'te']",5,paroxítona,False
+hiperbólico,"['hi', 'per', 'bó', 'li', 'co']",2,proparoxítona,False
+hiperbolização,"['hi', 'per', 'bo', 'li', 'za', 'ção']",5,oxítona,False
+hiperbolizado,"['hi', 'per', 'bo', 'li', 'za', 'do']",4,paroxítona,False
+hiperbolizar,"['hi', 'per', 'bo', 'li', 'zar']",4,oxítona,False
+hipercatarse,"['hi', 'per', 'ca', 'tar', 'se']",3,paroxítona,False
+hipercatártico,"['hi', 'per', 'ca', 'tár', 'ti', 'co']",3,proparoxítona,False
+hipercíclico,"['hi', 'per', 'cí', 'cli', 'co']",2,proparoxítona,False
+hiperciclo,"['hi', 'per', 'ci', 'clo']",2,paroxítona,False
+hipercinético,"['hi', 'per', 'ci', 'né', 'ti', 'co']",3,proparoxítona,False
+hiperclorídrico,"['hi', 'per', 'clo', 'rí', 'dri', 'co']",3,proparoxítona,False
+hipercólico,"['hi', 'per', 'có', 'li', 'co']",2,proparoxítona,False
+hipercorreção,"['hi', 'per', 'cor', 're', 'ção']",4,oxítona,False
+hipercorreto,"['hi', 'per', 'cor', 're', 'to']",3,paroxítona,False
+hipercrise,"['hi', 'per', 'cri', 'se']",2,paroxítona,False
+hipercrítica,"['hi', 'per', 'crí', 'ti', 'ca']",2,proparoxítona,False
+hipercriticamente,"['hi', 'per', 'cri', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+hipercriticismo,"['hi', 'per', 'cri', 'ti', 'cis', 'mo']",4,paroxítona,False
+hipercrítico,"['hi', 'per', 'crí', 'ti', 'co']",2,proparoxítona,False
+hipercroma,"['hi', 'per', 'cro', 'ma']",2,paroxítona,False
+hipercromia,"['hi', 'per', 'cro', 'mi', 'a']",3,paroxítona,False
+hipercultura,"['hi', 'per', 'cul', 'tu', 'ra']",3,paroxítona,False
+hiperdialéctico,"['hi', 'per', 'di', 'a', 'léc', 'ti', 'co']",4,proparoxítona,False
+hiperdialético,"['hi', 'per', 'di', 'a', 'lé', 'ti', 'co']",4,proparoxítona,False
+hiperdórico,"['hi', 'per', 'dó', 'ri', 'co']",2,proparoxítona,False
+hiperdório,"['hi', 'per', 'dó', 'ri', 'o']",2,proparoxítona,False
+hiperdramático,"['hi', 'per', 'dra', 'má', 'ti', 'co']",3,proparoxítona,False
+hiperelíptico,"['hi', 'pe', 're', 'líp', 'ti', 'co']",3,proparoxítona,False
+hiperemotividade,"['hi', 'pe', 're', 'mo', 'ti', 'vi', 'da', 'de']",6,paroxítona,True
+hiperencefalia,"['hi', 'pe', 'ren', 'ce', 'fa', 'li', 'a']",5,paroxítona,False
+hiperencéfalo,"['hi', 'pe', 'ren', 'cé', 'fa', 'lo']",3,proparoxítona,False
+hiperespaço,"['hi', 'pe', 'res', 'pa', 'ço']",3,paroxítona,False
+hiperestético,"['hi', 'pe', 'res', 'té', 'ti', 'co']",3,proparoxítona,False
+hipereufemismo,"['hi', 'pe', 'reu', 'fe', 'mis', 'mo']",4,paroxítona,False
+hiperexcitabilidade,"['hi', 'pe', 'rex', 'ci', 'ta', 'bi', 'li', 'da', 'de']",7,paroxítona,False
+hiperexcitável,"['hi', 'pe', 'rex', 'ci', 'tá', 'vel']",4,paroxítona,False
+hiperextensão,"['hi', 'pe', 'rex', 'ten', 'são']",4,oxítona,False
+hiperextensibilidade,"['hi', 'pe', 'rex', 'ten', 'si', 'bi', 'li', 'da', 'de']",7,paroxítona,False
+hiperextensível,"['hi', 'pe', 'rex', 'ten', 'sí', 'vel']",4,paroxítona,False
+hiperficção,"['hi', 'per', 'fic', 'ção']",3,oxítona,False
+hiperfísico,"['hi', 'per', 'fí', 'si', 'co']",2,proparoxítona,False
+hiperflexão,"['hi', 'per', 'fle', 'xão']",3,oxítona,False
+hiperfocal,"['hi', 'per', 'fo', 'cal']",3,oxítona,False
+hiperfrígio,"['hi', 'per', 'frí', 'gi', 'o']",2,proparoxítona,False
+hiperfunção,"['hi', 'per', 'fun', 'ção']",3,oxítona,False
+hipergenésico,"['hi', 'per', 'ge', 'né', 'si', 'co']",3,proparoxítona,False
+hipergenético,"['hi', 'per', 'ge', 'né', 'ti', 'co']",3,proparoxítona,False
+hiperglicemia,"['hi', 'per', 'gli', 'ce', 'mi', 'a']",4,paroxítona,False
+hiperglote,"['hi', 'per', 'glo', 'te']",2,paroxítona,False
+hiperinflação,"['hi', 'pe', 'rin', 'fla', 'ção']",4,oxítona,False
+hiperinflacionário,"['hi', 'pe', 'rin', 'fla', 'ci', 'o', 'ná', 'ri', 'o']",6,proparoxítona,False
+hiperintelectualidade,"['hi', 'pe', 'rin', 'te', 'lec', 'tu', 'a', 'li', 'da', 'de']",8,paroxítona,False
+hiperiónico,"['hi', 'pe', 'ri', 'ó', 'ni', 'co']",3,proparoxítona,False
+hiperjónico,"['hi', 'per', 'jó', 'ni', 'co']",2,proparoxítona,False
+hiperligação,"['hi', 'per', 'li', 'ga', 'ção']",4,oxítona,False
+hipermédia,"['hi', 'per', 'mé', 'di', 'a']",2,proparoxítona,False
+hipermercado,"['hi', 'per', 'mer', 'ca', 'do']",3,paroxítona,False
+hipermetamorfose,"['hi', 'per', 'me', 'ta', 'mor', 'fo', 'se']",5,paroxítona,False
+hipermétrico,"['hi', 'per', 'mé', 'tri', 'co']",2,proparoxítona,False
+hipermíope,"['hi', 'per', 'mí', 'o', 'pe']",2,proparoxítona,False
+hipermiopia,"['hi', 'per', 'mi', 'o', 'pi', 'a']",4,paroxítona,False
+hipermisticismo,"['hi', 'per', 'mis', 'ti', 'cis', 'mo']",4,paroxítona,False
+hipermístico,"['hi', 'per', 'mís', 'ti', 'co']",2,proparoxítona,False
+hiperóxido,"['hi', 'pe', 'ró', 'xi', 'do']",2,proparoxítona,True
+hiperpéptico,"['hi', 'per', 'pép', 'ti', 'co']",2,proparoxítona,False
+hiperpigmentado,"['hi', 'per', 'pig', 'men', 'ta', 'do']",4,paroxítona,False
+hiperplasia,"['hi', 'per', 'pla', 'si', 'a']",3,paroxítona,False
+hiperplástico,"['hi', 'per', 'plás', 'ti', 'co']",2,proparoxítona,False
+hiperprodução,"['hi', 'per', 'pro', 'du', 'ção']",4,oxítona,False
+hipersalino,"['hi', 'per', 'sa', 'li', 'no']",3,paroxítona,False
+hipersarcoma,"['hi', 'per', 'sar', 'co', 'ma']",3,paroxítona,False
+hipersecreção,"['hi', 'per', 'se', 'cre', 'ção']",4,oxítona,False
+hipersensibilidade,"['hi', 'per', 'sen', 'si', 'bi', 'li', 'da', 'de']",6,paroxítona,False
+hipersensível,"['hi', 'per', 'sen', 'sí', 'vel']",3,paroxítona,False
+hipersentimentalidade,"['hi', 'per', 'sen', 'ti', 'men', 'ta', 'li', 'da', 'de']",7,paroxítona,False
+hipersistólico,"['hi', 'per', 'sis', 'tó', 'li', 'co']",3,proparoxítona,False
+hipersónico,"['hi', 'per', 'só', 'ni', 'co']",2,proparoxítona,False
+hipersonoridade,"['hi', 'per', 'so', 'no', 'ri', 'da', 'de']",5,paroxítona,False
+hipersonoro,"['hi', 'per', 'so', 'no', 'ro']",3,paroxítona,False
+hipertensa,"['hi', 'per', 'ten', 'sa']",2,paroxítona,False
+hipertensão,"['hi', 'per', 'ten', 'são']",3,oxítona,False
+hipertenso,"['hi', 'per', 'ten', 'so']",2,paroxítona,False
+hipertensor,"['hi', 'per', 'ten', 'sor']",3,oxítona,False
+hipertermia,"['hi', 'per', 'ter', 'mi', 'a']",3,paroxítona,False
+hipertérmico,"['hi', 'per', 'tér', 'mi', 'co']",2,proparoxítona,False
+hipertexto,"['hi', 'per', 'tex', 'to']",2,paroxítona,False
+hipertiroidismo,"['hi', 'per', 'ti', 'roi', 'dis', 'mo']",4,paroxítona,False
+hipertonalidade,"['hi', 'per', 'to', 'na', 'li', 'da', 'de']",5,paroxítona,False
+hipertonia,"['hi', 'per', 'to', 'ni', 'a']",3,paroxítona,False
+hipertónico,"['hi', 'per', 'tó', 'ni', 'co']",2,proparoxítona,False
+hipertricose,"['hi', 'per', 'tri', 'co', 'se']",3,paroxítona,False
+hipertrofia,"['hi', 'per', 'tro', 'fi', 'a']",3,paroxítona,False
+hipertrofiado,"['hi', 'per', 'tro', 'fi', 'a', 'do']",4,paroxítona,False
+hipertrofiar,"['hi', 'per', 'tro', 'fi', 'ar']",4,oxítona,False
+hipertrófico,"['hi', 'per', 'tró', 'fi', 'co']",2,proparoxítona,False
+hiperurbanismo,"['hi', 'pe', 'rur', 'ba', 'nis', 'mo']",4,paroxítona,False
+hipervaidade,"['hi', 'per', 'vai', 'da', 'de']",3,paroxítona,False
+hipervaidoso,"['hi', 'per', 'vai', 'do', 'so']",3,paroxítona,False
+hiperventilação,"['hi', 'per', 'ven', 'ti', 'la', 'ção']",5,oxítona,False
+hiperventilado,"['hi', 'per', 'ven', 'ti', 'la', 'do']",4,paroxítona,False
+hiperventilar,"['hi', 'per', 'ven', 'ti', 'lar']",4,oxítona,False
+hipicamente,"['hi', 'pi', 'ca', 'men', 'te']",3,paroxítona,False
+hípico,"['hí', 'pi', 'co']",0,proparoxítona,True
+hipismo,"['hi', 'pis', 'mo']",1,paroxítona,False
+hipnose,"['hip', 'no', 'se']",1,paroxítona,False
+hipnótico,"['hip', 'nó', 'ti', 'co']",1,proparoxítona,False
+hipnotismo,"['hip', 'no', 'tis', 'mo']",2,paroxítona,False
+hipnotizador,"['hip', 'no', 'ti', 'za', 'dor']",4,oxítona,False
+hipnotizar,"['hip', 'no', 'ti', 'zar']",3,oxítona,False
+hipocampo,"['hi', 'po', 'cam', 'po']",2,paroxítona,False
+hipocausto,"['hi', 'po', 'caus', 'to']",2,paroxítona,False
+hipocentro,"['hi', 'po', 'cen', 'tro']",2,paroxítona,False
+hipoclorito,"['hi', 'po', 'clo', 'ri', 'to']",3,paroxítona,False
+hipocondria,"['hi', 'po', 'con', 'dri', 'a']",3,paroxítona,False
+hipocondríaco,"['hi', 'po', 'con', 'drí', 'a', 'co']",3,proparoxítona,False
+hipocrático,"['hi', 'po', 'crá', 'ti', 'co']",2,proparoxítona,False
+hipocrisia,"['hi', 'po', 'cri', 'si', 'a']",3,paroxítona,False
+hipócrita,"['hi', 'pó', 'cri', 'ta']",1,proparoxítona,False
+hipocritamente,"['hi', 'po', 'cri', 'ta', 'men', 'te']",4,paroxítona,False
+hipodérmico,"['hi', 'po', 'dér', 'mi', 'co']",2,proparoxítona,False
+hipódromo,"['hi', 'pó', 'dro', 'mo']",1,proparoxítona,False
+hipófise,"['hi', 'pó', 'fi', 'se']",1,proparoxítona,True
+hipoglicemia,"['hi', 'po', 'gli', 'ce', 'mi', 'a']",4,paroxítona,False
+hipopótamo,"['hi', 'po', 'pó', 'ta', 'mo']",2,proparoxítona,True
+hipóstase,"['hi', 'pós', 'ta', 'se']",1,proparoxítona,False
+hipostasiado,"['hi', 'pos', 'ta', 'si', 'a', 'do']",4,paroxítona,False
+hipostasiar,"['hi', 'pos', 'ta', 'si', 'ar']",4,oxítona,False
+hipostilo,"['hi', 'pos', 'ti', 'lo']",2,paroxítona,False
+hipotálamo,"['hi', 'po', 'tá', 'la', 'mo']",2,proparoxítona,True
+hipoteca,"['hi', 'po', 'te', 'ca']",2,paroxítona,True
+hipotecado,"['hi', 'po', 'te', 'ca', 'do']",3,paroxítona,True
+hipotecar,"['hi', 'po', 'te', 'car']",3,oxítona,False
+hipotecariamente,"['hi', 'po', 'te', 'ca', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+hipotecário,"['hi', 'po', 'te', 'cá', 'ri', 'o']",3,proparoxítona,False
+hipotensão,"['hi', 'po', 'ten', 'são']",3,oxítona,False
+hipotenusa,"['hi', 'po', 'te', 'nu', 'sa']",3,paroxítona,True
+hipotermia,"['hi', 'po', 'ter', 'mi', 'a']",3,paroxítona,False
+hipótese,"['hi', 'pó', 'te', 'se']",1,proparoxítona,True
+hipoteticamente,"['hi', 'po', 'te', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+hipotético,"['hi', 'po', 'té', 'ti', 'co']",2,proparoxítona,True
+hipotiroidismo,"['hi', 'po', 'ti', 'roi', 'dis', 'mo']",4,paroxítona,False
+hipotonia,"['hi', 'po', 'to', 'ni', 'a']",3,paroxítona,False
+hipoxia,"['hi', 'po', 'xi', 'a']",2,paroxítona,False
+hippie,"['hip', 'pie']",1,oxítona,False
+hippy,"['hip', 'py']",0,paroxítona,False
+hirsuto,"['hir', 'su', 'to']",1,paroxítona,False
+hirtamente,"['hir', 'ta', 'men', 'te']",2,paroxítona,False
+hirtar,"['hir', 'tar']",1,oxítona,False
+hirto,"['hir', 'to']",0,paroxítona,False
+hispana,"['his', 'pa', 'na']",1,paroxítona,False
+hispanicamente,"['his', 'pa', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+hispânico,"['his', 'pâ', 'ni', 'co']",1,proparoxítona,False
+hispanista,"['his', 'pa', 'nis', 'ta']",2,paroxítona,False
+hispano,"['his', 'pa', 'no']",1,paroxítona,False
+hispano-americana,"['his', 'pa', 'no-a', 'me', 'ri', 'ca', 'na']",5,paroxítona,False
+hispano-americano,"['his', 'pa', 'no-a', 'me', 'ri', 'ca', 'no']",5,paroxítona,False
+hispano-árabe,"['his', 'pa', 'no-', 'á', 'ra', 'be']",3,proparoxítona,False
+hispano-luso,"['his', 'pa', 'no-', 'lu', 'so']",3,paroxítona,False
+hissopar,"['his', 'so', 'par']",2,oxítona,False
+hissope,"['his', 'so', 'pe']",1,paroxítona,False
+histamina,"['his', 'ta', 'mi', 'na']",2,paroxítona,False
+histerectomia,"['his', 'te', 'rec', 'to', 'mi', 'a']",4,paroxítona,False
+histeria,"['his', 'te', 'ri', 'a']",2,paroxítona,False
+histericamente,"['his', 'te', 'ri', 'ca', 'men', 'te']",4,paroxítona,False
+histérico,"['his', 'té', 'ri', 'co']",1,proparoxítona,False
+histerismo,"['his', 'te', 'ris', 'mo']",2,paroxítona,False
+histocompatibilidade,"['his', 'to', 'com', 'pa', 'ti', 'bi', 'li', 'da', 'de']",7,paroxítona,False
+histograma,"['his', 'to', 'gra', 'ma']",2,paroxítona,False
+histologia,"['his', 'to', 'lo', 'gi', 'a']",3,paroxítona,False
+histológico,"['his', 'to', 'ló', 'gi', 'co']",2,proparoxítona,False
+histopatologia,"['his', 'to', 'pa', 'to', 'lo', 'gi', 'a']",5,paroxítona,False
+histopatológico,"['his', 'to', 'pa', 'to', 'ló', 'gi', 'co']",4,proparoxítona,False
+histoplasmose,"['his', 'to', 'plas', 'mo', 'se']",3,paroxítona,False
+história,"['his', 'tó', 'ri', 'a']",1,proparoxítona,False
+historiado,"['his', 'to', 'ri', 'a', 'do']",3,paroxítona,False
+historiador,"['his', 'to', 'ri', 'a', 'dor']",4,oxítona,False
+historial,"['his', 'to', 'ri', 'al']",3,oxítona,False
+historiar,"['his', 'to', 'ri', 'ar']",3,oxítona,False
+historicamente,"['his', 'to', 'ri', 'ca', 'men', 'te']",4,paroxítona,False
+historicidade,"['his', 'to', 'ri', 'ci', 'da', 'de']",4,paroxítona,False
+historicismo,"['his', 'to', 'ri', 'cis', 'mo']",3,paroxítona,False
+historicista,"['his', 'to', 'ri', 'cis', 'ta']",3,paroxítona,False
+histórico,"['his', 'tó', 'ri', 'co']",1,proparoxítona,False
+histórico-cultural,"['his', 'tó', 'ri', 'co-cul', 'tu', 'ral']",5,oxítona,False
+histórico-geográfico,"['his', 'tó', 'ri', 'co-ge', 'o', 'grá', 'fi', 'co']",5,proparoxítona,False
+historieta,"['his', 'to', 'ri', 'e', 'ta']",3,paroxítona,False
+historiografia,"['his', 'to', 'ri', 'o', 'gra', 'fi', 'a']",5,paroxítona,False
+historiográfico,"['his', 'to', 'ri', 'o', 'grá', 'fi', 'co']",4,proparoxítona,False
+historiógrafo,"['his', 'to', 'ri', 'ó', 'gra', 'fo']",3,proparoxítona,False
+histrionia,"['his', 'tri', 'o', 'ni', 'a']",3,paroxítona,False
+histrionicamente,"['his', 'tri', 'o', 'ni', 'ca', 'men', 'te']",5,paroxítona,False
+histriónico,"['his', 'tri', 'ó', 'ni', 'co']",2,proparoxítona,False
+histrionismo,"['his', 'tri', 'o', 'nis', 'mo']",3,paroxítona,False
+hitleriana,"['hi', 'tle', 'ri', 'a', 'na']",3,paroxítona,False
+hitleriano,"['hi', 'tle', 'ri', 'a', 'no']",3,paroxítona,False
+hobby,"['hob', 'by']",0,paroxítona,False
+hodiernamente,"['ho', 'di', 'er', 'na', 'men', 'te']",4,paroxítona,False
+hodierno,"['ho', 'di', 'er', 'no']",2,paroxítona,False
+hoje,"['ho', 'je']",0,paroxítona,True
+holanda,"['ho', 'lan', 'da']",1,paroxítona,False
+holandês,"['ho', 'lan', 'dês']",2,oxítona,False
+holandesa,"['ho', 'lan', 'de', 'sa']",2,paroxítona,False
+holding,"['hol', 'ding']",0,paroxítona,False
+holiganismo,"['ho', 'li', 'ga', 'nis', 'mo']",3,paroxítona,False
+holístico,"['ho', 'lís', 'ti', 'co']",1,proparoxítona,False
+hollywoodesco,"['hol', 'ly', 'woo', 'des', 'co']",3,paroxítona,False
+holocausto,"['ho', 'lo', 'caus', 'to']",2,paroxítona,False
+holofote,"['ho', 'lo', 'fo', 'te']",2,paroxítona,True
+holografia,"['ho', 'lo', 'gra', 'fi', 'a']",3,paroxítona,False
+holográfico,"['ho', 'lo', 'grá', 'fi', 'co']",2,proparoxítona,False
+holograma,"['ho', 'lo', 'gra', 'ma']",2,paroxítona,False
+hombo,"['hom', 'bo']",0,paroxítona,False
+hombridade,"['hom', 'bri', 'da', 'de']",2,paroxítona,False
+homem,"['ho', 'mem']",0,paroxítona,False
+homem-bom,"['ho', 'mem-', 'bom']",2,oxítona,False
+homem-máquina,"['ho', 'mem-', 'má', 'qui', 'na']",2,proparoxítona,False
+homem-rã,"['ho', 'mem-', 'rã']",2,oxítona,False
+homenageada,"['ho', 'me', 'na', 'ge', 'a', 'da']",4,paroxítona,False
+homenageado,"['ho', 'me', 'na', 'ge', 'a', 'do']",4,paroxítona,False
+homenageante,"['ho', 'me', 'na', 'ge', 'an', 'te']",4,paroxítona,False
+homenagear,"['ho', 'me', 'na', 'ge', 'ar']",4,oxítona,False
+homenagem,"['ho', 'me', 'na', 'gem']",2,paroxítona,False
+homenzarrão,"['ho', 'men', 'zar', 'rão']",3,oxítona,False
+homenzinho,"['ho', 'men', 'zi', 'nho']",2,paroxítona,False
+homeopata,"['ho', 'me', 'o', 'pa', 'ta']",3,paroxítona,False
+homeopatia,"['ho', 'me', 'o', 'pa', 'ti', 'a']",4,paroxítona,False
+homeopático,"['ho', 'me', 'o', 'pá', 'ti', 'co']",3,proparoxítona,False
+homeostático,"['ho', 'me', 'os', 'tá', 'ti', 'co']",3,proparoxítona,False
+homericamente,"['ho', 'me', 'ri', 'ca', 'men', 'te']",4,paroxítona,False
+homérico,"['ho', 'mé', 'ri', 'co']",1,proparoxítona,True
+homessa,"['ho', 'mes', 'sa']",1,paroxítona,False
+homicida,"['ho', 'mi', 'ci', 'da']",2,paroxítona,True
+homicídio,"['ho', 'mi', 'cí', 'di', 'o']",2,proparoxítona,False
+homília,"['ho', 'mí', 'li', 'a']",1,proparoxítona,False
+homilia,"['ho', 'mi', 'li', 'a']",2,paroxítona,False
+homiliar,"['ho', 'mi', 'li', 'ar']",3,oxítona,False
+hominídeo,"['ho', 'mi', 'ní', 'de', 'o']",2,proparoxítona,False
+hominização,"['ho', 'mi', 'ni', 'za', 'ção']",4,oxítona,False
+homiziado,"['ho', 'mi', 'zi', 'a', 'do']",3,paroxítona,False
+homiziar,"['ho', 'mi', 'zi', 'ar']",3,oxítona,False
+homo,"['ho', 'mo']",0,paroxítona,True
+homoerótico,"['ho', 'mo', 'e', 'ró', 'ti', 'co']",3,proparoxítona,False
+homofobia,"['ho', 'mo', 'fo', 'bi', 'a']",3,paroxítona,False
+homofóbico,"['ho', 'mo', 'fó', 'bi', 'co']",2,proparoxítona,True
+homófobo,"['ho', 'mó', 'fo', 'bo']",1,proparoxítona,True
+homofonia,"['ho', 'mo', 'fo', 'ni', 'a']",3,paroxítona,False
+homofonicamente,"['ho', 'mo', 'fo', 'ni', 'ca', 'men', 'te']",5,paroxítona,False
+homofónico,"['ho', 'mo', 'fó', 'ni', 'co']",2,proparoxítona,True
+homogeneidade,"['ho', 'mo', 'ge', 'nei', 'da', 'de']",4,paroxítona,False
+homogeneização,"['ho', 'mo', 'ge', 'nei', 'za', 'ção']",5,oxítona,False
+homogeneizado,"['ho', 'mo', 'ge', 'nei', 'za', 'do']",4,paroxítona,False
+homogeneizador,"['ho', 'mo', 'ge', 'nei', 'za', 'dor']",5,oxítona,False
+homogeneizante,"['ho', 'mo', 'ge', 'nei', 'zan', 'te']",4,paroxítona,False
+homogeneizar,"['ho', 'mo', 'ge', 'nei', 'zar']",4,oxítona,False
+homogéneo,"['ho', 'mo', 'gé', 'ne', 'o']",2,proparoxítona,False
+homógrafo,"['ho', 'mó', 'gra', 'fo']",1,proparoxítona,False
+homologação,"['ho', 'mo', 'lo', 'ga', 'ção']",4,oxítona,False
+homologado,"['ho', 'mo', 'lo', 'ga', 'do']",3,paroxítona,True
+homologar,"['ho', 'mo', 'lo', 'gar']",3,oxítona,False
+homologatório,"['ho', 'mo', 'lo', 'ga', 'tó', 'ri', 'o']",4,proparoxítona,False
+homologável,"['ho', 'mo', 'lo', 'gá', 'vel']",3,paroxítona,False
+homologia,"['ho', 'mo', 'lo', 'gi', 'a']",3,paroxítona,False
+homólogo,"['ho', 'mó', 'lo', 'go']",1,proparoxítona,True
+homonimamente,"['ho', 'mo', 'ni', 'ma', 'men', 'te']",4,paroxítona,False
+homónimo,"['ho', 'mó', 'ni', 'mo']",1,proparoxítona,True
+homossexual,"['ho', 'mos', 'se', 'xu', 'al']",4,oxítona,False
+homossexualidade,"['ho', 'mos', 'se', 'xu', 'a', 'li', 'da', 'de']",6,paroxítona,False
+homossexualismo,"['ho', 'mos', 'se', 'xu', 'a', 'lis', 'mo']",5,paroxítona,False
+homotetia,"['ho', 'mo', 'te', 'ti', 'a']",3,paroxítona,False
+homúnculo,"['ho', 'mún', 'cu', 'lo']",1,proparoxítona,False
+hondurenha,"['hon', 'du', 're', 'nha']",2,paroxítona,False
+hondurenho,"['hon', 'du', 're', 'nho']",2,paroxítona,False
+honesta,"['ho', 'nes', 'ta']",1,paroxítona,False
+honestamente,"['ho', 'nes', 'ta', 'men', 'te']",3,paroxítona,False
+honestar,"['ho', 'nes', 'tar']",2,oxítona,False
+honestidade,"['ho', 'nes', 'ti', 'da', 'de']",3,paroxítona,False
+honestíssimo,"['ho', 'nes', 'tís', 'si', 'mo']",2,proparoxítona,False
+honesto,"['ho', 'nes', 'to']",1,paroxítona,False
+honor,"['ho', 'nor']",1,oxítona,False
+honorabilidade,"['ho', 'no', 'ra', 'bi', 'li', 'da', 'de']",5,paroxítona,True
+honorariamente,"['ho', 'no', 'ra', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+honorário,"['ho', 'no', 'rá', 'ri', 'o']",2,proparoxítona,False
+honorável,"['ho', 'no', 'rá', 'vel']",2,paroxítona,False
+honorificamente,"['ho', 'no', 'ri', 'fi', 'ca', 'men', 'te']",5,paroxítona,False
+honorífico,"['ho', 'no', 'rí', 'fi', 'co']",2,proparoxítona,True
+honra,"['hon', 'ra']",0,paroxítona,False
+honradamente,"['hon', 'ra', 'da', 'men', 'te']",3,paroxítona,False
+honradez,"['hon', 'ra', 'dez']",2,oxítona,False
+honrado,"['hon', 'ra', 'do']",1,paroxítona,False
+honrar,"['hon', 'rar']",1,oxítona,False
+honraria,"['hon', 'ra', 'ri', 'a']",2,paroxítona,False
+honrosamente,"['hon', 'ro', 'sa', 'men', 'te']",3,paroxítona,False
+honroso,"['hon', 'ro', 'so']",1,paroxítona,False
+hooligan,"['hoo', 'li', 'gan']",0,proparoxítona,False
+hooliganismo,"['hoo', 'li', 'ga', 'nis', 'mo']",3,paroxítona,False
+hóquei,"['hó', 'quei']",0,paroxítona,False
+hoquista,"['ho', 'quis', 'ta']",1,paroxítona,False
+hora,"['ho', 'ra']",0,paroxítona,True
+horaciano,"['ho', 'ra', 'ci', 'a', 'no']",3,paroxítona,False
+horar,"['ho', 'rar']",1,oxítona,False
+horário,"['ho', 'rá', 'ri', 'o']",1,proparoxítona,False
+horda,"['hor', 'da']",0,paroxítona,False
+horizontal,"['ho', 'ri', 'zon', 'tal']",3,oxítona,False
+horizontalidade,"['ho', 'ri', 'zon', 'ta', 'li', 'da', 'de']",5,paroxítona,False
+horizontalmente,"['ho', 'ri', 'zon', 'tal', 'men', 'te']",4,paroxítona,False
+horizonte,"['ho', 'ri', 'zon', 'te']",2,paroxítona,False
+hormona,"['hor', 'mo', 'na']",1,paroxítona,False
+hormonal,"['hor', 'mo', 'nal']",2,oxítona,False
+hormonoterapia,"['hor', 'mo', 'no', 'te', 'ra', 'pi', 'a']",5,paroxítona,False
+horoscopar,"['ho', 'ros', 'co', 'par']",3,oxítona,False
+horóscopo,"['ho', 'rós', 'co', 'po']",1,proparoxítona,False
+horrendamente,"['hor', 'ren', 'da', 'men', 'te']",3,paroxítona,False
+horrendo,"['hor', 'ren', 'do']",1,paroxítona,False
+horripilante,"['hor', 'ri', 'pi', 'lan', 'te']",3,paroxítona,False
+horripilantemente,"['hor', 'ri', 'pi', 'lan', 'te', 'men', 'te']",5,paroxítona,False
+horrível,"['hor', 'rí', 'vel']",1,paroxítona,False
+horrivelmente,"['hor', 'ri', 'vel', 'men', 'te']",3,paroxítona,False
+horror,"['hor', 'ror']",1,oxítona,False
+horrorizado,"['hor', 'ro', 'ri', 'za', 'do']",3,paroxítona,False
+horrorizar,"['hor', 'ro', 'ri', 'zar']",3,oxítona,False
+horrorosamente,"['hor', 'ro', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+horroroso,"['hor', 'ro', 'ro', 'so']",2,paroxítona,False
+horseball,"['hor', 'se', 'ball']",2,oxítona,False
+horta,"['hor', 'ta']",0,paroxítona,False
+hortaliça,"['hor', 'ta', 'li', 'ça']",2,paroxítona,False
+hortar,"['hor', 'tar']",1,oxítona,False
+hortelã,"['hor', 'te', 'lã']",2,oxítona,False
+hortelã-pimenta,"['hor', 'te', 'lã', '-pi', 'men', 'ta']",4,paroxítona,False
+hortelão,"['hor', 'te', 'lão']",2,oxítona,False
+hortense,"['hor', 'ten', 'se']",1,paroxítona,False
+hortênsia,"['hor', 'tên', 'si', 'a']",1,proparoxítona,False
+hortícola,"['hor', 'tí', 'co', 'la']",1,proparoxítona,False
+horticultor,"['hor', 'ti', 'cul', 'tor']",3,oxítona,False
+horticultura,"['hor', 'ti', 'cul', 'tu', 'ra']",3,paroxítona,False
+horto,"['hor', 'to']",0,paroxítona,False
+hortofloricultura,"['hor', 'to', 'flo', 'ri', 'cul', 'tu', 'ra']",5,paroxítona,False
+hosana,"['ho', 'sa', 'na']",1,paroxítona,True
+hospedagem,"['hos', 'pe', 'da', 'gem']",2,paroxítona,False
+hospedar,"['hos', 'pe', 'dar']",2,oxítona,False
+hospedaria,"['hos', 'pe', 'da', 'ri', 'a']",3,paroxítona,False
+hóspede,"['hós', 'pe', 'de']",0,proparoxítona,False
+hospedeira,"['hos', 'pe', 'dei', 'ra']",2,paroxítona,False
+hospedeiro,"['hos', 'pe', 'dei', 'ro']",2,paroxítona,False
+hospício,"['hos', 'pí', 'ci', 'o']",1,proparoxítona,False
+hospital,"['hos', 'pi', 'tal']",2,oxítona,False
+hospitalar,"['hos', 'pi', 'ta', 'lar']",3,oxítona,False
+hospitalário,"['hos', 'pi', 'ta', 'lá', 'ri', 'o']",3,proparoxítona,False
+hospitaleira,"['hos', 'pi', 'ta', 'lei', 'ra']",3,paroxítona,False
+hospitaleiramente,"['hos', 'pi', 'ta', 'lei', 'ra', 'men', 'te']",5,paroxítona,False
+hospitaleiro,"['hos', 'pi', 'ta', 'lei', 'ro']",3,paroxítona,False
+hospitalidade,"['hos', 'pi', 'ta', 'li', 'da', 'de']",4,paroxítona,False
+hospitalização,"['hos', 'pi', 'ta', 'li', 'za', 'ção']",5,oxítona,False
+hospitalizado,"['hos', 'pi', 'ta', 'li', 'za', 'do']",4,paroxítona,False
+hospitalizar,"['hos', 'pi', 'ta', 'li', 'zar']",4,oxítona,False
+hossana,"['hos', 'sa', 'na']",1,paroxítona,False
+hoste,"['hos', 'te']",0,paroxítona,False
+hóstia,"['hós', 'ti', 'a']",0,proparoxítona,False
+hostiário,"['hos', 'ti', 'á', 'ri', 'o']",2,proparoxítona,False
+hostil,"['hos', 'til']",1,oxítona,False
+hostilidade,"['hos', 'ti', 'li', 'da', 'de']",3,paroxítona,False
+hostilização,"['hos', 'ti', 'li', 'za', 'ção']",4,oxítona,False
+hostilizar,"['hos', 'ti', 'li', 'zar']",3,oxítona,False
+hostilmente,"['hos', 'til', 'men', 'te']",2,paroxítona,False
+hotel,"['ho', 'tel']",1,oxítona,False
+hotelaria,"['ho', 'te', 'la', 'ri', 'a']",3,paroxítona,False
+hoteleiro,"['ho', 'te', 'lei', 'ro']",2,paroxítona,False
+hotentote,"['ho', 'ten', 'to', 'te']",2,paroxítona,False
+hou,['hou'],0,oxítona,False
+hovercraft,"['ho', 'ver', 'craft']",2,oxítona,False
+hoxa,"['ho', 'xa']",0,paroxítona,True
+huambo,"['hu', 'am', 'bo']",1,paroxítona,False
+huguenote,"['hu', 'gue', 'no', 'te']",2,paroxítona,False
+hui,['hui'],0,oxítona,False
+hulha,"['hu', 'lha']",0,paroxítona,False
+hum,['hum'],0,oxítona,False
+humanamente,"['hu', 'ma', 'na', 'men', 'te']",3,paroxítona,False
+humanar,"['hu', 'ma', 'nar']",2,oxítona,False
+humanidade,"['hu', 'ma', 'ni', 'da', 'de']",3,paroxítona,True
+humanismo,"['hu', 'ma', 'nis', 'mo']",2,paroxítona,False
+humanista,"['hu', 'ma', 'nis', 'ta']",2,paroxítona,False
+humanisticamente,"['hu', 'ma', 'nis', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+humanístico,"['hu', 'ma', 'nís', 'ti', 'co']",2,proparoxítona,False
+humanitária,"['hu', 'ma', 'ni', 'tá', 'ri', 'a']",3,proparoxítona,False
+humanitariamente,"['hu', 'ma', 'ni', 'ta', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+humanitário,"['hu', 'ma', 'ni', 'tá', 'ri', 'o']",3,proparoxítona,False
+humanitarismo,"['hu', 'ma', 'ni', 'ta', 'ris', 'mo']",4,paroxítona,False
+humanização,"['hu', 'ma', 'ni', 'za', 'ção']",4,oxítona,False
+humanizado,"['hu', 'ma', 'ni', 'za', 'do']",3,paroxítona,True
+humanizador,"['hu', 'ma', 'ni', 'za', 'dor']",4,oxítona,False
+humanizar,"['hu', 'ma', 'ni', 'zar']",3,oxítona,False
+humano,"['hu', 'ma', 'no']",1,paroxítona,True
+humanoide,"['hu', 'ma', 'noi', 'de']",2,paroxítona,False
+humedecer,"['hu', 'me', 'de', 'cer']",3,oxítona,False
+humedecido,"['hu', 'me', 'de', 'ci', 'do']",3,paroxítona,True
+humidade,"['hu', 'mi', 'da', 'de']",2,paroxítona,True
+humidamente,"['hu', 'mi', 'da', 'men', 'te']",3,paroxítona,False
+humidificação,"['hu', 'mi', 'di', 'fi', 'ca', 'ção']",5,oxítona,False
+humidificador,"['hu', 'mi', 'di', 'fi', 'ca', 'dor']",5,oxítona,False
+húmido,"['hú', 'mi', 'do']",0,proparoxítona,True
+humildade,"['hu', 'mil', 'da', 'de']",2,paroxítona,False
+humildar,"['hu', 'mil', 'dar']",2,oxítona,False
+humilde,"['hu', 'mil', 'de']",1,paroxítona,False
+humildemente,"['hu', 'mil', 'de', 'men', 'te']",3,paroxítona,False
+humilhação,"['hu', 'mi', 'lha', 'ção']",3,oxítona,False
+humilhado,"['hu', 'mi', 'lha', 'do']",2,paroxítona,False
+humilhante,"['hu', 'mi', 'lhan', 'te']",2,paroxítona,False
+humilhantemente,"['hu', 'mi', 'lhan', 'te', 'men', 'te']",4,paroxítona,False
+humilhar,"['hu', 'mi', 'lhar']",2,oxítona,False
+humílimo,"['hu', 'mí', 'li', 'mo']",1,proparoxítona,True
+humo,"['hu', 'mo']",0,paroxítona,True
+humor,"['hu', 'mor']",1,oxítona,False
+humorado,"['hu', 'mo', 'ra', 'do']",2,paroxítona,True
+humoral,"['hu', 'mo', 'ral']",2,oxítona,False
+humorismo,"['hu', 'mo', 'ris', 'mo']",2,paroxítona,False
+humorista,"['hu', 'mo', 'ris', 'ta']",2,paroxítona,False
+humoristicamente,"['hu', 'mo', 'ris', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+humorístico,"['hu', 'mo', 'rís', 'ti', 'co']",2,proparoxítona,False
+húmus,"['hú', 'mus']",0,paroxítona,False
+húngara,"['hún', 'ga', 'ra']",0,proparoxítona,False
+húngaro,"['hún', 'ga', 'ro']",0,proparoxítona,False
+hungo,"['hun', 'go']",0,paroxítona,False
+huno,"['hu', 'no']",0,paroxítona,True
+hurra,"['hur', 'ra']",0,paroxítona,False
+husa,"['hu', 'sa']",0,paroxítona,True
+hussardo,"['hus', 'sar', 'do']",1,paroxítona,False
+hussita,"['hus', 'si', 'ta']",1,paroxítona,False
+hype,"['hy', 'pe']",0,paroxítona,False

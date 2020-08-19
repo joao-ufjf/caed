@@ -1,0 +1,1678 @@
+word,syllables,tonic,class,canonic
+cá,['cá'],0,oxítona,True
+cã,['cã'],0,oxítona,True
+ca,['ca'],0,oxítona,True
+caba,"['ca', 'ba']",0,paroxítona,True
+cabaça,"['ca', 'ba', 'ça']",1,paroxítona,True
+cabaceira,"['ca', 'ba', 'cei', 'ra']",2,paroxítona,False
+cabaceiro,"['ca', 'ba', 'cei', 'ro']",2,paroxítona,False
+cabacinha,"['ca', 'ba', 'ci', 'nha']",2,paroxítona,False
+cabaço,"['ca', 'ba', 'ço']",1,paroxítona,True
+cabaia,"['ca', 'bai', 'a']",1,paroxítona,False
+cabal,"['ca', 'bal']",1,oxítona,False
+cabala,"['ca', 'ba', 'la']",1,paroxítona,True
+cabalar,"['ca', 'ba', 'lar']",2,oxítona,False
+cabalista,"['ca', 'ba', 'lis', 'ta']",2,paroxítona,False
+cabalisticamente,"['ca', 'ba', 'lis', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+cabalístico,"['ca', 'ba', 'lís', 'ti', 'co']",2,proparoxítona,False
+cabalmente,"['ca', 'bal', 'men', 'te']",2,paroxítona,False
+cabana,"['ca', 'ba', 'na']",1,paroxítona,True
+cabaneiro,"['ca', 'ba', 'nei', 'ro']",2,paroxítona,False
+cabano,"['ca', 'ba', 'no']",1,paroxítona,True
+cabaré,"['ca', 'ba', 'ré']",2,oxítona,True
+cabaz,"['ca', 'baz']",1,oxítona,False
+cabazada,"['ca', 'ba', 'za', 'da']",2,paroxítona,True
+cabe,"['ca', 'be']",0,paroxítona,True
+cabeça,"['ca', 'be', 'ça']",1,paroxítona,True
+cabeça de cartaz,"['ca', 'be', 'ça de car', 'taz']",3,oxítona,False
+cabeça de casal,"['ca', 'be', 'ça de ca', 'sal']",3,oxítona,False
+cabeça de lista,"['ca', 'be', 'ça de ', 'lis', 'ta']",3,paroxítona,False
+cabeça de série,"['ca', 'be', 'ça de ', 'sé', 'ri', 'e']",3,proparoxítona,False
+cabeçada,"['ca', 'be', 'ça', 'da']",2,paroxítona,True
+cabeçalho,"['ca', 'be', 'ça', 'lho']",2,paroxítona,False
+cabeção,"['ca', 'be', 'ção']",2,oxítona,False
+cabeceamento,"['ca', 'be', 'ce', 'a', 'men', 'to']",4,paroxítona,False
+cabecear,"['ca', 'be', 'ce', 'ar']",3,oxítona,False
+cabeceira,"['ca', 'be', 'cei', 'ra']",2,paroxítona,False
+cabeceirense,"['ca', 'be', 'cei', 'ren', 'se']",3,paroxítona,False
+cabecilha,"['ca', 'be', 'ci', 'lha']",2,paroxítona,False
+cabecinha,"['ca', 'be', 'ci', 'nha']",2,paroxítona,False
+cabeço,"['ca', 'be', 'ço']",1,paroxítona,True
+cabeçorra,"['ca', 'be', 'çor', 'ra']",2,paroxítona,False
+cabeçuda,"['ca', 'be', 'çu', 'da']",2,paroxítona,True
+cabeçudo,"['ca', 'be', 'çu', 'do']",2,paroxítona,True
+cabedal,"['ca', 'be', 'dal']",2,oxítona,False
+cabedelo,"['ca', 'be', 'de', 'lo']",2,paroxítona,True
+cabeleira,"['ca', 'be', 'lei', 'ra']",2,paroxítona,False
+cabeleireiro,"['ca', 'be', 'lei', 'rei', 'ro']",3,paroxítona,False
+cabeleiro,"['ca', 'be', 'lei', 'ro']",2,paroxítona,False
+cabelinho,"['ca', 'be', 'li', 'nho']",2,paroxítona,False
+cabelo,"['ca', 'be', 'lo']",1,paroxítona,True
+cabeluda,"['ca', 'be', 'lu', 'da']",2,paroxítona,True
+cabeludo,"['ca', 'be', 'lu', 'do']",2,paroxítona,True
+caber,"['ca', 'ber']",1,oxítona,False
+cabetula,"['ca', 'be', 'tu', 'la']",2,paroxítona,True
+cabide,"['ca', 'bi', 'de']",1,paroxítona,True
+cabidela,"['ca', 'bi', 'de', 'la']",2,paroxítona,True
+cabido,"['ca', 'bi', 'do']",1,paroxítona,True
+cabila,"['ca', 'bi', 'la']",1,paroxítona,True
+cabimento,"['ca', 'bi', 'men', 'to']",2,paroxítona,False
+cabina,"['ca', 'bi', 'na']",1,paroxítona,True
+cabinda,"['ca', 'bin', 'da']",1,paroxítona,False
+cabine,"['ca', 'bi', 'ne']",1,paroxítona,True
+cabisbaixo,"['ca', 'bis', 'bai', 'xo']",2,paroxítona,False
+cablagem,"['ca', 'bla', 'gem']",1,paroxítona,False
+cabo,"['ca', 'bo']",0,paroxítona,True
+cabo de guerra,"['ca', 'bo de ', 'guer', 'ra']",2,paroxítona,False
+cabo-verde,"['ca', 'bo-', 'ver', 'de']",2,paroxítona,False
+cabo-verdiana,"['ca', 'bo-ver', 'di', 'a', 'na']",3,paroxítona,False
+cabo-verdianidade,"['ca', 'bo-ver', 'di', 'a', 'ni', 'da', 'de']",5,paroxítona,False
+cabo-verdiano,"['ca', 'bo-ver', 'di', 'a', 'no']",3,paroxítona,False
+cabocla,"['ca', 'bo', 'cla']",1,paroxítona,False
+caboclo,"['ca', 'bo', 'clo']",1,paroxítona,False
+cabotagem,"['ca', 'bo', 'ta', 'gem']",2,paroxítona,False
+cabotar,"['ca', 'bo', 'tar']",2,oxítona,False
+cabotina,"['ca', 'bo', 'ti', 'na']",2,paroxítona,True
+cabotinagem,"['ca', 'bo', 'ti', 'na', 'gem']",3,paroxítona,False
+cabotinamente,"['ca', 'bo', 'ti', 'na', 'men', 'te']",4,paroxítona,False
+cabotinar,"['ca', 'bo', 'ti', 'nar']",3,oxítona,False
+cabotinismo,"['ca', 'bo', 'ti', 'nis', 'mo']",3,paroxítona,False
+cabotino,"['ca', 'bo', 'ti', 'no']",2,paroxítona,True
+caboucar,"['ca', 'bou', 'car']",2,oxítona,False
+cabouco,"['ca', 'bou', 'co']",1,paroxítona,False
+cabouqueiro,"['ca', 'bou', 'quei', 'ro']",2,paroxítona,False
+caboz,"['ca', 'boz']",1,oxítona,False
+cabra,"['ca', 'bra']",0,paroxítona,False
+cabra-cega,"['ca', 'bra-', 'ce', 'ga']",2,paroxítona,False
+cabralino,"['ca', 'bra', 'li', 'no']",2,paroxítona,False
+cabralismo,"['ca', 'bra', 'lis', 'mo']",2,paroxítona,False
+cabralista,"['ca', 'bra', 'lis', 'ta']",2,paroxítona,False
+cabrão,"['ca', 'brão']",1,oxítona,False
+cabreado,"['ca', 'bre', 'a', 'do']",2,paroxítona,False
+cabrear,"['ca', 'bre', 'ar']",2,oxítona,False
+cabreira,"['ca', 'brei', 'ra']",1,paroxítona,False
+cabreiro,"['ca', 'brei', 'ro']",1,paroxítona,False
+cabrestante,"['ca', 'bres', 'tan', 'te']",2,paroxítona,False
+cabresto,"['ca', 'bres', 'to']",1,paroxítona,False
+cabril,"['ca', 'bril']",1,oxítona,False
+cabrinha,"['ca', 'bri', 'nha']",1,paroxítona,False
+cabriola,"['ca', 'bri', 'o', 'la']",2,paroxítona,False
+cabriolar,"['ca', 'bri', 'o', 'lar']",3,oxítona,False
+cabriolé,"['ca', 'bri', 'o', 'lé']",3,oxítona,False
+cabrita,"['ca', 'bri', 'ta']",1,paroxítona,False
+cabritada,"['ca', 'bri', 'ta', 'da']",2,paroxítona,False
+cabritar,"['ca', 'bri', 'tar']",2,oxítona,False
+cabrito,"['ca', 'bri', 'to']",1,paroxítona,False
+cabrocha,"['ca', 'bro', 'cha']",1,paroxítona,False
+cabrum,"['ca', 'brum']",1,oxítona,False
+cabuchão,"['ca', 'bu', 'chão']",2,oxítona,False
+cábula,"['cá', 'bu', 'la']",0,proparoxítona,True
+cabular,"['ca', 'bu', 'lar']",2,oxítona,False
+cabulice,"['ca', 'bu', 'li', 'ce']",2,paroxítona,True
+caça,"['ca', 'ça']",0,paroxítona,True
+caca,"['ca', 'ca']",0,paroxítona,True
+caça-minas,"['ca', 'ça-', 'mi', 'nas']",2,paroxítona,False
+caçada,"['ca', 'ça', 'da']",1,paroxítona,True
+caçadeira,"['ca', 'ça', 'dei', 'ra']",2,paroxítona,False
+caçadeiro,"['ca', 'ça', 'dei', 'ro']",2,paroxítona,False
+caçado,"['ca', 'ça', 'do']",1,paroxítona,True
+caçador,"['ca', 'ça', 'dor']",2,oxítona,False
+caçadora,"['ca', 'ça', 'do', 'ra']",2,paroxítona,True
+cação,"['ca', 'ção']",1,oxítona,False
+caçar,"['ca', 'çar']",1,oxítona,False
+cacareco,"['ca', 'ca', 're', 'co']",2,paroxítona,True
+cacarejar,"['ca', 'ca', 're', 'jar']",3,oxítona,False
+cacarejo,"['ca', 'ca', 're', 'jo']",2,paroxítona,True
+caçarola,"['ca', 'ça', 'ro', 'la']",2,paroxítona,True
+cacau,"['ca', 'cau']",1,oxítona,False
+cacaueiro,"['ca', 'cau', 'ei', 'ro']",2,paroxítona,False
+caçava,"['ca', 'ça', 'va']",1,paroxítona,True
+cacetada,"['ca', 'ce', 'ta', 'da']",2,paroxítona,True
+cacete,"['ca', 'ce', 'te']",1,paroxítona,True
+caceteiro,"['ca', 'ce', 'tei', 'ro']",2,paroxítona,False
+cacha,"['ca', 'cha']",0,paroxítona,False
+cachaça,"['ca', 'cha', 'ça']",1,paroxítona,False
+cachaço,"['ca', 'cha', 'ço']",1,paroxítona,False
+cachada,"['ca', 'cha', 'da']",1,paroxítona,False
+cachalote,"['ca', 'cha', 'lo', 'te']",2,paroxítona,False
+cachão,"['ca', 'chão']",1,oxítona,False
+cachaporra,"['ca', 'cha', 'por', 'ra']",2,paroxítona,False
+cachaporrada,"['ca', 'cha', 'por', 'ra', 'da']",3,paroxítona,False
+cachapuz,"['ca', 'cha', 'puz']",2,oxítona,False
+cachar,"['ca', 'char']",1,oxítona,False
+cacharamba,"['ca', 'cha', 'ram', 'ba']",2,paroxítona,False
+cacharolete,"['ca', 'cha', 'ro', 'le', 'te']",3,paroxítona,False
+cache,"['ca', 'che']",0,paroxítona,False
+cachecol,"['ca', 'che', 'col']",2,oxítona,False
+cacheiro,"['ca', 'chei', 'ro']",1,paroxítona,False
+cachet,"['ca', 'chet']",1,oxítona,False
+cachia,"['ca', 'chi', 'a']",1,paroxítona,False
+cachimbada,"['ca', 'chim', 'ba', 'da']",2,paroxítona,False
+cachimbar,"['ca', 'chim', 'bar']",2,oxítona,False
+cachimbo,"['ca', 'chim', 'bo']",1,paroxítona,False
+cachir,"['ca', 'chir']",1,oxítona,False
+cacho,"['ca', 'cho']",0,paroxítona,False
+cachoeira,"['ca', 'cho', 'ei', 'ra']",2,paroxítona,False
+cachoeirar,"['ca', 'cho', 'ei', 'rar']",3,oxítona,False
+cachola,"['ca', 'cho', 'la']",1,paroxítona,False
+cacholeira,"['ca', 'cho', 'lei', 'ra']",2,paroxítona,False
+cachopa,"['ca', 'cho', 'pa']",1,paroxítona,False
+cachopo,"['ca', 'cho', 'po']",1,paroxítona,False
+cachorro,"['ca', 'chor', 'ro']",1,paroxítona,False
+cachucha,"['ca', 'chu', 'cha']",1,paroxítona,False
+cachucho,"['ca', 'chu', 'cho']",1,paroxítona,False
+cachudo,"['ca', 'chu', 'do']",1,paroxítona,False
+cachupa,"['ca', 'chu', 'pa']",1,paroxítona,False
+cacicar,"['ca', 'ci', 'car']",2,oxítona,False
+cacifo,"['ca', 'ci', 'fo']",1,paroxítona,True
+cacilda,"['ca', 'cil', 'da']",1,paroxítona,False
+cacilheiro,"['ca', 'ci', 'lhei', 'ro']",2,paroxítona,False
+cacimba,"['ca', 'cim', 'ba']",1,paroxítona,False
+cacimbado,"['ca', 'cim', 'ba', 'do']",2,paroxítona,False
+cacimbar,"['ca', 'cim', 'bar']",2,oxítona,False
+cacimbo,"['ca', 'cim', 'bo']",1,paroxítona,False
+cacique,"['ca', 'ci', 'que']",1,paroxítona,False
+caciquismo,"['ca', 'ci', 'quis', 'mo']",2,paroxítona,False
+caco,"['ca', 'co']",0,paroxítona,True
+caço,"['ca', 'ço']",0,paroxítona,True
+cacofonia,"['ca', 'co', 'fo', 'ni', 'a']",3,paroxítona,False
+cacofônico,"['ca', 'co', 'fô', 'ni', 'co']",2,proparoxítona,True
+cacofónico,"['ca', 'co', 'fó', 'ni', 'co']",2,proparoxítona,True
+caçoila,"['ca', 'çoi', 'la']",1,paroxítona,False
+caçoilo,"['ca', 'çoi', 'lo']",1,paroxítona,False
+cacre,"['ca', 'cre']",0,paroxítona,False
+caçula,"['ca', 'çu', 'la']",1,paroxítona,True
+cacusso,"['ca', 'cus', 'so']",1,paroxítona,False
+cada,"['ca', 'da']",0,paroxítona,True
+cadafalso,"['ca', 'da', 'fal', 'so']",2,paroxítona,False
+cadaste,"['ca', 'das', 'te']",1,paroxítona,False
+cadastrada,"['ca', 'das', 'tra', 'da']",2,paroxítona,False
+cadastrado,"['ca', 'das', 'tra', 'do']",2,paroxítona,False
+cadastral,"['ca', 'das', 'tral']",2,oxítona,False
+cadastrar,"['ca', 'das', 'trar']",2,oxítona,False
+cadastro,"['ca', 'das', 'tro']",1,paroxítona,False
+cadaval,"['ca', 'da', 'val']",2,oxítona,False
+cadáver,"['ca', 'dá', 'ver']",1,paroxítona,False
+cadavericamente,"['ca', 'da', 've', 'ri', 'ca', 'men', 'te']",5,paroxítona,False
+cadavérico,"['ca', 'da', 'vé', 'ri', 'co']",2,proparoxítona,True
+cadaveroso,"['ca', 'da', 've', 'ro', 'so']",3,paroxítona,True
+caddie,"['cad', 'die']",0,paroxítona,False
+caddy,"['cad', 'dy']",0,paroxítona,False
+cade,"['ca', 'de']",0,paroxítona,True
+cadê,"['ca', 'dê']",1,oxítona,True
+cadeado,"['ca', 'de', 'a', 'do']",2,paroxítona,False
+cadeia,"['ca', 'dei', 'a']",1,paroxítona,False
+cadeira,"['ca', 'dei', 'ra']",1,paroxítona,False
+cadeiral,"['ca', 'dei', 'ral']",2,oxítona,False
+cadeirão,"['ca', 'dei', 'rão']",2,oxítona,False
+cadeirinha,"['ca', 'dei', 'ri', 'nha']",2,paroxítona,False
+cadela,"['ca', 'de', 'la']",1,paroxítona,True
+cadelinha,"['ca', 'de', 'li', 'nha']",2,paroxítona,False
+cadelo,"['ca', 'de', 'lo']",1,paroxítona,True
+cadência,"['ca', 'dên', 'ci', 'a']",1,proparoxítona,False
+cadenciadamente,"['ca', 'den', 'ci', 'a', 'da', 'men', 'te']",5,paroxítona,False
+cadenciado,"['ca', 'den', 'ci', 'a', 'do']",3,paroxítona,False
+cadenciar,"['ca', 'den', 'ci', 'ar']",3,oxítona,False
+cadente,"['ca', 'den', 'te']",1,paroxítona,False
+cadernal,"['ca', 'der', 'nal']",2,oxítona,False
+caderneta,"['ca', 'der', 'ne', 'ta']",2,paroxítona,False
+caderno,"['ca', 'der', 'no']",1,paroxítona,False
+cadete,"['ca', 'de', 'te']",1,paroxítona,True
+cádi,"['cá', 'di']",0,paroxítona,True
+cadilho,"['ca', 'di', 'lho']",1,paroxítona,False
+cadime,"['ca', 'di', 'me']",1,paroxítona,True
+cadimo,"['ca', 'di', 'mo']",1,paroxítona,True
+cadinhar,"['ca', 'di', 'nhar']",2,oxítona,False
+cadinho,"['ca', 'di', 'nho']",1,paroxítona,False
+cádmio,"['cád', 'mi', 'o']",0,proparoxítona,False
+cado,"['ca', 'do']",0,paroxítona,True
+cadouço,"['ca', 'dou', 'ço']",1,paroxítona,False
+caduca,"['ca', 'du', 'ca']",1,paroxítona,True
+caducar,"['ca', 'du', 'car']",2,oxítona,False
+caducidade,"['ca', 'du', 'ci', 'da', 'de']",3,paroxítona,True
+caduco,"['ca', 'du', 'co']",1,paroxítona,True
+cafajeste,"['ca', 'fa', 'jes', 'te']",2,paroxítona,False
+cafarnaum,"['ca', 'far', 'na', 'um']",3,oxítona,False
+café,"['ca', 'fé']",1,oxítona,True
+café-concerto,"['ca', 'fé', '-con', 'cer', 'to']",3,paroxítona,False
+café-teatro,"['ca', 'fé', '-te', 'a', 'tro']",3,paroxítona,False
+cafeeiro,"['ca', 'fe', 'ei', 'ro']",2,paroxítona,False
+cafeína,"['ca', 'fe', 'í', 'na']",2,paroxítona,False
+cafetar,"['ca', 'fe', 'tar']",2,oxítona,False
+cafetaria,"['ca', 'fe', 'ta', 'ri', 'a']",3,paroxítona,False
+cafeteira,"['ca', 'fe', 'tei', 'ra']",2,paroxítona,False
+cafezal,"['ca', 'fe', 'zal']",2,oxítona,False
+cafezinho,"['ca', 'fe', 'zi', 'nho']",2,paroxítona,False
+cáfila,"['cá', 'fi', 'la']",0,proparoxítona,True
+cafona,"['ca', 'fo', 'na']",1,paroxítona,True
+cafre,"['ca', 'fre']",0,paroxítona,False
+cafreal,"['ca', 'fre', 'al']",2,oxítona,False
+cafrealmente,"['ca', 'fre', 'al', 'men', 'te']",3,paroxítona,False
+cafuné,"['ca', 'fu', 'né']",2,oxítona,True
+cagaçal,"['ca', 'ga', 'çal']",2,oxítona,False
+cagaço,"['ca', 'ga', 'ço']",1,paroxítona,True
+cagada,"['ca', 'ga', 'da']",1,paroxítona,True
+cagadela,"['ca', 'ga', 'de', 'la']",2,paroxítona,True
+cágado,"['cá', 'ga', 'do']",0,proparoxítona,True
+caganeira,"['ca', 'ga', 'nei', 'ra']",2,paroxítona,False
+caganita,"['ca', 'ga', 'ni', 'ta']",2,paroxítona,True
+cagar,"['ca', 'gar']",1,oxítona,False
+cagarola,"['ca', 'ga', 'ro', 'la']",2,paroxítona,True
+cagarro,"['ca', 'gar', 'ro']",1,paroxítona,False
+cagona,"['ca', 'go', 'na']",1,paroxítona,True
+caiação,"['cai', 'a', 'ção']",2,oxítona,False
+caiada,"['cai', 'a', 'da']",1,paroxítona,False
+caiador,"['cai', 'a', 'dor']",2,oxítona,False
+caiapó,"['cai', 'a', 'pó']",2,oxítona,False
+caiaque,"['cai', 'a', 'que']",1,paroxítona,False
+caiar,"['cai', 'ar']",1,oxítona,False
+cãibra,"['cãi', 'bra']",0,paroxítona,False
+caída,"['ca', 'í', 'da']",1,paroxítona,False
+caide,"['cai', 'de']",0,paroxítona,False
+caído,"['ca', 'í', 'do']",1,paroxítona,False
+caim,"['ca', 'im']",1,oxítona,False
+caimão,"['cai', 'mão']",1,oxítona,False
+cainçar,"['ca', 'in', 'çar']",2,oxítona,False
+cainço,"['ca', 'in', 'ço']",1,paroxítona,False
+caio,"['cai', 'o']",0,paroxítona,False
+caipira,"['cai', 'pi', 'ra']",1,paroxítona,False
+caipirinha,"['cai', 'pi', 'ri', 'nha']",2,paroxítona,False
+caíque,"['ca', 'í', 'que']",1,paroxítona,False
+cair,"['ca', 'ir']",1,oxítona,False
+cairelar,"['cai', 're', 'lar']",2,oxítona,False
+cairo,"['cai', 'ro']",0,paroxítona,False
+cais,['cais'],0,oxítona,False
+caixa,"['cai', 'xa']",0,paroxítona,False
+caixa-forte,"['cai', 'xa-', 'for', 'te']",2,paroxítona,False
+caixão,"['cai', 'xão']",1,oxítona,False
+caixaria,"['cai', 'xa', 'ri', 'a']",2,paroxítona,False
+caixeiro,"['cai', 'xei', 'ro']",1,paroxítona,False
+caixeiro-viajante,"['cai', 'xei', 'ro-vi', 'a', 'jan', 'te']",4,paroxítona,False
+caixilharia,"['cai', 'xi', 'lha', 'ri', 'a']",3,paroxítona,False
+caixilho,"['cai', 'xi', 'lho']",1,paroxítona,False
+caixinha,"['cai', 'xi', 'nha']",1,paroxítona,False
+caixotão,"['cai', 'xo', 'tão']",2,oxítona,False
+caixote,"['cai', 'xo', 'te']",1,paroxítona,False
+cajadada,"['ca', 'ja', 'da', 'da']",2,paroxítona,True
+cajado,"['ca', 'ja', 'do']",1,paroxítona,True
+caju,"['ca', 'ju']",1,oxítona,True
+cajueiro,"['ca', 'ju', 'ei', 'ro']",2,paroxítona,False
+cal,['cal'],0,oxítona,False
+cala,"['ca', 'la']",0,paroxítona,True
+calabouço,"['ca', 'la', 'bou', 'ço']",2,paroxítona,False
+calabrês,"['ca', 'la', 'brês']",2,oxítona,False
+calabresa,"['ca', 'la', 'bre', 'sa']",2,paroxítona,False
+calaça,"['ca', 'la', 'ça']",1,paroxítona,True
+calaceira,"['ca', 'la', 'cei', 'ra']",2,paroxítona,False
+calaceiramente,"['ca', 'la', 'cei', 'ra', 'men', 'te']",4,paroxítona,False
+calaceirar,"['ca', 'la', 'cei', 'rar']",3,oxítona,False
+calaceiro,"['ca', 'la', 'cei', 'ro']",2,paroxítona,False
+calada,"['ca', 'la', 'da']",1,paroxítona,True
+caladamente,"['ca', 'la', 'da', 'men', 'te']",3,paroxítona,False
+caladinho,"['ca', 'la', 'di', 'nho']",2,paroxítona,False
+calado,"['ca', 'la', 'do']",1,paroxítona,True
+calafate,"['ca', 'la', 'fa', 'te']",2,paroxítona,True
+calafetagem,"['ca', 'la', 'fe', 'ta', 'gem']",3,paroxítona,False
+calafetar,"['ca', 'la', 'fe', 'tar']",3,oxítona,False
+calafrio,"['ca', 'la', 'fri', 'o']",2,paroxítona,False
+calamar,"['ca', 'la', 'mar']",2,oxítona,False
+calamidade,"['ca', 'la', 'mi', 'da', 'de']",3,paroxítona,True
+calamitosamente,"['ca', 'la', 'mi', 'to', 'sa', 'men', 'te']",5,paroxítona,False
+calamitoso,"['ca', 'la', 'mi', 'to', 'so']",3,paroxítona,True
+cálamo,"['cá', 'la', 'mo']",0,proparoxítona,True
+calão,"['ca', 'lão']",1,oxítona,False
+calar,"['ca', 'lar']",1,oxítona,False
+calau,"['ca', 'lau']",1,oxítona,False
+calça,"['cal', 'ça']",0,paroxítona,False
+calçada,"['cal', 'ça', 'da']",1,paroxítona,False
+calcada,"['cal', 'ca', 'da']",1,paroxítona,False
+calçadeira,"['cal', 'ça', 'dei', 'ra']",2,paroxítona,False
+calçado,"['cal', 'ça', 'do']",1,paroxítona,False
+calcâneo,"['cal', 'câ', 'ne', 'o']",1,proparoxítona,False
+calcanhar,"['cal', 'ca', 'nhar']",2,oxítona,False
+calção,"['cal', 'ção']",1,oxítona,False
+calçar,"['cal', 'çar']",1,oxítona,False
+calcar,"['cal', 'car']",1,oxítona,False
+calcário,"['cal', 'cá', 'ri', 'o']",1,proparoxítona,False
+calças,"['cal', 'ças']",0,paroxítona,False
+calce,"['cal', 'ce']",0,paroxítona,False
+calcedônia,"['cal', 'ce', 'dô', 'ni', 'a']",2,proparoxítona,False
+calcedónia,"['cal', 'ce', 'dó', 'ni', 'a']",2,proparoxítona,False
+calcedónio,"['cal', 'ce', 'dó', 'ni', 'o']",2,proparoxítona,False
+calcedônio,"['cal', 'ce', 'dô', 'ni', 'o']",2,proparoxítona,False
+calcetamento,"['cal', 'ce', 'ta', 'men', 'to']",3,paroxítona,False
+calcetar,"['cal', 'ce', 'tar']",2,oxítona,False
+calceteiro,"['cal', 'ce', 'tei', 'ro']",2,paroxítona,False
+calcificação,"['cal', 'ci', 'fi', 'ca', 'ção']",4,oxítona,False
+calcificar,"['cal', 'ci', 'fi', 'car']",3,oxítona,False
+calcinação,"['cal', 'ci', 'na', 'ção']",3,oxítona,False
+calcinado,"['cal', 'ci', 'na', 'do']",2,paroxítona,False
+calcinar,"['cal', 'ci', 'nar']",2,oxítona,False
+calcinha,"['cal', 'ci', 'nha']",1,paroxítona,False
+calcinhas,"['cal', 'ci', 'nhas']",1,paroxítona,False
+cálcio,"['cál', 'ci', 'o']",0,proparoxítona,False
+calcite,"['cal', 'ci', 'te']",1,paroxítona,False
+calço,"['cal', 'ço']",0,paroxítona,False
+calções,"['cal', 'ções']",1,oxítona,False
+calcografia,"['cal', 'co', 'gra', 'fi', 'a']",3,paroxítona,False
+calcorreada,"['cal', 'cor', 're', 'a', 'da']",3,paroxítona,False
+calcorrear,"['cal', 'cor', 're', 'ar']",3,oxítona,False
+calculado,"['cal', 'cu', 'la', 'do']",2,paroxítona,False
+calculador,"['cal', 'cu', 'la', 'dor']",3,oxítona,False
+calculadora,"['cal', 'cu', 'la', 'do', 'ra']",3,paroxítona,False
+calcular,"['cal', 'cu', 'lar']",2,oxítona,False
+calculável,"['cal', 'cu', 'lá', 'vel']",2,paroxítona,False
+calculismo,"['cal', 'cu', 'lis', 'mo']",2,paroxítona,False
+calculista,"['cal', 'cu', 'lis', 'ta']",2,paroxítona,False
+cálculo,"['cál', 'cu', 'lo']",0,proparoxítona,False
+calculose,"['cal', 'cu', 'lo', 'se']",2,paroxítona,False
+calda,"['cal', 'da']",0,paroxítona,False
+caldar,"['cal', 'dar']",1,oxítona,False
+caldas,"['cal', 'das']",0,paroxítona,False
+caldeamento,"['cal', 'de', 'a', 'men', 'to']",3,paroxítona,False
+caldear,"['cal', 'de', 'ar']",2,oxítona,False
+caldeia,"['cal', 'dei', 'a']",1,paroxítona,False
+caldeira,"['cal', 'dei', 'ra']",1,paroxítona,False
+caldeirada,"['cal', 'dei', 'ra', 'da']",2,paroxítona,False
+caldeirão,"['cal', 'dei', 'rão']",2,oxítona,False
+caldeirar,"['cal', 'dei', 'rar']",2,oxítona,False
+caldeiraria,"['cal', 'dei', 'ra', 'ri', 'a']",3,paroxítona,False
+caldeireiro,"['cal', 'dei', 'rei', 'ro']",2,paroxítona,False
+caldeirinha,"['cal', 'dei', 'ri', 'nha']",2,paroxítona,False
+caldeiro,"['cal', 'dei', 'ro']",1,paroxítona,False
+caldense,"['cal', 'den', 'se']",1,paroxítona,False
+caldeu,"['cal', 'deu']",1,oxítona,False
+caldinho,"['cal', 'di', 'nho']",1,paroxítona,False
+caldo,"['cal', 'do']",0,paroxítona,False
+caldoso,"['cal', 'do', 'so']",1,paroxítona,False
+cale,"['ca', 'le']",0,paroxítona,True
+calear,"['ca', 'le', 'ar']",2,oxítona,False
+caleche,"['ca', 'le', 'che']",1,paroxítona,False
+caledónia,"['ca', 'le', 'dó', 'ni', 'a']",2,proparoxítona,False
+caledônio,"['ca', 'le', 'dô', 'ni', 'o']",2,proparoxítona,False
+caledónio,"['ca', 'le', 'dó', 'ni', 'o']",2,proparoxítona,False
+calei,"['ca', 'lei']",1,oxítona,False
+caleidoscópico,"['ca', 'lei', 'dos', 'có', 'pi', 'co']",3,proparoxítona,False
+caleidoscópio,"['ca', 'lei', 'dos', 'có', 'pi', 'o']",3,proparoxítona,False
+caleira,"['ca', 'lei', 'ra']",1,paroxítona,False
+caleiro,"['ca', 'lei', 'ro']",1,paroxítona,False
+calejado,"['ca', 'le', 'ja', 'do']",2,paroxítona,True
+calema,"['ca', 'le', 'ma']",1,paroxítona,True
+calendário,"['ca', 'len', 'dá', 'ri', 'o']",2,proparoxítona,False
+calendarização,"['ca', 'len', 'da', 'ri', 'za', 'ção']",5,oxítona,False
+calendarizar,"['ca', 'len', 'da', 'ri', 'zar']",4,oxítona,False
+calendas,"['ca', 'len', 'das']",1,paroxítona,False
+caleta,"['ca', 'le', 'ta']",1,paroxítona,True
+calha,"['ca', 'lha']",0,paroxítona,False
+calhado,"['ca', 'lha', 'do']",1,paroxítona,False
+calhamaço,"['ca', 'lha', 'ma', 'ço']",2,paroxítona,False
+calhambeque,"['ca', 'lham', 'be', 'que']",2,paroxítona,False
+calhandra,"['ca', 'lhan', 'dra']",1,paroxítona,False
+calhar,"['ca', 'lhar']",1,oxítona,False
+calhariz,"['ca', 'lha', 'riz']",2,oxítona,False
+calhau,"['ca', 'lhau']",1,oxítona,False
+calhe,"['ca', 'lhe']",0,paroxítona,False
+calheta,"['ca', 'lhe', 'ta']",1,paroxítona,False
+calibração,"['ca', 'li', 'bra', 'ção']",3,oxítona,False
+calibrado,"['ca', 'li', 'bra', 'do']",2,paroxítona,False
+calibragem,"['ca', 'li', 'bra', 'gem']",2,paroxítona,False
+calibrar,"['ca', 'li', 'brar']",2,oxítona,False
+calibre,"['ca', 'li', 'bre']",1,paroxítona,False
+caliça,"['ca', 'li', 'ça']",1,paroxítona,True
+cálice,"['cá', 'li', 'ce']",0,proparoxítona,True
+caliche,"['ca', 'li', 'che']",1,paroxítona,False
+caliço,"['ca', 'li', 'ço']",1,paroxítona,True
+calidez,"['ca', 'li', 'dez']",2,oxítona,False
+cálido,"['cá', 'li', 'do']",0,proparoxítona,True
+califa,"['ca', 'li', 'fa']",1,paroxítona,True
+califado,"['ca', 'li', 'fa', 'do']",2,paroxítona,True
+califórnia,"['ca', 'li', 'fór', 'ni', 'a']",2,proparoxítona,False
+californiana,"['ca', 'li', 'for', 'ni', 'a', 'na']",4,paroxítona,False
+californiano,"['ca', 'li', 'for', 'ni', 'a', 'no']",4,paroxítona,False
+caligrafia,"['ca', 'li', 'gra', 'fi', 'a']",3,paroxítona,False
+caligraficamente,"['ca', 'li', 'gra', 'fi', 'ca', 'men', 'te']",5,paroxítona,False
+caligráfico,"['ca', 'li', 'grá', 'fi', 'co']",2,proparoxítona,False
+calígrafo,"['ca', 'lí', 'gra', 'fo']",1,proparoxítona,False
+calígula,"['ca', 'lí', 'gu', 'la']",1,proparoxítona,True
+calinada,"['ca', 'li', 'na', 'da']",2,paroxítona,True
+calipolense,"['ca', 'li', 'po', 'len', 'se']",3,paroxítona,False
+calista,"['ca', 'lis', 'ta']",1,paroxítona,False
+calisto,"['ca', 'lis', 'to']",1,paroxítona,False
+cálix,"['cá', 'lix']",0,paroxítona,False
+calmã,"['cal', 'mã']",1,oxítona,False
+calma,"['cal', 'ma']",0,paroxítona,False
+calmamente,"['cal', 'ma', 'men', 'te']",2,paroxítona,False
+calmante,"['cal', 'man', 'te']",1,paroxítona,False
+calmar,"['cal', 'mar']",1,oxítona,False
+calmaria,"['cal', 'ma', 'ri', 'a']",2,paroxítona,False
+calmeirão,"['cal', 'mei', 'rão']",2,oxítona,False
+calmeiro,"['cal', 'mei', 'ro']",1,paroxítona,False
+calmo,"['cal', 'mo']",0,paroxítona,False
+calo,"['ca', 'lo']",0,paroxítona,True
+caló,"['ca', 'ló']",1,oxítona,True
+caloiro,"['ca', 'loi', 'ro']",1,paroxítona,False
+calor,"['ca', 'lor']",1,oxítona,False
+caloraça,"['ca', 'lo', 'ra', 'ça']",2,paroxítona,True
+caloria,"['ca', 'lo', 'ri', 'a']",2,paroxítona,False
+calórico,"['ca', 'ló', 'ri', 'co']",1,proparoxítona,True
+calorífero,"['ca', 'lo', 'rí', 'fe', 'ro']",2,proparoxítona,True
+calorífico,"['ca', 'lo', 'rí', 'fi', 'co']",2,proparoxítona,True
+calorosamente,"['ca', 'lo', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+caloroso,"['ca', 'lo', 'ro', 'so']",2,paroxítona,True
+calosidade,"['ca', 'lo', 'si', 'da', 'de']",3,paroxítona,True
+calota,"['ca', 'lo', 'ta']",1,paroxítona,True
+calote,"['ca', 'lo', 'te']",1,paroxítona,True
+caloteiro,"['ca', 'lo', 'tei', 'ro']",2,paroxítona,False
+calotipo,"['ca', 'lo', 'ti', 'po']",2,paroxítona,True
+calque,"['cal', 'que']",0,paroxítona,False
+caluanda,"['ca', 'lu', 'an', 'da']",2,paroxítona,False
+caluda,"['ca', 'lu', 'da']",1,paroxítona,True
+calulu,"['ca', 'lu', 'lu']",2,oxítona,True
+calúnia,"['ca', 'lú', 'ni', 'a']",1,proparoxítona,False
+caluniador,"['ca', 'lu', 'ni', 'a', 'dor']",4,oxítona,False
+caluniar,"['ca', 'lu', 'ni', 'ar']",3,oxítona,False
+caluniosamente,"['ca', 'lu', 'ni', 'o', 'sa', 'men', 'te']",5,paroxítona,False
+calunioso,"['ca', 'lu', 'ni', 'o', 'so']",3,paroxítona,False
+calutrão,"['ca', 'lu', 'trão']",2,oxítona,False
+calva,"['cal', 'va']",0,paroxítona,False
+calvar,"['cal', 'var']",1,oxítona,False
+calvário,"['cal', 'vá', 'ri', 'o']",1,proparoxítona,False
+calvície,"['cal', 'ví', 'ci', 'e']",1,proparoxítona,False
+calvinismo,"['cal', 'vi', 'nis', 'mo']",2,paroxítona,False
+calvinista,"['cal', 'vi', 'nis', 'ta']",2,paroxítona,False
+calvo,"['cal', 'vo']",0,paroxítona,False
+cama,"['ca', 'ma']",0,paroxítona,True
+camada,"['ca', 'ma', 'da']",1,paroxítona,True
+camafeu,"['ca', 'ma', 'feu']",2,oxítona,False
+camaleão,"['ca', 'ma', 'le', 'ão']",3,oxítona,False
+camaleónico,"['ca', 'ma', 'le', 'ó', 'ni', 'co']",3,proparoxítona,False
+camaleônico,"['ca', 'ma', 'le', 'ô', 'ni', 'co']",3,proparoxítona,False
+camanga,"['ca', 'man', 'ga']",1,paroxítona,False
+camão,"['ca', 'mão']",1,oxítona,False
+câmara,"['câ', 'ma', 'ra']",0,proparoxítona,True
+câmara-ardente,"['câ', 'ma', 'ra-ar', 'den', 'te']",3,paroxítona,False
+camarada,"['ca', 'ma', 'ra', 'da']",2,paroxítona,True
+camaradagem,"['ca', 'ma', 'ra', 'da', 'gem']",3,paroxítona,False
+camaradão,"['ca', 'ma', 'ra', 'dão']",3,oxítona,False
+camarão,"['ca', 'ma', 'rão']",2,oxítona,False
+camarário,"['ca', 'ma', 'rá', 'ri', 'o']",2,proparoxítona,False
+camarata,"['ca', 'ma', 'ra', 'ta']",2,paroxítona,True
+camarate,"['ca', 'ma', 'ra', 'te']",2,paroxítona,True
+camareira,"['ca', 'ma', 'rei', 'ra']",2,paroxítona,False
+camareiro,"['ca', 'ma', 'rei', 'ro']",2,paroxítona,False
+camarilha,"['ca', 'ma', 'ri', 'lha']",2,paroxítona,False
+camarim,"['ca', 'ma', 'rim']",2,oxítona,False
+camarinha,"['ca', 'ma', 'ri', 'nha']",2,paroxítona,False
+camarinhar,"['ca', 'ma', 'ri', 'nhar']",3,oxítona,False
+camaroeiro,"['ca', 'ma', 'ro', 'ei', 'ro']",3,paroxítona,False
+camaronês,"['ca', 'ma', 'ro', 'nês']",3,oxítona,False
+camarote,"['ca', 'ma', 'ro', 'te']",2,paroxítona,True
+camartelar,"['ca', 'mar', 'te', 'lar']",3,oxítona,False
+camartelo,"['ca', 'mar', 'te', 'lo']",2,paroxítona,False
+camba,"['cam', 'ba']",0,paroxítona,False
+cambada,"['cam', 'ba', 'da']",1,paroxítona,False
+cambadela,"['cam', 'ba', 'de', 'la']",2,paroxítona,False
+cambado,"['cam', 'ba', 'do']",1,paroxítona,False
+cambaia,"['cam', 'bai', 'a']",1,paroxítona,False
+cambaio,"['cam', 'bai', 'o']",1,paroxítona,False
+cambal,"['cam', 'bal']",1,oxítona,False
+cambalachar,"['cam', 'ba', 'la', 'char']",3,oxítona,False
+cambalacho,"['cam', 'ba', 'la', 'cho']",2,paroxítona,False
+cambaleante,"['cam', 'ba', 'le', 'an', 'te']",3,paroxítona,False
+cambalear,"['cam', 'ba', 'le', 'ar']",3,oxítona,False
+cambalhota,"['cam', 'ba', 'lho', 'ta']",2,paroxítona,False
+cambalhotar,"['cam', 'ba', 'lho', 'tar']",3,oxítona,False
+cambão,"['cam', 'bão']",1,oxítona,False
+cambar,"['cam', 'bar']",1,oxítona,False
+cambial,"['cam', 'bi', 'al']",2,oxítona,False
+cambiante,"['cam', 'bi', 'an', 'te']",2,paroxítona,False
+cambiar,"['cam', 'bi', 'ar']",2,oxítona,False
+câmbio,"['câm', 'bi', 'o']",0,proparoxítona,False
+cambismo,"['cam', 'bis', 'mo']",1,paroxítona,False
+cambista,"['cam', 'bis', 'ta']",1,paroxítona,False
+cambo,"['cam', 'bo']",0,paroxítona,False
+cambojana,"['cam', 'bo', 'ja', 'na']",2,paroxítona,False
+cambojano,"['cam', 'bo', 'ja', 'no']",2,paroxítona,False
+cambra,"['cam', 'bra']",0,paroxítona,False
+cambraia,"['cam', 'brai', 'a']",1,paroxítona,False
+cambrar,"['cam', 'brar']",1,oxítona,False
+câmbrico,"['câm', 'bri', 'co']",0,proparoxítona,False
+cambuta,"['cam', 'bu', 'ta']",1,paroxítona,False
+came,"['ca', 'me']",0,paroxítona,True
+cameleira,"['ca', 'me', 'lei', 'ra']",2,paroxítona,False
+cameleiro,"['ca', 'me', 'lei', 'ro']",2,paroxítona,False
+camélia,"['ca', 'mé', 'li', 'a']",1,proparoxítona,False
+camelídeo,"['ca', 'me', 'lí', 'de', 'o']",2,proparoxítona,False
+camelo,"['ca', 'me', 'lo']",1,paroxítona,True
+camembert,"['ca', 'mem', 'bert']",2,oxítona,False
+camerlengo,"['ca', 'mer', 'len', 'go']",2,paroxítona,False
+camião,"['ca', 'mi', 'ão']",2,oxítona,False
+camião-cisterna,"['ca', 'mi', 'ão', '-cis', 'ter', 'na']",4,paroxítona,False
+camião-reboque,"['ca', 'mi', 'ão', '-re', 'bo', 'que']",4,paroxítona,False
+camila,"['ca', 'mi', 'la']",1,paroxítona,True
+camilha,"['ca', 'mi', 'lha']",1,paroxítona,False
+camiliana,"['ca', 'mi', 'li', 'a', 'na']",3,paroxítona,False
+camilianista,"['ca', 'mi', 'li', 'a', 'nis', 'ta']",4,paroxítona,False
+camiliano,"['ca', 'mi', 'li', 'a', 'no']",3,paroxítona,False
+caminhada,"['ca', 'mi', 'nha', 'da']",2,paroxítona,False
+caminhante,"['ca', 'mi', 'nhan', 'te']",2,paroxítona,False
+caminhão,"['ca', 'mi', 'nhão']",2,oxítona,False
+caminhar,"['ca', 'mi', 'nhar']",2,oxítona,False
+caminheiro,"['ca', 'mi', 'nhei', 'ro']",2,paroxítona,False
+caminhense,"['ca', 'mi', 'nhen', 'se']",2,paroxítona,False
+caminho,"['ca', 'mi', 'nho']",1,paroxítona,False
+caminho de ferro,"['ca', 'mi', 'nho de ', 'fer', 'ro']",3,paroxítona,False
+caminhoneiro,"['ca', 'mi', 'nho', 'nei', 'ro']",3,paroxítona,False
+caminhonete,"['ca', 'mi', 'nho', 'ne', 'te']",3,paroxítona,False
+camionagem,"['ca', 'mi', 'o', 'na', 'gem']",3,paroxítona,False
+camioneta,"['ca', 'mi', 'o', 'ne', 'ta']",3,paroxítona,False
+camionete,"['ca', 'mi', 'o', 'ne', 'te']",3,paroxítona,False
+camionista,"['ca', 'mi', 'o', 'nis', 'ta']",3,paroxítona,False
+camisa,"['ca', 'mi', 'sa']",1,paroxítona,True
+camisa de forças,"['ca', 'mi', 'sa de ', 'for', 'ças']",3,paroxítona,False
+camisa de Vénus,"['ca', 'mi', 'sa de ', 'Vé', 'nus']",3,paroxítona,False
+camisão,"['ca', 'mi', 'são']",2,oxítona,False
+camisaria,"['ca', 'mi', 'sa', 'ri', 'a']",3,paroxítona,False
+camiseiro,"['ca', 'mi', 'sei', 'ro']",2,paroxítona,False
+camiseta,"['ca', 'mi', 'se', 'ta']",2,paroxítona,True
+camisinha,"['ca', 'mi', 'si', 'nha']",2,paroxítona,False
+camisola,"['ca', 'mi', 'so', 'la']",2,paroxítona,True
+camomila,"['ca', 'mo', 'mi', 'la']",2,paroxítona,True
+camone,"['ca', 'mo', 'ne']",1,paroxítona,True
+camoniana,"['ca', 'mo', 'ni', 'a', 'na']",3,paroxítona,False
+camoniano,"['ca', 'mo', 'ni', 'a', 'no']",3,paroxítona,False
+camp,['camp'],0,oxítona,False
+campa,"['cam', 'pa']",0,paroxítona,False
+campada,"['cam', 'pa', 'da']",1,paroxítona,False
+campainha,"['cam', 'pa', 'i', 'nha']",2,paroxítona,False
+campal,"['cam', 'pal']",1,oxítona,False
+campana,"['cam', 'pa', 'na']",1,paroxítona,False
+campanário,"['cam', 'pa', 'ná', 'ri', 'o']",2,proparoxítona,False
+campanha,"['cam', 'pa', 'nha']",1,paroxítona,False
+campaniço,"['cam', 'pa', 'ni', 'ço']",2,paroxítona,False
+campaniforme,"['cam', 'pa', 'ni', 'for', 'me']",3,paroxítona,False
+campânula,"['cam', 'pâ', 'nu', 'la']",1,proparoxítona,False
+campão,"['cam', 'pão']",1,oxítona,False
+campar,"['cam', 'par']",1,oxítona,False
+campeã,"['cam', 'pe', 'ã']",2,oxítona,False
+campeador,"['cam', 'pe', 'a', 'dor']",3,oxítona,False
+campeão,"['cam', 'pe', 'ão']",2,oxítona,False
+campear,"['cam', 'pe', 'ar']",2,oxítona,False
+campeche,"['cam', 'pe', 'che']",1,paroxítona,False
+campeiro,"['cam', 'pei', 'ro']",1,paroxítona,False
+campeonato,"['cam', 'pe', 'o', 'na', 'to']",3,paroxítona,False
+campesina,"['cam', 'pe', 'si', 'na']",2,paroxítona,False
+campesinato,"['cam', 'pe', 'si', 'na', 'to']",3,paroxítona,False
+campesino,"['cam', 'pe', 'si', 'no']",2,paroxítona,False
+campestre,"['cam', 'pes', 'tre']",1,paroxítona,False
+campina,"['cam', 'pi', 'na']",1,paroxítona,False
+campino,"['cam', 'pi', 'no']",1,paroxítona,False
+campir,"['cam', 'pir']",1,oxítona,False
+campismo,"['cam', 'pis', 'mo']",1,paroxítona,False
+campista,"['cam', 'pis', 'ta']",1,paroxítona,False
+campo,"['cam', 'po']",0,paroxítona,False
+campo-maiorense,"['cam', 'po-mai', 'o', 'ren', 'se']",3,paroxítona,False
+campo-santo,"['cam', 'po-', 'san', 'to']",2,paroxítona,False
+camponês,"['cam', 'po', 'nês']",2,oxítona,False
+camponesa,"['cam', 'po', 'ne', 'sa']",2,paroxítona,False
+campónia,"['cam', 'pó', 'ni', 'a']",1,proparoxítona,False
+campônio,"['cam', 'pô', 'ni', 'o']",1,proparoxítona,False
+campónio,"['cam', 'pó', 'ni', 'o']",1,proparoxítona,False
+camposo,"['cam', 'po', 'so']",1,paroxítona,False
+campus,"['cam', 'pus']",1,oxítona,False
+camuflado,"['ca', 'mu', 'fla', 'do']",2,paroxítona,False
+camuflagem,"['ca', 'mu', 'fla', 'gem']",2,paroxítona,False
+camuflar,"['ca', 'mu', 'flar']",2,oxítona,False
+camurça,"['ca', 'mur', 'ça']",1,paroxítona,False
+camurçar,"['ca', 'mur', 'çar']",2,oxítona,False
+camurcina,"['ca', 'mur', 'ci', 'na']",2,paroxítona,False
+cana,"['ca', 'na']",0,paroxítona,True
+cana-de-açúcar,"['ca', 'na-de-a', 'çú', 'car']",2,paroxítona,False
+canábis,"['ca', 'ná', 'bis']",1,paroxítona,False
+canada,"['ca', 'na', 'da']",1,paroxítona,True
+canadense,"['ca', 'na', 'den', 'se']",2,paroxítona,False
+canadiana,"['ca', 'na', 'di', 'a', 'na']",3,paroxítona,False
+canadiano,"['ca', 'na', 'di', 'a', 'no']",3,paroxítona,False
+canal,"['ca', 'nal']",1,oxítona,False
+canalha,"['ca', 'na', 'lha']",1,paroxítona,False
+canalhada,"['ca', 'na', 'lha', 'da']",2,paroxítona,False
+canalhice,"['ca', 'na', 'lhi', 'ce']",2,paroxítona,False
+canalização,"['ca', 'na', 'li', 'za', 'ção']",4,oxítona,False
+canalizador,"['ca', 'na', 'li', 'za', 'dor']",4,oxítona,False
+canalizar,"['ca', 'na', 'li', 'zar']",3,oxítona,False
+canana,"['ca', 'na', 'na']",1,paroxítona,True
+cananeia,"['ca', 'na', 'nei', 'a']",2,paroxítona,False
+cananeu,"['ca', 'na', 'neu']",2,oxítona,False
+canapé,"['ca', 'na', 'pé']",2,oxítona,True
+canária,"['ca', 'ná', 'ri', 'a']",1,proparoxítona,False
+canaria,"['ca', 'na', 'ri', 'a']",2,paroxítona,False
+canarinha,"['ca', 'na', 'ri', 'nha']",2,paroxítona,False
+canarinho,"['ca', 'na', 'ri', 'nho']",2,paroxítona,False
+canário,"['ca', 'ná', 'ri', 'o']",1,proparoxítona,False
+canasta,"['ca', 'nas', 'ta']",1,paroxítona,False
+canastra,"['ca', 'nas', 'tra']",1,paroxítona,False
+canastrão,"['ca', 'nas', 'trão']",2,oxítona,False
+canastreiro,"['ca', 'nas', 'trei', 'ro']",2,paroxítona,False
+canastro,"['ca', 'nas', 'tro']",1,paroxítona,False
+canastrona,"['ca', 'nas', 'tro', 'na']",2,paroxítona,False
+canavês,"['ca', 'na', 'vês']",2,oxítona,False
+canavial,"['ca', 'na', 'vi', 'al']",3,oxítona,False
+canção,"['can', 'ção']",1,oxítona,False
+cancela,"['can', 'ce', 'la']",1,paroxítona,False
+cancelada,"['can', 'ce', 'la', 'da']",2,paroxítona,False
+cancelado,"['can', 'ce', 'la', 'do']",2,paroxítona,False
+cancelamento,"['can', 'ce', 'la', 'men', 'to']",3,paroxítona,False
+cancelar,"['can', 'ce', 'lar']",2,oxítona,False
+cancelário,"['can', 'ce', 'lá', 'ri', 'o']",2,proparoxítona,False
+cancelo,"['can', 'ce', 'lo']",1,paroxítona,False
+câncer,"['cân', 'cer']",0,paroxítona,False
+cancerígeno,"['can', 'ce', 'rí', 'ge', 'no']",2,proparoxítona,False
+cancerização,"['can', 'ce', 'ri', 'za', 'ção']",4,oxítona,False
+cancerologia,"['can', 'ce', 'ro', 'lo', 'gi', 'a']",4,paroxítona,False
+cancerosa,"['can', 'ce', 'ro', 'sa']",2,paroxítona,False
+canceroso,"['can', 'ce', 'ro', 'so']",2,paroxítona,False
+cancioneiro,"['can', 'ci', 'o', 'nei', 'ro']",3,paroxítona,False
+canço,"['can', 'ço']",0,paroxítona,False
+cançoneta,"['can', 'ço', 'ne', 'ta']",2,paroxítona,False
+cançonetista,"['can', 'ço', 'ne', 'tis', 'ta']",3,paroxítona,False
+cancro,"['can', 'cro']",0,paroxítona,False
+candeal,"['can', 'de', 'al']",2,oxítona,False
+candear,"['can', 'de', 'ar']",2,oxítona,False
+candeeiro,"['can', 'de', 'ei', 'ro']",2,paroxítona,False
+candeia,"['can', 'dei', 'a']",1,paroxítona,False
+candeio,"['can', 'dei', 'o']",1,paroxítona,False
+candela,"['can', 'de', 'la']",1,paroxítona,False
+candelabro,"['can', 'de', 'la', 'bro']",2,paroxítona,False
+candelária,"['can', 'de', 'lá', 'ri', 'a']",2,proparoxítona,False
+candengue,"['can', 'den', 'gue']",1,paroxítona,False
+candente,"['can', 'den', 'te']",1,paroxítona,False
+cândida,"['cân', 'di', 'da']",0,proparoxítona,False
+candidamente,"['can', 'di', 'da', 'men', 'te']",3,paroxítona,False
+candidata,"['can', 'di', 'da', 'ta']",2,paroxítona,False
+candidatar,"['can', 'di', 'da', 'tar']",3,oxítona,False
+candidato,"['can', 'di', 'da', 'to']",2,paroxítona,False
+candidatura,"['can', 'di', 'da', 'tu', 'ra']",3,paroxítona,False
+candidíase,"['can', 'di', 'dí', 'a', 'se']",2,proparoxítona,False
+cândido,"['cân', 'di', 'do']",0,proparoxítona,False
+candidose,"['can', 'di', 'do', 'se']",2,paroxítona,False
+candil,"['can', 'dil']",1,oxítona,False
+cando,"['can', 'do']",0,paroxítona,False
+candomblé,"['can', 'dom', 'blé']",2,oxítona,False
+candonga,"['can', 'don', 'ga']",1,paroxítona,False
+candongar,"['can', 'don', 'gar']",2,oxítona,False
+candongueiro,"['can', 'don', 'guei', 'ro']",2,paroxítona,False
+candura,"['can', 'du', 'ra']",1,paroxítona,False
+caneca,"['ca', 'ne', 'ca']",1,paroxítona,True
+caneco,"['ca', 'ne', 'co']",1,paroxítona,True
+caneira,"['ca', 'nei', 'ra']",1,paroxítona,False
+caneiro,"['ca', 'nei', 'ro']",1,paroxítona,False
+caneja,"['ca', 'ne', 'ja']",1,paroxítona,True
+canejo,"['ca', 'ne', 'jo']",1,paroxítona,True
+canela,"['ca', 'ne', 'la']",1,paroxítona,True
+canelada,"['ca', 'ne', 'la', 'da']",2,paroxítona,True
+canelado,"['ca', 'ne', 'la', 'do']",2,paroxítona,True
+canelar,"['ca', 'ne', 'lar']",2,oxítona,False
+caneleira,"['ca', 'ne', 'lei', 'ra']",2,paroxítona,False
+caneleiro,"['ca', 'ne', 'lei', 'ro']",2,paroxítona,False
+canelha,"['ca', 'ne', 'lha']",1,paroxítona,False
+canelo,"['ca', 'ne', 'lo']",1,paroxítona,True
+canelura,"['ca', 'ne', 'lu', 'ra']",2,paroxítona,True
+caneta,"['ca', 'ne', 'ta']",1,paroxítona,True
+cânfora,"['cân', 'fo', 'ra']",0,proparoxítona,False
+canga,"['can', 'ga']",0,paroxítona,False
+cangaceiro,"['can', 'ga', 'cei', 'ro']",2,paroxítona,False
+cangaço,"['can', 'ga', 'ço']",1,paroxítona,False
+cangalha,"['can', 'ga', 'lha']",1,paroxítona,False
+cangalhada,"['can', 'ga', 'lha', 'da']",2,paroxítona,False
+cangalhas,"['can', 'ga', 'lhas']",1,paroxítona,False
+cangalheiro,"['can', 'ga', 'lhei', 'ro']",2,paroxítona,False
+cangalho,"['can', 'ga', 'lho']",1,paroxítona,False
+cangar,"['can', 'gar']",1,oxítona,False
+cango,"['can', 'go']",0,paroxítona,False
+cangosta,"['can', 'gos', 'ta']",1,paroxítona,False
+canguru,"['can', 'gu', 'ru']",2,oxítona,False
+cânhamo,"['câ', 'nha', 'mo']",0,proparoxítona,False
+canhangulo,"['ca', 'nhan', 'gu', 'lo']",2,paroxítona,False
+canhão,"['ca', 'nhão']",1,oxítona,False
+canhar,"['ca', 'nhar']",1,oxítona,False
+canhenho,"['ca', 'nhe', 'nho']",1,paroxítona,False
+canhestramente,"['ca', 'nhes', 'tra', 'men', 'te']",3,paroxítona,False
+canhestro,"['ca', 'nhes', 'tro']",1,paroxítona,False
+canho,"['ca', 'nho']",0,paroxítona,False
+canhoeira,"['ca', 'nho', 'ei', 'ra']",2,paroxítona,False
+canhoeiro,"['ca', 'nho', 'ei', 'ro']",2,paroxítona,False
+canhoneira,"['ca', 'nho', 'nei', 'ra']",2,paroxítona,False
+canhoneiro,"['ca', 'nho', 'nei', 'ro']",2,paroxítona,False
+canhota,"['ca', 'nho', 'ta']",1,paroxítona,False
+canhoto,"['ca', 'nho', 'to']",1,paroxítona,False
+canibal,"['ca', 'ni', 'bal']",2,oxítona,False
+canibalesco,"['ca', 'ni', 'ba', 'les', 'co']",3,paroxítona,False
+canibalismo,"['ca', 'ni', 'ba', 'lis', 'mo']",3,paroxítona,False
+canibalizar,"['ca', 'ni', 'ba', 'li', 'zar']",4,oxítona,False
+caniçada,"['ca', 'ni', 'ça', 'da']",2,paroxítona,True
+caniçal,"['ca', 'ni', 'çal']",2,oxítona,False
+caniche,"['ca', 'ni', 'che']",1,paroxítona,False
+caniço,"['ca', 'ni', 'ço']",1,paroxítona,True
+canícula,"['ca', 'ní', 'cu', 'la']",1,proparoxítona,True
+canicultura,"['ca', 'ni', 'cul', 'tu', 'ra']",3,paroxítona,False
+canídeo,"['ca', 'ní', 'de', 'o']",1,proparoxítona,False
+canídromo,"['ca', 'ní', 'dro', 'mo']",1,proparoxítona,False
+canil,"['ca', 'nil']",1,oxítona,False
+caninamente,"['ca', 'ni', 'na', 'men', 'te']",3,paroxítona,False
+caninha,"['ca', 'ni', 'nha']",1,paroxítona,False
+canino,"['ca', 'ni', 'no']",1,paroxítona,True
+canito,"['ca', 'ni', 'to']",1,paroxítona,True
+canivete,"['ca', 'ni', 've', 'te']",2,paroxítona,True
+canja,"['can', 'ja']",0,paroxítona,False
+canjala,"['can', 'ja', 'la']",1,paroxítona,False
+canjirão,"['can', 'ji', 'rão']",2,oxítona,False
+cano,"['ca', 'no']",0,paroxítona,True
+canoa,"['ca', 'no', 'a']",1,paroxítona,False
+canoagem,"['ca', 'no', 'a', 'gem']",2,paroxítona,False
+canoco,"['ca', 'no', 'co']",1,paroxítona,True
+canoeiro,"['ca', 'no', 'ei', 'ro']",2,paroxítona,False
+canoilo,"['ca', 'noi', 'lo']",1,paroxítona,False
+canoísta,"['ca', 'no', 'ís', 'ta']",2,paroxítona,False
+cânon,"['câ', 'non']",0,paroxítona,False
+cânone,"['câ', 'no', 'ne']",0,proparoxítona,True
+canonicamente,"['ca', 'no', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+canónico,"['ca', 'nó', 'ni', 'co']",1,proparoxítona,True
+canônico,"['ca', 'nô', 'ni', 'co']",1,proparoxítona,True
+canonista,"['ca', 'no', 'nis', 'ta']",2,paroxítona,False
+canonização,"['ca', 'no', 'ni', 'za', 'ção']",4,oxítona,False
+canonizar,"['ca', 'no', 'ni', 'zar']",3,oxítona,False
+canoramente,"['ca', 'no', 'ra', 'men', 'te']",3,paroxítona,False
+canoro,"['ca', 'no', 'ro']",1,paroxítona,True
+canossiano,"['ca', 'nos', 'si', 'a', 'no']",3,paroxítona,False
+cansaço,"['can', 'sa', 'ço']",1,paroxítona,False
+cansado,"['can', 'sa', 'do']",1,paroxítona,False
+cansar,"['can', 'sar']",1,oxítona,False
+cansativo,"['can', 'sa', 'ti', 'vo']",2,paroxítona,False
+canseira,"['can', 'sei', 'ra']",1,paroxítona,False
+cantabile,"['can', 'ta', 'bi', 'le']",2,paroxítona,False
+cantábria,"['can', 'tá', 'bri', 'a']",1,proparoxítona,False
+cantábrica,"['can', 'tá', 'bri', 'ca']",1,proparoxítona,False
+cantábrico,"['can', 'tá', 'bri', 'co']",1,proparoxítona,False
+cantábrio,"['can', 'tá', 'bri', 'o']",1,proparoxítona,False
+cantada,"['can', 'ta', 'da']",1,paroxítona,False
+cantadeira,"['can', 'ta', 'dei', 'ra']",2,paroxítona,False
+cantador,"['can', 'ta', 'dor']",2,oxítona,False
+cantadora,"['can', 'ta', 'do', 'ra']",2,paroxítona,False
+cantante,"['can', 'tan', 'te']",1,paroxítona,False
+cantão,"['can', 'tão']",1,oxítona,False
+cantar,"['can', 'tar']",1,oxítona,False
+cantareira,"['can', 'ta', 'rei', 'ra']",2,paroxítona,False
+cantaria,"['can', 'ta', 'ri', 'a']",2,paroxítona,False
+cantárida,"['can', 'tá', 'ri', 'da']",1,proparoxítona,False
+cantaridina,"['can', 'ta', 'ri', 'di', 'na']",3,paroxítona,False
+cantarilho,"['can', 'ta', 'ri', 'lho']",2,paroxítona,False
+cântaro,"['cân', 'ta', 'ro']",0,proparoxítona,False
+cantarola,"['can', 'ta', 'ro', 'la']",2,paroxítona,False
+cantarolar,"['can', 'ta', 'ro', 'lar']",3,oxítona,False
+cantarolável,"['can', 'ta', 'ro', 'lá', 'vel']",3,paroxítona,False
+cantata,"['can', 'ta', 'ta']",1,paroxítona,False
+cantável,"['can', 'tá', 'vel']",1,paroxítona,False
+canté,"['can', 'té']",1,oxítona,False
+canteira,"['can', 'tei', 'ra']",1,paroxítona,False
+canteiro,"['can', 'tei', 'ro']",1,paroxítona,False
+cântico,"['cân', 'ti', 'co']",0,proparoxítona,False
+cantiga,"['can', 'ti', 'ga']",1,paroxítona,False
+cantil,"['can', 'til']",1,oxítona,False
+cantilena,"['can', 'ti', 'le', 'na']",2,paroxítona,False
+cantina,"['can', 'ti', 'na']",1,paroxítona,False
+cantineiro,"['can', 'ti', 'nei', 'ro']",2,paroxítona,False
+cantinho,"['can', 'ti', 'nho']",1,paroxítona,False
+canto,"['can', 'to']",0,paroxítona,False
+cantochão,"['can', 'to', 'chão']",2,oxítona,False
+cantonal,"['can', 'to', 'nal']",2,oxítona,False
+cantoneira,"['can', 'to', 'nei', 'ra']",2,paroxítona,False
+cantoneiro,"['can', 'to', 'nei', 'ro']",2,paroxítona,False
+cantor,"['can', 'tor']",1,oxítona,False
+cantora,"['can', 'to', 'ra']",1,paroxítona,False
+cantoria,"['can', 'to', 'ri', 'a']",2,paroxítona,False
+canudo,"['ca', 'nu', 'do']",1,paroxítona,True
+cânula,"['câ', 'nu', 'la']",0,proparoxítona,True
+canyoning,"['ca', 'nyo', 'ning']",0,proparoxítona,False
+canzoada,"['can', 'zo', 'a', 'da']",2,paroxítona,False
+cão,['cão'],0,oxítona,False
+cão-guia,"['cão', 'gui', 'a']",1,paroxítona,False
+cão-polícia,"['cão', '-po', 'lí', 'ci', 'a']",2,proparoxítona,False
+caos,['caos'],0,oxítona,False
+caoticamente,"['ca', 'o', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+caótico,"['ca', 'ó', 'ti', 'co']",1,proparoxítona,False
+capa,"['ca', 'pa']",0,paroxítona,True
+capacete,"['ca', 'pa', 'ce', 'te']",2,paroxítona,True
+capachinho,"['ca', 'pa', 'chi', 'nho']",2,paroxítona,False
+capacho,"['ca', 'pa', 'cho']",1,paroxítona,False
+capacidade,"['ca', 'pa', 'ci', 'da', 'de']",3,paroxítona,True
+capacitado,"['ca', 'pa', 'ci', 'ta', 'do']",3,paroxítona,True
+capacitar,"['ca', 'pa', 'ci', 'tar']",3,oxítona,False
+capado,"['ca', 'pa', 'do']",1,paroxítona,True
+capadócia,"['ca', 'pa', 'dó', 'ci', 'a']",2,proparoxítona,False
+capadócio,"['ca', 'pa', 'dó', 'ci', 'o']",2,proparoxítona,False
+capador,"['ca', 'pa', 'dor']",2,oxítona,False
+capanga,"['ca', 'pan', 'ga']",1,paroxítona,False
+capão,"['ca', 'pão']",1,oxítona,False
+capar,"['ca', 'par']",1,oxítona,False
+capataz,"['ca', 'pa', 'taz']",2,oxítona,False
+capaz,"['ca', 'paz']",1,oxítona,False
+capazmente,"['ca', 'paz', 'men', 'te']",2,paroxítona,False
+capciosamente,"['cap', 'ci', 'o', 'sa', 'men', 'te']",4,paroxítona,False
+capcioso,"['cap', 'ci', 'o', 'so']",2,paroxítona,False
+capear,"['ca', 'pe', 'ar']",2,oxítona,False
+capeia,"['ca', 'pei', 'a']",1,paroxítona,False
+capela,"['ca', 'pe', 'la']",1,paroxítona,True
+capela-mor,"['ca', 'pe', 'la-', 'mor']",3,oxítona,False
+capelania,"['ca', 'pe', 'la', 'ni', 'a']",3,paroxítona,False
+capelão,"['ca', 'pe', 'lão']",2,oxítona,False
+capelinha,"['ca', 'pe', 'li', 'nha']",2,paroxítona,False
+capelista,"['ca', 'pe', 'lis', 'ta']",2,paroxítona,False
+capelo,"['ca', 'pe', 'lo']",1,paroxítona,True
+capeta,"['ca', 'pe', 'ta']",1,paroxítona,True
+capicua,"['ca', 'pi', 'cu', 'a']",2,paroxítona,False
+capilar,"['ca', 'pi', 'lar']",2,oxítona,False
+capilaridade,"['ca', 'pi', 'la', 'ri', 'da', 'de']",4,paroxítona,True
+capilé,"['ca', 'pi', 'lé']",2,oxítona,True
+capim,"['ca', 'pim']",1,oxítona,False
+capinar,"['ca', 'pi', 'nar']",2,oxítona,False
+capinha,"['ca', 'pi', 'nha']",1,paroxítona,False
+capirote,"['ca', 'pi', 'ro', 'te']",2,paroxítona,True
+capista,"['ca', 'pis', 'ta']",1,paroxítona,False
+capitação,"['ca', 'pi', 'ta', 'ção']",3,oxítona,False
+capital,"['ca', 'pi', 'tal']",2,oxítona,False
+capitalino,"['ca', 'pi', 'ta', 'li', 'no']",3,paroxítona,True
+capitalismo,"['ca', 'pi', 'ta', 'lis', 'mo']",3,paroxítona,False
+capitalista,"['ca', 'pi', 'ta', 'lis', 'ta']",3,paroxítona,False
+capitalização,"['ca', 'pi', 'ta', 'li', 'za', 'ção']",5,oxítona,False
+capitalizar,"['ca', 'pi', 'ta', 'li', 'zar']",4,oxítona,False
+capitalizável,"['ca', 'pi', 'ta', 'li', 'zá', 'vel']",4,paroxítona,False
+capitanear,"['ca', 'pi', 'ta', 'ne', 'ar']",4,oxítona,False
+capitango,"['ca', 'pi', 'tan', 'go']",2,paroxítona,False
+capitânia,"['ca', 'pi', 'tâ', 'ni', 'a']",2,proparoxítona,False
+capitania,"['ca', 'pi', 'ta', 'ni', 'a']",3,paroxítona,False
+capitão,"['ca', 'pi', 'tão']",2,oxítona,False
+capitão de fragata,"['ca', 'pi', 'tão', ' de fra', 'ga', 'ta']",4,paroxítona,False
+capitão de mar e guerra,"['ca', 'pi', 'tão', ' de ', 'mar', ' ', 'e', ' ', 'guer', 'ra']",8,paroxítona,False
+capitão-mor,"['ca', 'pi', 'tão', 'mor']",3,oxítona,False
+capitão-tenente,"['ca', 'pi', 'tão', '-te', 'nen', 'te']",4,paroxítona,False
+capitar,"['ca', 'pi', 'tar']",2,oxítona,False
+capitel,"['ca', 'pi', 'tel']",2,oxítona,False
+capitoa,"['ca', 'pi', 'to', 'a']",2,paroxítona,False
+capitolino,"['ca', 'pi', 'to', 'li', 'no']",3,paroxítona,True
+capitólio,"['ca', 'pi', 'tó', 'li', 'o']",2,proparoxítona,False
+capitosamente,"['ca', 'pi', 'to', 'sa', 'men', 'te']",4,paroxítona,False
+capitoso,"['ca', 'pi', 'to', 'so']",2,paroxítona,True
+capitulação,"['ca', 'pi', 'tu', 'la', 'ção']",4,oxítona,False
+capitular,"['ca', 'pi', 'tu', 'lar']",3,oxítona,False
+capitulares,"['ca', 'pi', 'tu', 'la', 'res']",3,paroxítona,False
+capítulo,"['ca', 'pí', 'tu', 'lo']",1,proparoxítona,True
+capivara,"['ca', 'pi', 'va', 'ra']",2,paroxítona,True
+capô,"['ca', 'pô']",1,oxítona,True
+capoeira,"['ca', 'po', 'ei', 'ra']",2,paroxítona,False
+capoeiro,"['ca', 'po', 'ei', 'ro']",2,paroxítona,False
+caporal,"['ca', 'po', 'ral']",2,oxítona,False
+capot,"['ca', 'pot']",0,paroxítona,False
+capota,"['ca', 'po', 'ta']",1,paroxítona,True
+capotagem,"['ca', 'po', 'ta', 'gem']",2,paroxítona,False
+capotar,"['ca', 'po', 'tar']",2,oxítona,False
+capote,"['ca', 'po', 'te']",1,paroxítona,True
+capotona,"['ca', 'po', 'to', 'na']",2,paroxítona,True
+caprichado,"['ca', 'pri', 'cha', 'do']",2,paroxítona,False
+caprichar,"['ca', 'pri', 'char']",2,oxítona,False
+capricho,"['ca', 'pri', 'cho']",1,paroxítona,False
+caprichosamente,"['ca', 'pri', 'cho', 'sa', 'men', 'te']",4,paroxítona,False
+caprichoso,"['ca', 'pri', 'cho', 'so']",2,paroxítona,False
+capricórnio,"['ca', 'pri', 'cór', 'ni', 'o']",2,proparoxítona,False
+caprídeo,"['ca', 'prí', 'de', 'o']",1,proparoxítona,False
+caprino,"['ca', 'pri', 'no']",1,paroxítona,False
+cápsula,"['cáp', 'su', 'la']",0,proparoxítona,False
+capsular,"['cap', 'su', 'lar']",2,oxítona,False
+captação,"['cap', 'ta', 'ção']",2,oxítona,False
+captador,"['cap', 'ta', 'dor']",2,oxítona,False
+captar,"['cap', 'tar']",1,oxítona,False
+captável,"['cap', 'tá', 'vel']",1,paroxítona,False
+captor,"['cap', 'tor']",1,oxítona,False
+captura,"['cap', 'tu', 'ra']",1,paroxítona,False
+capturar,"['cap', 'tu', 'rar']",2,oxítona,False
+capuano,"['ca', 'pu', 'a', 'no']",2,paroxítona,False
+capucha,"['ca', 'pu', 'cha']",1,paroxítona,False
+capuchar,"['ca', 'pu', 'char']",2,oxítona,False
+capuchinha,"['ca', 'pu', 'chi', 'nha']",2,paroxítona,False
+capuchinho,"['ca', 'pu', 'chi', 'nho']",2,paroxítona,False
+capucho,"['ca', 'pu', 'cho']",1,paroxítona,False
+capulana,"['ca', 'pu', 'la', 'na']",2,paroxítona,True
+capuz,"['ca', 'puz']",1,oxítona,False
+caqueticamente,"['ca', 'que', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+caquético,"['ca', 'qué', 'ti', 'co']",1,proparoxítona,False
+caquexia,"['ca', 'que', 'xi', 'a']",2,paroxítona,False
+caqui,"['ca', 'qui']",1,oxítona,False
+cará,"['ca', 'rá']",1,oxítona,True
+cara,"['ca', 'ra']",0,paroxítona,True
+cara-metade,"['ca', 'ra-me', 'ta', 'de']",2,paroxítona,False
+carabina,"['ca', 'ra', 'bi', 'na']",2,paroxítona,True
+carabineiro,"['ca', 'ra', 'bi', 'nei', 'ro']",3,paroxítona,False
+caraça,"['ca', 'ra', 'ça']",1,paroxítona,True
+caraças,"['ca', 'ra', 'ças']",1,paroxítona,False
+caracol,"['ca', 'ra', 'col']",2,oxítona,False
+caracoleta,"['ca', 'ra', 'co', 'le', 'ta']",3,paroxítona,True
+carácter,"['ca', 'rác', 'ter']",1,paroxítona,False
+caractere,"['ca', 'rac', 'te', 're']",2,paroxítona,False
+caracterial,"['ca', 'rac', 'te', 'ri', 'al']",4,oxítona,False
+característica,"['ca', 'rac', 'te', 'rís', 'ti', 'ca']",3,proparoxítona,False
+caracteristicamente,"['ca', 'rac', 'te', 'ris', 'ti', 'ca', 'men', 'te']",6,paroxítona,False
+característico,"['ca', 'rac', 'te', 'rís', 'ti', 'co']",3,proparoxítona,False
+caracterização,"['ca', 'rac', 'te', 'ri', 'za', 'ção']",5,oxítona,False
+caracterizador,"['ca', 'rac', 'te', 'ri', 'za', 'dor']",5,oxítona,False
+caracterizadora,"['ca', 'rac', 'te', 'ri', 'za', 'do', 'ra']",5,paroxítona,False
+caracterizante,"['ca', 'rac', 'te', 'ri', 'zan', 'te']",4,paroxítona,False
+caracterizar,"['ca', 'rac', 'te', 'ri', 'zar']",4,oxítona,False
+caracterologia,"['ca', 'rac', 'te', 'ro', 'lo', 'gi', 'a']",5,paroxítona,False
+caraculo,"['ca', 'ra', 'cu', 'lo']",2,paroxítona,True
+carago,"['ca', 'ra', 'go']",1,paroxítona,True
+caraíba,"['ca', 'ra', 'í', 'ba']",2,paroxítona,False
+caralho,"['ca', 'ra', 'lho']",1,paroxítona,False
+caramanchão,"['ca', 'ra', 'man', 'chão']",3,oxítona,False
+caramba,"['ca', 'ram', 'ba']",1,paroxítona,False
+carambola,"['ca', 'ram', 'bo', 'la']",2,paroxítona,False
+carambolar,"['ca', 'ram', 'bo', 'lar']",3,oxítona,False
+caramelizar,"['ca', 'ra', 'me', 'li', 'zar']",4,oxítona,False
+caramelo,"['ca', 'ra', 'me', 'lo']",2,paroxítona,True
+caramujo,"['ca', 'ra', 'mu', 'jo']",2,paroxítona,True
+caramulo,"['ca', 'ra', 'mu', 'lo']",2,paroxítona,True
+caramunha,"['ca', 'ra', 'mu', 'nha']",2,paroxítona,False
+caramunhar,"['ca', 'ra', 'mu', 'nhar']",3,oxítona,False
+carangueja,"['ca', 'ran', 'gue', 'ja']",2,paroxítona,False
+caranguejar,"['ca', 'ran', 'gue', 'jar']",3,oxítona,False
+caranguejeira,"['ca', 'ran', 'gue', 'jei', 'ra']",3,paroxítona,False
+caranguejo,"['ca', 'ran', 'gue', 'jo']",2,paroxítona,False
+caranguejola,"['ca', 'ran', 'gue', 'jo', 'la']",3,paroxítona,False
+carantonha,"['ca', 'ran', 'to', 'nha']",2,paroxítona,False
+carão,"['ca', 'rão']",1,oxítona,False
+carapaça,"['ca', 'ra', 'pa', 'ça']",2,paroxítona,True
+carapau,"['ca', 'ra', 'pau']",2,oxítona,False
+carapeta,"['ca', 'ra', 'pe', 'ta']",2,paroxítona,True
+carapetar,"['ca', 'ra', 'pe', 'tar']",3,oxítona,False
+carapeto,"['ca', 'ra', 'pe', 'to']",2,paroxítona,True
+carapinha,"['ca', 'ra', 'pi', 'nha']",2,paroxítona,False
+carapinheira,"['ca', 'ra', 'pi', 'nhei', 'ra']",3,paroxítona,False
+carapinho,"['ca', 'ra', 'pi', 'nho']",2,paroxítona,False
+carapito,"['ca', 'ra', 'pi', 'to']",2,paroxítona,True
+carapuça,"['ca', 'ra', 'pu', 'ça']",2,paroxítona,True
+carapuço,"['ca', 'ra', 'pu', 'ço']",2,paroxítona,True
+carate,"['ca', 'ra', 'te']",1,paroxítona,True
+caráter,"['ca', 'rá', 'ter']",1,paroxítona,False
+caraterística,"['ca', 'ra', 'te', 'rís', 'ti', 'ca']",3,proparoxítona,False
+carateristicamente,"['ca', 'ra', 'te', 'ris', 'ti', 'ca', 'men', 'te']",6,paroxítona,False
+caraterístico,"['ca', 'ra', 'te', 'rís', 'ti', 'co']",3,proparoxítona,False
+caraterização,"['ca', 'ra', 'te', 'ri', 'za', 'ção']",5,oxítona,False
+caraterizar,"['ca', 'ra', 'te', 'ri', 'zar']",4,oxítona,False
+caravana,"['ca', 'ra', 'va', 'na']",2,paroxítona,True
+caravela,"['ca', 'ra', 've', 'la']",2,paroxítona,True
+carbonado,"['car', 'bo', 'na', 'do']",2,paroxítona,False
+carbonar,"['car', 'bo', 'nar']",2,oxítona,False
+carbonário,"['car', 'bo', 'ná', 'ri', 'o']",2,proparoxítona,False
+carbonatado,"['car', 'bo', 'na', 'ta', 'do']",3,paroxítona,False
+carbonatar,"['car', 'bo', 'na', 'tar']",3,oxítona,False
+carbonato,"['car', 'bo', 'na', 'to']",2,paroxítona,False
+carbone,"['car', 'bo', 'ne']",1,paroxítona,False
+carboneto,"['car', 'bo', 'ne', 'to']",2,paroxítona,False
+carbônico,"['car', 'bô', 'ni', 'co']",1,proparoxítona,False
+carbónico,"['car', 'bó', 'ni', 'co']",1,proparoxítona,False
+carbonífero,"['car', 'bo', 'ní', 'fe', 'ro']",2,proparoxítona,False
+carbonização,"['car', 'bo', 'ni', 'za', 'ção']",4,oxítona,False
+carbonizado,"['car', 'bo', 'ni', 'za', 'do']",3,paroxítona,False
+carbonizar,"['car', 'bo', 'ni', 'zar']",3,oxítona,False
+carbono,"['car', 'bo', 'no']",1,paroxítona,False
+carbúnculo,"['car', 'bún', 'cu', 'lo']",1,proparoxítona,False
+carburação,"['car', 'bu', 'ra', 'ção']",3,oxítona,False
+carburador,"['car', 'bu', 'ra', 'dor']",3,oxítona,False
+carburante,"['car', 'bu', 'ran', 'te']",2,paroxítona,False
+carburar,"['car', 'bu', 'rar']",2,oxítona,False
+carbureto,"['car', 'bu', 're', 'to']",2,paroxítona,False
+carcaça,"['car', 'ca', 'ça']",1,paroxítona,False
+carcamano,"['car', 'ca', 'ma', 'no']",2,paroxítona,False
+carcel,"['car', 'cel']",1,oxítona,False
+carcela,"['car', 'ce', 'la']",1,paroxítona,False
+carcerário,"['car', 'ce', 'rá', 'ri', 'o']",2,proparoxítona,False
+cárcere,"['cár', 'ce', 're']",0,proparoxítona,False
+carcereiro,"['car', 'ce', 'rei', 'ro']",2,paroxítona,False
+carcinogéneo,"['car', 'ci', 'no', 'gé', 'ne', 'o']",3,proparoxítona,False
+carcinogêneo,"['car', 'ci', 'no', 'gê', 'ne', 'o']",3,proparoxítona,False
+carcinoma,"['car', 'ci', 'no', 'ma']",2,paroxítona,False
+carcomer,"['car', 'co', 'mer']",2,oxítona,False
+carcomido,"['car', 'co', 'mi', 'do']",2,paroxítona,False
+carda,"['car', 'da']",0,paroxítona,False
+cardação,"['car', 'da', 'ção']",2,oxítona,False
+cardada,"['car', 'da', 'da']",1,paroxítona,False
+cardador,"['car', 'da', 'dor']",2,oxítona,False
+cardal,"['car', 'dal']",1,oxítona,False
+cardamomo,"['car', 'da', 'mo', 'mo']",2,paroxítona,False
+cardanho,"['car', 'da', 'nho']",1,paroxítona,False
+cardão,"['car', 'dão']",1,oxítona,False
+cardápio,"['car', 'dá', 'pi', 'o']",1,proparoxítona,False
+cardar,"['car', 'dar']",1,oxítona,False
+cardeal,"['car', 'de', 'al']",2,oxítona,False
+cardear,"['car', 'de', 'ar']",2,oxítona,False
+cárdeno,"['cár', 'de', 'no']",0,proparoxítona,False
+cardíaca,"['car', 'dí', 'a', 'ca']",1,proparoxítona,False
+cardíaco,"['car', 'dí', 'a', 'co']",1,proparoxítona,False
+cardial,"['car', 'di', 'al']",2,oxítona,False
+cardim,"['car', 'dim']",1,oxítona,False
+cardina,"['car', 'di', 'na']",1,paroxítona,False
+cardinal,"['car', 'di', 'nal']",2,oxítona,False
+cardinalato,"['car', 'di', 'na', 'la', 'to']",3,paroxítona,False
+cardinalício,"['car', 'di', 'na', 'lí', 'ci', 'o']",3,proparoxítona,False
+cardiofilo,"['car', 'di', 'o', 'fi', 'lo']",3,paroxítona,False
+cardiografia,"['car', 'di', 'o', 'gra', 'fi', 'a']",4,paroxítona,False
+cardiográfico,"['car', 'di', 'o', 'grá', 'fi', 'co']",3,proparoxítona,False
+cardiograma,"['car', 'di', 'o', 'gra', 'ma']",3,paroxítona,False
+cardioide,"['car', 'di', 'oi', 'de']",2,paroxítona,False
+cardiologia,"['car', 'di', 'o', 'lo', 'gi', 'a']",4,paroxítona,False
+cardiológico,"['car', 'di', 'o', 'ló', 'gi', 'co']",3,proparoxítona,False
+cardiologista,"['car', 'di', 'o', 'lo', 'gis', 'ta']",4,paroxítona,False
+cardiomalacia,"['car', 'di', 'o', 'ma', 'la', 'ci', 'a']",5,paroxítona,False
+cardiométrico,"['car', 'di', 'o', 'mé', 'tri', 'co']",3,proparoxítona,False
+cardiomiopatia,"['car', 'di', 'o', 'mi', 'o', 'pa', 'ti', 'a']",6,paroxítona,False
+cardiopata,"['car', 'di', 'o', 'pa', 'ta']",3,paroxítona,False
+cardiopatia,"['car', 'di', 'o', 'pa', 'ti', 'a']",4,paroxítona,False
+cardiopulmonar,"['car', 'di', 'o', 'pul', 'mo', 'nar']",5,oxítona,False
+cardiorrespiratório,"['car', 'di', 'or', 'res', 'pi', 'ra', 'tó', 'ri', 'o']",6,proparoxítona,False
+cardiotónico,"['car', 'di', 'o', 'tó', 'ni', 'co']",3,proparoxítona,False
+cardiovascular,"['car', 'di', 'o', 'vas', 'cu', 'lar']",5,oxítona,False
+cardioversão,"['car', 'di', 'o', 'ver', 'são']",4,oxítona,False
+cardo,"['car', 'do']",0,paroxítona,False
+cardume,"['car', 'du', 'me']",1,paroxítona,False
+careca,"['ca', 're', 'ca']",1,paroxítona,True
+carecente,"['ca', 're', 'cen', 'te']",2,paroxítona,False
+carecer,"['ca', 're', 'cer']",2,oxítona,False
+carecidamente,"['ca', 're', 'ci', 'da', 'men', 'te']",4,paroxítona,False
+carecido,"['ca', 're', 'ci', 'do']",2,paroxítona,True
+careiro,"['ca', 'rei', 'ro']",1,paroxítona,False
+carena,"['ca', 're', 'na']",1,paroxítona,True
+carenagem,"['ca', 're', 'na', 'gem']",2,paroxítona,False
+carenar,"['ca', 're', 'nar']",2,oxítona,False
+carência,"['ca', 'rên', 'ci', 'a']",1,proparoxítona,False
+carenciado,"['ca', 'ren', 'ci', 'a', 'do']",3,paroxítona,False
+carente,"['ca', 'ren', 'te']",1,paroxítona,False
+carestia,"['ca', 'res', 'ti', 'a']",2,paroxítona,False
+careta,"['ca', 're', 'ta']",1,paroxítona,True
+careto,"['ca', 're', 'to']",1,paroxítona,True
+carga,"['car', 'ga']",0,paroxítona,False
+cargo,"['car', 'go']",0,paroxítona,False
+cargueiro,"['car', 'guei', 'ro']",1,paroxítona,False
+cariado,"['ca', 'ri', 'a', 'do']",2,paroxítona,False
+cariar,"['ca', 'ri', 'ar']",2,oxítona,False
+cariátide,"['ca', 'ri', 'á', 'ti', 'de']",2,proparoxítona,False
+caríbdis,"['ca', 'ríb', 'dis']",1,paroxítona,False
+caribe,"['ca', 'ri', 'be']",1,paroxítona,True
+caribenho,"['ca', 'ri', 'be', 'nho']",2,paroxítona,False
+caribu,"['ca', 'ri', 'bu']",2,oxítona,True
+carica,"['ca', 'ri', 'ca']",1,paroxítona,True
+caricatamente,"['ca', 'ri', 'ca', 'ta', 'men', 'te']",4,paroxítona,False
+caricato,"['ca', 'ri', 'ca', 'to']",2,paroxítona,True
+caricatura,"['ca', 'ri', 'ca', 'tu', 'ra']",3,paroxítona,True
+caricatural,"['ca', 'ri', 'ca', 'tu', 'ral']",4,oxítona,False
+caricaturalmente,"['ca', 'ri', 'ca', 'tu', 'ral', 'men', 'te']",5,paroxítona,False
+caricaturar,"['ca', 'ri', 'ca', 'tu', 'rar']",4,oxítona,False
+caricaturista,"['ca', 'ri', 'ca', 'tu', 'ris', 'ta']",4,paroxítona,False
+carícia,"['ca', 'rí', 'ci', 'a']",1,proparoxítona,False
+caridade,"['ca', 'ri', 'da', 'de']",2,paroxítona,True
+caridosamente,"['ca', 'ri', 'do', 'sa', 'men', 'te']",4,paroxítona,False
+caridoso,"['ca', 'ri', 'do', 'so']",2,paroxítona,True
+cárie,"['cá', 'ri', 'e']",0,proparoxítona,False
+caril,"['ca', 'ril']",1,oxítona,False
+carimbagem,"['ca', 'rim', 'ba', 'gem']",2,paroxítona,False
+carimbar,"['ca', 'rim', 'bar']",2,oxítona,False
+carimbo,"['ca', 'rim', 'bo']",1,paroxítona,False
+carimbó,"['ca', 'rim', 'bó']",2,oxítona,False
+carina,"['ca', 'ri', 'na']",1,paroxítona,True
+carinho,"['ca', 'ri', 'nho']",1,paroxítona,False
+carinhosa,"['ca', 'ri', 'nho', 'sa']",2,paroxítona,False
+carinhosamente,"['ca', 'ri', 'nho', 'sa', 'men', 'te']",4,paroxítona,False
+carinhoso,"['ca', 'ri', 'nho', 'so']",2,paroxítona,False
+carioca,"['ca', 'ri', 'o', 'ca']",2,paroxítona,False
+cariótipo,"['ca', 'ri', 'ó', 'ti', 'po']",2,proparoxítona,False
+carisma,"['ca', 'ris', 'ma']",1,paroxítona,False
+carismático,"['ca', 'ris', 'má', 'ti', 'co']",2,proparoxítona,False
+caríssimo,"['ca', 'rís', 'si', 'mo']",1,proparoxítona,False
+caritativamente,"['ca', 'ri', 'ta', 'ti', 'va', 'men', 'te']",5,paroxítona,False
+caritativo,"['ca', 'ri', 'ta', 'ti', 'vo']",3,paroxítona,True
+carito,"['ca', 'ri', 'to']",1,paroxítona,True
+cariz,"['ca', 'riz']",1,oxítona,False
+carlinga,"['car', 'lin', 'ga']",1,paroxítona,False
+carlista,"['car', 'lis', 'ta']",1,paroxítona,False
+carlota,"['car', 'lo', 'ta']",1,paroxítona,False
+carma,"['car', 'ma']",0,paroxítona,False
+carme,"['car', 'me']",0,paroxítona,False
+carmelina,"['car', 'me', 'li', 'na']",2,paroxítona,False
+carmelita,"['car', 'me', 'li', 'ta']",2,paroxítona,False
+carmesim,"['car', 'me', 'sim']",2,oxítona,False
+carmim,"['car', 'mim']",1,oxítona,False
+carmina,"['car', 'mi', 'na']",1,paroxítona,False
+carminar,"['car', 'mi', 'nar']",2,oxítona,False
+carmona,"['car', 'mo', 'na']",1,paroxítona,False
+carnação,"['car', 'na', 'ção']",2,oxítona,False
+carnadura,"['car', 'na', 'du', 'ra']",2,paroxítona,False
+carnagem,"['car', 'na', 'gem']",1,paroxítona,False
+carnal,"['car', 'nal']",1,oxítona,False
+carnalidade,"['car', 'na', 'li', 'da', 'de']",3,paroxítona,False
+carnar,"['car', 'nar']",1,oxítona,False
+carnaval,"['car', 'na', 'val']",2,oxítona,False
+carnavalescamente,"['car', 'na', 'va', 'les', 'ca', 'men', 'te']",5,paroxítona,False
+carnavalesco,"['car', 'na', 'va', 'les', 'co']",3,paroxítona,False
+carne,"['car', 'ne']",0,paroxítona,False
+carné,"['car', 'né']",1,oxítona,False
+carnê,"['car', 'nê']",1,oxítona,False
+carneira,"['car', 'nei', 'ra']",1,paroxítona,False
+carneirada,"['car', 'nei', 'ra', 'da']",2,paroxítona,False
+carneirinho,"['car', 'nei', 'ri', 'nho']",2,paroxítona,False
+carneiro,"['car', 'nei', 'ro']",1,paroxítona,False
+cárneo,"['cár', 'ne', 'o']",0,proparoxítona,False
+carniça,"['car', 'ni', 'ça']",1,paroxítona,False
+carniceiramente,"['car', 'ni', 'cei', 'ra', 'men', 'te']",4,paroxítona,False
+carniceiro,"['car', 'ni', 'cei', 'ro']",2,paroxítona,False
+carnificina,"['car', 'ni', 'fi', 'ci', 'na']",3,paroxítona,False
+carnívoro,"['car', 'ní', 'vo', 'ro']",1,proparoxítona,False
+carnudo,"['car', 'nu', 'do']",1,paroxítona,False
+caro,"['ca', 'ro']",0,paroxítona,True
+caroca,"['ca', 'ro', 'ca']",1,paroxítona,True
+carocar,"['ca', 'ro', 'car']",2,oxítona,False
+carocha,"['ca', 'ro', 'cha']",1,paroxítona,False
+carochinha,"['ca', 'ro', 'chi', 'nha']",2,paroxítona,False
+carocho,"['ca', 'ro', 'cho']",1,paroxítona,False
+caroço,"['ca', 'ro', 'ço']",1,paroxítona,True
+carola,"['ca', 'ro', 'la']",1,paroxítona,True
+carolice,"['ca', 'ro', 'li', 'ce']",2,paroxítona,True
+carolina,"['ca', 'ro', 'li', 'na']",2,paroxítona,True
+carolíngio,"['ca', 'ro', 'lín', 'gi', 'o']",2,proparoxítona,False
+carolino,"['ca', 'ro', 'li', 'no']",2,paroxítona,True
+carolo,"['ca', 'ro', 'lo']",1,paroxítona,True
+carona,"['ca', 'ro', 'na']",1,paroxítona,True
+caroteno,"['ca', 'ro', 'te', 'no']",2,paroxítona,True
+carotenoide,"['ca', 'ro', 'te', 'noi', 'de']",3,paroxítona,False
+carótida,"['ca', 'ró', 'ti', 'da']",1,proparoxítona,True
+carpa,"['car', 'pa']",0,paroxítona,False
+carpaccio,"['car', 'pac', 'ci', 'o']",2,paroxítona,False
+carpetar,"['car', 'pe', 'tar']",2,oxítona,False
+carpete,"['car', 'pe', 'te']",1,paroxítona,False
+carpideira,"['car', 'pi', 'dei', 'ra']",2,paroxítona,False
+carpintaria,"['car', 'pin', 'ta', 'ri', 'a']",3,paroxítona,False
+carpinteirar,"['car', 'pin', 'tei', 'rar']",3,oxítona,False
+carpinteiro,"['car', 'pin', 'tei', 'ro']",2,paroxítona,False
+carpir,"['car', 'pir']",1,oxítona,False
+carpo,"['car', 'po']",0,paroxítona,False
+carqueja,"['car', 'que', 'ja']",1,paroxítona,False
+carquejal,"['car', 'que', 'jal']",2,oxítona,False
+carquejar,"['car', 'que', 'jar']",2,oxítona,False
+carquejeiro,"['car', 'que', 'jei', 'ro']",2,paroxítona,False
+carraca,"['car', 'ra', 'ca']",1,paroxítona,False
+carraça,"['car', 'ra', 'ça']",1,paroxítona,False
+carrada,"['car', 'ra', 'da']",1,paroxítona,False
+carral,"['car', 'ral']",1,oxítona,False
+carranca,"['car', 'ran', 'ca']",1,paroxítona,False
+carrancho,"['car', 'ran', 'cho']",1,paroxítona,False
+carrancudamente,"['car', 'ran', 'cu', 'da', 'men', 'te']",4,paroxítona,False
+carrancudo,"['car', 'ran', 'cu', 'do']",2,paroxítona,False
+carrão,"['car', 'rão']",1,oxítona,False
+carrapata,"['car', 'ra', 'pa', 'ta']",2,paroxítona,False
+carrapateira,"['car', 'ra', 'pa', 'tei', 'ra']",3,paroxítona,False
+carrapateiro,"['car', 'ra', 'pa', 'tei', 'ro']",3,paroxítona,False
+carrapato,"['car', 'ra', 'pa', 'to']",2,paroxítona,False
+carrapicho,"['car', 'ra', 'pi', 'cho']",2,paroxítona,False
+carrapiço,"['car', 'ra', 'pi', 'ço']",2,paroxítona,False
+carrapito,"['car', 'ra', 'pi', 'to']",2,paroxítona,False
+carrara,"['car', 'ra', 'ra']",1,paroxítona,False
+carrasca,"['car', 'ras', 'ca']",1,paroxítona,False
+carrascal,"['car', 'ras', 'cal']",2,oxítona,False
+carrascão,"['car', 'ras', 'cão']",2,oxítona,False
+carrasco,"['car', 'ras', 'co']",1,paroxítona,False
+carraspana,"['car', 'ras', 'pa', 'na']",2,paroxítona,False
+carrasqueira,"['car', 'ras', 'quei', 'ra']",2,paroxítona,False
+carreada,"['car', 're', 'a', 'da']",2,paroxítona,False
+carrear,"['car', 're', 'ar']",2,oxítona,False
+carrega,"['car', 're', 'ga']",1,paroxítona,False
+carregação,"['car', 're', 'ga', 'ção']",3,oxítona,False
+carregado,"['car', 're', 'ga', 'do']",2,paroxítona,False
+carregador,"['car', 're', 'ga', 'dor']",3,oxítona,False
+carregal,"['car', 're', 'gal']",2,oxítona,False
+carregamento,"['car', 're', 'ga', 'men', 'to']",3,paroxítona,False
+carregar,"['car', 're', 'gar']",2,oxítona,False
+carrego,"['car', 're', 'go']",1,paroxítona,False
+carregoso,"['car', 're', 'go', 'so']",2,paroxítona,False
+carreira,"['car', 'rei', 'ra']",1,paroxítona,False
+carreiro,"['car', 'rei', 'ro']",1,paroxítona,False
+carreta,"['car', 're', 'ta']",1,paroxítona,False
+carretar,"['car', 're', 'tar']",2,oxítona,False
+carreteiro,"['car', 're', 'tei', 'ro']",2,paroxítona,False
+carretel,"['car', 're', 'tel']",2,oxítona,False
+carreto,"['car', 're', 'to']",1,paroxítona,False
+carriagem,"['car', 'ri', 'a', 'gem']",2,paroxítona,False
+carriça,"['car', 'ri', 'ça']",1,paroxítona,False
+carriçal,"['car', 'ri', 'çal']",2,oxítona,False
+carriço,"['car', 'ri', 'ço']",1,paroxítona,False
+carril,"['car', 'ril']",1,oxítona,False
+carrilar,"['car', 'ri', 'lar']",2,oxítona,False
+carrilhanista,"['car', 'ri', 'lha', 'nis', 'ta']",3,paroxítona,False
+carrilhão,"['car', 'ri', 'lhão']",2,oxítona,False
+carrilho,"['car', 'ri', 'lho']",1,paroxítona,False
+carrilhonista,"['car', 'ri', 'lho', 'nis', 'ta']",3,paroxítona,False
+carrinha,"['car', 'ri', 'nha']",1,paroxítona,False
+carrinho,"['car', 'ri', 'nho']",1,paroxítona,False
+carripana,"['car', 'ri', 'pa', 'na']",2,paroxítona,False
+carro,"['car', 'ro']",0,paroxítona,False
+carro-patrulha,"['car', 'ro-pa', 'tru', 'lha']",2,paroxítona,False
+carro-vassoura,"['car', 'ro-vas', 'sou', 'ra']",2,paroxítona,False
+carroça,"['car', 'ro', 'ça']",1,paroxítona,False
+carroção,"['car', 'ro', 'ção']",2,oxítona,False
+carroçar,"['car', 'ro', 'çar']",2,oxítona,False
+carroçaria,"['car', 'ro', 'ça', 'ri', 'a']",3,paroxítona,False
+carroceiro,"['car', 'ro', 'cei', 'ro']",2,paroxítona,False
+carrocel,"['car', 'ro', 'cel']",2,oxítona,False
+carrossel,"['car', 'ros', 'sel']",2,oxítona,False
+carruagem,"['car', 'ru', 'a', 'gem']",2,paroxítona,False
+carruagem-bar,"['car', 'ru', 'a', 'gem-', 'bar']",4,oxítona,False
+carruagem-cama,"['car', 'ru', 'a', 'gem-', 'ca', 'ma']",4,paroxítona,False
+carruagem-restaurante,"['car', 'ru', 'a', 'gem-res', 'tau', 'ran', 'te']",5,paroxítona,False
+cársico,"['cár', 'si', 'co']",0,proparoxítona,False
+carta,"['car', 'ta']",0,paroxítona,False
+carta-branca,"['car', 'ta-', 'bran', 'ca']",2,paroxítona,False
+cartada,"['car', 'ta', 'da']",1,paroxítona,False
+cartaginês,"['car', 'ta', 'gi', 'nês']",3,oxítona,False
+cartaginesa,"['car', 'ta', 'gi', 'ne', 'sa']",3,paroxítona,False
+cartão,"['car', 'tão']",1,oxítona,False
+cartão de visita,"['car', 'tão', ' de vi', 'si', 'ta']",3,paroxítona,False
+cartapácio,"['car', 'ta', 'pá', 'ci', 'o']",2,proparoxítona,False
+cartar,"['car', 'tar']",1,oxítona,False
+cartaxense,"['car', 'ta', 'xen', 'se']",2,paroxítona,False
+cartaxo,"['car', 'ta', 'xo']",1,paroxítona,False
+cartaz,"['car', 'taz']",1,oxítona,False
+carte,"['car', 'te']",0,paroxítona,False
+cartear,"['car', 'te', 'ar']",2,oxítona,False
+carteira,"['car', 'tei', 'ra']",1,paroxítona,False
+carteirista,"['car', 'tei', 'ris', 'ta']",2,paroxítona,False
+carteiro,"['car', 'tei', 'ro']",1,paroxítona,False
+cartel,"['car', 'tel']",1,oxítona,False
+cartela,"['car', 'te', 'la']",1,paroxítona,False
+cartelização,"['car', 'te', 'li', 'za', 'ção']",4,oxítona,False
+cartelizar,"['car', 'te', 'li', 'zar']",3,oxítona,False
+cárter,"['cár', 'ter']",0,paroxítona,False
+cartesiana,"['car', 'te', 'si', 'a', 'na']",3,paroxítona,False
+cartesianismo,"['car', 'te', 'si', 'a', 'nis', 'mo']",4,paroxítona,False
+cartesiano,"['car', 'te', 'si', 'a', 'no']",3,paroxítona,False
+cartilagem,"['car', 'ti', 'la', 'gem']",2,paroxítona,False
+cartilha,"['car', 'ti', 'lha']",1,paroxítona,False
+cartista,"['car', 'tis', 'ta']",1,paroxítona,False
+cartografar,"['car', 'to', 'gra', 'far']",3,oxítona,False
+cartografia,"['car', 'to', 'gra', 'fi', 'a']",3,paroxítona,False
+cartográfico,"['car', 'to', 'grá', 'fi', 'co']",2,proparoxítona,False
+cartógrafo,"['car', 'tó', 'gra', 'fo']",1,proparoxítona,False
+cartola,"['car', 'to', 'la']",1,paroxítona,False
+cartolina,"['car', 'to', 'li', 'na']",2,paroxítona,False
+cartomante,"['car', 'to', 'man', 'te']",2,paroxítona,False
+cartonado,"['car', 'to', 'na', 'do']",2,paroxítona,False
+cartonagem,"['car', 'to', 'na', 'gem']",2,paroxítona,False
+cartonar,"['car', 'to', 'nar']",2,oxítona,False
+cartoon,"['car', 'toon']",1,oxítona,False
+cartoonista,"['car', 'too', 'nis', 'ta']",2,paroxítona,False
+cartório,"['car', 'tó', 'ri', 'o']",1,proparoxítona,False
+cartucheira,"['car', 'tu', 'chei', 'ra']",2,paroxítona,False
+cartucho,"['car', 'tu', 'cho']",1,paroxítona,False
+cartulário,"['car', 'tu', 'lá', 'ri', 'o']",2,proparoxítona,False
+cartum,"['car', 'tum']",1,oxítona,False
+cartuxo,"['car', 'tu', 'xo']",1,paroxítona,False
+caruma,"['ca', 'ru', 'ma']",1,paroxítona,True
+carunchar,"['ca', 'run', 'char']",2,oxítona,False
+caruncho,"['ca', 'run', 'cho']",1,paroxítona,False
+carunchoso,"['ca', 'run', 'cho', 'so']",2,paroxítona,False
+carvalha,"['car', 'va', 'lha']",1,paroxítona,False
+carvalhal,"['car', 'va', 'lhal']",2,oxítona,False
+carvalheira,"['car', 'va', 'lhei', 'ra']",2,paroxítona,False
+carvalheiro,"['car', 'va', 'lhei', 'ro']",2,paroxítona,False
+carvalhinha,"['car', 'va', 'lhi', 'nha']",2,paroxítona,False
+carvalho,"['car', 'va', 'lho']",1,paroxítona,False
+carvão,"['car', 'vão']",1,oxítona,False
+carvoaria,"['car', 'vo', 'a', 'ri', 'a']",3,paroxítona,False
+carvoeira,"['car', 'vo', 'ei', 'ra']",2,paroxítona,False
+carvoeiro,"['car', 'vo', 'ei', 'ro']",2,paroxítona,False
+cãs,['cãs'],0,oxítona,False
+casa,"['ca', 'sa']",0,paroxítona,True
+casa-forte,"['ca', 'sa-', 'for', 'te']",2,paroxítona,False
+casa-mãe,"['ca', 'sa-', 'mãe']",2,oxítona,False
+casa-museu,"['ca', 'sa-mu', 'seu']",2,oxítona,False
+casaca,"['ca', 'sa', 'ca']",1,paroxítona,True
+casacão,"['ca', 'sa', 'cão']",2,oxítona,False
+casaco,"['ca', 'sa', 'co']",1,paroxítona,True
+casada,"['ca', 'sa', 'da']",1,paroxítona,True
+casadeiro,"['ca', 'sa', 'dei', 'ro']",2,paroxítona,False
+casado,"['ca', 'sa', 'do']",1,paroxítona,True
+casadoiro,"['ca', 'sa', 'doi', 'ro']",2,paroxítona,False
+casal,"['ca', 'sal']",1,oxítona,False
+casalar,"['ca', 'sa', 'lar']",2,oxítona,False
+casaleiro,"['ca', 'sa', 'lei', 'ro']",2,paroxítona,False
+casamata,"['ca', 'sa', 'ma', 'ta']",2,paroxítona,True
+casamatar,"['ca', 'sa', 'ma', 'tar']",3,oxítona,False
+casamentar,"['ca', 'sa', 'men', 'tar']",3,oxítona,False
+casamenteira,"['ca', 'sa', 'men', 'tei', 'ra']",3,paroxítona,False
+casamenteiro,"['ca', 'sa', 'men', 'tei', 'ro']",3,paroxítona,False
+casamento,"['ca', 'sa', 'men', 'to']",2,paroxítona,False
+casão,"['ca', 'são']",1,oxítona,False
+casar,"['ca', 'sar']",1,oxítona,False
+casarão,"['ca', 'sa', 'rão']",2,oxítona,False
+casaria,"['ca', 'sa', 'ri', 'a']",2,paroxítona,False
+casario,"['ca', 'sa', 'ri', 'o']",2,paroxítona,False
+casca,"['cas', 'ca']",0,paroxítona,False
+casca-de-carvalho,"['cas', 'ca-de-car', 'va', 'lho']",2,paroxítona,False
+cascal,"['cas', 'cal']",1,oxítona,False
+cascalense,"['cas', 'ca', 'len', 'se']",2,paroxítona,False
+cascalhar,"['cas', 'ca', 'lhar']",2,oxítona,False
+cascalheira,"['cas', 'ca', 'lhei', 'ra']",2,paroxítona,False
+cascalho,"['cas', 'ca', 'lho']",1,paroxítona,False
+cascão,"['cas', 'cão']",1,oxítona,False
+cascar,"['cas', 'car']",1,oxítona,False
+cascata,"['cas', 'ca', 'ta']",1,paroxítona,False
+cascavel,"['cas', 'ca', 'vel']",2,oxítona,False
+casco,"['cas', 'co']",0,paroxítona,False
+cascudo,"['cas', 'cu', 'do']",1,paroxítona,False
+casebre,"['ca', 'se', 'bre']",1,paroxítona,False
+caseira,"['ca', 'sei', 'ra']",1,paroxítona,False
+caseiro,"['ca', 'sei', 'ro']",1,paroxítona,False
+caserna,"['ca', 'ser', 'na']",1,paroxítona,False
+cash-flow,"['cash', 'flow']",1,oxítona,False
+casimira,"['ca', 'si', 'mi', 'ra']",2,paroxítona,True
+casinha,"['ca', 'si', 'nha']",1,paroxítona,False
+casinhota,"['ca', 'si', 'nho', 'ta']",2,paroxítona,False
+casinhoto,"['ca', 'si', 'nho', 'to']",2,paroxítona,False
+casino,"['ca', 'si', 'no']",1,paroxítona,True
+casmurra,"['cas', 'mur', 'ra']",1,paroxítona,False
+casmurrar,"['cas', 'mur', 'rar']",2,oxítona,False
+casmurrice,"['cas', 'mur', 'ri', 'ce']",2,paroxítona,False
+casmurro,"['cas', 'mur', 'ro']",1,paroxítona,False
+caso,"['ca', 'so']",0,paroxítona,True
+casório,"['ca', 'só', 'ri', 'o']",1,proparoxítona,False
+casota,"['ca', 'so', 'ta']",1,paroxítona,True
+caspa,"['cas', 'pa']",0,paroxítona,False
+cáspite,"['cás', 'pi', 'te']",0,proparoxítona,False
+casqueiro,"['cas', 'quei', 'ro']",1,paroxítona,False
+casquilha,"['cas', 'qui', 'lha']",1,paroxítona,False
+casquilhar,"['cas', 'qui', 'lhar']",2,oxítona,False
+casquilho,"['cas', 'qui', 'lho']",1,paroxítona,False
+casquinha,"['cas', 'qui', 'nha']",1,paroxítona,False
+cassa,"['cas', 'sa']",0,paroxítona,False
+cassação,"['cas', 'sa', 'ção']",2,oxítona,False
+cassanga,"['cas', 'san', 'ga']",1,paroxítona,False
+cassanje,"['cas', 'san', 'je']",1,paroxítona,False
+cassar,"['cas', 'sar']",1,oxítona,False
+cassete,"['cas', 'se', 'te']",1,paroxítona,False
+cassetete,"['cas', 'se', 'te', 'te']",2,paroxítona,False
+cássia,"['cás', 'si', 'a']",0,proparoxítona,False
+cassia,"['cas', 'si', 'a']",1,paroxítona,False
+cassino,"['cas', 'si', 'no']",1,paroxítona,False
+cassiterita,"['cas', 'si', 'te', 'ri', 'ta']",3,paroxítona,False
+cassiterite,"['cas', 'si', 'te', 'ri', 'te']",3,paroxítona,False
+casso,"['cas', 'so']",0,paroxítona,False
+cast,['cast'],0,oxítona,False
+casta,"['cas', 'ta']",0,paroxítona,False
+castamente,"['cas', 'ta', 'men', 'te']",2,paroxítona,False
+castanha,"['cas', 'ta', 'nha']",1,paroxítona,False
+castanhal,"['cas', 'ta', 'nhal']",2,oxítona,False
+castanheira,"['cas', 'ta', 'nhei', 'ra']",2,paroxítona,False
+castanheirense,"['cas', 'ta', 'nhei', 'ren', 'se']",3,paroxítona,False
+castanheiro,"['cas', 'ta', 'nhei', 'ro']",2,paroxítona,False
+castanheta,"['cas', 'ta', 'nhe', 'ta']",2,paroxítona,False
+castanho,"['cas', 'ta', 'nho']",1,paroxítona,False
+castanholar,"['cas', 'ta', 'nho', 'lar']",3,oxítona,False
+castanholas,"['cas', 'ta', 'nho', 'las']",2,paroxítona,False
+castão,"['cas', 'tão']",1,oxítona,False
+castelã,"['cas', 'te', 'lã']",2,oxítona,False
+castelão,"['cas', 'te', 'lão']",2,oxítona,False
+casteleiro,"['cas', 'te', 'lei', 'ro']",2,paroxítona,False
+castelejo,"['cas', 'te', 'le', 'jo']",2,paroxítona,False
+castelhana,"['cas', 'te', 'lha', 'na']",2,paroxítona,False
+castelhanamente,"['cas', 'te', 'lha', 'na', 'men', 'te']",4,paroxítona,False
+castelhanismo,"['cas', 'te', 'lha', 'nis', 'mo']",3,paroxítona,False
+castelhanizar,"['cas', 'te', 'lha', 'ni', 'zar']",4,oxítona,False
+castelhano,"['cas', 'te', 'lha', 'no']",2,paroxítona,False
+castelo,"['cas', 'te', 'lo']",1,paroxítona,False
+castiça,"['cas', 'ti', 'ça']",1,paroxítona,False
+castiçal,"['cas', 'ti', 'çal']",2,oxítona,False
+castiçamente,"['cas', 'ti', 'ça', 'men', 'te']",3,paroxítona,False
+castiçar,"['cas', 'ti', 'çar']",2,oxítona,False
+casticismo,"['cas', 'ti', 'cis', 'mo']",2,paroxítona,False
+castiço,"['cas', 'ti', 'ço']",1,paroxítona,False
+castidade,"['cas', 'ti', 'da', 'de']",2,paroxítona,False
+castigador,"['cas', 'ti', 'ga', 'dor']",3,oxítona,False
+castigar,"['cas', 'ti', 'gar']",2,oxítona,False
+castigo,"['cas', 'ti', 'go']",1,paroxítona,False
+casting,"['cas', 'ting']",0,paroxítona,False
+casto,"['cas', 'to']",0,paroxítona,False
+castor,"['cas', 'tor']",1,oxítona,False
+castração,"['cas', 'tra', 'ção']",2,oxítona,False
+castrada,"['cas', 'tra', 'da']",1,paroxítona,False
+castrado,"['cas', 'tra', 'do']",1,paroxítona,False
+castrador,"['cas', 'tra', 'dor']",2,oxítona,False
+castrar,"['cas', 'trar']",1,oxítona,False
+castreja,"['cas', 'tre', 'ja']",1,paroxítona,False
+castrejo,"['cas', 'tre', 'jo']",1,paroxítona,False
+castrelo,"['cas', 'tre', 'lo']",1,paroxítona,False
+castrense,"['cas', 'tren', 'se']",1,paroxítona,False
+castrismo,"['cas', 'tris', 'mo']",1,paroxítona,False
+castro,"['cas', 'tro']",0,paroxítona,False
+casual,"['ca', 'su', 'al']",2,oxítona,False
+casualidade,"['ca', 'su', 'a', 'li', 'da', 'de']",4,paroxítona,False
+casualmente,"['ca', 'su', 'al', 'men', 'te']",3,paroxítona,False
+casuar,"['ca', 'su', 'ar']",2,oxítona,False
+casuarina,"['ca', 'su', 'a', 'ri', 'na']",3,paroxítona,False
+casuísta,"['ca', 'su', 'ís', 'ta']",2,paroxítona,False
+casuística,"['ca', 'su', 'ís', 'ti', 'ca']",2,proparoxítona,False
+casuisticamente,"['ca', 'suis', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+casuístico,"['ca', 'su', 'ís', 'ti', 'co']",2,proparoxítona,False
+casula,"['ca', 'su', 'la']",1,paroxítona,True
+casulo,"['ca', 'su', 'lo']",1,paroxítona,True
+cata,"['ca', 'ta']",0,paroxítona,True
+cata-vento,"['ca', 'ta-', 'ven', 'to']",2,paroxítona,False
+cataclísmico,"['ca', 'ta', 'clís', 'mi', 'co']",2,proparoxítona,False
+cataclismo,"['ca', 'ta', 'clis', 'mo']",2,paroxítona,False
+catacrese,"['ca', 'ta', 'cre', 'se']",2,paroxítona,False
+catacumba,"['ca', 'ta', 'cum', 'ba']",2,paroxítona,False
+catadupa,"['ca', 'ta', 'du', 'pa']",2,paroxítona,True
+catadura,"['ca', 'ta', 'du', 'ra']",2,paroxítona,True
+catalã,"['ca', 'ta', 'lã']",2,oxítona,True
+catalão,"['ca', 'ta', 'lão']",2,oxítona,False
+cataléptica,"['ca', 'ta', 'lép', 'ti', 'ca']",2,proparoxítona,False
+cataléptico,"['ca', 'ta', 'lép', 'ti', 'co']",2,proparoxítona,False
+catalisador,"['ca', 'ta', 'li', 'sa', 'dor']",4,oxítona,False
+catalisar,"['ca', 'ta', 'li', 'sar']",3,oxítona,False
+catálise,"['ca', 'tá', 'li', 'se']",1,proparoxítona,True
+cataliticamente,"['ca', 'ta', 'li', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+catalítico,"['ca', 'ta', 'lí', 'ti', 'co']",2,proparoxítona,True
+catalogação,"['ca', 'ta', 'lo', 'ga', 'ção']",4,oxítona,False
+catalogador,"['ca', 'ta', 'lo', 'ga', 'dor']",4,oxítona,False
+catalogar,"['ca', 'ta', 'lo', 'gar']",3,oxítona,False
+catálogo,"['ca', 'tá', 'lo', 'go']",1,proparoxítona,True
+catamarã,"['ca', 'ta', 'ma', 'rã']",3,oxítona,True
+catamaran,"['ca', 'ta', 'ma', 'ran']",3,oxítona,False
+catana,"['ca', 'ta', 'na']",1,paroxítona,True
+catanada,"['ca', 'ta', 'na', 'da']",2,paroxítona,True
+catanguês,"['ca', 'tan', 'guês']",2,oxítona,False
+catão,"['ca', 'tão']",1,oxítona,False
+catapereiro,"['ca', 'ta', 'pe', 'rei', 'ro']",3,paroxítona,False
+cataplana,"['ca', 'ta', 'pla', 'na']",2,paroxítona,False
+cataplasma,"['ca', 'ta', 'plas', 'ma']",2,paroxítona,False
+cataplasmar,"['ca', 'ta', 'plas', 'mar']",3,oxítona,False
+catapulta,"['ca', 'ta', 'pul', 'ta']",2,paroxítona,False
+catapultar,"['ca', 'ta', 'pul', 'tar']",3,oxítona,False
+catar,"['ca', 'tar']",1,oxítona,False
+catarata,"['ca', 'ta', 'ra', 'ta']",2,paroxítona,True
+catarina,"['ca', 'ta', 'ri', 'na']",2,paroxítona,True
+catarino,"['ca', 'ta', 'ri', 'no']",2,paroxítona,True
+cátaro,"['cá', 'ta', 'ro']",0,proparoxítona,True
+catarro,"['ca', 'tar', 'ro']",1,paroxítona,False
+catarse,"['ca', 'tar', 'se']",1,paroxítona,False
+catarticamente,"['ca', 'tar', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+catártico,"['ca', 'tár', 'ti', 'co']",1,proparoxítona,False
+catassol,"['ca', 'tas', 'sol']",2,oxítona,False
+catástrofe,"['ca', 'tás', 'tro', 'fe']",1,proparoxítona,False
+catastroficamente,"['ca', 'tas', 'tro', 'fi', 'ca', 'men', 'te']",5,paroxítona,False
+catastrófico,"['ca', 'tas', 'tró', 'fi', 'co']",2,proparoxítona,False
+catastrofismo,"['ca', 'tas', 'tro', 'fis', 'mo']",3,paroxítona,False
+catastrofista,"['ca', 'tas', 'tro', 'fis', 'ta']",3,paroxítona,False
+catatau,"['ca', 'ta', 'tau']",2,oxítona,False
+catatonia,"['ca', 'ta', 'to', 'ni', 'a']",3,paroxítona,False
+catatônico,"['ca', 'ta', 'tô', 'ni', 'co']",2,proparoxítona,True
+catatónico,"['ca', 'ta', 'tó', 'ni', 'co']",2,proparoxítona,True
+catatua,"['ca', 'ta', 'tu', 'a']",2,paroxítona,False
+cate,"['ca', 'te']",0,paroxítona,True
+catecismo,"['ca', 'te', 'cis', 'mo']",2,paroxítona,False
+catecolamina,"['ca', 'te', 'co', 'la', 'mi', 'na']",4,paroxítona,True
+catecumenato,"['ca', 'te', 'cu', 'me', 'na', 'to']",4,paroxítona,True
+cátedra,"['cá', 'te', 'dra']",0,proparoxítona,False
+catedral,"['ca', 'te', 'dral']",2,oxítona,False
+catedrática,"['ca', 'te', 'drá', 'ti', 'ca']",2,proparoxítona,False
+catedraticamente,"['ca', 'te', 'dra', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+catedrático,"['ca', 'te', 'drá', 'ti', 'co']",2,proparoxítona,False
+categoria,"['ca', 'te', 'go', 'ri', 'a']",3,paroxítona,False
+categorial,"['ca', 'te', 'go', 'ri', 'al']",4,oxítona,False
+categoricamente,"['ca', 'te', 'go', 'ri', 'ca', 'men', 'te']",5,paroxítona,False
+categórico,"['ca', 'te', 'gó', 'ri', 'co']",2,proparoxítona,True
+categorização,"['ca', 'te', 'go', 'ri', 'za', 'ção']",5,oxítona,False
+categorizado,"['ca', 'te', 'go', 'ri', 'za', 'do']",4,paroxítona,True
+categorizar,"['ca', 'te', 'go', 'ri', 'zar']",4,oxítona,False
+catembe,"['ca', 'tem', 'be']",1,paroxítona,False
+catenária,"['ca', 'te', 'ná', 'ri', 'a']",2,proparoxítona,False
+catequese,"['ca', 'te', 'que', 'se']",2,paroxítona,False
+catequético,"['ca', 'te', 'qué', 'ti', 'co']",2,proparoxítona,False
+catequista,"['ca', 'te', 'quis', 'ta']",2,paroxítona,False
+catequização,"['ca', 'te', 'qui', 'za', 'ção']",4,oxítona,False
+catequizar,"['ca', 'te', 'qui', 'zar']",3,oxítona,False
+caterva,"['ca', 'ter', 'va']",1,paroxítona,False
+catete,"['ca', 'te', 'te']",1,paroxítona,True
+cateter,"['ca', 'te', 'ter']",2,oxítona,False
+cateterismo,"['ca', 'te', 'te', 'ris', 'mo']",3,paroxítona,False
+cateto,"['ca', 'te', 'to']",1,paroxítona,True
+catilinária,"['ca', 'ti', 'li', 'ná', 'ri', 'a']",3,proparoxítona,False
+catita,"['ca', 'ti', 'ta']",1,paroxítona,True
+catitar,"['ca', 'ti', 'tar']",2,oxítona,False
+cativa,"['ca', 'ti', 'va']",1,paroxítona,True
+cativação,"['ca', 'ti', 'va', 'ção']",3,oxítona,False
+cativante,"['ca', 'ti', 'van', 'te']",2,paroxítona,False
+cativantemente,"['ca', 'ti', 'van', 'te', 'men', 'te']",4,paroxítona,False
+cativar,"['ca', 'ti', 'var']",2,oxítona,False
+cativeiro,"['ca', 'ti', 'vei', 'ro']",2,paroxítona,False
+cativo,"['ca', 'ti', 'vo']",1,paroxítona,True
+cato,"['ca', 'to']",0,paroxítona,True
+catódico,"['ca', 'tó', 'di', 'co']",1,proparoxítona,True
+católica,"['ca', 'tó', 'li', 'ca']",1,proparoxítona,True
+catolicamente,"['ca', 'to', 'li', 'ca', 'men', 'te']",4,paroxítona,False
+catolicidade,"['ca', 'to', 'li', 'ci', 'da', 'de']",4,paroxítona,True
+catolicismo,"['ca', 'to', 'li', 'cis', 'mo']",3,paroxítona,False
+católico,"['ca', 'tó', 'li', 'co']",1,proparoxítona,True
+catorze,"['ca', 'tor', 'ze']",1,paroxítona,False
+catraeiro,"['ca', 'tra', 'ei', 'ro']",2,paroxítona,False
+catraia,"['ca', 'trai', 'a']",1,paroxítona,False
+catraiar,"['ca', 'trai', 'ar']",2,oxítona,False
+catraio,"['ca', 'trai', 'o']",1,paroxítona,False
+catrapiscar,"['ca', 'tra', 'pis', 'car']",3,oxítona,False
+catre,"['ca', 'tre']",0,paroxítona,False
+catrefa,"['ca', 'tre', 'fa']",1,paroxítona,False
+catrefada,"['ca', 'tre', 'fa', 'da']",2,paroxítona,False
+catulo,"['ca', 'tu', 'lo']",1,paroxítona,True
+caturra,"['ca', 'tur', 'ra']",1,paroxítona,False
+caturrar,"['ca', 'tur', 'rar']",2,oxítona,False
+caturrice,"['ca', 'tur', 'ri', 'ce']",2,paroxítona,False
+cau,['cau'],0,oxítona,False
+caução,"['cau', 'ção']",1,oxítona,False
+caucasiano,"['cau', 'ca', 'si', 'a', 'no']",3,paroxítona,False
+cauchu,"['cau', 'chu']",1,oxítona,False
+caucionar,"['cau', 'ci', 'o', 'nar']",3,oxítona,False
+cauda,"['cau', 'da']",0,paroxítona,False
+caudal,"['cau', 'dal']",1,oxítona,False
+caudalosamente,"['cau', 'da', 'lo', 'sa', 'men', 'te']",4,paroxítona,False
+caudaloso,"['cau', 'da', 'lo', 'so']",2,paroxítona,False
+caudatário,"['cau', 'da', 'tá', 'ri', 'o']",2,proparoxítona,False
+caudilhar,"['cau', 'di', 'lhar']",2,oxítona,False
+caudilhismo,"['cau', 'di', 'lhis', 'mo']",2,paroxítona,False
+caudilho,"['cau', 'di', 'lho']",1,paroxítona,False
+caule,"['cau', 'le']",0,paroxítona,False
+caulino,"['cau', 'li', 'no']",1,paroxítona,False
+causa,"['cau', 'sa']",0,paroxítona,False
+causador,"['cau', 'sa', 'dor']",2,oxítona,False
+causadora,"['cau', 'sa', 'do', 'ra']",2,paroxítona,False
+causal,"['cau', 'sal']",1,oxítona,False
+causalidade,"['cau', 'sa', 'li', 'da', 'de']",3,paroxítona,False
+causante,"['cau', 'san', 'te']",1,paroxítona,False
+causar,"['cau', 'sar']",1,oxítona,False
+causídica,"['cau', 'sí', 'di', 'ca']",1,proparoxítona,False
+causídico,"['cau', 'sí', 'di', 'co']",1,proparoxítona,False
+cáustica,"['cáus', 'ti', 'ca']",0,proparoxítona,False
+causticamente,"['caus', 'ti', 'ca', 'men', 'te']",3,paroxítona,False
+causticar,"['caus', 'ti', 'car']",2,oxítona,False
+causticidade,"['caus', 'ti', 'ci', 'da', 'de']",3,paroxítona,False
+cáustico,"['cáus', 'ti', 'co']",0,proparoxítona,False
+cautamente,"['cau', 'ta', 'men', 'te']",2,paroxítona,False
+cautela,"['cau', 'te', 'la']",1,paroxítona,False
+cautelar,"['cau', 'te', 'lar']",2,oxítona,False
+cauteleiro,"['cau', 'te', 'lei', 'ro']",2,paroxítona,False
+cautelosa,"['cau', 'te', 'lo', 'sa']",2,paroxítona,False
+cautelosamente,"['cau', 'te', 'lo', 'sa', 'men', 'te']",4,paroxítona,False
+cauteloso,"['cau', 'te', 'lo', 'so']",2,paroxítona,False
+cauterização,"['cau', 'te', 'ri', 'za', 'ção']",4,oxítona,False
+cauto,"['cau', 'to']",0,paroxítona,False
+cava,"['ca', 'va']",0,paroxítona,True
+cavaca,"['ca', 'va', 'ca']",1,paroxítona,True
+cavacar,"['ca', 'va', 'car']",2,oxítona,False
+cavaco,"['ca', 'va', 'co']",1,paroxítona,True
+cavada,"['ca', 'va', 'da']",1,paroxítona,True
+cavadela,"['ca', 'va', 'de', 'la']",2,paroxítona,True
+cavado,"['ca', 'va', 'do']",1,paroxítona,True
+cavador,"['ca', 'va', 'dor']",2,oxítona,False
+cavala,"['ca', 'va', 'la']",1,paroxítona,True
+cavalada,"['ca', 'va', 'la', 'da']",2,paroxítona,True
+cavalagem,"['ca', 'va', 'la', 'gem']",2,paroxítona,False
+cavalão,"['ca', 'va', 'lão']",2,oxítona,False
+cavalar,"['ca', 'va', 'lar']",2,oxítona,False
+cavalaria,"['ca', 'va', 'la', 'ri', 'a']",3,paroxítona,False
+cavalariça,"['ca', 'va', 'la', 'ri', 'ça']",3,paroxítona,True
+cavaleira,"['ca', 'va', 'lei', 'ra']",2,paroxítona,False
+cavaleiramente,"['ca', 'va', 'lei', 'ra', 'men', 'te']",4,paroxítona,False
+cavaleirar,"['ca', 'va', 'lei', 'rar']",3,oxítona,False
+cavaleiras,"['ca', 'va', 'lei', 'ras']",2,paroxítona,False
+cavaleiro,"['ca', 'va', 'lei', 'ro']",2,paroxítona,False
+cavalete,"['ca', 'va', 'le', 'te']",2,paroxítona,True
+cavalgada,"['ca', 'val', 'ga', 'da']",2,paroxítona,False
+cavalgadura,"['ca', 'val', 'ga', 'du', 'ra']",3,paroxítona,False
+cavalgamento,"['ca', 'val', 'ga', 'men', 'to']",3,paroxítona,False
+cavalgante,"['ca', 'val', 'gan', 'te']",2,paroxítona,False
+cavalgar,"['ca', 'val', 'gar']",2,oxítona,False
+cavalhada,"['ca', 'va', 'lha', 'da']",2,paroxítona,False
+cavalhadas,"['ca', 'va', 'lha', 'das']",2,paroxítona,False
+cavalheirescamente,"['ca', 'va', 'lhei', 'res', 'ca', 'men', 'te']",5,paroxítona,False
+cavalheiresco,"['ca', 'va', 'lhei', 'res', 'co']",3,paroxítona,False
+cavalheirismo,"['ca', 'va', 'lhei', 'ris', 'mo']",3,paroxítona,False
+cavalheiro,"['ca', 'va', 'lhei', 'ro']",2,paroxítona,False
+cavalinha,"['ca', 'va', 'li', 'nha']",2,paroxítona,False
+cavalinho,"['ca', 'va', 'li', 'nho']",2,paroxítona,False
+cavalitas,"['ca', 'va', 'li', 'tas']",2,paroxítona,False
+cavalo,"['ca', 'va', 'lo']",1,paroxítona,True
+cavalo de batalha,"['ca', 'va', 'lo de ba', 'ta', 'lha']",3,paroxítona,False
+cavalo-marinho,"['ca', 'va', 'lo-ma', 'ri', 'nho']",3,paroxítona,False
+cavalo-vapor,"['ca', 'va', 'lo-va', 'por']",3,oxítona,False
+cavamente,"['ca', 'va', 'men', 'te']",2,paroxítona,False
+cavaquear,"['ca', 'va', 'que', 'ar']",3,oxítona,False
+cavaqueio,"['ca', 'va', 'quei', 'o']",2,paroxítona,False
+cavaqueira,"['ca', 'va', 'quei', 'ra']",2,paroxítona,False
+cavaquinho,"['ca', 'va', 'qui', 'nho']",2,paroxítona,False
+cavaquismo,"['ca', 'va', 'quis', 'mo']",2,paroxítona,False
+cavaquista,"['ca', 'va', 'quis', 'ta']",2,paroxítona,False
+cavar,"['ca', 'var']",1,oxítona,False
+cavatina,"['ca', 'va', 'ti', 'na']",2,paroxítona,True
+cave,"['ca', 've']",0,paroxítona,True
+caveira,"['ca', 'vei', 'ra']",1,paroxítona,False
+caverna,"['ca', 'ver', 'na']",1,paroxítona,False
+cavername,"['ca', 'ver', 'na', 'me']",2,paroxítona,False
+cavernar,"['ca', 'ver', 'nar']",2,oxítona,False
+cavernícola,"['ca', 'ver', 'ní', 'co', 'la']",2,proparoxítona,False
+cavernosamente,"['ca', 'ver', 'no', 'sa', 'men', 'te']",4,paroxítona,False
+cavernoso,"['ca', 'ver', 'no', 'so']",2,paroxítona,False
+caviar,"['ca', 'vi', 'ar']",2,oxítona,False
+cavidade,"['ca', 'vi', 'da', 'de']",2,paroxítona,True
+cavilha,"['ca', 'vi', 'lha']",1,paroxítona,False

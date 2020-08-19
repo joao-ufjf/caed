@@ -1,0 +1,1673 @@
+word,syllables,tonic,class,canonic
+pá,['pá'],0,oxítona,True
+paca,"['pa', 'ca']",0,paroxítona,True
+pacaça,"['pa', 'ca', 'ça']",1,paroxítona,True
+pacata,"['pa', 'ca', 'ta']",1,paroxítona,True
+pacatamente,"['pa', 'ca', 'ta', 'men', 'te']",3,paroxítona,False
+pacatez,"['pa', 'ca', 'tez']",2,oxítona,False
+pacato,"['pa', 'ca', 'to']",1,paroxítona,True
+pacau,"['pa', 'cau']",1,oxítona,False
+pacemaker,"['pa', 'ce', 'ma', 'ker']",2,paroxítona,False
+pacense,"['pa', 'cen', 'se']",1,paroxítona,False
+pacho,"['pa', 'cho']",0,paroxítona,False
+pachorra,"['pa', 'chor', 'ra']",1,paroxítona,False
+pachorrentamente,"['pa', 'chor', 'ren', 'ta', 'men', 'te']",4,paroxítona,False
+pachorrento,"['pa', 'chor', 'ren', 'to']",2,paroxítona,False
+paciência,"['pa', 'ci', 'ên', 'ci', 'a']",2,proparoxítona,False
+pacientar,"['pa', 'ci', 'en', 'tar']",3,oxítona,False
+paciente,"['pa', 'ci', 'en', 'te']",2,paroxítona,False
+pacientemente,"['pa', 'ci', 'en', 'te', 'men', 'te']",4,paroxítona,False
+pacificação,"['pa', 'ci', 'fi', 'ca', 'ção']",4,oxítona,False
+pacificado,"['pa', 'ci', 'fi', 'ca', 'do']",3,paroxítona,True
+pacificador,"['pa', 'ci', 'fi', 'ca', 'dor']",4,oxítona,False
+pacificadora,"['pa', 'ci', 'fi', 'ca', 'do', 'ra']",4,paroxítona,True
+pacificamente,"['pa', 'ci', 'fi', 'ca', 'men', 'te']",4,paroxítona,False
+pacificar,"['pa', 'ci', 'fi', 'car']",3,oxítona,False
+pacífico,"['pa', 'cí', 'fi', 'co']",1,proparoxítona,True
+pacifismo,"['pa', 'ci', 'fis', 'mo']",2,paroxítona,False
+pacifista,"['pa', 'ci', 'fis', 'ta']",2,paroxítona,False
+pack,['pack'],0,oxítona,False
+paco,"['pa', 'co']",0,paroxítona,True
+paço,"['pa', 'ço']",0,paroxítona,True
+pacote,"['pa', 'co', 'te']",1,paroxítona,True
+pacotilha,"['pa', 'co', 'ti', 'lha']",2,paroxítona,False
+pacóvia,"['pa', 'có', 'vi', 'a']",1,proparoxítona,False
+pacoviamente,"['pa', 'co', 'vi', 'a', 'men', 'te']",4,paroxítona,False
+pacóvio,"['pa', 'có', 'vi', 'o']",1,proparoxítona,False
+pacto,"['pac', 'to']",0,paroxítona,False
+pactuado,"['pac', 'tu', 'a', 'do']",2,paroxítona,False
+pactuar,"['pac', 'tu', 'ar']",2,oxítona,False
+pada,"['pa', 'da']",0,paroxítona,True
+padaria,"['pa', 'da', 'ri', 'a']",2,paroxítona,False
+padecer,"['pa', 'de', 'cer']",2,oxítona,False
+padecimento,"['pa', 'de', 'ci', 'men', 'to']",3,paroxítona,False
+padeira,"['pa', 'dei', 'ra']",1,paroxítona,False
+padeiro,"['pa', 'dei', 'ro']",1,paroxítona,False
+padinha,"['pa', 'di', 'nha']",1,paroxítona,False
+padiola,"['pa', 'di', 'o', 'la']",2,paroxítona,False
+padralhada,"['pa', 'dra', 'lha', 'da']",2,paroxítona,False
+padrão,"['pa', 'drão']",1,oxítona,False
+padrar,"['pa', 'drar']",1,oxítona,False
+padrasto,"['pa', 'dras', 'to']",1,paroxítona,False
+padre,"['pa', 'dre']",0,paroxítona,False
+padre-nosso,"['pa', 'dre-', 'nos', 'so']",2,paroxítona,False
+padreca,"['pa', 'dre', 'ca']",1,paroxítona,False
+padrinho,"['pa', 'dri', 'nho']",1,paroxítona,False
+padroado,"['pa', 'dro', 'a', 'do']",2,paroxítona,False
+padroeira,"['pa', 'dro', 'ei', 'ra']",2,paroxítona,False
+padroeiro,"['pa', 'dro', 'ei', 'ro']",2,paroxítona,False
+padronização,"['pa', 'dro', 'ni', 'za', 'ção']",4,oxítona,False
+padronizado,"['pa', 'dro', 'ni', 'za', 'do']",3,paroxítona,False
+padronizar,"['pa', 'dro', 'ni', 'zar']",3,oxítona,False
+paelha,"['pa', 'e', 'lha']",1,paroxítona,False
+paella,"['pa', 'el', 'la']",1,paroxítona,False
+paga,"['pa', 'ga']",0,paroxítona,True
+pagã,"['pa', 'gã']",1,oxítona,True
+pagador,"['pa', 'ga', 'dor']",2,oxítona,False
+pagadora,"['pa', 'ga', 'do', 'ra']",2,paroxítona,True
+pagaia,"['pa', 'gai', 'a']",1,paroxítona,False
+pagaiar,"['pa', 'gai', 'ar']",2,oxítona,False
+pagamento,"['pa', 'ga', 'men', 'to']",2,paroxítona,False
+paganismo,"['pa', 'ga', 'nis', 'mo']",2,paroxítona,False
+pagante,"['pa', 'gan', 'te']",1,paroxítona,False
+pagão,"['pa', 'gão']",1,oxítona,False
+pagar,"['pa', 'gar']",1,oxítona,False
+pagável,"['pa', 'gá', 'vel']",1,paroxítona,False
+pagela,"['pa', 'ge', 'la']",1,paroxítona,True
+pager,"['pa', 'ger']",0,paroxítona,False
+página,"['pá', 'gi', 'na']",0,proparoxítona,True
+paginação,"['pa', 'gi', 'na', 'ção']",3,oxítona,False
+paginado,"['pa', 'gi', 'na', 'do']",2,paroxítona,True
+paginador,"['pa', 'gi', 'na', 'dor']",3,oxítona,False
+paginar,"['pa', 'gi', 'nar']",2,oxítona,False
+pago,"['pa', 'go']",0,paroxítona,True
+pagode,"['pa', 'go', 'de']",1,paroxítona,True
+pai,['pai'],0,oxítona,False
+pai de santo,"['pai', ' de ', 'san', 'to']",2,paroxítona,False
+pai-nosso,"['pai', 'nos', 'so']",1,paroxítona,False
+pai-velho,"['pai', 've', 'lho']",1,paroxítona,False
+paim,"['pa', 'im']",1,oxítona,False
+painço,"['pa', 'in', 'ço']",1,paroxítona,False
+painel,"['pai', 'nel']",1,oxítona,False
+painho,"['pa', 'i', 'nho']",1,paroxítona,False
+paintball,"['paint', 'ball']",1,oxítona,False
+paio,"['pai', 'o']",0,paroxítona,False
+paiol,"['pai', 'ol']",1,oxítona,False
+pairar,"['pai', 'rar']",1,oxítona,False
+país,"['pa', 'ís']",1,oxítona,False
+país-membro,"['pa', 'ís', 'mem', 'bro']",2,paroxítona,False
+paisagem,"['pai', 'sa', 'gem']",1,paroxítona,False
+paisagismo,"['pai', 'sa', 'gis', 'mo']",2,paroxítona,False
+paisagista,"['pai', 'sa', 'gis', 'ta']",2,paroxítona,False
+paisagisticamente,"['pai', 'sa', 'gis', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+paisagístico,"['pai', 'sa', 'gís', 'ti', 'co']",2,proparoxítona,False
+paisana,"['pai', 'sa', 'na']",1,paroxítona,False
+paisano,"['pai', 'sa', 'no']",1,paroxítona,False
+paivense,"['pai', 'ven', 'se']",1,paroxítona,False
+paixão,"['pai', 'xão']",1,oxítona,False
+paixoneta,"['pai', 'xo', 'ne', 'ta']",2,paroxítona,False
+paizinho,"['pai', 'zi', 'nho']",1,paroxítona,False
+pajem,"['pa', 'jem']",0,paroxítona,False
+pala,"['pa', 'la']",0,paroxítona,True
+palacete,"['pa', 'la', 'ce', 'te']",2,paroxítona,True
+palacianamente,"['pa', 'la', 'ci', 'a', 'na', 'men', 'te']",5,paroxítona,False
+palaciano,"['pa', 'la', 'ci', 'a', 'no']",3,paroxítona,False
+palácio,"['pa', 'lá', 'ci', 'o']",1,proparoxítona,False
+paladar,"['pa', 'la', 'dar']",2,oxítona,False
+paladino,"['pa', 'la', 'di', 'no']",2,paroxítona,True
+paládio,"['pa', 'lá', 'di', 'o']",1,proparoxítona,False
+palafita,"['pa', 'la', 'fi', 'ta']",2,paroxítona,True
+palafrém,"['pa', 'la', 'frém']",2,oxítona,False
+palafreneiro,"['pa', 'la', 'fre', 'nei', 'ro']",3,paroxítona,False
+palaio,"['pa', 'lai', 'o']",1,paroxítona,False
+pálamo,"['pá', 'la', 'mo']",0,proparoxítona,True
+palanca,"['pa', 'lan', 'ca']",1,paroxítona,False
+palancar,"['pa', 'lan', 'car']",2,oxítona,False
+palanque,"['pa', 'lan', 'que']",1,paroxítona,False
+palanquim,"['pa', 'lan', 'quim']",2,oxítona,False
+palatina,"['pa', 'la', 'ti', 'na']",2,paroxítona,True
+palatinado,"['pa', 'la', 'ti', 'na', 'do']",3,paroxítona,True
+palatino,"['pa', 'la', 'ti', 'no']",2,paroxítona,True
+palato,"['pa', 'la', 'to']",1,paroxítona,True
+palavra,"['pa', 'la', 'vra']",1,paroxítona,False
+palavra-chave,"['pa', 'la', 'vra-', 'cha', 've']",3,paroxítona,False
+palavrão,"['pa', 'la', 'vrão']",2,oxítona,False
+palavreado,"['pa', 'la', 'vre', 'a', 'do']",3,paroxítona,False
+palavrear,"['pa', 'la', 'vre', 'ar']",3,oxítona,False
+palavrinha,"['pa', 'la', 'vri', 'nha']",2,paroxítona,False
+palavrosa,"['pa', 'la', 'vro', 'sa']",2,paroxítona,False
+palavrosamente,"['pa', 'la', 'vro', 'sa', 'men', 'te']",4,paroxítona,False
+palavroso,"['pa', 'la', 'vro', 'so']",2,paroxítona,False
+palco,"['pal', 'co']",0,paroxítona,False
+palear,"['pa', 'le', 'ar']",2,oxítona,False
+paleio,"['pa', 'lei', 'o']",1,paroxítona,False
+paleoantropologia,"['pa', 'le', 'o', 'an', 'tro', 'po', 'lo', 'gi', 'a']",7,paroxítona,False
+paleoantropólogo,"['pa', 'le', 'o', 'an', 'tro', 'pó', 'lo', 'go']",5,proparoxítona,False
+paleobiologia,"['pa', 'le', 'o', 'bi', 'o', 'lo', 'gi', 'a']",6,paroxítona,False
+paleocristão,"['pa', 'le', 'o', 'cris', 'tão']",4,oxítona,False
+paleoecologia,"['pa', 'le', 'o', 'e', 'co', 'lo', 'gi', 'a']",6,paroxítona,False
+paleografia,"['pa', 'le', 'o', 'gra', 'fi', 'a']",4,paroxítona,False
+paleolítico,"['pa', 'le', 'o', 'lí', 'ti', 'co']",3,proparoxítona,False
+paleontologia,"['pa', 'le', 'on', 'to', 'lo', 'gi', 'a']",5,paroxítona,False
+paleontológico,"['pa', 'le', 'on', 'to', 'ló', 'gi', 'co']",4,proparoxítona,False
+paleontologista,"['pa', 'le', 'on', 'to', 'lo', 'gis', 'ta']",5,paroxítona,False
+paleontólogo,"['pa', 'le', 'on', 'tó', 'lo', 'go']",3,proparoxítona,False
+paleozoico,"['pa', 'le', 'o', 'zoi', 'co']",3,paroxítona,False
+palerma,"['pa', 'ler', 'ma']",1,paroxítona,False
+palermice,"['pa', 'ler', 'mi', 'ce']",2,paroxítona,False
+palermitana,"['pa', 'ler', 'mi', 'ta', 'na']",3,paroxítona,False
+palermitano,"['pa', 'ler', 'mi', 'ta', 'no']",3,paroxítona,False
+palestina,"['pa', 'les', 'ti', 'na']",2,paroxítona,False
+palestiniana,"['pa', 'les', 'ti', 'ni', 'a', 'na']",4,paroxítona,False
+palestiniano,"['pa', 'les', 'ti', 'ni', 'a', 'no']",4,paroxítona,False
+palestino,"['pa', 'les', 'ti', 'no']",2,paroxítona,False
+palestra,"['pa', 'les', 'tra']",1,paroxítona,False
+palestrante,"['pa', 'les', 'tran', 'te']",2,paroxítona,False
+palestrar,"['pa', 'les', 'trar']",2,oxítona,False
+paleta,"['pa', 'le', 'ta']",1,paroxítona,True
+palete,"['pa', 'le', 'te']",1,paroxítona,True
+paletó,"['pa', 'le', 'tó']",2,oxítona,True
+palha,"['pa', 'lha']",0,paroxítona,False
+palhaçada,"['pa', 'lha', 'ça', 'da']",2,paroxítona,False
+palhaço,"['pa', 'lha', 'ço']",1,paroxítona,False
+palhal,"['pa', 'lhal']",1,oxítona,False
+palhar,"['pa', 'lhar']",1,oxítona,False
+palheira,"['pa', 'lhei', 'ra']",1,paroxítona,False
+palheirão,"['pa', 'lhei', 'rão']",2,oxítona,False
+palheiro,"['pa', 'lhei', 'ro']",1,paroxítona,False
+palheta,"['pa', 'lhe', 'ta']",1,paroxítona,False
+palhetar,"['pa', 'lhe', 'tar']",2,oxítona,False
+palhete,"['pa', 'lhe', 'te']",1,paroxítona,False
+palheto,"['pa', 'lhe', 'to']",1,paroxítona,False
+palhiço,"['pa', 'lhi', 'ço']",1,paroxítona,False
+palhinha,"['pa', 'lhi', 'nha']",1,paroxítona,False
+palhoça,"['pa', 'lho', 'ça']",1,paroxítona,False
+palhota,"['pa', 'lho', 'ta']",1,paroxítona,False
+paliar,"['pa', 'li', 'ar']",2,oxítona,False
+paliativo,"['pa', 'li', 'a', 'ti', 'vo']",3,paroxítona,False
+paliçada,"['pa', 'li', 'ça', 'da']",2,paroxítona,True
+palidamente,"['pa', 'li', 'da', 'men', 'te']",3,paroxítona,False
+palidez,"['pa', 'li', 'dez']",2,oxítona,False
+pálido,"['pá', 'li', 'do']",0,proparoxítona,True
+palimpsesto,"['pa', 'limp', 'ses', 'to']",2,paroxítona,False
+palinuro,"['pa', 'li', 'nu', 'ro']",2,paroxítona,True
+pálio,"['pá', 'li', 'o']",0,proparoxítona,False
+palitar,"['pa', 'li', 'tar']",2,oxítona,False
+paliteiro,"['pa', 'li', 'tei', 'ro']",2,paroxítona,False
+palito,"['pa', 'li', 'to']",1,paroxítona,True
+palma,"['pal', 'ma']",0,paroxítona,False
+palmada,"['pal', 'ma', 'da']",1,paroxítona,False
+palmado,"['pal', 'ma', 'do']",1,paroxítona,False
+palmar,"['pal', 'mar']",1,oxítona,False
+palmarés,"['pal', 'ma', 'rés']",2,oxítona,False
+palmares,"['pal', 'ma', 'res']",1,paroxítona,False
+palmatoada,"['pal', 'ma', 'to', 'a', 'da']",3,paroxítona,False
+palmatoar,"['pal', 'ma', 'to', 'ar']",3,oxítona,False
+palmatória,"['pal', 'ma', 'tó', 'ri', 'a']",2,proparoxítona,False
+palmeira,"['pal', 'mei', 'ra']",1,paroxítona,False
+palmeiral,"['pal', 'mei', 'ral']",2,oxítona,False
+palmeiro,"['pal', 'mei', 'ro']",1,paroxítona,False
+palmelense,"['pal', 'me', 'len', 'se']",2,paroxítona,False
+palmense,"['pal', 'men', 'se']",1,paroxítona,False
+palmeta,"['pal', 'me', 'ta']",1,paroxítona,False
+palmilha,"['pal', 'mi', 'lha']",1,paroxítona,False
+palmilhar,"['pal', 'mi', 'lhar']",2,oxítona,False
+palminha,"['pal', 'mi', 'nha']",1,paroxítona,False
+palminho,"['pal', 'mi', 'nho']",1,paroxítona,False
+palmípede,"['pal', 'mí', 'pe', 'de']",1,proparoxítona,False
+palmiste,"['pal', 'mis', 'te']",1,paroxítona,False
+palmito,"['pal', 'mi', 'to']",1,paroxítona,False
+palmo,"['pal', 'mo']",0,paroxítona,False
+palmtop,"['palm', 'top']",1,oxítona,False
+paló,"['pa', 'ló']",1,oxítona,True
+paloma,"['pa', 'lo', 'ma']",1,paroxítona,True
+palomar,"['pa', 'lo', 'mar']",2,oxítona,False
+palpação,"['pal', 'pa', 'ção']",2,oxítona,False
+palpar,"['pal', 'par']",1,oxítona,False
+palpável,"['pal', 'pá', 'vel']",1,paroxítona,False
+palpavelmente,"['pal', 'pa', 'vel', 'men', 'te']",3,paroxítona,False
+pálpebra,"['pál', 'pe', 'bra']",0,proparoxítona,False
+palpitação,"['pal', 'pi', 'ta', 'ção']",3,oxítona,False
+palpitante,"['pal', 'pi', 'tan', 'te']",2,paroxítona,False
+palpitantemente,"['pal', 'pi', 'tan', 'te', 'men', 'te']",4,paroxítona,False
+palpitar,"['pal', 'pi', 'tar']",2,oxítona,False
+palpite,"['pal', 'pi', 'te']",1,paroxítona,False
+palpo,"['pal', 'po']",0,paroxítona,False
+palrador,"['pal', 'ra', 'dor']",2,oxítona,False
+palrar,"['pal', 'rar']",1,oxítona,False
+palúdico,"['pa', 'lú', 'di', 'co']",1,proparoxítona,True
+paludismo,"['pa', 'lu', 'dis', 'mo']",2,paroxítona,False
+palustre,"['pa', 'lus', 'tre']",1,paroxítona,False
+pampa,"['pam', 'pa']",0,paroxítona,False
+pampilho,"['pam', 'pi', 'lho']",1,paroxítona,False
+pampo,"['pam', 'po']",0,paroxítona,False
+pan-africano,"['pan-a', 'fri', 'ca', 'no']",2,paroxítona,False
+pan-americanismo,"['pan-a', 'me', 'ri', 'ca', 'nis', 'mo']",4,paroxítona,False
+pan-americano,"['pan-a', 'me', 'ri', 'ca', 'no']",3,paroxítona,False
+pan-arábico,"['pan-a', 'rá', 'bi', 'co']",1,proparoxítona,False
+pan-arabismo,"['pan-a', 'ra', 'bis', 'mo']",2,paroxítona,False
+pan-asiático,"['pan-a', 'si', 'á', 'ti', 'co']",2,proparoxítona,False
+pan-eslavismo,"['pan-es', 'la', 'vis', 'mo']",2,paroxítona,False
+pan-europeu,"['pan-eu', 'ro', 'peu']",2,oxítona,False
+pan-harmónico,"['pan-har', 'mó', 'ni', 'co']",1,proparoxítona,False
+pan-helénico,"['pan-he', 'lé', 'ni', 'co']",1,proparoxítona,False
+pan-helenismo,"['pan-he', 'le', 'nis', 'mo']",2,paroxítona,False
+pan-helenista,"['pan-he', 'le', 'nis', 'ta']",2,paroxítona,False
+pan-hispânico,"['pan-his', 'pâ', 'ni', 'co']",1,proparoxítona,False
+pan-iónico,"['pan-i', 'ó', 'ni', 'co']",1,proparoxítona,False
+pan-islâmico,"['pan-is', 'lâ', 'mi', 'co']",1,proparoxítona,False
+pan-islamismo,"['pan-is', 'la', 'mis', 'mo']",2,paroxítona,False
+pan-mágico,"['pan-', 'má', 'gi', 'co']",1,proparoxítona,False
+pan-negritude,"['pan-ne', 'gri', 'tu', 'de']",2,paroxítona,False
+pan-ortodoxo,"['pan-or', 'to', 'do', 'xo']",2,paroxítona,False
+panaça,"['pa', 'na', 'ça']",1,paroxítona,True
+panaceia,"['pa', 'na', 'cei', 'a']",2,paroxítona,False
+panada,"['pa', 'na', 'da']",1,paroxítona,True
+panado,"['pa', 'na', 'do']",1,paroxítona,True
+panal,"['pa', 'nal']",1,oxítona,False
+panamá,"['pa', 'na', 'má']",2,oxítona,True
+panamense,"['pa', 'na', 'men', 'se']",2,paroxítona,False
+panão,"['pa', 'não']",1,oxítona,False
+panar,"['pa', 'nar']",1,oxítona,False
+panaria,"['pa', 'na', 'ri', 'a']",2,paroxítona,False
+panarício,"['pa', 'na', 'rí', 'ci', 'o']",2,proparoxítona,False
+panasqueira,"['pa', 'nas', 'quei', 'ra']",2,paroxítona,False
+panasqueiro,"['pa', 'nas', 'quei', 'ro']",2,paroxítona,False
+pança,"['pan', 'ça']",0,paroxítona,False
+panca,"['pan', 'ca']",0,paroxítona,False
+pancada,"['pan', 'ca', 'da']",1,paroxítona,False
+pançada,"['pan', 'ça', 'da']",1,paroxítona,False
+pancadaria,"['pan', 'ca', 'da', 'ri', 'a']",3,paroxítona,False
+pancar,"['pan', 'car']",1,oxítona,False
+pancrácio,"['pan', 'crá', 'ci', 'o']",1,proparoxítona,False
+pâncreas,"['pân', 'cre', 'as']",0,proparoxítona,False
+pancreático,"['pan', 'cre', 'á', 'ti', 'co']",2,proparoxítona,False
+pancreatina,"['pan', 'cre', 'a', 'ti', 'na']",3,paroxítona,False
+pancreatite,"['pan', 'cre', 'a', 'ti', 'te']",3,paroxítona,False
+pançudo,"['pan', 'çu', 'do']",1,paroxítona,False
+panda,"['pan', 'da']",0,paroxítona,False
+pândega,"['pân', 'de', 'ga']",0,proparoxítona,False
+pândego,"['pân', 'de', 'go']",0,proparoxítona,False
+pandeireta,"['pan', 'dei', 're', 'ta']",2,paroxítona,False
+pandeiro,"['pan', 'dei', 'ro']",1,paroxítona,False
+pandemia,"['pan', 'de', 'mi', 'a']",2,paroxítona,False
+pandemicamente,"['pan', 'de', 'mi', 'ca', 'men', 'te']",4,paroxítona,False
+pandémico,"['pan', 'dé', 'mi', 'co']",1,proparoxítona,False
+pandemónio,"['pan', 'de', 'mó', 'ni', 'o']",2,proparoxítona,False
+pandilha,"['pan', 'di', 'lha']",1,paroxítona,False
+pandilhar,"['pan', 'di', 'lhar']",2,oxítona,False
+pando,"['pan', 'do']",0,paroxítona,False
+pandora,"['pan', 'do', 'ra']",1,paroxítona,False
+pane,"['pa', 'ne']",0,paroxítona,True
+panegírico,"['pa', 'ne', 'gí', 'ri', 'co']",2,proparoxítona,True
+panegirista,"['pa', 'ne', 'gi', 'ris', 'ta']",3,paroxítona,False
+paneiro,"['pa', 'nei', 'ro']",1,paroxítona,False
+panejamento,"['pa', 'ne', 'ja', 'men', 'to']",3,paroxítona,False
+panejar,"['pa', 'ne', 'jar']",2,oxítona,False
+panela,"['pa', 'ne', 'la']",1,paroxítona,True
+paneleiro,"['pa', 'ne', 'lei', 'ro']",2,paroxítona,False
+panelinha,"['pa', 'ne', 'li', 'nha']",2,paroxítona,False
+panfletária,"['pan', 'fle', 'tá', 'ri', 'a']",2,proparoxítona,False
+panfletário,"['pan', 'fle', 'tá', 'ri', 'o']",2,proparoxítona,False
+panfletista,"['pan', 'fle', 'tis', 'ta']",2,paroxítona,False
+panfleto,"['pan', 'fle', 'to']",1,paroxítona,False
+pangaiada,"['pan', 'gai', 'a', 'da']",2,paroxítona,False
+pangaiar,"['pan', 'gai', 'ar']",2,oxítona,False
+pangermanismo,"['pan', 'ger', 'ma', 'nis', 'mo']",3,paroxítona,False
+pangermanista,"['pan', 'ger', 'ma', 'nis', 'ta']",3,paroxítona,False
+panglossiano,"['pan', 'glos', 'si', 'a', 'no']",3,paroxítona,False
+pango,"['pan', 'go']",0,paroxítona,False
+pangolim,"['pan', 'go', 'lim']",2,oxítona,False
+pânico,"['pâ', 'ni', 'co']",0,proparoxítona,True
+panificação,"['pa', 'ni', 'fi', 'ca', 'ção']",4,oxítona,False
+panificador,"['pa', 'ni', 'fi', 'ca', 'dor']",4,oxítona,False
+panificar,"['pa', 'ni', 'fi', 'car']",3,oxítona,False
+panificável,"['pa', 'ni', 'fi', 'cá', 'vel']",3,paroxítona,False
+paninho,"['pa', 'ni', 'nho']",1,paroxítona,False
+pano,"['pa', 'no']",0,paroxítona,True
+pano-cru,"['pa', 'no-', 'cru']",2,oxítona,False
+panónio,"['pa', 'nó', 'ni', 'o']",1,proparoxítona,False
+panóplia,"['pa', 'nó', 'pli', 'a']",1,proparoxítona,False
+panorama,"['pa', 'no', 'ra', 'ma']",2,paroxítona,True
+panorâmica,"['pa', 'no', 'râ', 'mi', 'ca']",2,proparoxítona,True
+panoramicamente,"['pa', 'no', 'ra', 'mi', 'ca', 'men', 'te']",5,paroxítona,False
+panorâmico,"['pa', 'no', 'râ', 'mi', 'co']",2,proparoxítona,True
+panqueca,"['pan', 'que', 'ca']",1,paroxítona,False
+pantagruelicamente,"['pan', 'ta', 'gru', 'e', 'li', 'ca', 'men', 'te']",6,paroxítona,False
+pantagruélico,"['pan', 'ta', 'gru', 'é', 'li', 'co']",3,proparoxítona,False
+pantalha,"['pan', 'ta', 'lha']",1,paroxítona,False
+pantana,"['pan', 'ta', 'na']",1,paroxítona,False
+pantanal,"['pan', 'ta', 'nal']",2,oxítona,False
+pântano,"['pân', 'ta', 'no']",0,proparoxítona,False
+pantanoso,"['pan', 'ta', 'no', 'so']",2,paroxítona,False
+panteão,"['pan', 'te', 'ão']",2,oxítona,False
+panteísmo,"['pan', 'te', 'ís', 'mo']",2,paroxítona,False
+panteísta,"['pan', 'te', 'ís', 'ta']",2,paroxítona,False
+panteistamente,"['pan', 'teis', 'ta', 'men', 'te']",3,paroxítona,False
+pantera,"['pan', 'te', 'ra']",1,paroxítona,False
+pantógrafo,"['pan', 'tó', 'gra', 'fo']",1,proparoxítona,False
+pantomima,"['pan', 'to', 'mi', 'ma']",2,paroxítona,False
+pantomimar,"['pan', 'to', 'mi', 'mar']",3,oxítona,False
+pantomina,"['pan', 'to', 'mi', 'na']",2,paroxítona,False
+pantominar,"['pan', 'to', 'mi', 'nar']",3,oxítona,False
+pantomineiro,"['pan', 'to', 'mi', 'nei', 'ro']",3,paroxítona,False
+pantominice,"['pan', 'to', 'mi', 'ni', 'ce']",3,paroxítona,False
+pantufa,"['pan', 'tu', 'fa']",1,paroxítona,False
+pão,['pão'],0,oxítona,False
+pão de açúcar,"['pão', ' de a', 'çú', 'car']",2,paroxítona,False
+pão de ló,"['pão', ' de ', 'ló']",2,oxítona,False
+pãozinho,"['pão', 'zi', 'nho']",1,paroxítona,False
+papa,"['pa', 'pa']",0,paroxítona,True
+papá,"['pa', 'pá']",1,oxítona,True
+papa-açorda,"['pa', 'pa-a', 'çor', 'da']",2,paroxítona,False
+papa-figos,"['pa', 'pa-', 'fi', 'gos']",2,paroxítona,False
+papa-léguas,"['pa', 'pa-', 'lé', 'guas']",2,paroxítona,False
+papa-moscas,"['pa', 'pa-', 'mos', 'cas']",2,paroxítona,False
+papa-ratos,"['pa', 'pa-', 'ra', 'tos']",2,paroxítona,False
+papada,"['pa', 'pa', 'da']",1,paroxítona,True
+papado,"['pa', 'pa', 'do']",1,paroxítona,True
+papagaio,"['pa', 'pa', 'gai', 'o']",2,paroxítona,False
+papagaio-do-mar,"['pa', 'pa', 'gai', 'o-do-', 'mar']",4,oxítona,False
+papaguear,"['pa', 'pa', 'gue', 'ar']",3,oxítona,False
+papai,"['pa', 'pai']",1,oxítona,False
+papaia,"['pa', 'pai', 'a']",1,paroxítona,False
+papaieira,"['pa', 'pai', 'ei', 'ra']",2,paroxítona,False
+papal,"['pa', 'pal']",1,oxítona,False
+papalva,"['pa', 'pal', 'va']",1,paroxítona,False
+papalvo,"['pa', 'pal', 'vo']",1,paroxítona,False
+papamóvel,"['pa', 'pa', 'mó', 'vel']",2,paroxítona,False
+papanicolau,"['pa', 'pa', 'ni', 'co', 'lau']",4,oxítona,False
+papão,"['pa', 'pão']",1,oxítona,False
+papar,"['pa', 'par']",1,oxítona,False
+paparazzi,"['pa', 'pa', 'raz', 'zi']",2,paroxítona,False
+paparoca,"['pa', 'pa', 'ro', 'ca']",2,paroxítona,True
+paparote,"['pa', 'pa', 'ro', 'te']",2,paroxítona,True
+papaverina,"['pa', 'pa', 've', 'ri', 'na']",3,paroxítona,True
+papeira,"['pa', 'pei', 'ra']",1,paroxítona,False
+papeiro,"['pa', 'pei', 'ro']",1,paroxítona,False
+papel,"['pa', 'pel']",1,oxítona,False
+papel-moeda,"['pa', 'pel', '-mo', 'e', 'da']",3,paroxítona,False
+papelada,"['pa', 'pe', 'la', 'da']",2,paroxítona,True
+papelão,"['pa', 'pe', 'lão']",2,oxítona,False
+papelaria,"['pa', 'pe', 'la', 'ri', 'a']",3,paroxítona,False
+papeleira,"['pa', 'pe', 'lei', 'ra']",2,paroxítona,False
+papeleiro,"['pa', 'pe', 'lei', 'ro']",2,paroxítona,False
+papeleta,"['pa', 'pe', 'le', 'ta']",2,paroxítona,True
+papelinho,"['pa', 'pe', 'li', 'nho']",2,paroxítona,False
+papelote,"['pa', 'pe', 'lo', 'te']",2,paroxítona,True
+papelucho,"['pa', 'pe', 'lu', 'cho']",2,paroxítona,False
+papila,"['pa', 'pi', 'la']",1,paroxítona,True
+papilar,"['pa', 'pi', 'lar']",2,oxítona,False
+papiloma,"['pa', 'pi', 'lo', 'ma']",2,paroxítona,True
+papiro,"['pa', 'pi', 'ro']",1,paroxítona,True
+papisa,"['pa', 'pi', 'sa']",1,paroxítona,True
+papismo,"['pa', 'pis', 'mo']",1,paroxítona,False
+papista,"['pa', 'pis', 'ta']",1,paroxítona,False
+papo,"['pa', 'po']",0,paroxítona,True
+papo de anjo,"['pa', 'po de ', 'an', 'jo']",2,paroxítona,False
+papo-seco,"['pa', 'po-', 'se', 'co']",2,paroxítona,False
+papoila,"['pa', 'poi', 'la']",1,paroxítona,False
+paprica,"['pa', 'pri', 'ca']",1,paroxítona,False
+papua,"['pa', 'pu', 'a']",1,paroxítona,False
+papudo,"['pa', 'pu', 'do']",1,paroxítona,True
+paquete,"['pa', 'que', 'te']",1,paroxítona,False
+paquiderme,"['pa', 'qui', 'der', 'me']",2,paroxítona,False
+paquife,"['pa', 'qui', 'fe']",1,paroxítona,False
+paquistanês,"['pa', 'quis', 'ta', 'nês']",3,oxítona,False
+paquistanesa,"['pa', 'quis', 'ta', 'ne', 'sa']",3,paroxítona,False
+par,['par'],0,oxítona,False
+para,"['pa', 'ra']",0,paroxítona,True
+para-brisas,"['pa', 'ra-', 'bri', 'sas']",2,paroxítona,False
+para-choques,['para-choques'],0,oxítona,False
+para-quedismo,"['pa', 'ra-que', 'dis', 'mo']",2,paroxítona,False
+para-quedista,"['pa', 'ra-que', 'dis', 'ta']",2,paroxítona,False
+para-raios,"['pa', 'ra-', 'rai', 'os']",2,paroxítona,False
+para-sol,"['pa', 'ra-', 'sol']",2,oxítona,False
+para-vento,"['pa', 'ra-', 'ven', 'to']",2,paroxítona,False
+parabém,"['pa', 'ra', 'bém']",2,oxítona,False
+parabenizar,"['pa', 'ra', 'be', 'ni', 'zar']",4,oxítona,False
+parabéns,"['pa', 'ra', 'béns']",2,oxítona,False
+parábola,"['pa', 'rá', 'bo', 'la']",1,proparoxítona,True
+parabólica,"['pa', 'ra', 'bó', 'li', 'ca']",2,proparoxítona,True
+parabolicamente,"['pa', 'ra', 'bo', 'li', 'ca', 'men', 'te']",5,paroxítona,False
+parabólico,"['pa', 'ra', 'bó', 'li', 'co']",2,proparoxítona,True
+paracetamol,"['pa', 'ra', 'ce', 'ta', 'mol']",4,oxítona,False
+parada,"['pa', 'ra', 'da']",1,paroxítona,True
+paradeiro,"['pa', 'ra', 'dei', 'ro']",2,paroxítona,False
+paradela,"['pa', 'ra', 'de', 'la']",2,paroxítona,True
+paradigma,"['pa', 'ra', 'dig', 'ma']",2,paroxítona,False
+paradigmaticamente,"['pa', 'ra', 'dig', 'ma', 'ti', 'ca', 'men', 'te']",6,paroxítona,False
+paradigmático,"['pa', 'ra', 'dig', 'má', 'ti', 'co']",3,proparoxítona,False
+paradisiacamente,"['pa', 'ra', 'di', 'si', 'a', 'ca', 'men', 'te']",6,paroxítona,False
+paradisíaco,"['pa', 'ra', 'di', 'sí', 'a', 'co']",3,proparoxítona,False
+parado,"['pa', 'ra', 'do']",1,paroxítona,True
+paradouro,"['pa', 'ra', 'dou', 'ro']",2,paroxítona,False
+paradoxal,"['pa', 'ra', 'do', 'xal']",3,oxítona,False
+paradoxalmente,"['pa', 'ra', 'do', 'xal', 'men', 'te']",4,paroxítona,False
+paradoxar,"['pa', 'ra', 'do', 'xar']",3,oxítona,False
+paradoxo,"['pa', 'ra', 'do', 'xo']",2,paroxítona,True
+paraense,"['pa', 'ra', 'en', 'se']",2,paroxítona,False
+paraestatal,"['pa', 'ra', 'es', 'ta', 'tal']",4,oxítona,False
+parafernália,"['pa', 'ra', 'fer', 'ná', 'li', 'a']",3,proparoxítona,False
+parafilia,"['pa', 'ra', 'fi', 'li', 'a']",3,paroxítona,False
+parafina,"['pa', 'ra', 'fi', 'na']",2,paroxítona,True
+parafinar,"['pa', 'ra', 'fi', 'nar']",3,oxítona,False
+parafiscal,"['pa', 'ra', 'fis', 'cal']",3,oxítona,False
+paráfrase,"['pa', 'rá', 'fra', 'se']",1,proparoxítona,False
+parafrasear,"['pa', 'ra', 'fra', 'se', 'ar']",4,oxítona,False
+parafusar,"['pa', 'ra', 'fu', 'sar']",3,oxítona,False
+parafuso,"['pa', 'ra', 'fu', 'so']",2,paroxítona,True
+paragem,"['pa', 'ra', 'gem']",1,paroxítona,False
+paragrafar,"['pa', 'ra', 'gra', 'far']",3,oxítona,False
+parágrafo,"['pa', 'rá', 'gra', 'fo']",1,proparoxítona,False
+paraguaia,"['pa', 'ra', 'guai', 'a']",2,paroxítona,False
+paraguaio,"['pa', 'ra', 'guai', 'o']",2,paroxítona,False
+paraíso,"['pa', 'ra', 'í', 'so']",2,paroxítona,False
+paralaxe,"['pa', 'ra', 'la', 'xe']",2,paroxítona,True
+paralela,"['pa', 'ra', 'le', 'la']",2,paroxítona,True
+paralelamente,"['pa', 'ra', 'le', 'la', 'men', 'te']",4,paroxítona,False
+paralelepípedo,"['pa', 'ra', 'le', 'le', 'pí', 'pe', 'do']",4,proparoxítona,True
+paralelismo,"['pa', 'ra', 'le', 'lis', 'mo']",3,paroxítona,False
+paralelo,"['pa', 'ra', 'le', 'lo']",2,paroxítona,True
+paralelogramo,"['pa', 'ra', 'le', 'lo', 'gra', 'mo']",4,paroxítona,False
+paralímpico,"['pa', 'ra', 'lím', 'pi', 'co']",2,proparoxítona,False
+paralisação,"['pa', 'ra', 'li', 'sa', 'ção']",4,oxítona,False
+paralisado,"['pa', 'ra', 'li', 'sa', 'do']",3,paroxítona,True
+paralisante,"['pa', 'ra', 'li', 'san', 'te']",3,paroxítona,False
+paralisar,"['pa', 'ra', 'li', 'sar']",3,oxítona,False
+paralisia,"['pa', 'ra', 'li', 'si', 'a']",3,paroxítona,False
+paralítica,"['pa', 'ra', 'lí', 'ti', 'ca']",2,proparoxítona,True
+paralítico,"['pa', 'ra', 'lí', 'ti', 'co']",2,proparoxítona,True
+paralta,"['pa', 'ral', 'ta']",1,paroxítona,False
+paramédica,"['pa', 'ra', 'mé', 'di', 'ca']",2,proparoxítona,True
+paramédico,"['pa', 'ra', 'mé', 'di', 'co']",2,proparoxítona,True
+paramentado,"['pa', 'ra', 'men', 'ta', 'do']",3,paroxítona,False
+paramentar,"['pa', 'ra', 'men', 'tar']",3,oxítona,False
+paramento,"['pa', 'ra', 'men', 'to']",2,paroxítona,False
+paramétrico,"['pa', 'ra', 'mé', 'tri', 'co']",2,proparoxítona,False
+parametrização,"['pa', 'ra', 'me', 'tri', 'za', 'ção']",5,oxítona,False
+parametrizar,"['pa', 'ra', 'me', 'tri', 'zar']",4,oxítona,False
+parametrizável,"['pa', 'ra', 'me', 'tri', 'zá', 'vel']",4,paroxítona,False
+parâmetro,"['pa', 'râ', 'me', 'tro']",1,proparoxítona,False
+paramilitar,"['pa', 'ra', 'mi', 'li', 'tar']",4,oxítona,False
+paramiloidose,"['pa', 'ra', 'mi', 'loi', 'do', 'se']",4,paroxítona,False
+páramo,"['pá', 'ra', 'mo']",0,proparoxítona,True
+paranaense,"['pa', 'ra', 'na', 'en', 'se']",3,paroxítona,False
+parança,"['pa', 'ran', 'ça']",1,paroxítona,False
+parangona,"['pa', 'ran', 'go', 'na']",2,paroxítona,False
+parangonar,"['pa', 'ran', 'go', 'nar']",3,oxítona,False
+paranoia,"['pa', 'ra', 'noi', 'a']",2,paroxítona,False
+paranoica,"['pa', 'ra', 'noi', 'ca']",2,paroxítona,False
+paranoico,"['pa', 'ra', 'noi', 'co']",2,paroxítona,False
+paranoide,"['pa', 'ra', 'noi', 'de']",2,paroxítona,False
+paranormal,"['pa', 'ra', 'nor', 'mal']",3,oxítona,False
+paraolímpico,"['pa', 'ra', 'o', 'lím', 'pi', 'co']",3,proparoxítona,False
+parapeitar,"['pa', 'ra', 'pei', 'tar']",3,oxítona,False
+parapeito,"['pa', 'ra', 'pei', 'to']",2,paroxítona,False
+parapente,"['pa', 'ra', 'pen', 'te']",2,paroxítona,False
+parapentista,"['pa', 'ra', 'pen', 'tis', 'ta']",3,paroxítona,False
+paraplegia,"['pa', 'ra', 'ple', 'gi', 'a']",3,paroxítona,False
+paraplégica,"['pa', 'ra', 'plé', 'gi', 'ca']",2,proparoxítona,False
+paraplégico,"['pa', 'ra', 'plé', 'gi', 'co']",2,proparoxítona,False
+parapsicologia,"['pa', 'rap', 'si', 'co', 'lo', 'gi', 'a']",5,paroxítona,False
+parapsicológico,"['pa', 'rap', 'si', 'co', 'ló', 'gi', 'co']",4,proparoxítona,False
+parapsicólogo,"['pa', 'rap', 'si', 'có', 'lo', 'go']",3,proparoxítona,False
+paraquedas,"['pa', 'ra', 'que', 'das']",2,paroxítona,False
+parar,"['pa', 'rar']",1,oxítona,False
+parasita,"['pa', 'ra', 'si', 'ta']",2,paroxítona,True
+parasitado,"['pa', 'ra', 'si', 'ta', 'do']",3,paroxítona,True
+parasitagem,"['pa', 'ra', 'si', 'ta', 'gem']",3,paroxítona,False
+parasitar,"['pa', 'ra', 'si', 'tar']",3,oxítona,False
+parasitária,"['pa', 'ra', 'si', 'tá', 'ri', 'a']",3,proparoxítona,False
+parasitariamente,"['pa', 'ra', 'si', 'ta', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+parasitário,"['pa', 'ra', 'si', 'tá', 'ri', 'o']",3,proparoxítona,False
+parasitismo,"['pa', 'ra', 'si', 'tis', 'mo']",3,paroxítona,False
+parasito,"['pa', 'ra', 'si', 'to']",2,paroxítona,True
+parasitologia,"['pa', 'ra', 'si', 'to', 'lo', 'gi', 'a']",5,paroxítona,False
+parasitose,"['pa', 'ra', 'si', 'to', 'se']",3,paroxítona,True
+parassocial,"['pa', 'ras', 'so', 'ci', 'al']",4,oxítona,False
+parati,"['pa', 'ra', 'ti']",2,oxítona,True
+paratião,"['pa', 'ra', 'ti', 'ão']",3,oxítona,False
+parca,"['par', 'ca']",0,paroxítona,False
+parcamente,"['par', 'ca', 'men', 'te']",2,paroxítona,False
+parceiro,"['par', 'cei', 'ro']",1,paroxítona,False
+parcel,"['par', 'cel']",1,oxítona,False
+parcela,"['par', 'ce', 'la']",1,paroxítona,False
+parcelado,"['par', 'ce', 'la', 'do']",2,paroxítona,False
+parcelamento,"['par', 'ce', 'la', 'men', 'to']",3,paroxítona,False
+parcelar,"['par', 'ce', 'lar']",2,oxítona,False
+parceria,"['par', 'ce', 'ri', 'a']",2,paroxítona,False
+parche,"['par', 'che']",0,paroxítona,False
+parcial,"['par', 'ci', 'al']",2,oxítona,False
+parcialidade,"['par', 'ci', 'a', 'li', 'da', 'de']",4,paroxítona,False
+parcialização,"['par', 'ci', 'a', 'li', 'za', 'ção']",5,oxítona,False
+parcialmente,"['par', 'ci', 'al', 'men', 'te']",3,paroxítona,False
+parcimónia,"['par', 'ci', 'mó', 'ni', 'a']",2,proparoxítona,False
+parcimoniosamente,"['par', 'ci', 'mo', 'ni', 'o', 'sa', 'men', 'te']",6,paroxítona,False
+parcimonioso,"['par', 'ci', 'mo', 'ni', 'o', 'so']",4,paroxítona,False
+parco,"['par', 'co']",0,paroxítona,False
+parcómetro,"['par', 'có', 'me', 'tro']",1,proparoxítona,False
+parda,"['par', 'da']",0,paroxítona,False
+pardacento,"['par', 'da', 'cen', 'to']",2,paroxítona,False
+pardal,"['par', 'dal']",1,oxítona,False
+pardalada,"['par', 'da', 'la', 'da']",2,paroxítona,False
+pardau,"['par', 'dau']",1,oxítona,False
+pardelha,"['par', 'de', 'lha']",1,paroxítona,False
+pardieiro,"['par', 'di', 'ei', 'ro']",2,paroxítona,False
+pardo,"['par', 'do']",0,paroxítona,False
+parecença,"['pa', 're', 'cen', 'ça']",2,paroxítona,False
+parecer,"['pa', 're', 'cer']",2,oxítona,False
+parecidamente,"['pa', 're', 'ci', 'da', 'men', 'te']",4,paroxítona,False
+parecido,"['pa', 're', 'ci', 'do']",2,paroxítona,True
+paredão,"['pa', 're', 'dão']",2,oxítona,False
+parede,"['pa', 're', 'de']",1,paroxítona,True
+paredense,"['pa', 're', 'den', 'se']",2,paroxítona,False
+parelha,"['pa', 're', 'lha']",1,paroxítona,False
+parelhamente,"['pa', 're', 'lha', 'men', 'te']",3,paroxítona,False
+parelho,"['pa', 're', 'lho']",1,paroxítona,False
+parental,"['pa', 'ren', 'tal']",2,oxítona,False
+parente,"['pa', 'ren', 'te']",1,paroxítona,False
+parentela,"['pa', 'ren', 'te', 'la']",2,paroxítona,False
+parentérico,"['pa', 'ren', 'té', 'ri', 'co']",2,proparoxítona,False
+parentesar,"['pa', 'ren', 'te', 'sar']",3,oxítona,False
+parentesco,"['pa', 'ren', 'tes', 'co']",2,paroxítona,False
+parêntese,"['pa', 'rên', 'te', 'se']",1,proparoxítona,False
+parêntesis,"['pa', 'rên', 'te', 'sis']",1,proparoxítona,False
+parga,"['par', 'ga']",0,paroxítona,False
+pargo,"['par', 'go']",0,paroxítona,False
+pária,"['pá', 'ri', 'a']",0,proparoxítona,False
+parição,"['pa', 'ri', 'ção']",2,oxítona,False
+parida,"['pa', 'ri', 'da']",1,paroxítona,True
+paridade,"['pa', 'ri', 'da', 'de']",2,paroxítona,True
+parido,"['pa', 'ri', 'do']",1,paroxítona,True
+parietal,"['pa', 'ri', 'e', 'tal']",3,oxítona,False
+pário,"['pá', 'ri', 'o']",0,proparoxítona,False
+parir,"['pa', 'rir']",1,oxítona,False
+parisiense,"['pa', 'ri', 'si', 'en', 'se']",3,paroxítona,False
+paritário,"['pa', 'ri', 'tá', 'ri', 'o']",2,proparoxítona,False
+parka,"['par', 'ka']",0,paroxítona,False
+parkinsonismo,"['par', 'kin', 'so', 'nis', 'mo']",3,paroxítona,False
+parla,"['par', 'la']",0,paroxítona,False
+parlamentar,"['par', 'la', 'men', 'tar']",3,oxítona,False
+parlamentarismo,"['par', 'la', 'men', 'ta', 'ris', 'mo']",4,paroxítona,False
+parlamentarista,"['par', 'la', 'men', 'ta', 'ris', 'ta']",4,paroxítona,False
+parlamentarizar,"['par', 'la', 'men', 'ta', 'ri', 'zar']",5,oxítona,False
+parlamento,"['par', 'la', 'men', 'to']",2,paroxítona,False
+parlapatão,"['par', 'la', 'pa', 'tão']",3,oxítona,False
+parlar,"['par', 'lar']",1,oxítona,False
+parlatório,"['par', 'la', 'tó', 'ri', 'o']",2,proparoxítona,False
+parma,"['par', 'ma']",0,paroxítona,False
+parmesão,"['par', 'me', 'são']",2,oxítona,False
+parnasianismo,"['par', 'na', 'si', 'a', 'nis', 'mo']",4,paroxítona,False
+parnaso,"['par', 'na', 'so']",1,paroxítona,False
+paro,"['pa', 'ro']",0,paroxítona,True
+pároco,"['pá', 'ro', 'co']",0,proparoxítona,True
+paródia,"['pa', 'ró', 'di', 'a']",1,proparoxítona,False
+parodiador,"['pa', 'ro', 'di', 'a', 'dor']",4,oxítona,False
+parodiante,"['pa', 'ro', 'di', 'an', 'te']",3,paroxítona,False
+parodiar,"['pa', 'ro', 'di', 'ar']",3,oxítona,False
+parodicamente,"['pa', 'ro', 'di', 'ca', 'men', 'te']",4,paroxítona,False
+paródico,"['pa', 'ró', 'di', 'co']",1,proparoxítona,True
+parodista,"['pa', 'ro', 'dis', 'ta']",2,paroxítona,False
+parola,"['pa', 'ro', 'la']",1,paroxítona,True
+parolar,"['pa', 'ro', 'lar']",2,oxítona,False
+parolice,"['pa', 'ro', 'li', 'ce']",2,paroxítona,True
+parolo,"['pa', 'ro', 'lo']",1,paroxítona,True
+parónimo,"['pa', 'ró', 'ni', 'mo']",1,proparoxítona,True
+paróquia,"['pa', 'ró', 'qui', 'a']",1,proparoxítona,False
+paroquial,"['pa', 'ro', 'qui', 'al']",3,oxítona,False
+paroquialismo,"['pa', 'ro', 'qui', 'a', 'lis', 'mo']",4,paroxítona,False
+paroquiana,"['pa', 'ro', 'qui', 'a', 'na']",3,paroxítona,False
+paroquiano,"['pa', 'ro', 'qui', 'a', 'no']",3,paroxítona,False
+paroquiar,"['pa', 'ro', 'qui', 'ar']",3,oxítona,False
+parotidite,"['pa', 'ro', 'ti', 'di', 'te']",3,paroxítona,True
+paroxismo,"['pa', 'ro', 'xis', 'mo']",2,paroxítona,False
+paroxístico,"['pa', 'ro', 'xís', 'ti', 'co']",2,proparoxítona,False
+parque,"['par', 'que']",0,paroxítona,False
+parquê,"['par', 'quê']",1,oxítona,False
+parqué,"['par', 'qué']",1,oxítona,False
+parqueamento,"['par', 'que', 'a', 'men', 'to']",3,paroxítona,False
+parquear,"['par', 'que', 'ar']",2,oxítona,False
+parquímetro,"['par', 'quí', 'me', 'tro']",1,proparoxítona,False
+parra,"['par', 'ra']",0,paroxítona,False
+parracho,"['par', 'ra', 'cho']",1,paroxítona,False
+parrado,"['par', 'ra', 'do']",1,paroxítona,False
+parrar,"['par', 'rar']",1,oxítona,False
+parreira,"['par', 'rei', 'ra']",1,paroxítona,False
+parricida,"['par', 'ri', 'ci', 'da']",2,paroxítona,False
+parricídio,"['par', 'ri', 'cí', 'di', 'o']",2,proparoxítona,False
+parsec,"['par', 'sec']",1,oxítona,False
+part-time,"['part', 'ti', 'me']",1,paroxítona,False
+parte,"['par', 'te']",0,paroxítona,False
+parteira,"['par', 'tei', 'ra']",1,paroxítona,False
+parteiro,"['par', 'tei', 'ro']",1,paroxítona,False
+partenaire,"['par', 'te', 'nai', 're']",2,paroxítona,False
+partenogénese,"['par', 'te', 'no', 'gé', 'ne', 'se']",3,proparoxítona,False
+pártenon,"['pár', 'te', 'non']",0,proparoxítona,False
+partição,"['par', 'ti', 'ção']",2,oxítona,False
+participação,"['par', 'ti', 'ci', 'pa', 'ção']",4,oxítona,False
+participante,"['par', 'ti', 'ci', 'pan', 'te']",3,paroxítona,False
+participar,"['par', 'ti', 'ci', 'par']",3,oxítona,False
+participativo,"['par', 'ti', 'ci', 'pa', 'ti', 'vo']",4,paroxítona,False
+partícipe,"['par', 'tí', 'ci', 'pe']",1,proparoxítona,False
+particípio,"['par', 'ti', 'cí', 'pi', 'o']",2,proparoxítona,False
+partícula,"['par', 'tí', 'cu', 'la']",1,proparoxítona,False
+particular,"['par', 'ti', 'cu', 'lar']",3,oxítona,False
+particularidade,"['par', 'ti', 'cu', 'la', 'ri', 'da', 'de']",5,paroxítona,False
+particularismo,"['par', 'ti', 'cu', 'la', 'ris', 'mo']",4,paroxítona,False
+particularista,"['par', 'ti', 'cu', 'la', 'ris', 'ta']",4,paroxítona,False
+particularização,"['par', 'ti', 'cu', 'la', 'ri', 'za', 'ção']",6,oxítona,False
+particularizado,"['par', 'ti', 'cu', 'la', 'ri', 'za', 'do']",5,paroxítona,False
+particularizar,"['par', 'ti', 'cu', 'la', 'ri', 'zar']",5,oxítona,False
+particularmente,"['par', 'ti', 'cu', 'lar', 'men', 'te']",4,paroxítona,False
+partida,"['par', 'ti', 'da']",1,paroxítona,False
+partidão,"['par', 'ti', 'dão']",2,oxítona,False
+partidária,"['par', 'ti', 'dá', 'ri', 'a']",2,proparoxítona,False
+partidariamente,"['par', 'ti', 'da', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+partidário,"['par', 'ti', 'dá', 'ri', 'o']",2,proparoxítona,False
+partidarismo,"['par', 'ti', 'da', 'ris', 'mo']",3,paroxítona,False
+partidarista,"['par', 'ti', 'da', 'ris', 'ta']",3,paroxítona,False
+partidarização,"['par', 'ti', 'da', 'ri', 'za', 'ção']",5,oxítona,False
+partidarizar,"['par', 'ti', 'da', 'ri', 'zar']",4,oxítona,False
+partido,"['par', 'ti', 'do']",1,paroxítona,False
+partidocracia,"['par', 'ti', 'do', 'cra', 'ci', 'a']",4,paroxítona,False
+partidor,"['par', 'ti', 'dor']",2,oxítona,False
+partilha,"['par', 'ti', 'lha']",1,paroxítona,False
+partilhado,"['par', 'ti', 'lha', 'do']",2,paroxítona,False
+partilhar,"['par', 'ti', 'lhar']",2,oxítona,False
+partilhável,"['par', 'ti', 'lhá', 'vel']",2,paroxítona,False
+partir,"['par', 'tir']",1,oxítona,False
+partitura,"['par', 'ti', 'tu', 'ra']",2,paroxítona,False
+parto,"['par', 'to']",0,paroxítona,False
+parturiente,"['par', 'tu', 'ri', 'en', 'te']",3,paroxítona,False
+parusia,"['pa', 'ru', 'si', 'a']",2,paroxítona,False
+parva,"['par', 'va']",0,paroxítona,False
+parvalhão,"['par', 'va', 'lhão']",2,oxítona,False
+parvamente,"['par', 'va', 'men', 'te']",2,paroxítona,False
+parvo,"['par', 'vo']",0,paroxítona,False
+parvoiçada,"['par', 'voi', 'ça', 'da']",2,paroxítona,False
+parvoíce,"['par', 'vo', 'í', 'ce']",2,paroxítona,False
+parvónia,"['par', 'vó', 'ni', 'a']",1,proparoxítona,False
+pascácio,"['pas', 'cá', 'ci', 'o']",1,proparoxítona,False
+pascal,"['pas', 'cal']",1,oxítona,False
+pascoal,"['pas', 'co', 'al']",2,oxítona,False
+pascoar,"['pas', 'co', 'ar']",2,oxítona,False
+pascoense,"['pas', 'co', 'en', 'se']",2,paroxítona,False
+pasmaceira,"['pas', 'ma', 'cei', 'ra']",2,paroxítona,False
+pasmadamente,"['pas', 'ma', 'da', 'men', 'te']",3,paroxítona,False
+pasmado,"['pas', 'ma', 'do']",1,paroxítona,False
+pasmar,"['pas', 'mar']",1,oxítona,False
+pasmo,"['pas', 'mo']",0,paroxítona,False
+pasmosamente,"['pas', 'mo', 'sa', 'men', 'te']",3,paroxítona,False
+pasmoso,"['pas', 'mo', 'so']",1,paroxítona,False
+paspalho,"['pas', 'pa', 'lho']",1,paroxítona,False
+pasquim,"['pas', 'quim']",1,oxítona,False
+pasquinar,"['pas', 'qui', 'nar']",2,oxítona,False
+passa,"['pas', 'sa']",0,paroxítona,False
+passa-culpas,"['pas', 'sa-', 'cul', 'pas']",2,paroxítona,False
+passa-montanhas,"['pas', 'sa-mon', 'ta', 'nhas']",2,paroxítona,False
+passa-piolho,"['pas', 'sa-pi', 'o', 'lho']",2,paroxítona,False
+passada,"['pas', 'sa', 'da']",1,paroxítona,False
+passadeira,"['pas', 'sa', 'dei', 'ra']",2,paroxítona,False
+passadiço,"['pas', 'sa', 'di', 'ço']",2,paroxítona,False
+passadio,"['pas', 'sa', 'di', 'o']",2,paroxítona,False
+passadismo,"['pas', 'sa', 'dis', 'mo']",2,paroxítona,False
+passadista,"['pas', 'sa', 'dis', 'ta']",2,paroxítona,False
+passado,"['pas', 'sa', 'do']",1,paroxítona,False
+passador,"['pas', 'sa', 'dor']",2,oxítona,False
+passadora,"['pas', 'sa', 'do', 'ra']",2,paroxítona,False
+passadouro,"['pas', 'sa', 'dou', 'ro']",2,paroxítona,False
+passageira,"['pas', 'sa', 'gei', 'ra']",2,paroxítona,False
+passageiramente,"['pas', 'sa', 'gei', 'ra', 'men', 'te']",4,paroxítona,False
+passageiro,"['pas', 'sa', 'gei', 'ro']",2,paroxítona,False
+passagem,"['pas', 'sa', 'gem']",1,paroxítona,False
+passajar,"['pas', 'sa', 'jar']",2,oxítona,False
+passal,"['pas', 'sal']",1,oxítona,False
+passamanar,"['pas', 'sa', 'ma', 'nar']",3,oxítona,False
+passamanaria,"['pas', 'sa', 'ma', 'na', 'ri', 'a']",4,paroxítona,False
+passamento,"['pas', 'sa', 'men', 'to']",2,paroxítona,False
+passante,"['pas', 'san', 'te']",1,paroxítona,False
+passaporte,"['pas', 'sa', 'por', 'te']",2,paroxítona,False
+passar,"['pas', 'sar']",1,oxítona,False
+passarada,"['pas', 'sa', 'ra', 'da']",2,paroxítona,False
+passarão,"['pas', 'sa', 'rão']",2,oxítona,False
+passarela,"['pas', 'sa', 're', 'la']",2,paroxítona,False
+passarinhar,"['pas', 'sa', 'ri', 'nhar']",3,oxítona,False
+passarinheiro,"['pas', 'sa', 'ri', 'nhei', 'ro']",3,paroxítona,False
+passarinho,"['pas', 'sa', 'ri', 'nho']",2,paroxítona,False
+passaritar,"['pas', 'sa', 'ri', 'tar']",3,oxítona,False
+passarito,"['pas', 'sa', 'ri', 'to']",2,paroxítona,False
+pássaro,"['pás', 'sa', 'ro']",0,proparoxítona,False
+passarola,"['pas', 'sa', 'ro', 'la']",2,paroxítona,False
+passatempo,"['pas', 'sa', 'tem', 'po']",2,paroxítona,False
+passável,"['pas', 'sá', 'vel']",1,paroxítona,False
+passe,"['pas', 'se']",0,paroxítona,False
+passe-partout,"['pas', 'se-par', 'tout']",2,oxítona,False
+passe-vite,"['pas', 'se-', 'vi', 'te']",2,paroxítona,False
+passeante,"['pas', 'se', 'an', 'te']",2,paroxítona,False
+passear,"['pas', 'se', 'ar']",2,oxítona,False
+passeata,"['pas', 'se', 'a', 'ta']",2,paroxítona,False
+passeio,"['pas', 'sei', 'o']",1,paroxítona,False
+passeiro,"['pas', 'sei', 'ro']",1,paroxítona,False
+passerelle,"['pas', 'se', 'rel', 'le']",2,paroxítona,False
+passeriforme,"['pas', 'se', 'ri', 'for', 'me']",3,paroxítona,False
+passinhar,"['pas', 'si', 'nhar']",2,oxítona,False
+passional,"['pas', 'si', 'o', 'nal']",3,oxítona,False
+passionalidade,"['pas', 'si', 'o', 'na', 'li', 'da', 'de']",5,paroxítona,False
+passionalmente,"['pas', 'si', 'o', 'nal', 'men', 'te']",4,paroxítona,False
+passiva,"['pas', 'si', 'va']",1,paroxítona,False
+passivamente,"['pas', 'si', 'va', 'men', 'te']",3,paroxítona,False
+passivar,"['pas', 'si', 'var']",2,oxítona,False
+passível,"['pas', 'sí', 'vel']",1,paroxítona,False
+passividade,"['pas', 'si', 'vi', 'da', 'de']",3,paroxítona,False
+passivo,"['pas', 'si', 'vo']",1,paroxítona,False
+passo,"['pas', 'so']",0,paroxítona,False
+pasta,"['pas', 'ta']",0,paroxítona,False
+pastagem,"['pas', 'ta', 'gem']",1,paroxítona,False
+pastar,"['pas', 'tar']",1,oxítona,False
+pastel,"['pas', 'tel']",1,oxítona,False
+pastelada,"['pas', 'te', 'la', 'da']",2,paroxítona,False
+pastelão,"['pas', 'te', 'lão']",2,oxítona,False
+pastelaria,"['pas', 'te', 'la', 'ri', 'a']",3,paroxítona,False
+pasteleiro,"['pas', 'te', 'lei', 'ro']",2,paroxítona,False
+pastelinho,"['pas', 'te', 'li', 'nho']",2,paroxítona,False
+pasteurização,"['pas', 'teu', 'ri', 'za', 'ção']",4,oxítona,False
+pasteurizado,"['pas', 'teu', 'ri', 'za', 'do']",3,paroxítona,False
+pasteurizar,"['pas', 'teu', 'ri', 'zar']",3,oxítona,False
+pastichar,"['pas', 'ti', 'char']",2,oxítona,False
+pastiche,"['pas', 'ti', 'che']",1,paroxítona,False
+pastilha,"['pas', 'ti', 'lha']",1,paroxítona,False
+pastinha,"['pas', 'ti', 'nha']",1,paroxítona,False
+pastinhar,"['pas', 'ti', 'nhar']",2,oxítona,False
+pasto,"['pas', 'to']",0,paroxítona,False
+pastor,"['pas', 'tor']",1,oxítona,False
+pastor-alemão,"['pas', 'tor', '-a', 'le', 'mão']",4,oxítona,False
+pastora,"['pas', 'to', 'ra']",1,paroxítona,False
+pastoral,"['pas', 'to', 'ral']",2,oxítona,False
+pastorar,"['pas', 'to', 'rar']",2,oxítona,False
+pastorear,"['pas', 'to', 're', 'ar']",3,oxítona,False
+pastoreio,"['pas', 'to', 'rei', 'o']",2,paroxítona,False
+pastorícia,"['pas', 'to', 'rí', 'ci', 'a']",2,proparoxítona,False
+pastorício,"['pas', 'to', 'rí', 'ci', 'o']",2,proparoxítona,False
+pastoril,"['pas', 'to', 'ril']",2,oxítona,False
+pastorinha,"['pas', 'to', 'ri', 'nha']",2,paroxítona,False
+pastosidade,"['pas', 'to', 'si', 'da', 'de']",3,paroxítona,False
+pastoso,"['pas', 'to', 'so']",1,paroxítona,False
+pastrano,"['pas', 'tra', 'no']",1,paroxítona,False
+pata,"['pa', 'ta']",0,paroxítona,True
+pataca,"['pa', 'ta', 'ca']",1,paroxítona,True
+patacão,"['pa', 'ta', 'cão']",2,oxítona,False
+patacho,"['pa', 'ta', 'cho']",1,paroxítona,False
+pataco,"['pa', 'ta', 'co']",1,paroxítona,True
+patacoada,"['pa', 'ta', 'co', 'a', 'da']",3,paroxítona,False
+patada,"['pa', 'ta', 'da']",1,paroxítona,True
+patagónia,"['pa', 'ta', 'gó', 'ni', 'a']",2,proparoxítona,False
+patagónio,"['pa', 'ta', 'gó', 'ni', 'o']",2,proparoxítona,False
+patamar,"['pa', 'ta', 'mar']",2,oxítona,False
+patameira,"['pa', 'ta', 'mei', 'ra']",2,paroxítona,False
+patanisca,"['pa', 'ta', 'nis', 'ca']",2,paroxítona,False
+patarata,"['pa', 'ta', 'ra', 'ta']",2,paroxítona,True
+pataratar,"['pa', 'ta', 'ra', 'tar']",3,oxítona,False
+patavina,"['pa', 'ta', 'vi', 'na']",2,paroxítona,True
+patavino,"['pa', 'ta', 'vi', 'no']",2,paroxítona,True
+patchwork,"['patch', 'work']",1,oxítona,False
+pate,"['pa', 'te']",0,paroxítona,True
+patê,"['pa', 'tê']",1,oxítona,True
+pateada,"['pa', 'te', 'a', 'da']",2,paroxítona,False
+pateado,"['pa', 'te', 'a', 'do']",2,paroxítona,False
+patear,"['pa', 'te', 'ar']",2,oxítona,False
+pategar,"['pa', 'te', 'gar']",2,oxítona,False
+patego,"['pa', 'te', 'go']",1,paroxítona,True
+pateira,"['pa', 'tei', 'ra']",1,paroxítona,False
+pateiro,"['pa', 'tei', 'ro']",1,paroxítona,False
+patela,"['pa', 'te', 'la']",1,paroxítona,True
+patena,"['pa', 'te', 'na']",1,paroxítona,True
+patente,"['pa', 'ten', 'te']",1,paroxítona,False
+patenteação,"['pa', 'ten', 'te', 'a', 'ção']",4,oxítona,False
+patenteado,"['pa', 'ten', 'te', 'a', 'do']",3,paroxítona,False
+patentear,"['pa', 'ten', 'te', 'ar']",3,oxítona,False
+patera,"['pa', 'te', 'ra']",1,paroxítona,True
+paternal,"['pa', 'ter', 'nal']",2,oxítona,False
+paternalismo,"['pa', 'ter', 'na', 'lis', 'mo']",3,paroxítona,False
+paternalista,"['pa', 'ter', 'na', 'lis', 'ta']",3,paroxítona,False
+paternalmente,"['pa', 'ter', 'nal', 'men', 'te']",3,paroxítona,False
+paternidade,"['pa', 'ter', 'ni', 'da', 'de']",3,paroxítona,False
+paterno,"['pa', 'ter', 'no']",1,paroxítona,False
+pateta,"['pa', 'te', 'ta']",1,paroxítona,True
+patetar,"['pa', 'te', 'tar']",2,oxítona,False
+patética,"['pa', 'té', 'ti', 'ca']",1,proparoxítona,True
+pateticamente,"['pa', 'te', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+patetice,"['pa', 'te', 'ti', 'ce']",2,paroxítona,True
+patético,"['pa', 'té', 'ti', 'co']",1,proparoxítona,True
+pathos,"['pa', 'thos']",0,paroxítona,False
+pati,"['pa', 'ti']",1,oxítona,True
+patibular,"['pa', 'ti', 'bu', 'lar']",3,oxítona,False
+patíbulo,"['pa', 'tí', 'bu', 'lo']",1,proparoxítona,True
+patifaria,"['pa', 'ti', 'fa', 'ri', 'a']",3,paroxítona,False
+patife,"['pa', 'ti', 'fe']",1,paroxítona,True
+patilha,"['pa', 'ti', 'lha']",1,paroxítona,False
+patim,"['pa', 'tim']",1,oxítona,False
+pátina,"['pá', 'ti', 'na']",0,proparoxítona,True
+patinador,"['pa', 'ti', 'na', 'dor']",3,oxítona,False
+patinadora,"['pa', 'ti', 'na', 'do', 'ra']",3,paroxítona,True
+patinagem,"['pa', 'ti', 'na', 'gem']",2,paroxítona,False
+patinar,"['pa', 'ti', 'nar']",2,oxítona,False
+patine,"['pa', 'ti', 'ne']",1,paroxítona,True
+patinha,"['pa', 'ti', 'nha']",1,paroxítona,False
+patinhar,"['pa', 'ti', 'nhar']",2,oxítona,False
+patinheiro,"['pa', 'ti', 'nhei', 'ro']",2,paroxítona,False
+patinho,"['pa', 'ti', 'nho']",1,paroxítona,False
+pátio,"['pá', 'ti', 'o']",0,proparoxítona,False
+pato,"['pa', 'to']",0,paroxítona,True
+pato-bravo,"['pa', 'to-', 'bra', 'vo']",2,paroxítona,False
+pato-real,"['pa', 'to-re', 'al']",2,oxítona,False
+pato-trombeteiro,"['pa', 'to-trom', 'be', 'tei', 'ro']",3,paroxítona,False
+patogénese,"['pa', 'to', 'gé', 'ne', 'se']",2,proparoxítona,True
+patogenia,"['pa', 'to', 'ge', 'ni', 'a']",3,paroxítona,False
+patogénico,"['pa', 'to', 'gé', 'ni', 'co']",2,proparoxítona,True
+patola,"['pa', 'to', 'la']",1,paroxítona,True
+patologia,"['pa', 'to', 'lo', 'gi', 'a']",3,paroxítona,False
+patologicamente,"['pa', 'to', 'lo', 'gi', 'ca', 'men', 'te']",5,paroxítona,False
+patológico,"['pa', 'to', 'ló', 'gi', 'co']",2,proparoxítona,True
+patologista,"['pa', 'to', 'lo', 'gis', 'ta']",3,paroxítona,False
+patranha,"['pa', 'tra', 'nha']",1,paroxítona,False
+patrão,"['pa', 'trão']",1,oxítona,False
+patrão-mor,"['pa', 'trão', 'mor']",2,oxítona,False
+pátria,"['pá', 'tri', 'a']",0,proparoxítona,False
+patriarca,"['pa', 'tri', 'ar', 'ca']",2,paroxítona,False
+patriarcado,"['pa', 'tri', 'ar', 'ca', 'do']",3,paroxítona,False
+patriarcal,"['pa', 'tri', 'ar', 'cal']",3,oxítona,False
+patriarcalmente,"['pa', 'tri', 'ar', 'cal', 'men', 'te']",4,paroxítona,False
+patrícia,"['pa', 'trí', 'ci', 'a']",1,proparoxítona,False
+patriciado,"['pa', 'tri', 'ci', 'a', 'do']",3,paroxítona,False
+patrício,"['pa', 'trí', 'ci', 'o']",1,proparoxítona,False
+patrimonial,"['pa', 'tri', 'mo', 'ni', 'al']",4,oxítona,False
+patrimonialmente,"['pa', 'tri', 'mo', 'ni', 'al', 'men', 'te']",5,paroxítona,False
+património,"['pa', 'tri', 'mó', 'ni', 'o']",2,proparoxítona,False
+pátrio,"['pá', 'tri', 'o']",0,proparoxítona,False
+patriota,"['pa', 'tri', 'o', 'ta']",2,paroxítona,False
+patrioteira,"['pa', 'tri', 'o', 'tei', 'ra']",3,paroxítona,False
+patrioteiramente,"['pa', 'tri', 'o', 'tei', 'ra', 'men', 'te']",5,paroxítona,False
+patrioteirismo,"['pa', 'tri', 'o', 'tei', 'ris', 'mo']",4,paroxítona,False
+patrioteiro,"['pa', 'tri', 'o', 'tei', 'ro']",3,paroxítona,False
+patrioticamente,"['pa', 'tri', 'o', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+patriótico,"['pa', 'tri', 'ó', 'ti', 'co']",2,proparoxítona,False
+patriotismo,"['pa', 'tri', 'o', 'tis', 'mo']",3,paroxítona,False
+patrística,"['pa', 'trís', 'ti', 'ca']",1,proparoxítona,False
+patrístico,"['pa', 'trís', 'ti', 'co']",1,proparoxítona,False
+patroa,"['pa', 'tro', 'a']",1,paroxítona,False
+patrocinado,"['pa', 'tro', 'ci', 'na', 'do']",3,paroxítona,False
+patrocinador,"['pa', 'tro', 'ci', 'na', 'dor']",4,oxítona,False
+patrocinadora,"['pa', 'tro', 'ci', 'na', 'do', 'ra']",4,paroxítona,False
+patrocinar,"['pa', 'tro', 'ci', 'nar']",3,oxítona,False
+patrocinato,"['pa', 'tro', 'ci', 'na', 'to']",3,paroxítona,False
+patrocínio,"['pa', 'tro', 'cí', 'ni', 'o']",2,proparoxítona,False
+patrona,"['pa', 'tro', 'na']",1,paroxítona,False
+patronal,"['pa', 'tro', 'nal']",2,oxítona,False
+patronato,"['pa', 'tro', 'na', 'to']",2,paroxítona,False
+patronímico,"['pa', 'tro', 'ní', 'mi', 'co']",2,proparoxítona,False
+patrono,"['pa', 'tro', 'no']",1,paroxítona,False
+patrulha,"['pa', 'tru', 'lha']",1,paroxítona,False
+patrulhado,"['pa', 'tru', 'lha', 'do']",2,paroxítona,False
+patrulhamento,"['pa', 'tru', 'lha', 'men', 'to']",3,paroxítona,False
+patrulhar,"['pa', 'tru', 'lhar']",2,oxítona,False
+patuá,"['pa', 'tu', 'á']",2,oxítona,False
+patudo,"['pa', 'tu', 'do']",1,paroxítona,True
+patuleia,"['pa', 'tu', 'lei', 'a']",2,paroxítona,False
+patusca,"['pa', 'tus', 'ca']",1,paroxítona,False
+patuscada,"['pa', 'tus', 'ca', 'da']",2,paroxítona,False
+patuscar,"['pa', 'tus', 'car']",2,oxítona,False
+patusco,"['pa', 'tus', 'co']",1,paroxítona,False
+pau,['pau'],0,oxítona,False
+pau a pique,"['pau', ' a ', 'pi', 'que']",2,paroxítona,False
+pau de cabeleira,"['pau', ' de ca', 'be', 'lei', 'ra']",3,paroxítona,False
+pau-brasil,"['pau', '-bra', 'sil']",2,oxítona,False
+pau-cetim,"['pau', '-ce', 'tim']",2,oxítona,False
+pau-mandado,"['pau', '-man', 'da', 'do']",2,paroxítona,False
+pau-preto,"['pau', 'pre', 'to']",1,paroxítona,False
+pau-rosa,"['pau', 'ro', 'sa']",1,paroxítona,False
+pau-santo,"['pau', 'san', 'to']",1,paroxítona,False
+paul,"['pa', 'ul']",1,oxítona,False
+paulada,"['pau', 'la', 'da']",1,paroxítona,False
+paulatinamente,"['pau', 'la', 'ti', 'na', 'men', 'te']",4,paroxítona,False
+paulatino,"['pau', 'la', 'ti', 'no']",2,paroxítona,False
+paulista,"['pau', 'lis', 'ta']",1,paroxítona,False
+paulistana,"['pau', 'lis', 'ta', 'na']",2,paroxítona,False
+paulistano,"['pau', 'lis', 'ta', 'no']",2,paroxítona,False
+pauliteiro,"['pau', 'li', 'tei', 'ro']",2,paroxítona,False
+paulito,"['pau', 'li', 'to']",1,paroxítona,False
+pauperismo,"['pau', 'pe', 'ris', 'mo']",2,paroxítona,False
+pauperização,"['pau', 'pe', 'ri', 'za', 'ção']",4,oxítona,False
+pauperizado,"['pau', 'pe', 'ri', 'za', 'do']",3,paroxítona,False
+pauperizar,"['pau', 'pe', 'ri', 'zar']",3,oxítona,False
+paupérrimo,"['pau', 'pér', 'ri', 'mo']",1,proparoxítona,False
+pausa,"['pau', 'sa']",0,paroxítona,False
+pausadamente,"['pau', 'sa', 'da', 'men', 'te']",3,paroxítona,False
+pausado,"['pau', 'sa', 'do']",1,paroxítona,False
+pausar,"['pau', 'sar']",1,oxítona,False
+pauta,"['pau', 'ta']",0,paroxítona,False
+pautado,"['pau', 'ta', 'do']",1,paroxítona,False
+pautal,"['pau', 'tal']",1,oxítona,False
+pautar,"['pau', 'tar']",1,oxítona,False
+pauzinho,"['pau', 'zi', 'nho']",1,paroxítona,False
+pavana,"['pa', 'va', 'na']",1,paroxítona,True
+pavão,"['pa', 'vão']",1,oxítona,False
+pavesar,"['pa', 've', 'sar']",2,oxítona,False
+pavia,"['pa', 'vi', 'a']",1,paroxítona,False
+pavilhão,"['pa', 'vi', 'lhão']",2,oxítona,False
+pavimentação,"['pa', 'vi', 'men', 'ta', 'ção']",4,oxítona,False
+pavimentado,"['pa', 'vi', 'men', 'ta', 'do']",3,paroxítona,False
+pavimentar,"['pa', 'vi', 'men', 'tar']",3,oxítona,False
+pavimento,"['pa', 'vi', 'men', 'to']",2,paroxítona,False
+pavio,"['pa', 'vi', 'o']",1,paroxítona,False
+pavloviano,"['pa', 'vlo', 'vi', 'a', 'no']",3,paroxítona,False
+pavo,"['pa', 'vo']",0,paroxítona,True
+pavonear,"['pa', 'vo', 'ne', 'ar']",3,oxítona,False
+pavor,"['pa', 'vor']",1,oxítona,False
+pavorosa,"['pa', 'vo', 'ro', 'sa']",2,paroxítona,True
+pavorosamente,"['pa', 'vo', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+pavoroso,"['pa', 'vo', 'ro', 'so']",2,paroxítona,True
+paxá,"['pa', 'xá']",1,oxítona,True
+paz,['paz'],0,oxítona,False
+pazada,"['pa', 'za', 'da']",1,paroxítona,True
+pê,['pê'],0,oxítona,True
+pé,['pé'],0,oxítona,True
+pé de cabra,"['pé', ' de ', 'ca', 'bra']",2,paroxítona,False
+pé de vento,"['pé', ' de ', 'ven', 'to']",2,paroxítona,False
+pé-coxinho,"['pé', '-co', 'xi', 'nho']",2,paroxítona,False
+pé-de-galo,"['pé', '-de-', 'ga', 'lo']",2,paroxítona,False
+pé-de-meia,"['pé', '-de-', 'mei', 'a']",2,paroxítona,False
+pé-descalço,"['pé', '-des', 'cal', 'ço']",2,paroxítona,False
+pé-direito,"['pé', '-di', 'rei', 'to']",2,paroxítona,False
+peanha,"['pe', 'a', 'nha']",1,paroxítona,False
+peão,"['pe', 'ão']",1,oxítona,False
+pear,"['pe', 'ar']",1,oxítona,False
+peça,"['pe', 'ça']",0,paroxítona,True
+peça-chave,"['pe', 'ça-', 'cha', 've']",2,paroxítona,False
+pecadilho,"['pe', 'ca', 'di', 'lho']",2,paroxítona,False
+pecado,"['pe', 'ca', 'do']",1,paroxítona,True
+pecador,"['pe', 'ca', 'dor']",2,oxítona,False
+pecadora,"['pe', 'ca', 'do', 'ra']",2,paroxítona,True
+pecamente,"['pe', 'ca', 'men', 'te']",2,paroxítona,False
+pecaminosamente,"['pe', 'ca', 'mi', 'no', 'sa', 'men', 'te']",5,paroxítona,False
+pecaminoso,"['pe', 'ca', 'mi', 'no', 'so']",3,paroxítona,True
+pecar,"['pe', 'car']",1,oxítona,False
+pecha,"['pe', 'cha']",0,paroxítona,False
+pechincha,"['pe', 'chin', 'cha']",1,paroxítona,False
+pechinchar,"['pe', 'chin', 'char']",2,oxítona,False
+pechincho,"['pe', 'chin', 'cho']",1,paroxítona,False
+pechisbeque,"['pe', 'chis', 'be', 'que']",2,paroxítona,False
+pecíolo,"['pe', 'cí', 'o', 'lo']",1,proparoxítona,False
+peco,"['pe', 'co']",0,paroxítona,True
+peçonha,"['pe', 'ço', 'nha']",1,paroxítona,False
+peçonhentar,"['pe', 'ço', 'nhen', 'tar']",3,oxítona,False
+peçonhento,"['pe', 'ço', 'nhen', 'to']",2,paroxítona,False
+pécora,"['pé', 'co', 'ra']",0,proparoxítona,True
+pectina,"['pec', 'ti', 'na']",1,paroxítona,False
+pecuária,"['pe', 'cu', 'á', 'ri', 'a']",2,proparoxítona,False
+pecuário,"['pe', 'cu', 'á', 'ri', 'o']",2,proparoxítona,False
+peculato,"['pe', 'cu', 'la', 'to']",2,paroxítona,True
+peculiar,"['pe', 'cu', 'li', 'ar']",3,oxítona,False
+peculiaridade,"['pe', 'cu', 'li', 'a', 'ri', 'da', 'de']",5,paroxítona,False
+peculiarmente,"['pe', 'cu', 'li', 'ar', 'men', 'te']",4,paroxítona,False
+pecúlio,"['pe', 'cú', 'li', 'o']",1,proparoxítona,False
+pecúnia,"['pe', 'cú', 'ni', 'a']",1,proparoxítona,False
+pecuniariamente,"['pe', 'cu', 'ni', 'a', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+pecuniário,"['pe', 'cu', 'ni', 'á', 'ri', 'o']",3,proparoxítona,False
+pedaço,"['pe', 'da', 'ço']",1,paroxítona,True
+pedagogia,"['pe', 'da', 'go', 'gi', 'a']",3,paroxítona,False
+pedagogicamente,"['pe', 'da', 'go', 'gi', 'ca', 'men', 'te']",5,paroxítona,False
+pedagógico,"['pe', 'da', 'gó', 'gi', 'co']",2,proparoxítona,True
+pedagogismo,"['pe', 'da', 'go', 'gis', 'mo']",3,paroxítona,False
+pedagogista,"['pe', 'da', 'go', 'gis', 'ta']",3,paroxítona,False
+pedagogo,"['pe', 'da', 'go', 'go']",2,paroxítona,True
+pedal,"['pe', 'dal']",1,oxítona,False
+pedalada,"['pe', 'da', 'la', 'da']",2,paroxítona,True
+pedalar,"['pe', 'da', 'lar']",2,oxítona,False
+pedaleira,"['pe', 'da', 'lei', 'ra']",2,paroxítona,False
+pedaleiro,"['pe', 'da', 'lei', 'ro']",2,paroxítona,False
+pedante,"['pe', 'dan', 'te']",1,paroxítona,False
+pedantismo,"['pe', 'dan', 'tis', 'mo']",2,paroxítona,False
+pederasta,"['pe', 'de', 'ras', 'ta']",2,paroxítona,False
+pederastia,"['pe', 'de', 'ras', 'ti', 'a']",3,paroxítona,False
+pedernal,"['pe', 'der', 'nal']",2,oxítona,False
+pederneira,"['pe', 'der', 'nei', 'ra']",2,paroxítona,False
+pedestal,"['pe', 'des', 'tal']",2,oxítona,False
+pedestre,"['pe', 'des', 'tre']",1,paroxítona,False
+pedestremente,"['pe', 'des', 'tre', 'men', 'te']",3,paroxítona,False
+pedestrianismo,"['pe', 'des', 'tri', 'a', 'nis', 'mo']",4,paroxítona,False
+pedestrianista,"['pe', 'des', 'tri', 'a', 'nis', 'ta']",4,paroxítona,False
+pediatra,"['pe', 'di', 'a', 'tra']",2,paroxítona,False
+pediatria,"['pe', 'di', 'a', 'tri', 'a']",3,paroxítona,False
+pediátrico,"['pe', 'di', 'á', 'tri', 'co']",2,proparoxítona,False
+pedida,"['pe', 'di', 'da']",1,paroxítona,True
+pedido,"['pe', 'di', 'do']",1,paroxítona,True
+pedigree,"['pe', 'di', 'gree']",2,oxítona,False
+pedincha,"['pe', 'din', 'cha']",1,paroxítona,False
+pedinchão,"['pe', 'din', 'chão']",2,oxítona,False
+pedinchar,"['pe', 'din', 'char']",2,oxítona,False
+pedinchice,"['pe', 'din', 'chi', 'ce']",2,paroxítona,False
+pedintar,"['pe', 'din', 'tar']",2,oxítona,False
+pedinte,"['pe', 'din', 'te']",1,paroxítona,False
+pedir,"['pe', 'dir']",1,oxítona,False
+peditório,"['pe', 'di', 'tó', 'ri', 'o']",2,proparoxítona,False
+pedófila,"['pe', 'dó', 'fi', 'la']",1,proparoxítona,True
+pedofilia,"['pe', 'do', 'fi', 'li', 'a']",3,paroxítona,False
+pedófilo,"['pe', 'dó', 'fi', 'lo']",1,proparoxítona,True
+pedologia,"['pe', 'do', 'lo', 'gi', 'a']",3,paroxítona,False
+pedómetro,"['pe', 'dó', 'me', 'tro']",1,proparoxítona,False
+pedonal,"['pe', 'do', 'nal']",2,oxítona,False
+pedopsiquiatra,"['pe', 'dop', 'si', 'qui', 'a', 'tra']",4,paroxítona,False
+pedopsiquiatria,"['pe', 'dop', 'si', 'qui', 'a', 'tri', 'a']",5,paroxítona,False
+pedra,"['pe', 'dra']",0,paroxítona,False
+pedra de toque,"['pe', 'dra de ', 'to', 'que']",2,paroxítona,False
+pedra-pomes,"['pe', 'dra-', 'po', 'mes']",2,paroxítona,False
+pedrada,"['pe', 'dra', 'da']",1,paroxítona,False
+pedrado,"['pe', 'dra', 'do']",1,paroxítona,False
+pedral,"['pe', 'dral']",1,oxítona,False
+pedrão,"['pe', 'drão']",1,oxítona,False
+pedrar,"['pe', 'drar']",1,oxítona,False
+pedraria,"['pe', 'dra', 'ri', 'a']",2,paroxítona,False
+pedregal,"['pe', 'dre', 'gal']",2,oxítona,False
+pedregoso,"['pe', 'dre', 'go', 'so']",2,paroxítona,False
+pedregulho,"['pe', 'dre', 'gu', 'lho']",2,paroxítona,False
+pedreira,"['pe', 'drei', 'ra']",1,paroxítona,False
+pedreirinho,"['pe', 'drei', 'ri', 'nho']",2,paroxítona,False
+pedreiro,"['pe', 'drei', 'ro']",1,paroxítona,False
+pedreiro-livre,"['pe', 'drei', 'ro-', 'li', 'vre']",3,paroxítona,False
+pedrês,"['pe', 'drês']",1,oxítona,False
+pedrinha,"['pe', 'dri', 'nha']",1,paroxítona,False
+pedroguense,"['pe', 'dro', 'guen', 'se']",2,paroxítona,False
+pedroso,"['pe', 'dro', 'so']",1,paroxítona,False
+pedrouço,"['pe', 'drou', 'ço']",1,paroxítona,False
+pedúnculo,"['pe', 'dún', 'cu', 'lo']",1,proparoxítona,False
+pega,"['pe', 'ga']",0,paroxítona,True
+pegada,"['pe', 'ga', 'da']",1,paroxítona,True
+pegado,"['pe', 'ga', 'do']",1,paroxítona,True
+pegador,"['pe', 'ga', 'dor']",2,oxítona,False
+pegajoso,"['pe', 'ga', 'jo', 'so']",2,paroxítona,True
+peganhento,"['pe', 'ga', 'nhen', 'to']",2,paroxítona,False
+pegão,"['pe', 'gão']",1,oxítona,False
+pegar,"['pe', 'gar']",1,oxítona,False
+pegas,"['pe', 'gas']",0,paroxítona,False
+pego,"['pe', 'go']",0,paroxítona,True
+peia,"['pei', 'a']",0,paroxítona,False
+peidar,"['pei', 'dar']",1,oxítona,False
+peido,"['pei', 'do']",0,paroxítona,False
+peinar,"['pei', 'nar']",1,oxítona,False
+peiote,"['pei', 'o', 'te']",1,paroxítona,False
+peitar,"['pei', 'tar']",1,oxítona,False
+peitilho,"['pei', 'ti', 'lho']",1,paroxítona,False
+peito,"['pei', 'to']",0,paroxítona,False
+peitoral,"['pei', 'to', 'ral']",2,oxítona,False
+peitoril,"['pei', 'to', 'ril']",2,oxítona,False
+peixão,"['pei', 'xão']",1,oxítona,False
+peixaria,"['pei', 'xa', 'ri', 'a']",2,paroxítona,False
+peixe,"['pei', 'xe']",0,paroxítona,False
+peixe-aranha,"['pei', 'xe-a', 'ra', 'nha']",2,paroxítona,False
+peixe-boi,"['pei', 'xe-', 'boi']",2,oxítona,False
+peixe-espada,"['pei', 'xe-es', 'pa', 'da']",2,paroxítona,False
+peixe-galo,"['pei', 'xe-', 'ga', 'lo']",2,paroxítona,False
+peixe-lua,"['pei', 'xe-', 'lu', 'a']",2,paroxítona,False
+peixe-voador,"['pei', 'xe-vo', 'a', 'dor']",3,oxítona,False
+peixeira,"['pei', 'xei', 'ra']",1,paroxítona,False
+peixeirada,"['pei', 'xei', 'ra', 'da']",2,paroxítona,False
+peixeiro,"['pei', 'xei', 'ro']",1,paroxítona,False
+peixinho,"['pei', 'xi', 'nho']",1,paroxítona,False
+pejado,"['pe', 'ja', 'do']",1,paroxítona,True
+pejar,"['pe', 'jar']",1,oxítona,False
+pejo,"['pe', 'jo']",0,paroxítona,True
+pejorativamente,"['pe', 'jo', 'ra', 'ti', 'va', 'men', 'te']",5,paroxítona,False
+pejorativo,"['pe', 'jo', 'ra', 'ti', 'vo']",3,paroxítona,True
+pela,"['pe', 'la']",0,paroxítona,True
+pelada,"['pe', 'la', 'da']",1,paroxítona,True
+peladinha,"['pe', 'la', 'di', 'nha']",2,paroxítona,False
+pelado,"['pe', 'la', 'do']",1,paroxítona,True
+pelagem,"['pe', 'la', 'gem']",1,paroxítona,False
+pelágico,"['pe', 'lá', 'gi', 'co']",1,proparoxítona,True
+pelame,"['pe', 'la', 'me']",1,paroxítona,True
+pelão,"['pe', 'lão']",1,oxítona,False
+pelar,"['pe', 'lar']",1,oxítona,False
+pelaria,"['pe', 'la', 'ri', 'a']",2,paroxítona,False
+pele,"['pe', 'le']",0,paroxítona,True
+pele-vermelha,"['pe', 'le-ver', 'me', 'lha']",2,paroxítona,False
+pelear,"['pe', 'le', 'ar']",2,oxítona,False
+peleira,"['pe', 'lei', 'ra']",1,paroxítona,False
+peleiro,"['pe', 'lei', 'ro']",1,paroxítona,False
+peleja,"['pe', 'le', 'ja']",1,paroxítona,True
+pelejar,"['pe', 'le', 'jar']",2,oxítona,False
+peleu,"['pe', 'leu']",1,oxítona,False
+peliça,"['pe', 'li', 'ça']",1,paroxítona,True
+pelica,"['pe', 'li', 'ca']",1,paroxítona,True
+pelicano,"['pe', 'li', 'ca', 'no']",2,paroxítona,True
+pelico,"['pe', 'li', 'co']",1,paroxítona,True
+película,"['pe', 'lí', 'cu', 'la']",1,proparoxítona,True
+pelicular,"['pe', 'li', 'cu', 'lar']",3,oxítona,False
+pelintra,"['pe', 'lin', 'tra']",1,paroxítona,False
+pelintrar,"['pe', 'lin', 'trar']",2,oxítona,False
+pelintrice,"['pe', 'lin', 'tri', 'ce']",2,paroxítona,False
+pelo,"['pe', 'lo']",0,paroxítona,True
+peloso,"['pe', 'lo', 'so']",1,paroxítona,True
+pelota,"['pe', 'lo', 'ta']",1,paroxítona,True
+pelotão,"['pe', 'lo', 'tão']",2,oxítona,False
+pelote,"['pe', 'lo', 'te']",1,paroxítona,True
+pelourinho,"['pe', 'lou', 'ri', 'nho']",2,paroxítona,False
+pelouro,"['pe', 'lou', 'ro']",1,paroxítona,False
+peluche,"['pe', 'lu', 'che']",1,paroxítona,False
+pelúcia,"['pe', 'lú', 'ci', 'a']",1,proparoxítona,False
+pelúcido,"['pe', 'lú', 'ci', 'do']",1,proparoxítona,True
+peluda,"['pe', 'lu', 'da']",1,paroxítona,True
+peludo,"['pe', 'lu', 'do']",1,paroxítona,True
+pélvico,"['pél', 'vi', 'co']",0,proparoxítona,False
+pélvis,"['pél', 'vis']",0,paroxítona,False
+pemba,"['pem', 'ba']",0,paroxítona,False
+pena,"['pe', 'na']",0,paroxítona,True
+penacho,"['pe', 'na', 'cho']",1,paroxítona,False
+penada,"['pe', 'na', 'da']",1,paroxítona,True
+penadamente,"['pe', 'na', 'da', 'men', 'te']",3,paroxítona,False
+penado,"['pe', 'na', 'do']",1,paroxítona,True
+penafidelense,"['pe', 'na', 'fi', 'de', 'len', 'se']",4,paroxítona,False
+penal,"['pe', 'nal']",1,oxítona,False
+penalidade,"['pe', 'na', 'li', 'da', 'de']",3,paroxítona,True
+penalista,"['pe', 'na', 'lis', 'ta']",2,paroxítona,False
+penalização,"['pe', 'na', 'li', 'za', 'ção']",4,oxítona,False
+penalizado,"['pe', 'na', 'li', 'za', 'do']",3,paroxítona,True
+penalizador,"['pe', 'na', 'li', 'za', 'dor']",4,oxítona,False
+penalizante,"['pe', 'na', 'li', 'zan', 'te']",3,paroxítona,False
+penalizantemente,"['pe', 'na', 'li', 'zan', 'te', 'men', 'te']",5,paroxítona,False
+penalizar,"['pe', 'na', 'li', 'zar']",3,oxítona,False
+penalmente,"['pe', 'nal', 'men', 'te']",2,paroxítona,False
+penalti,"['pe', 'nal', 'ti']",2,oxítona,False
+penalty,"['pe', 'nal', 'ty']",1,paroxítona,False
+penalvense,"['pe', 'nal', 'ven', 'se']",2,paroxítona,False
+penar,"['pe', 'nar']",1,oxítona,False
+penates,"['pe', 'na', 'tes']",1,paroxítona,False
+penca,"['pen', 'ca']",0,paroxítona,False
+pence,"['pen', 'ce']",0,paroxítona,False
+pendão,"['pen', 'dão']",1,oxítona,False
+pendência,"['pen', 'dên', 'ci', 'a']",1,proparoxítona,False
+pendente,"['pen', 'den', 'te']",1,paroxítona,False
+pender,"['pen', 'der']",1,oxítona,False
+pendor,"['pen', 'dor']",1,oxítona,False
+pendular,"['pen', 'du', 'lar']",2,oxítona,False
+pêndulo,"['pên', 'du', 'lo']",0,proparoxítona,False
+pendura,"['pen', 'du', 'ra']",1,paroxítona,False
+pendurada,"['pen', 'du', 'ra', 'da']",2,paroxítona,False
+pendurado,"['pen', 'du', 'ra', 'do']",2,paroxítona,False
+pendural,"['pen', 'du', 'ral']",2,oxítona,False
+pendurar,"['pen', 'du', 'rar']",2,oxítona,False
+penduricalho,"['pen', 'du', 'ri', 'ca', 'lho']",3,paroxítona,False
+pene,"['pe', 'ne']",0,paroxítona,True
+penedia,"['pe', 'ne', 'di', 'a']",2,paroxítona,False
+penedo,"['pe', 'ne', 'do']",1,paroxítona,True
+peneira,"['pe', 'nei', 'ra']",1,paroxítona,False
+peneirada,"['pe', 'nei', 'ra', 'da']",2,paroxítona,False
+peneirado,"['pe', 'nei', 'ra', 'do']",2,paroxítona,False
+peneirar,"['pe', 'nei', 'rar']",2,oxítona,False
+peneireiro,"['pe', 'nei', 'rei', 'ro']",2,paroxítona,False
+peneirento,"['pe', 'nei', 'ren', 'to']",2,paroxítona,False
+penela,"['pe', 'ne', 'la']",1,paroxítona,True
+penélope,"['pe', 'né', 'lo', 'pe']",1,proparoxítona,True
+penetra,"['pe', 'ne', 'tra']",1,paroxítona,False
+penetração,"['pe', 'ne', 'tra', 'ção']",3,oxítona,False
+penetrador,"['pe', 'ne', 'tra', 'dor']",3,oxítona,False
+penetrante,"['pe', 'ne', 'tran', 'te']",2,paroxítona,False
+penetrantemente,"['pe', 'ne', 'tran', 'te', 'men', 'te']",4,paroxítona,False
+penetrar,"['pe', 'ne', 'trar']",2,oxítona,False
+penetrável,"['pe', 'ne', 'trá', 'vel']",2,paroxítona,False
+penha,"['pe', 'nha']",0,paroxítona,False
+penhasco,"['pe', 'nhas', 'co']",1,paroxítona,False
+penhascoso,"['pe', 'nhas', 'co', 'so']",2,paroxítona,False
+penhor,"['pe', 'nhor']",1,oxítona,False
+penhora,"['pe', 'nho', 'ra']",1,paroxítona,False
+penhoradamente,"['pe', 'nho', 'ra', 'da', 'men', 'te']",4,paroxítona,False
+penhorado,"['pe', 'nho', 'ra', 'do']",2,paroxítona,False
+penhorante,"['pe', 'nho', 'ran', 'te']",2,paroxítona,False
+penhorantemente,"['pe', 'nho', 'ran', 'te', 'men', 'te']",4,paroxítona,False
+penhorar,"['pe', 'nho', 'rar']",2,oxítona,False
+penhorável,"['pe', 'nho', 'rá', 'vel']",2,paroxítona,False
+penhorista,"['pe', 'nho', 'ris', 'ta']",2,paroxítona,False
+péni,"['pé', 'ni']",0,paroxítona,True
+penicar,"['pe', 'ni', 'car']",2,oxítona,False
+penicheiro,"['pe', 'ni', 'chei', 'ro']",2,paroxítona,False
+penichense,"['pe', 'ni', 'chen', 'se']",2,paroxítona,False
+penicilina,"['pe', 'ni', 'ci', 'li', 'na']",3,paroxítona,True
+penico,"['pe', 'ni', 'co']",1,paroxítona,True
+penina,"['pe', 'ni', 'na']",1,paroxítona,True
+península,"['pe', 'nín', 'su', 'la']",1,proparoxítona,False
+peninsular,"['pe', 'nin', 'su', 'lar']",3,oxítona,False
+pénis,"['pé', 'nis']",0,paroxítona,False
+penitência,"['pe', 'ni', 'tên', 'ci', 'a']",2,proparoxítona,False
+penitenciado,"['pe', 'ni', 'ten', 'ci', 'a', 'do']",4,paroxítona,False
+penitencial,"['pe', 'ni', 'ten', 'ci', 'al']",4,oxítona,False
+penitenciar,"['pe', 'ni', 'ten', 'ci', 'ar']",4,oxítona,False
+penitenciária,"['pe', 'ni', 'ten', 'ci', 'á', 'ri', 'a']",4,proparoxítona,False
+penitenciaria,"['pe', 'ni', 'ten', 'ci', 'a', 'ri', 'a']",5,paroxítona,False
+penitenciário,"['pe', 'ni', 'ten', 'ci', 'á', 'ri', 'o']",4,proparoxítona,False
+penitente,"['pe', 'ni', 'ten', 'te']",2,paroxítona,False
+peno,"['pe', 'no']",0,paroxítona,True
+penosa,"['pe', 'no', 'sa']",1,paroxítona,True
+penosamente,"['pe', 'no', 'sa', 'men', 'te']",3,paroxítona,False
+penoso,"['pe', 'no', 'so']",1,paroxítona,True
+pensadamente,"['pen', 'sa', 'da', 'men', 'te']",3,paroxítona,False
+pensado,"['pen', 'sa', 'do']",1,paroxítona,False
+pensador,"['pen', 'sa', 'dor']",2,oxítona,False
+pensadora,"['pen', 'sa', 'do', 'ra']",2,paroxítona,False
+pensamento,"['pen', 'sa', 'men', 'to']",2,paroxítona,False
+pensante,"['pen', 'san', 'te']",1,paroxítona,False
+pensão,"['pen', 'são']",1,oxítona,False
+pensar,"['pen', 'sar']",1,oxítona,False
+pensativamente,"['pen', 'sa', 'ti', 'va', 'men', 'te']",4,paroxítona,False
+pensativo,"['pen', 'sa', 'ti', 'vo']",2,paroxítona,False
+pensável,"['pen', 'sá', 'vel']",1,paroxítona,False
+penseroso,"['pen', 'se', 'ro', 'so']",2,paroxítona,False
+pênsil,"['pên', 'sil']",0,paroxítona,False
+pensionar,"['pen', 'si', 'o', 'nar']",3,oxítona,False
+pensionato,"['pen', 'si', 'o', 'na', 'to']",3,paroxítona,False
+pensionista,"['pen', 'si', 'o', 'nis', 'ta']",3,paroxítona,False
+penso,"['pen', 'so']",0,paroxítona,False
+pentagonal,"['pen', 'ta', 'go', 'nal']",3,oxítona,False
+pentágono,"['pen', 'tá', 'go', 'no']",1,proparoxítona,False
+pentagrama,"['pen', 'ta', 'gra', 'ma']",2,paroxítona,False
+pentatlo,"['pen', 'ta', 'tlo']",1,paroxítona,False
+pente,"['pen', 'te']",0,paroxítona,False
+penteação,"['pen', 'te', 'a', 'ção']",3,oxítona,False
+penteadela,"['pen', 'te', 'a', 'de', 'la']",3,paroxítona,False
+penteado,"['pen', 'te', 'a', 'do']",2,paroxítona,False
+pentear,"['pen', 'te', 'ar']",2,oxítona,False
+pentecostal,"['pen', 'te', 'cos', 'tal']",3,oxítona,False
+pentecostalismo,"['pen', 'te', 'cos', 'ta', 'lis', 'mo']",4,paroxítona,False
+penugem,"['pe', 'nu', 'gem']",1,paroxítona,False
+penúltima,"['pe', 'núl', 'ti', 'ma']",1,proparoxítona,False
+penúltimo,"['pe', 'núl', 'ti', 'mo']",1,proparoxítona,False
+penumbra,"['pe', 'num', 'bra']",1,paroxítona,False
+penumbrar,"['pe', 'num', 'brar']",2,oxítona,False
+penumbroso,"['pe', 'num', 'bro', 'so']",2,paroxítona,False
+penúria,"['pe', 'nú', 'ri', 'a']",1,proparoxítona,False
+péon,"['pé', 'on']",0,paroxítona,False
+peonagem,"['pe', 'o', 'na', 'gem']",2,paroxítona,False
+peónia,"['pe', 'ó', 'ni', 'a']",1,proparoxítona,False
+pepa,"['pe', 'pa']",0,paroxítona,True
+pepetela,"['pe', 'pe', 'te', 'la']",2,paroxítona,True
+pepineira,"['pe', 'pi', 'nei', 'ra']",2,paroxítona,False
+pepino,"['pe', 'pi', 'no']",1,paroxítona,True
+pepita,"['pe', 'pi', 'ta']",1,paroxítona,True
+péptico,"['pép', 'ti', 'co']",0,proparoxítona,False
+péptido,"['pép', 'ti', 'do']",0,proparoxítona,False
+pequena,"['pe', 'que', 'na']",1,paroxítona,False
+pequenada,"['pe', 'que', 'na', 'da']",2,paroxítona,False
+pequenez,"['pe', 'que', 'nez']",2,oxítona,False
+pequeneza,"['pe', 'que', 'ne', 'za']",2,paroxítona,False
+pequenina,"['pe', 'que', 'ni', 'na']",2,paroxítona,False
+pequenino,"['pe', 'que', 'ni', 'no']",2,paroxítona,False
+pequeníssimo,"['pe', 'que', 'nís', 'si', 'mo']",2,proparoxítona,False
+pequenita,"['pe', 'que', 'ni', 'ta']",2,paroxítona,False
+pequenito,"['pe', 'que', 'ni', 'to']",2,paroxítona,False
+pequeno,"['pe', 'que', 'no']",1,paroxítona,False
+pequeno-almoço,"['pe', 'que', 'no-al', 'mo', 'ço']",3,paroxítona,False
+pequenote,"['pe', 'que', 'no', 'te']",2,paroxítona,False
+pequerrucha,"['pe', 'quer', 'ru', 'cha']",2,paroxítona,False
+pequerrucho,"['pe', 'quer', 'ru', 'cho']",2,paroxítona,False
+pequinês,"['pe', 'qui', 'nês']",2,oxítona,False
+per,['per'],0,oxítona,False
+pera,"['pe', 'ra']",0,paroxítona,True
+perada,"['pe', 'ra', 'da']",1,paroxítona,True
+perafita,"['pe', 'ra', 'fi', 'ta']",2,paroxítona,True
+peral,"['pe', 'ral']",1,oxítona,False
+peralta,"['pe', 'ral', 'ta']",1,paroxítona,False
+perambular,"['pe', 'ram', 'bu', 'lar']",3,oxítona,False
+perante,"['pe', 'ran', 'te']",1,paroxítona,False
+perca,"['per', 'ca']",0,paroxítona,False
+percal,"['per', 'cal']",1,oxítona,False
+percalço,"['per', 'cal', 'ço']",1,paroxítona,False
+perceba,"['per', 'ce', 'ba']",1,paroxítona,False
+percebe,"['per', 'ce', 'be']",1,paroxítona,False
+perceber,"['per', 'ce', 'ber']",2,oxítona,False
+percebido,"['per', 'ce', 'bi', 'do']",2,paroxítona,False
+percecionar,"['per', 'ce', 'ci', 'o', 'nar']",4,oxítona,False
+percentagem,"['per', 'cen', 'ta', 'gem']",2,paroxítona,False
+percentil,"['per', 'cen', 'til']",2,oxítona,False
+percentual,"['per', 'cen', 'tu', 'al']",3,oxítona,False
+percepção,"['per', 'cep', 'ção']",2,oxítona,False
+perceptibilidade,"['per', 'cep', 'ti', 'bi', 'li', 'da', 'de']",5,paroxítona,False
+perceptível,"['per', 'cep', 'tí', 'vel']",2,paroxítona,False
+perceptivelmente,"['per', 'cep', 'ti', 'vel', 'men', 'te']",4,paroxítona,False
+percetivamente,"['per', 'ce', 'ti', 'va', 'men', 'te']",4,paroxítona,False
+percetivo,"['per', 'ce', 'ti', 'vo']",2,paroxítona,False
+percetual,"['per', 'ce', 'tu', 'al']",3,oxítona,False
+perceve,"['per', 'ce', 've']",1,paroxítona,False
+percevejo,"['per', 'ce', 've', 'jo']",2,paroxítona,False
+percorrer,"['per', 'cor', 'rer']",2,oxítona,False
+percurso,"['per', 'cur', 'so']",1,paroxítona,False
+percursor,"['per', 'cur', 'sor']",2,oxítona,False
+percussão,"['per', 'cus', 'são']",2,oxítona,False
+percussionista,"['per', 'cus', 'si', 'o', 'nis', 'ta']",4,paroxítona,False
+percussivo,"['per', 'cus', 'si', 'vo']",2,paroxítona,False
+percussor,"['per', 'cus', 'sor']",2,oxítona,False
+percutir,"['per', 'cu', 'tir']",2,oxítona,False
+percutor,"['per', 'cu', 'tor']",2,oxítona,False
+perda,"['per', 'da']",0,paroxítona,False
+perdão,"['per', 'dão']",1,oxítona,False
+perdedor,"['per', 'de', 'dor']",2,oxítona,False
+perdedora,"['per', 'de', 'do', 'ra']",2,paroxítona,False
+perder,"['per', 'der']",1,oxítona,False
+perdição,"['per', 'di', 'ção']",2,oxítona,False
+perdida,"['per', 'di', 'da']",1,paroxítona,False
+perdidamente,"['per', 'di', 'da', 'men', 'te']",3,paroxítona,False
+perdido,"['per', 'di', 'do']",1,paroxítona,False
+perdigão,"['per', 'di', 'gão']",2,oxítona,False
+perdigotar,"['per', 'di', 'go', 'tar']",3,oxítona,False
+perdigoto,"['per', 'di', 'go', 'to']",2,paroxítona,False
+perdigueiro,"['per', 'di', 'guei', 'ro']",2,paroxítona,False
+perdiz,"['per', 'diz']",1,oxítona,False
+perdoar,"['per', 'do', 'ar']",2,oxítona,False
+perdoável,"['per', 'do', 'á', 'vel']",2,paroxítona,False
+perdulária,"['per', 'du', 'lá', 'ri', 'a']",2,proparoxítona,False
+perdulariamente,"['per', 'du', 'la', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+perdulário,"['per', 'du', 'lá', 'ri', 'o']",2,proparoxítona,False
+perdurabilidade,"['per', 'du', 'ra', 'bi', 'li', 'da', 'de']",5,paroxítona,False
+perdurar,"['per', 'du', 'rar']",2,oxítona,False
+perdurável,"['per', 'du', 'rá', 'vel']",2,paroxítona,False
+perduravelmente,"['per', 'du', 'ra', 'vel', 'men', 'te']",4,paroxítona,False
+perecer,"['pe', 're', 'cer']",2,oxítona,False
+perecimento,"['pe', 're', 'ci', 'men', 'to']",3,paroxítona,False
+perecível,"['pe', 're', 'cí', 'vel']",2,paroxítona,False
+peregrina,"['pe', 're', 'gri', 'na']",2,paroxítona,False
+peregrinação,"['pe', 're', 'gri', 'na', 'ção']",4,oxítona,False
+peregrinamente,"['pe', 're', 'gri', 'na', 'men', 'te']",4,paroxítona,False
+peregrinar,"['pe', 're', 'gri', 'nar']",3,oxítona,False
+peregrino,"['pe', 're', 'gri', 'no']",2,paroxítona,False
+pereira,"['pe', 'rei', 'ra']",1,paroxítona,False
+pereiro,"['pe', 'rei', 'ro']",1,paroxítona,False
+peremptoriamente,"['pe', 'remp', 'to', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+peremptório,"['pe', 'remp', 'tó', 'ri', 'o']",2,proparoxítona,False
+perene,"['pe', 're', 'ne']",1,paroxítona,True
+perenemente,"['pe', 're', 'ne', 'men', 'te']",3,paroxítona,False
+perenidade,"['pe', 're', 'ni', 'da', 'de']",3,paroxítona,True
+perequação,"['pe', 're', 'qua', 'ção']",3,oxítona,False
+perestroika,"['pe', 'res', 'troi', 'ka']",2,paroxítona,False
+perfazer,"['per', 'fa', 'zer']",2,oxítona,False
+perfecionismo,"['per', 'fe', 'ci', 'o', 'nis', 'mo']",4,paroxítona,False
+perfecionista,"['per', 'fe', 'ci', 'o', 'nis', 'ta']",4,paroxítona,False
+perfectível,"['per', 'fec', 'tí', 'vel']",2,paroxítona,False
+perfeição,"['per', 'fei', 'ção']",2,oxítona,False
+perfeitamente,"['per', 'fei', 'ta', 'men', 'te']",3,paroxítona,False
+perfeito,"['per', 'fei', 'to']",1,paroxítona,False
+pérfida,"['pér', 'fi', 'da']",0,proparoxítona,False
+perfidamente,"['per', 'fi', 'da', 'men', 'te']",3,paroxítona,False
+perfídia,"['per', 'fí', 'di', 'a']",1,proparoxítona,False
+pérfido,"['pér', 'fi', 'do']",0,proparoxítona,False
+perfil,"['per', 'fil']",1,oxítona,False
+perfilado,"['per', 'fi', 'la', 'do']",2,paroxítona,False
+perfilar,"['per', 'fi', 'lar']",2,oxítona,False
+perfilhação,"['per', 'fi', 'lha', 'ção']",3,oxítona,False
+perfilhada,"['per', 'fi', 'lha', 'da']",2,paroxítona,False
+perfilhado,"['per', 'fi', 'lha', 'do']",2,paroxítona,False
+perfilhar,"['per', 'fi', 'lhar']",2,oxítona,False
+performance,"['per', 'for', 'man', 'ce']",1,proparoxítona,False
+performativo,"['per', 'for', 'ma', 'ti', 'vo']",3,paroxítona,False
+performer,"['per', 'for', 'mer']",1,paroxítona,False
+perfumado,"['per', 'fu', 'ma', 'do']",2,paroxítona,False
+perfumar,"['per', 'fu', 'mar']",2,oxítona,False
+perfumaria,"['per', 'fu', 'ma', 'ri', 'a']",3,paroxítona,False
+perfume,"['per', 'fu', 'me']",1,paroxítona,False
+perfunctoriamente,"['per', 'func', 'to', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+perfunctório,"['per', 'func', 'tó', 'ri', 'o']",2,proparoxítona,False
+perfuração,"['per', 'fu', 'ra', 'ção']",3,oxítona,False
+perfurado,"['per', 'fu', 'ra', 'do']",2,paroxítona,False
+perfurador,"['per', 'fu', 'ra', 'dor']",3,oxítona,False
+perfuradora,"['per', 'fu', 'ra', 'do', 'ra']",3,paroxítona,False
+perfurante,"['per', 'fu', 'ran', 'te']",2,paroxítona,False
+perfurar,"['per', 'fu', 'rar']",2,oxítona,False
+perfusão,"['per', 'fu', 'são']",2,oxítona,False
+pergaminho,"['per', 'ga', 'mi', 'nho']",2,paroxítona,False
+pérgula,"['pér', 'gu', 'la']",0,proparoxítona,False
+pergunta,"['per', 'gun', 'ta']",1,paroxítona,False
+perguntador,"['per', 'gun', 'ta', 'dor']",3,oxítona,False
+perguntar,"['per', 'gun', 'tar']",2,oxítona,False
+pericárdio,"['pe', 'ri', 'cár', 'di', 'o']",2,proparoxítona,False
+perícia,"['pe', 'rí', 'ci', 'a']",1,proparoxítona,False
+pericial,"['pe', 'ri', 'ci', 'al']",3,oxítona,False
+periclitante,"['pe', 'ri', 'cli', 'tan', 'te']",3,paroxítona,False
+periclitantemente,"['pe', 'ri', 'cli', 'tan', 'te', 'men', 'te']",5,paroxítona,False
+periculosidade,"['pe', 'ri', 'cu', 'lo', 'si', 'da', 'de']",5,paroxítona,True
+periélio,"['pe', 'ri', 'é', 'li', 'o']",2,proparoxítona,False
+periferia,"['pe', 'ri', 'fe', 'ri', 'a']",3,paroxítona,False
+perifericamente,"['pe', 'ri', 'fe', 'ri', 'ca', 'men', 'te']",5,paroxítona,False
+periférico,"['pe', 'ri', 'fé', 'ri', 'co']",2,proparoxítona,True
+perífrase,"['pe', 'rí', 'fra', 'se']",1,proparoxítona,False
+perifrasticamente,"['pe', 'ri', 'fras', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+perifrástico,"['pe', 'ri', 'frás', 'ti', 'co']",2,proparoxítona,False
+perigar,"['pe', 'ri', 'gar']",2,oxítona,False
+perigeu,"['pe', 'ri', 'geu']",2,oxítona,False
+perigo,"['pe', 'ri', 'go']",1,paroxítona,True
+perigosamente,"['pe', 'ri', 'go', 'sa', 'men', 'te']",4,paroxítona,False
+perigosidade,"['pe', 'ri', 'go', 'si', 'da', 'de']",4,paroxítona,True
+perigosíssimo,"['pe', 'ri', 'go', 'sís', 'si', 'mo']",3,proparoxítona,False
+perigoso,"['pe', 'ri', 'go', 'so']",2,paroxítona,True
+perimetral,"['pe', 'ri', 'me', 'tral']",3,oxítona,False
+perímetro,"['pe', 'rí', 'me', 'tro']",1,proparoxítona,False
+perinatal,"['pe', 'ri', 'na', 'tal']",3,oxítona,False
+períneo,"['pe', 'rí', 'ne', 'o']",1,proparoxítona,False
+periodicamente,"['pe', 'ri', 'o', 'di', 'ca', 'men', 'te']",5,paroxítona,False
+periodicidade,"['pe', 'ri', 'o', 'di', 'ci', 'da', 'de']",5,paroxítona,False
+periódico,"['pe', 'ri', 'ó', 'di', 'co']",2,proparoxítona,False
+periodista,"['pe', 'ri', 'o', 'dis', 'ta']",3,paroxítona,False
+periodização,"['pe', 'ri', 'o', 'di', 'za', 'ção']",5,oxítona,False
+período,"['pe', 'rí', 'o', 'do']",1,proparoxítona,False
+peripateticamente,"['pe', 'ri', 'pa', 'te', 'ti', 'ca', 'men', 'te']",6,paroxítona,False
+peripatético,"['pe', 'ri', 'pa', 'té', 'ti', 'co']",3,proparoxítona,True
+peripécia,"['pe', 'ri', 'pé', 'ci', 'a']",2,proparoxítona,False
+périplo,"['pé', 'ri', 'plo']",0,proparoxítona,False
+peripneumonia,"['pe', 'rip', 'neu', 'mo', 'ni', 'a']",4,paroxítona,False
+periquito,"['pe', 'ri', 'qui', 'to']",2,paroxítona,False
+periscópio,"['pe', 'ris', 'có', 'pi', 'o']",2,proparoxítona,False
+peristilo,"['pe', 'ris', 'ti', 'lo']",2,paroxítona,False
+perita,"['pe', 'ri', 'ta']",1,paroxítona,True
+peritagem,"['pe', 'ri', 'ta', 'gem']",2,paroxítona,False
+perito,"['pe', 'ri', 'to']",1,paroxítona,True
+peritoneal,"['pe', 'ri', 'to', 'ne', 'al']",4,oxítona,False
+peritoneu,"['pe', 'ri', 'to', 'neu']",3,oxítona,False
+peritonite,"['pe', 'ri', 'to', 'ni', 'te']",3,paroxítona,True
+periurbano,"['pe', 'ri', 'ur', 'ba', 'no']",3,paroxítona,False
+perjúrio,"['per', 'jú', 'ri', 'o']",1,proparoxítona,False
+perla,"['per', 'la']",0,paroxítona,False
+perlado,"['per', 'la', 'do']",1,paroxítona,False
+perlar,"['per', 'lar']",1,oxítona,False
+perlimpimpim,"['per', 'lim', 'pim', 'pim']",3,oxítona,False
+perlonga,"['per', 'lon', 'ga']",1,paroxítona,False
+perlongar,"['per', 'lon', 'gar']",2,oxítona,False
+permanecer,"['per', 'ma', 'ne', 'cer']",3,oxítona,False
+permanência,"['per', 'ma', 'nên', 'ci', 'a']",2,proparoxítona,False
+permanente,"['per', 'ma', 'nen', 'te']",2,paroxítona,False
+permanentemente,"['per', 'ma', 'nen', 'te', 'men', 'te']",4,paroxítona,False
+permeabilidade,"['per', 'me', 'a', 'bi', 'li', 'da', 'de']",5,paroxítona,False
+permeabilização,"['per', 'me', 'a', 'bi', 'li', 'za', 'ção']",6,oxítona,False
+permear,"['per', 'me', 'ar']",2,oxítona,False
+permeável,"['per', 'me', 'á', 'vel']",2,paroxítona,False
+permeio,"['per', 'mei', 'o']",1,paroxítona,False
+permilagem,"['per', 'mi', 'la', 'gem']",2,paroxítona,False
+permissão,"['per', 'mis', 'são']",2,oxítona,False
+permissivamente,"['per', 'mis', 'si', 'va', 'men', 'te']",4,paroxítona,False
+permissível,"['per', 'mis', 'sí', 'vel']",2,paroxítona,False
+permissividade,"['per', 'mis', 'si', 'vi', 'da', 'de']",4,paroxítona,False
+permissivismo,"['per', 'mis', 'si', 'vis', 'mo']",3,paroxítona,False
+permissivo,"['per', 'mis', 'si', 'vo']",2,paroxítona,False
+permitido,"['per', 'mi', 'ti', 'do']",2,paroxítona,False
+permitir,"['per', 'mi', 'tir']",2,oxítona,False
+permuta,"['per', 'mu', 'ta']",1,paroxítona,False
+permutabilidade,"['per', 'mu', 'ta', 'bi', 'li', 'da', 'de']",5,paroxítona,False
+permutação,"['per', 'mu', 'ta', 'ção']",3,oxítona,False
+permutador,"['per', 'mu', 'ta', 'dor']",3,oxítona,False
+permutar,"['per', 'mu', 'tar']",2,oxítona,False
+permutável,"['per', 'mu', 'tá', 'vel']",2,paroxítona,False
+perna,"['per', 'na']",0,paroxítona,False
+perna-longa,"['per', 'na-', 'lon', 'ga']",2,paroxítona,False
+pernada,"['per', 'na', 'da']",1,paroxítona,False
+pernalta,"['per', 'nal', 'ta']",1,paroxítona,False
+pernalto,"['per', 'nal', 'to']",1,paroxítona,False
+pernambucana,"['per', 'nam', 'bu', 'ca', 'na']",3,paroxítona,False
+pernambucano,"['per', 'nam', 'bu', 'ca', 'no']",3,paroxítona,False
+perneira,"['per', 'nei', 'ra']",1,paroxítona,False
+perneta,"['per', 'ne', 'ta']",1,paroxítona,False
+perniciosa,"['per', 'ni', 'ci', 'o', 'sa']",3,paroxítona,False
+perniciosamente,"['per', 'ni', 'ci', 'o', 'sa', 'men', 'te']",5,paroxítona,False
+perniciosidade,"['per', 'ni', 'ci', 'o', 'si', 'da', 'de']",5,paroxítona,False
+pernicioso,"['per', 'ni', 'ci', 'o', 'so']",3,paroxítona,False
+pernil,"['per', 'nil']",1,oxítona,False
+pernilongo,"['per', 'ni', 'lon', 'go']",2,paroxítona,False
+perno,"['per', 'no']",0,paroxítona,False
+pernoca,"['per', 'no', 'ca']",1,paroxítona,False
+pernoita,"['per', 'noi', 'ta']",1,paroxítona,False
+pernoitar,"['per', 'noi', 'tar']",2,oxítona,False
+pernoite,"['per', 'noi', 'te']",1,paroxítona,False
+pernóstico,"['per', 'nós', 'ti', 'co']",1,proparoxítona,False
+pero,"['pe', 'ro']",0,paroxítona,True
+peroba,"['pe', 'ro', 'ba']",1,paroxítona,True
+pérola,"['pé', 'ro', 'la']",0,proparoxítona,True
+perónio,"['pe', 'ró', 'ni', 'o']",1,proparoxítona,False
+peronismo,"['pe', 'ro', 'nis', 'mo']",2,paroxítona,False
+peroração,"['pe', 'ro', 'ra', 'ção']",3,oxítona,False
+perorar,"['pe', 'ro', 'rar']",2,oxítona,False
+peróxido,"['pe', 'ró', 'xi', 'do']",1,proparoxítona,True
+perpassar,"['per', 'pas', 'sar']",2,oxítona,False
+perpendicular,"['per', 'pen', 'di', 'cu', 'lar']",4,oxítona,False
+perpendicularmente,"['per', 'pen', 'di', 'cu', 'lar', 'men', 'te']",5,paroxítona,False
+perpetração,"['per', 'pe', 'tra', 'ção']",3,oxítona,False
+perpetrador,"['per', 'pe', 'tra', 'dor']",3,oxítona,False
+perpetrar,"['per', 'pe', 'trar']",2,oxítona,False
+perpétua,"['per', 'pé', 'tu', 'a']",1,proparoxítona,False
+perpetuação,"['per', 'pe', 'tu', 'a', 'ção']",4,oxítona,False
+perpetuador,"['per', 'pe', 'tu', 'a', 'dor']",4,oxítona,False
+perpetuamente,"['per', 'pe', 'tu', 'a', 'men', 'te']",4,paroxítona,False
+perpetuar,"['per', 'pe', 'tu', 'ar']",3,oxítona,False
+perpetuidade,"['per', 'pe', 'tu', 'i', 'da', 'de']",4,paroxítona,False
+perpétuo,"['per', 'pé', 'tu', 'o']",1,proparoxítona,False
+perplexamente,"['per', 'ple', 'xa', 'men', 'te']",3,paroxítona,False
+perplexidade,"['per', 'ple', 'xi', 'da', 'de']",3,paroxítona,False
+perplexo,"['per', 'ple', 'xo']",1,paroxítona,False
+perra,"['per', 'ra']",0,paroxítona,False
+perramente,"['per', 'ra', 'men', 'te']",2,paroxítona,False
+perro,"['per', 'ro']",0,paroxítona,False
+perrum,"['per', 'rum']",1,oxítona,False
+persa,"['per', 'sa']",0,paroxítona,False
+perscrutação,"['pers', 'cru', 'ta', 'ção']",3,oxítona,False
+perscrutador,"['pers', 'cru', 'ta', 'dor']",3,oxítona,False
+perscrutar,"['pers', 'cru', 'tar']",2,oxítona,False
+persecução,"['per', 'se', 'cu', 'ção']",3,oxítona,False
+persecutório,"['per', 'se', 'cu', 'tó', 'ri', 'o']",3,proparoxítona,False
+perseguição,"['per', 'se', 'gui', 'ção']",3,oxítona,False
+perseguido,"['per', 'se', 'gui', 'do']",2,paroxítona,False
+perseguidor,"['per', 'se', 'gui', 'dor']",3,oxítona,False
+perseguidora,"['per', 'se', 'gui', 'do', 'ra']",3,paroxítona,False
+perseguir,"['per', 'se', 'guir']",2,oxítona,False
+perseverança,"['per', 'se', 've', 'ran', 'ça']",3,paroxítona,False
+perseverante,"['per', 'se', 've', 'ran', 'te']",3,paroxítona,False
+perseverantemente,"['per', 'se', 've', 'ran', 'te', 'men', 'te']",5,paroxítona,False
+perseverar,"['per', 'se', 've', 'rar']",3,oxítona,False
+pérsia,"['pér', 'si', 'a']",0,proparoxítona,False
+persiana,"['per', 'si', 'a', 'na']",2,paroxítona,False
+persiano,"['per', 'si', 'a', 'no']",2,paroxítona,False
+pérsico,"['pér', 'si', 'co']",0,proparoxítona,False
+persignar,"['per', 'sig', 'nar']",2,oxítona,False
+pérsio,"['pér', 'si', 'o']",0,proparoxítona,False
+persistência,"['per', 'sis', 'tên', 'ci', 'a']",2,proparoxítona,False
+persistente,"['per', 'sis', 'ten', 'te']",2,paroxítona,False
+persistentemente,"['per', 'sis', 'ten', 'te', 'men', 'te']",4,paroxítona,False
+persistir,"['per', 'sis', 'tir']",2,oxítona,False
+personagem,"['per', 'so', 'na', 'gem']",2,paroxítona,False
+personagem-tipo,"['per', 'so', 'na', 'gem-', 'ti', 'po']",4,paroxítona,False
+personalidade,"['per', 'so', 'na', 'li', 'da', 'de']",4,paroxítona,False
+personalismo,"['per', 'so', 'na', 'lis', 'mo']",3,paroxítona,False
+personalista,"['per', 'so', 'na', 'lis', 'ta']",3,paroxítona,False
+personalização,"['per', 'so', 'na', 'li', 'za', 'ção']",5,oxítona,False
+personalizado,"['per', 'so', 'na', 'li', 'za', 'do']",4,paroxítona,False
+personalizar,"['per', 'so', 'na', 'li', 'zar']",4,oxítona,False
+personificação,"['per', 'so', 'ni', 'fi', 'ca', 'ção']",5,oxítona,False
+personificar,"['per', 'so', 'ni', 'fi', 'car']",4,oxítona,False
+perspéctico,"['pers', 'péc', 'ti', 'co']",1,proparoxítona,False
+perspectivação,"['pers', 'pec', 'ti', 'va', 'ção']",4,oxítona,False
+perspectivo,"['pers', 'pec', 'ti', 'vo']",2,paroxítona,False
+perspetiva,"['pers', 'pe', 'ti', 'va']",2,paroxítona,False
+perspetivar,"['pers', 'pe', 'ti', 'var']",3,oxítona,False
+perspetivismo,"['pers', 'pe', 'ti', 'vis', 'mo']",3,paroxítona,False
+perspetivista,"['pers', 'pe', 'ti', 'vis', 'ta']",3,paroxítona,False
+perspicácia,"['pers', 'pi', 'cá', 'ci', 'a']",2,proparoxítona,False
+perspicaz,"['pers', 'pi', 'caz']",2,oxítona,False
+perspicazmente,"['pers', 'pi', 'caz', 'men', 'te']",3,paroxítona,False
+persuadido,"['per', 'su', 'a', 'di', 'do']",3,paroxítona,False
+persuadir,"['per', 'su', 'a', 'dir']",3,oxítona,False
+persuasão,"['per', 'su', 'a', 'são']",3,oxítona,False
+persuasiva,"['per', 'su', 'a', 'si', 'va']",3,paroxítona,False
+persuasivamente,"['per', 'su', 'a', 'si', 'va', 'men', 'te']",5,paroxítona,False
+persuasivo,"['per', 'su', 'a', 'si', 'vo']",3,paroxítona,False
+persuasor,"['per', 'su', 'a', 'sor']",3,oxítona,False
+persuasora,"['per', 'su', 'a', 'so', 'ra']",3,paroxítona,False
+persuasória,"['per', 'su', 'a', 'só', 'ri', 'a']",3,proparoxítona,False
+persuasoriamente,"['per', 'su', 'a', 'so', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+persuasório,"['per', 'su', 'a', 'só', 'ri', 'o']",3,proparoxítona,False
+pertença,"['per', 'ten', 'ça']",1,paroxítona,False
+pertence,"['per', 'ten', 'ce']",1,paroxítona,False
+pertencente,"['per', 'ten', 'cen', 'te']",2,paroxítona,False
+pertencer,"['per', 'ten', 'cer']",2,oxítona,False
+pertinácia,"['per', 'ti', 'ná', 'ci', 'a']",2,proparoxítona,False
+pertinaz,"['per', 'ti', 'naz']",2,oxítona,False
+pertinazmente,"['per', 'ti', 'naz', 'men', 'te']",3,paroxítona,False
+pertinência,"['per', 'ti', 'nên', 'ci', 'a']",2,proparoxítona,False
+pertinente,"['per', 'ti', 'nen', 'te']",2,paroxítona,False
+pertinentemente,"['per', 'ti', 'nen', 'te', 'men', 'te']",4,paroxítona,False
+perto,"['per', 'to']",0,paroxítona,False
+perturbação,"['per', 'tur', 'ba', 'ção']",3,oxítona,False
+perturbado,"['per', 'tur', 'ba', 'do']",2,paroxítona,False
+perturbador,"['per', 'tur', 'ba', 'dor']",3,oxítona,False
+perturbadora,"['per', 'tur', 'ba', 'do', 'ra']",3,paroxítona,False
+perturbadoramente,"['per', 'tur', 'ba', 'do', 'ra', 'men', 'te']",5,paroxítona,False
+perturbante,"['per', 'tur', 'ban', 'te']",2,paroxítona,False
+perturbar,"['per', 'tur', 'bar']",2,oxítona,False
+peru,"['pe', 'ru']",1,oxítona,True
+perua,"['pe', 'ru', 'a']",1,paroxítona,False
+peruana,"['pe', 'ru', 'a', 'na']",2,paroxítona,False
+peruano,"['pe', 'ru', 'a', 'no']",2,paroxítona,False
+peruca,"['pe', 'ru', 'ca']",1,paroxítona,True
+perversa,"['per', 'ver', 'sa']",1,paroxítona,False
+perversamente,"['per', 'ver', 'sa', 'men', 'te']",3,paroxítona,False
+perversão,"['per', 'ver', 'são']",2,oxítona,False
+perversidade,"['per', 'ver', 'si', 'da', 'de']",3,paroxítona,False
+perverso,"['per', 'ver', 'so']",1,paroxítona,False
+perverter,"['per', 'ver', 'ter']",2,oxítona,False
+pervertida,"['per', 'ver', 'ti', 'da']",2,paroxítona,False
+pervertido,"['per', 'ver', 'ti', 'do']",2,paroxítona,False
+pesa,"['pe', 'sa']",0,paroxítona,True
+pesada,"['pe', 'sa', 'da']",1,paroxítona,True
+pesadamente,"['pe', 'sa', 'da', 'men', 'te']",3,paroxítona,False
+pesadão,"['pe', 'sa', 'dão']",2,oxítona,False
+pesadelo,"['pe', 'sa', 'de', 'lo']",2,paroxítona,True
+pesado,"['pe', 'sa', 'do']",1,paroxítona,True
+pesadona,"['pe', 'sa', 'do', 'na']",2,paroxítona,True
+pesadote,"['pe', 'sa', 'do', 'te']",2,paroxítona,True
+pesadume,"['pe', 'sa', 'du', 'me']",2,paroxítona,True
+pesagem,"['pe', 'sa', 'gem']",1,paroxítona,False
+pêsame,"['pê', 'sa', 'me']",0,proparoxítona,True
+pêsames,"['pê', 'sa', 'mes']",0,proparoxítona,False
+pesar,"['pe', 'sar']",1,oxítona,False
+pesarosamente,"['pe', 'sa', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+pesaroso,"['pe', 'sa', 'ro', 'so']",2,paroxítona,True
+pesca,"['pes', 'ca']",0,paroxítona,False
+pescada,"['pes', 'ca', 'da']",1,paroxítona,False
+pescadinha,"['pes', 'ca', 'di', 'nha']",2,paroxítona,False
+pescado,"['pes', 'ca', 'do']",1,paroxítona,False
+pescador,"['pes', 'ca', 'dor']",2,oxítona,False
+pescadora,"['pes', 'ca', 'do', 'ra']",2,paroxítona,False
+pescar,"['pes', 'car']",1,oxítona,False
+pescaria,"['pes', 'ca', 'ri', 'a']",2,paroxítona,False
+pescoço,"['pes', 'co', 'ço']",1,paroxítona,False
+peseta,"['pe', 'se', 'ta']",1,paroxítona,True
+peso,"['pe', 'so']",0,paroxítona,True
+pespegar,"['pes', 'pe', 'gar']",2,oxítona,False
+pespontado,"['pes', 'pon', 'ta', 'do']",2,paroxítona,False
+pespontar,"['pes', 'pon', 'tar']",2,oxítona,False
+pesponto,"['pes', 'pon', 'to']",1,paroxítona,False
+pesporrência,"['pes', 'por', 'rên', 'ci', 'a']",2,proparoxítona,False
+pesporrente,"['pes', 'por', 'ren', 'te']",2,paroxítona,False
+pesqueira,"['pes', 'quei', 'ra']",1,paroxítona,False
+pesqueiro,"['pes', 'quei', 'ro']",1,paroxítona,False

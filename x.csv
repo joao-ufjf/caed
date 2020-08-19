@@ -1,0 +1,67 @@
+word,syllables,tonic,class,canonic
+xá,['xá'],0,oxítona,True
+xabrega,"['xa', 'bre', 'ga']",1,paroxítona,False
+xabregas,"['xa', 'bre', 'gas']",1,paroxítona,False
+xácara,"['xá', 'ca', 'ra']",0,proparoxítona,True
+xadrez,"['xa', 'drez']",1,oxítona,False
+xadrezista,"['xa', 'dre', 'zis', 'ta']",2,paroxítona,False
+xaile,"['xai', 'le']",0,paroxítona,False
+xale,"['xa', 'le']",0,paroxítona,True
+xamã,"['xa', 'mã']",1,oxítona,True
+xamane,"['xa', 'ma', 'ne']",1,paroxítona,True
+xamanismo,"['xa', 'ma', 'nis', 'mo']",2,paroxítona,False
+xamanístico,"['xa', 'ma', 'nís', 'ti', 'co']",2,proparoxítona,False
+xangaiense,"['xan', 'gai', 'en', 'se']",2,paroxítona,False
+xantina,"['xan', 'ti', 'na']",1,paroxítona,False
+xara,"['xa', 'ra']",0,paroxítona,True
+xarém,"['xa', 'rém']",1,oxítona,False
+xaropada,"['xa', 'ro', 'pa', 'da']",2,paroxítona,True
+xaropar,"['xa', 'ro', 'par']",2,oxítona,False
+xarope,"['xa', 'ro', 'pe']",1,paroxítona,True
+xaroposo,"['xa', 'ro', 'po', 'so']",2,paroxítona,True
+xávega,"['xá', 've', 'ga']",0,proparoxítona,True
+xelim,"['xe', 'lim']",1,oxítona,False
+xenar,"['xe', 'nar']",1,oxítona,False
+xenofilia,"['xe', 'no', 'fi', 'li', 'a']",3,paroxítona,False
+xenófoba,"['xe', 'nó', 'fo', 'ba']",1,proparoxítona,True
+xenofobia,"['xe', 'no', 'fo', 'bi', 'a']",3,paroxítona,False
+xenofobismo,"['xe', 'no', 'fo', 'bis', 'mo']",3,paroxítona,False
+xenófobo,"['xe', 'nó', 'fo', 'bo']",1,proparoxítona,True
+xénon,"['xé', 'non']",0,paroxítona,False
+xenotransplante,"['xe', 'no', 'trans', 'plan', 'te']",3,paroxítona,False
+xepa,"['xe', 'pa']",0,paroxítona,True
+xeque,"['xe', 'que']",0,paroxítona,False
+xeque-mate,"['xe', 'que-', 'ma', 'te']",2,paroxítona,False
+xerafim,"['xe', 'ra', 'fim']",2,oxítona,False
+xerez,"['xe', 'rez']",1,oxítona,False
+xerife,"['xe', 'ri', 'fe']",1,paroxítona,True
+xerodermia,"['xe', 'ro', 'der', 'mi', 'a']",3,paroxítona,False
+xerox,"['xe', 'rox']",1,oxítona,False
+xícara,"['xí', 'ca', 'ra']",0,proparoxítona,True
+xicuembo,"['xi', 'cu', 'em', 'bo']",2,paroxítona,False
+xigubo,"['xi', 'gu', 'bo']",1,paroxítona,True
+xiismo,"['xi', 'is', 'mo']",1,paroxítona,False
+xiita,"['xi', 'i', 'ta']",1,paroxítona,False
+xila,"['xi', 'la']",0,paroxítona,True
+xileno,"['xi', 'le', 'no']",1,paroxítona,True
+xilófago,"['xi', 'ló', 'fa', 'go']",1,proparoxítona,True
+xilofone,"['xi', 'lo', 'fo', 'ne']",2,paroxítona,True
+xilogravador,"['xi', 'lo', 'gra', 'va', 'dor']",4,oxítona,False
+xilogravura,"['xi', 'lo', 'gra', 'vu', 'ra']",3,paroxítona,False
+xiluva,"['xi', 'lu', 'va']",1,paroxítona,True
+xinga,"['xin', 'ga']",0,paroxítona,False
+xingar,"['xin', 'gar']",1,oxítona,False
+xintoísmo,"['xin', 'to', 'ís', 'mo']",2,paroxítona,False
+xintoísta,"['xin', 'to', 'ís', 'ta']",2,paroxítona,False
+xipalapala,"['xi', 'pa', 'la', 'pa', 'la']",3,paroxítona,True
+xis,['xis'],0,oxítona,False
+xistarca,"['xis', 'tar', 'ca']",1,paroxítona,False
+xisto,"['xis', 'to']",0,paroxítona,False
+xistoso,"['xis', 'to', 'so']",1,paroxítona,False
+xiu,['xiu'],0,oxítona,False
+xixi,"['xi', 'xi']",1,oxítona,True
+xô,['xô'],0,oxítona,True
+xogum,"['xo', 'gum']",1,oxítona,False
+xonar,"['xo', 'nar']",1,oxítona,False
+xotar,"['xo', 'tar']",1,oxítona,False
+xote,"['xo', 'te']",0,paroxítona,True

@@ -1,0 +1,1701 @@
+word,syllables,tonic,class,canonic
+tá,['tá'],0,oxítona,True
+taba,"['ta', 'ba']",0,paroxítona,True
+tabacaria,"['ta', 'ba', 'ca', 'ri', 'a']",3,paroxítona,False
+tabaco,"['ta', 'ba', 'co']",1,paroxítona,True
+tabagismo,"['ta', 'ba', 'gis', 'mo']",2,paroxítona,False
+tabagista,"['ta', 'ba', 'gis', 'ta']",2,paroxítona,False
+tabagístico,"['ta', 'ba', 'gís', 'ti', 'co']",2,proparoxítona,False
+tabanca,"['ta', 'ban', 'ca']",1,paroxítona,False
+tabaqueira,"['ta', 'ba', 'quei', 'ra']",2,paroxítona,False
+tabaqueiro,"['ta', 'ba', 'quei', 'ro']",2,paroxítona,False
+tabatinga,"['ta', 'ba', 'tin', 'ga']",2,paroxítona,False
+tabefe,"['ta', 'be', 'fe']",1,paroxítona,True
+tabela,"['ta', 'be', 'la']",1,paroxítona,True
+tabelado,"['ta', 'be', 'la', 'do']",2,paroxítona,True
+tabelar,"['ta', 'be', 'lar']",2,oxítona,False
+tabelião,"['ta', 'be', 'li', 'ão']",3,oxítona,False
+tabelinha,"['ta', 'be', 'li', 'nha']",2,paroxítona,False
+taberna,"['ta', 'ber', 'na']",1,paroxítona,False
+tabernáculo,"['ta', 'ber', 'ná', 'cu', 'lo']",2,proparoxítona,False
+taberneira,"['ta', 'ber', 'nei', 'ra']",2,paroxítona,False
+taberneiro,"['ta', 'ber', 'nei', 'ro']",2,paroxítona,False
+tabicar,"['ta', 'bi', 'car']",2,oxítona,False
+tabique,"['ta', 'bi', 'que']",1,paroxítona,False
+tabla,"['ta', 'bla']",0,paroxítona,False
+tablado,"['ta', 'bla', 'do']",1,paroxítona,False
+tablete,"['ta', 'ble', 'te']",1,paroxítona,False
+tablier,"['ta', 'blier']",1,oxítona,False
+tabloide,"['ta', 'bloi', 'de']",1,paroxítona,False
+tabloidização,"['ta', 'bloi', 'di', 'za', 'ção']",4,oxítona,False
+tabo,"['ta', 'bo']",0,paroxítona,True
+tabu,"['ta', 'bu']",1,oxítona,True
+tábua,"['tá', 'bu', 'a']",0,proparoxítona,False
+tabua,"['ta', 'bu', 'a']",1,paroxítona,False
+tabuada,"['ta', 'bu', 'a', 'da']",2,paroxítona,False
+tabuado,"['ta', 'bu', 'a', 'do']",2,paroxítona,False
+tabuão,"['ta', 'bu', 'ão']",2,oxítona,False
+tabuense,"['ta', 'bu', 'en', 'se']",2,paroxítona,False
+tabuinha,"['ta', 'bu', 'i', 'nha']",2,paroxítona,False
+tabular,"['ta', 'bu', 'lar']",2,oxítona,False
+tabuleiro,"['ta', 'bu', 'lei', 'ro']",2,paroxítona,False
+tabuleta,"['ta', 'bu', 'le', 'ta']",2,paroxítona,True
+taça,"['ta', 'ça']",0,paroxítona,True
+taca,"['ta', 'ca']",0,paroxítona,True
+tacada,"['ta', 'ca', 'da']",1,paroxítona,True
+tacanhamente,"['ta', 'ca', 'nha', 'men', 'te']",3,paroxítona,False
+tacanhez,"['ta', 'ca', 'nhez']",2,oxítona,False
+tacanho,"['ta', 'ca', 'nho']",1,paroxítona,False
+tacão,"['ta', 'cão']",1,oxítona,False
+tacar,"['ta', 'car']",1,oxítona,False
+tacha,"['ta', 'cha']",0,paroxítona,False
+tachada,"['ta', 'cha', 'da']",1,paroxítona,False
+tachado,"['ta', 'cha', 'do']",1,paroxítona,False
+tachão,"['ta', 'chão']",1,oxítona,False
+tachar,"['ta', 'char']",1,oxítona,False
+tachismo,"['ta', 'chis', 'mo']",1,paroxítona,False
+tachista,"['ta', 'chis', 'ta']",1,paroxítona,False
+tacho,"['ta', 'cho']",0,paroxítona,False
+tacitamente,"['ta', 'ci', 'ta', 'men', 'te']",3,paroxítona,False
+tácito,"['tá', 'ci', 'to']",0,proparoxítona,True
+taciturnamente,"['ta', 'ci', 'tur', 'na', 'men', 'te']",4,paroxítona,False
+taciturno,"['ta', 'ci', 'tur', 'no']",2,paroxítona,False
+taco,"['ta', 'co']",0,paroxítona,True
+tacógrafo,"['ta', 'có', 'gra', 'fo']",1,proparoxítona,False
+tacteante,"['tac', 'te', 'an', 'te']",2,paroxítona,False
+tactear,"['tac', 'te', 'ar']",2,oxítona,False
+táctica,"['tác', 'ti', 'ca']",0,proparoxítona,False
+tacticamente,"['tac', 'ti', 'ca', 'men', 'te']",3,paroxítona,False
+táctico,"['tác', 'ti', 'co']",0,proparoxítona,False
+táctil,"['tác', 'til']",0,paroxítona,False
+tactilidade,"['tac', 'ti', 'li', 'da', 'de']",3,paroxítona,False
+tactilmente,"['tac', 'til', 'men', 'te']",2,paroxítona,False
+tacto,"['tac', 'to']",0,paroxítona,False
+tacula,"['ta', 'cu', 'la']",1,paroxítona,True
+taekwondo,"['ta', 'ek', 'won', 'do']",2,paroxítona,False
+tael,"['ta', 'el']",1,oxítona,False
+tafetá,"['ta', 'fe', 'tá']",2,oxítona,True
+tagana,"['ta', 'ga', 'na']",1,paroxítona,True
+tagarela,"['ta', 'ga', 're', 'la']",2,paroxítona,True
+tagarelar,"['ta', 'ga', 're', 'lar']",3,oxítona,False
+tagarelice,"['ta', 'ga', 're', 'li', 'ce']",3,paroxítona,True
+tagarra,"['ta', 'gar', 'ra']",1,paroxítona,False
+tágide,"['tá', 'gi', 'de']",0,proparoxítona,True
+tai,['tai'],0,oxítona,False
+taifa,"['tai', 'fa']",0,paroxítona,False
+taiga,"['tai', 'ga']",0,paroxítona,False
+tailandês,"['tai', 'lan', 'dês']",2,oxítona,False
+tailandesa,"['tai', 'lan', 'de', 'sa']",2,paroxítona,False
+tailleur,"['tail', 'leur']",1,oxítona,False
+taina,"['tai', 'na']",0,paroxítona,False
+tainar,"['tai', 'nar']",1,oxítona,False
+tainha,"['ta', 'i', 'nha']",1,paroxítona,False
+taipa,"['tai', 'pa']",0,paroxítona,False
+taipal,"['tai', 'pal']",1,oxítona,False
+taipar,"['tai', 'par']",1,oxítona,False
+taira,"['tai', 'ra']",0,paroxítona,False
+tais,['tais'],0,oxítona,False
+taitiana,"['tai', 'ti', 'a', 'na']",2,paroxítona,False
+taitiano,"['tai', 'ti', 'a', 'no']",2,paroxítona,False
+taiwanês,"['tai', 'wa', 'nês']",2,oxítona,False
+taiwanesa,"['tai', 'wa', 'ne', 'sa']",2,paroxítona,False
+tajique,"['ta', 'ji', 'que']",1,paroxítona,False
+taka,"['ta', 'ka']",0,paroxítona,True
+take,"['ta', 'ke']",0,paroxítona,True
+tal,['tal'],0,oxítona,False
+tala,"['ta', 'la']",0,paroxítona,True
+tálamo,"['tá', 'la', 'mo']",0,proparoxítona,True
+talante,"['ta', 'lan', 'te']",1,paroxítona,False
+talão,"['ta', 'lão']",1,oxítona,False
+talar,"['ta', 'lar']",1,oxítona,False
+talassa,"['ta', 'las', 'sa']",1,paroxítona,False
+talassemia,"['ta', 'las', 'se', 'mi', 'a']",3,paroxítona,False
+talassoterapia,"['ta', 'las', 'so', 'te', 'ra', 'pi', 'a']",5,paroxítona,False
+talco,"['tal', 'co']",0,paroxítona,False
+talento,"['ta', 'len', 'to']",1,paroxítona,False
+talentosamente,"['ta', 'len', 'to', 'sa', 'men', 'te']",4,paroxítona,False
+talentoso,"['ta', 'len', 'to', 'so']",2,paroxítona,False
+talha,"['ta', 'lha']",0,paroxítona,False
+talhada,"['ta', 'lha', 'da']",1,paroxítona,False
+talhadia,"['ta', 'lha', 'di', 'a']",2,paroxítona,False
+talhado,"['ta', 'lha', 'do']",1,paroxítona,False
+talhante,"['ta', 'lhan', 'te']",1,paroxítona,False
+talhão,"['ta', 'lhão']",1,oxítona,False
+talhar,"['ta', 'lhar']",1,oxítona,False
+talharim,"['ta', 'lha', 'rim']",2,oxítona,False
+talhe,"['ta', 'lhe']",0,paroxítona,False
+talher,"['ta', 'lher']",1,oxítona,False
+talhinha,"['ta', 'lhi', 'nha']",1,paroxítona,False
+talho,"['ta', 'lho']",0,paroxítona,False
+talião,"['ta', 'li', 'ão']",2,oxítona,False
+talibã,"['ta', 'li', 'bã']",2,oxítona,True
+taliban,"['ta', 'li', 'ban']",2,oxítona,False
+talidomida,"['ta', 'li', 'do', 'mi', 'da']",3,paroxítona,True
+tálio,"['tá', 'li', 'o']",0,proparoxítona,False
+talisca,"['ta', 'lis', 'ca']",1,paroxítona,False
+talismã,"['ta', 'lis', 'mã']",2,oxítona,False
+talk-show,"['talk', 'show']",1,oxítona,False
+talmúdico,"['tal', 'mú', 'di', 'co']",1,proparoxítona,False
+talmudismo,"['tal', 'mu', 'dis', 'mo']",2,paroxítona,False
+talo,"['ta', 'lo']",0,paroxítona,True
+taluda,"['ta', 'lu', 'da']",1,paroxítona,True
+taludar,"['ta', 'lu', 'dar']",2,oxítona,False
+talude,"['ta', 'lu', 'de']",1,paroxítona,True
+taludo,"['ta', 'lu', 'do']",1,paroxítona,True
+talvez,"['tal', 'vez']",1,oxítona,False
+tamanca,"['ta', 'man', 'ca']",1,paroxítona,False
+tamanco,"['ta', 'man', 'co']",1,paroxítona,False
+tamanhão,"['ta', 'ma', 'nhão']",2,oxítona,False
+tamanhinho,"['ta', 'ma', 'nhi', 'nho']",2,paroxítona,False
+tamanho,"['ta', 'ma', 'nho']",1,paroxítona,False
+tamanqueiro,"['ta', 'man', 'quei', 'ro']",2,paroxítona,False
+tamanquinha,"['ta', 'man', 'qui', 'nha']",2,paroxítona,False
+tâmara,"['tâ', 'ma', 'ra']",0,proparoxítona,True
+tamareira,"['ta', 'ma', 'rei', 'ra']",2,paroxítona,False
+tamargueira,"['ta', 'mar', 'guei', 'ra']",2,paroxítona,False
+tamarindo,"['ta', 'ma', 'rin', 'do']",2,paroxítona,False
+tamariz,"['ta', 'ma', 'riz']",2,oxítona,False
+também,"['tam', 'bém']",1,oxítona,False
+tambo,"['tam', 'bo']",0,paroxítona,False
+tambor,"['tam', 'bor']",1,oxítona,False
+tamborete,"['tam', 'bo', 're', 'te']",2,paroxítona,False
+tamboril,"['tam', 'bo', 'ril']",2,oxítona,False
+tamborilar,"['tam', 'bo', 'ri', 'lar']",3,oxítona,False
+tamborileiro,"['tam', 'bo', 'ri', 'lei', 'ro']",3,paroxítona,False
+tamborim,"['tam', 'bo', 'rim']",2,oxítona,False
+tameira,"['ta', 'mei', 'ra']",1,paroxítona,False
+tâmil,"['tâ', 'mil']",0,paroxítona,False
+tamis,"['ta', 'mis']",1,oxítona,False
+tamisar,"['ta', 'mi', 'sar']",2,oxítona,False
+tampa,"['tam', 'pa']",0,paroxítona,False
+tampão,"['tam', 'pão']",1,oxítona,False
+tampar,"['tam', 'par']",1,oxítona,False
+tampo,"['tam', 'po']",0,paroxítona,False
+tamponamento,"['tam', 'po', 'na', 'men', 'to']",3,paroxítona,False
+tamponar,"['tam', 'po', 'nar']",2,oxítona,False
+tampouco,"['tam', 'pou', 'co']",1,paroxítona,False
+tanas,"['ta', 'nas']",0,paroxítona,False
+tanato,"['ta', 'na', 'to']",1,paroxítona,True
+tanatologia,"['ta', 'na', 'to', 'lo', 'gi', 'a']",4,paroxítona,False
+tancredo,"['tan', 'cre', 'do']",1,paroxítona,False
+tandem,"['tan', 'dem']",0,paroxítona,False
+tando,"['tan', 'do']",0,paroxítona,False
+tanga,"['tan', 'ga']",0,paroxítona,False
+tanganho,"['tan', 'ga', 'nho']",1,paroxítona,False
+tangar,"['tan', 'gar']",1,oxítona,False
+tangará,"['tan', 'ga', 'rá']",2,oxítona,False
+tangência,"['tan', 'gên', 'ci', 'a']",1,proparoxítona,False
+tangencial,"['tan', 'gen', 'ci', 'al']",3,oxítona,False
+tangencialmente,"['tan', 'gen', 'ci', 'al', 'men', 'te']",4,paroxítona,False
+tangenciar,"['tan', 'gen', 'ci', 'ar']",3,oxítona,False
+tangente,"['tan', 'gen', 'te']",1,paroxítona,False
+tanger,"['tan', 'ger']",1,oxítona,False
+tangerina,"['tan', 'ge', 'ri', 'na']",2,paroxítona,False
+tangerino,"['tan', 'ge', 'ri', 'no']",2,paroxítona,False
+tangibilidade,"['tan', 'gi', 'bi', 'li', 'da', 'de']",4,paroxítona,False
+tangível,"['tan', 'gí', 'vel']",1,paroxítona,False
+tangivelmente,"['tan', 'gi', 'vel', 'men', 'te']",3,paroxítona,False
+tango,"['tan', 'go']",0,paroxítona,False
+tanguista,"['tan', 'guis', 'ta']",1,paroxítona,False
+tani,"['ta', 'ni']",1,oxítona,True
+taninar,"['ta', 'ni', 'nar']",2,oxítona,False
+tanino,"['ta', 'ni', 'no']",1,paroxítona,True
+taninoso,"['ta', 'ni', 'no', 'so']",2,paroxítona,True
+tanja,"['tan', 'ja']",0,paroxítona,False
+tanoar,"['ta', 'no', 'ar']",2,oxítona,False
+tanoaria,"['ta', 'no', 'a', 'ri', 'a']",3,paroxítona,False
+tanoeiro,"['ta', 'no', 'ei', 'ro']",2,paroxítona,False
+tanque,"['tan', 'que']",0,paroxítona,False
+tanso,"['tan', 'so']",0,paroxítona,False
+tantã,"['tan', 'tã']",1,oxítona,False
+tântalo,"['tân', 'ta', 'lo']",0,proparoxítona,False
+tanto,"['tan', 'to']",0,paroxítona,False
+tantra,"['tan', 'tra']",0,paroxítona,False
+tântrico,"['tân', 'tri', 'co']",0,proparoxítona,False
+tantrismo,"['tan', 'tris', 'mo']",1,paroxítona,False
+tanzaniana,"['tan', 'za', 'ni', 'a', 'na']",3,paroxítona,False
+tanzaniano,"['tan', 'za', 'ni', 'a', 'no']",3,paroxítona,False
+tao,['tao'],0,oxítona,False
+tão,['tão'],0,oxítona,False
+tão-pouco,"['tão', 'pou', 'co']",1,paroxítona,False
+taoismo,"['tao', 'is', 'mo']",1,paroxítona,False
+taoista,"['ta', 'ois', 'ta']",1,paroxítona,False
+tapa,"['ta', 'pa']",0,paroxítona,True
+tapa-buracos,"['ta', 'pa-bu', 'ra', 'cos']",2,paroxítona,False
+tapa-sexo,"['ta', 'pa-', 'se', 'xo']",2,paroxítona,False
+tapa-sol,"['ta', 'pa-', 'sol']",2,oxítona,False
+tapada,"['ta', 'pa', 'da']",1,paroxítona,True
+tapadão,"['ta', 'pa', 'dão']",2,oxítona,False
+tapado,"['ta', 'pa', 'do']",1,paroxítona,True
+tapajó,"['ta', 'pa', 'jó']",2,oxítona,True
+tapamento,"['ta', 'pa', 'men', 'to']",2,paroxítona,False
+tapar,"['ta', 'par']",1,oxítona,False
+tapear,"['ta', 'pe', 'ar']",2,oxítona,False
+tapeçar,"['ta', 'pe', 'çar']",2,oxítona,False
+tapeçaria,"['ta', 'pe', 'ça', 'ri', 'a']",3,paroxítona,False
+tapeceiro,"['ta', 'pe', 'cei', 'ro']",2,paroxítona,False
+tapetar,"['ta', 'pe', 'tar']",2,oxítona,False
+tapete,"['ta', 'pe', 'te']",1,paroxítona,True
+tapinha,"['ta', 'pi', 'nha']",1,paroxítona,False
+tapioca,"['ta', 'pi', 'o', 'ca']",2,paroxítona,False
+tapir,"['ta', 'pir']",1,oxítona,False
+tapo,"['ta', 'po']",0,paroxítona,True
+tapume,"['ta', 'pu', 'me']",1,paroxítona,True
+taquicardia,"['ta', 'qui', 'car', 'di', 'a']",3,paroxítona,False
+taquímetro,"['ta', 'quí', 'me', 'tro']",1,proparoxítona,False
+tara,"['ta', 'ra']",0,paroxítona,True
+tarada,"['ta', 'ra', 'da']",1,paroxítona,True
+tarado,"['ta', 'ra', 'do']",1,paroxítona,True
+tarambola,"['ta', 'ram', 'bo', 'la']",2,paroxítona,False
+tarantela,"['ta', 'ran', 'te', 'la']",2,paroxítona,False
+tarântula,"['ta', 'rân', 'tu', 'la']",1,proparoxítona,False
+tarar,"['ta', 'rar']",1,oxítona,False
+tarará,"['ta', 'ra', 'rá']",2,oxítona,True
+tardar,"['tar', 'dar']",1,oxítona,False
+tarde,"['tar', 'de']",0,paroxítona,False
+tardiamente,"['tar', 'di', 'a', 'men', 'te']",3,paroxítona,False
+tardinha,"['tar', 'di', 'nha']",1,paroxítona,False
+tardio,"['tar', 'di', 'o']",1,paroxítona,False
+tardo,"['tar', 'do']",0,paroxítona,False
+tardoz,"['tar', 'doz']",1,oxítona,False
+tarear,"['ta', 're', 'ar']",2,oxítona,False
+tareca,"['ta', 're', 'ca']",1,paroxítona,True
+tareco,"['ta', 're', 'co']",1,paroxítona,True
+tarefa,"['ta', 're', 'fa']",1,paroxítona,True
+tarefar,"['ta', 're', 'far']",2,oxítona,False
+tarefeira,"['ta', 're', 'fei', 'ra']",2,paroxítona,False
+tarefeiro,"['ta', 're', 'fei', 'ro']",2,paroxítona,False
+tareia,"['ta', 'rei', 'a']",1,paroxítona,False
+tarentino,"['ta', 'ren', 'ti', 'no']",2,paroxítona,False
+target,"['tar', 'get']",0,paroxítona,False
+tari,"['ta', 'ri']",1,oxítona,True
+tarifa,"['ta', 'ri', 'fa']",1,paroxítona,True
+tarifação,"['ta', 'ri', 'fa', 'ção']",3,oxítona,False
+tarifar,"['ta', 'ri', 'far']",2,oxítona,False
+tarifário,"['ta', 'ri', 'fá', 'ri', 'o']",2,proparoxítona,False
+tarimba,"['ta', 'rim', 'ba']",1,paroxítona,False
+tarimbado,"['ta', 'rim', 'ba', 'do']",2,paroxítona,False
+tarimbar,"['ta', 'rim', 'bar']",2,oxítona,False
+tarimbeiro,"['ta', 'rim', 'bei', 'ro']",2,paroxítona,False
+tarja,"['tar', 'ja']",0,paroxítona,False
+tarjar,"['tar', 'jar']",1,oxítona,False
+tarjeta,"['tar', 'je', 'ta']",1,paroxítona,False
+taro,"['ta', 'ro']",0,paroxítona,True
+tarola,"['ta', 'ro', 'la']",1,paroxítona,True
+tarot,"['ta', 'rot']",1,oxítona,False
+tarouca,"['ta', 'rou', 'ca']",1,paroxítona,False
+tarouco,"['ta', 'rou', 'co']",1,paroxítona,False
+tarouquense,"['ta', 'rou', 'quen', 'se']",2,paroxítona,False
+tarrafa,"['tar', 'ra', 'fa']",1,paroxítona,False
+tarrafar,"['tar', 'ra', 'far']",2,oxítona,False
+tarraxa,"['tar', 'ra', 'xa']",1,paroxítona,False
+tarraxar,"['tar', 'ra', 'xar']",2,oxítona,False
+tarro,"['tar', 'ro']",0,paroxítona,False
+társico,"['tár', 'si', 'co']",0,proparoxítona,False
+tarso,"['tar', 'so']",0,paroxítona,False
+tartamudear,"['tar', 'ta', 'mu', 'de', 'ar']",4,oxítona,False
+tártara,"['tár', 'ta', 'ra']",0,proparoxítona,False
+tartaranhão,"['tar', 'ta', 'ra', 'nhão']",3,oxítona,False
+tartárico,"['tar', 'tá', 'ri', 'co']",1,proparoxítona,False
+tártaro,"['tár', 'ta', 'ro']",0,proparoxítona,False
+tartaruga,"['tar', 'ta', 'ru', 'ga']",2,paroxítona,False
+tarte,"['tar', 'te']",0,paroxítona,False
+tartufo,"['tar', 'tu', 'fo']",1,paroxítona,False
+tás,['tás'],0,oxítona,False
+tasca,"['tas', 'ca']",0,paroxítona,False
+tascar,"['tas', 'car']",1,oxítona,False
+tasco,"['tas', 'co']",0,paroxítona,False
+tasmânio,"['tas', 'mâ', 'ni', 'o']",1,proparoxítona,False
+tasqueiro,"['tas', 'quei', 'ro']",1,paroxítona,False
+tasquinha,"['tas', 'qui', 'nha']",1,paroxítona,False
+tasquinhar,"['tas', 'qui', 'nhar']",2,oxítona,False
+tatá,"['ta', 'tá']",1,oxítona,True
+tate,"['ta', 'te']",0,paroxítona,True
+tatear,"['ta', 'te', 'ar']",2,oxítona,False
+tática,"['tá', 'ti', 'ca']",0,proparoxítona,True
+taticamente,"['ta', 'ti', 'ca', 'men', 'te']",3,paroxítona,False
+tático,"['tá', 'ti', 'co']",0,proparoxítona,True
+tato,"['ta', 'to']",0,paroxítona,True
+tatu,"['ta', 'tu']",1,oxítona,True
+tatuada,"['ta', 'tu', 'a', 'da']",2,paroxítona,False
+tatuado,"['ta', 'tu', 'a', 'do']",2,paroxítona,False
+tatuador,"['ta', 'tu', 'a', 'dor']",3,oxítona,False
+tatuagem,"['ta', 'tu', 'a', 'gem']",2,paroxítona,False
+tatuar,"['ta', 'tu', 'ar']",2,oxítona,False
+tau,['tau'],0,oxítona,False
+taumatúrgico,"['tau', 'ma', 'túr', 'gi', 'co']",2,proparoxítona,False
+taumaturgo,"['tau', 'ma', 'tur', 'go']",2,paroxítona,False
+taurina,"['tau', 'ri', 'na']",1,paroxítona,False
+taurino,"['tau', 'ri', 'no']",1,paroxítona,False
+tauródromo,"['tau', 'ró', 'dro', 'mo']",1,proparoxítona,False
+tauromaquia,"['tau', 'ro', 'ma', 'qui', 'a']",3,paroxítona,False
+tauromaquicamente,"['tau', 'ro', 'ma', 'qui', 'ca', 'men', 'te']",5,paroxítona,False
+tauromáquico,"['tau', 'ro', 'má', 'qui', 'co']",2,proparoxítona,False
+tautologia,"['tau', 'to', 'lo', 'gi', 'a']",3,paroxítona,False
+tautológico,"['tau', 'to', 'ló', 'gi', 'co']",2,proparoxítona,False
+taverna,"['ta', 'ver', 'na']",1,paroxítona,False
+tavirense,"['ta', 'vi', 'ren', 'se']",2,paroxítona,False
+távola,"['tá', 'vo', 'la']",0,proparoxítona,True
+taxa,"['ta', 'xa']",0,paroxítona,True
+taxação,"['ta', 'xa', 'ção']",2,oxítona,False
+taxar,"['ta', 'xar']",1,oxítona,False
+taxativamente,"['ta', 'xa', 'ti', 'va', 'men', 'te']",4,paroxítona,False
+taxativo,"['ta', 'xa', 'ti', 'vo']",2,paroxítona,True
+táxi,"['tá', 'xi']",0,paroxítona,True
+taxidermia,"['ta', 'xi', 'der', 'mi', 'a']",3,paroxítona,False
+taxidermista,"['ta', 'xi', 'der', 'mis', 'ta']",3,paroxítona,False
+taxímetro,"['ta', 'xí', 'me', 'tro']",1,proparoxítona,False
+taxinomia,"['ta', 'xi', 'no', 'mi', 'a']",3,paroxítona,False
+taxista,"['ta', 'xis', 'ta']",1,paroxítona,False
+taxonomia,"['ta', 'xo', 'no', 'mi', 'a']",3,paroxítona,False
+taxonómico,"['ta', 'xo', 'nó', 'mi', 'co']",2,proparoxítona,True
+taylorismo,"['tay', 'lo', 'ris', 'mo']",2,paroxítona,False
+taylorista,"['tay', 'lo', 'ris', 'ta']",2,paroxítona,False
+tchau,['tchau'],0,oxítona,False
+tchekhoviano,"['tchek', 'ho', 'vi', 'a', 'no']",3,paroxítona,False
+tcholona,"['tcho', 'lo', 'na']",1,paroxítona,False
+tchova,"['tcho', 'va']",0,paroxítona,False
+tchovar,"['tcho', 'var']",1,oxítona,False
+tê,['tê'],0,oxítona,True
+te,['te'],0,oxítona,True
+té,['té'],0,oxítona,True
+tear,"['te', 'ar']",1,oxítona,False
+teatral,"['te', 'a', 'tral']",2,oxítona,False
+teatralidade,"['te', 'a', 'tra', 'li', 'da', 'de']",4,paroxítona,False
+teatralização,"['te', 'a', 'tra', 'li', 'za', 'ção']",5,oxítona,False
+teatralizar,"['te', 'a', 'tra', 'li', 'zar']",4,oxítona,False
+teatralmente,"['te', 'a', 'tral', 'men', 'te']",3,paroxítona,False
+teatro,"['te', 'a', 'tro']",1,paroxítona,False
+teatrólogo,"['te', 'a', 'tró', 'lo', 'go']",2,proparoxítona,False
+tebano,"['te', 'ba', 'no']",1,paroxítona,True
+teca,"['te', 'ca']",0,paroxítona,True
+tecedeira,"['te', 'ce', 'dei', 'ra']",2,paroxítona,False
+tecedura,"['te', 'ce', 'du', 'ra']",2,paroxítona,True
+tecelagem,"['te', 'ce', 'la', 'gem']",2,paroxítona,False
+tecelão,"['te', 'ce', 'lão']",2,oxítona,False
+tecer,"['te', 'cer']",1,oxítona,False
+tecido,"['te', 'ci', 'do']",1,paroxítona,True
+tecidular,"['te', 'ci', 'du', 'lar']",3,oxítona,False
+tecla,"['te', 'cla']",0,paroxítona,False
+teclado,"['te', 'cla', 'do']",1,paroxítona,False
+teclar,"['te', 'clar']",1,oxítona,False
+teclista,"['te', 'clis', 'ta']",1,paroxítona,False
+técnica,"['téc', 'ni', 'ca']",0,proparoxítona,False
+tecnicamente,"['tec', 'ni', 'ca', 'men', 'te']",3,paroxítona,False
+tecnicidade,"['tec', 'ni', 'ci', 'da', 'de']",3,paroxítona,False
+tecnicismo,"['tec', 'ni', 'cis', 'mo']",2,paroxítona,False
+tecnicista,"['tec', 'ni', 'cis', 'ta']",2,paroxítona,False
+técnico,"['téc', 'ni', 'co']",0,proparoxítona,False
+técnico-científico,"['téc', 'ni', 'co-ci', 'en', 'tí', 'fi', 'co']",4,proparoxítona,False
+tecno,"['tec', 'no']",0,paroxítona,False
+tecnocracia,"['tec', 'no', 'cra', 'ci', 'a']",3,paroxítona,False
+tecnocrata,"['tec', 'no', 'cra', 'ta']",2,paroxítona,False
+tecnocrático,"['tec', 'no', 'crá', 'ti', 'co']",2,proparoxítona,False
+tecnocratizar,"['tec', 'no', 'cra', 'ti', 'zar']",4,oxítona,False
+tecnoestrutura,"['tec', 'no', 'es', 'tru', 'tu', 'ra']",4,paroxítona,False
+tecnologia,"['tec', 'no', 'lo', 'gi', 'a']",3,paroxítona,False
+tecnologicamente,"['tec', 'no', 'lo', 'gi', 'ca', 'men', 'te']",5,paroxítona,False
+tecnológico,"['tec', 'no', 'ló', 'gi', 'co']",2,proparoxítona,False
+tecnólogo,"['tec', 'nó', 'lo', 'go']",1,proparoxítona,False
+tecto,"['tec', 'to']",0,paroxítona,False
+tectónica,"['tec', 'tó', 'ni', 'ca']",1,proparoxítona,False
+tectónico,"['tec', 'tó', 'ni', 'co']",1,proparoxítona,False
+tedesca,"['te', 'des', 'ca']",1,paroxítona,False
+tedesco,"['te', 'des', 'co']",1,paroxítona,False
+tédio,"['té', 'di', 'o']",0,proparoxítona,False
+tediosamente,"['te', 'di', 'o', 'sa', 'men', 'te']",4,paroxítona,False
+tedioso,"['te', 'di', 'o', 'so']",2,paroxítona,False
+teenager,"['tee', 'na', 'ger']",1,paroxítona,False
+teflon,"['te', 'flon']",1,oxítona,False
+tegumento,"['te', 'gu', 'men', 'to']",2,paroxítona,False
+teia,"['tei', 'a']",0,paroxítona,False
+teima,"['tei', 'ma']",0,paroxítona,False
+teimar,"['tei', 'mar']",1,oxítona,False
+teimosa,"['tei', 'mo', 'sa']",1,paroxítona,False
+teimosamente,"['tei', 'mo', 'sa', 'men', 'te']",3,paroxítona,False
+teimosia,"['tei', 'mo', 'si', 'a']",2,paroxítona,False
+teimoso,"['tei', 'mo', 'so']",1,paroxítona,False
+teína,"['te', 'í', 'na']",1,paroxítona,False
+teiró,"['tei', 'ró']",1,oxítona,False
+teísmo,"['te', 'ís', 'mo']",1,paroxítona,False
+teixo,"['tei', 'xo']",0,paroxítona,False
+tejadilho,"['te', 'ja', 'di', 'lho']",2,paroxítona,False
+tejo,"['te', 'jo']",0,paroxítona,True
+tela,"['te', 'la']",0,paroxítona,True
+telão,"['te', 'lão']",1,oxítona,False
+tele,"['te', 'le']",0,paroxítona,True
+telearco,"['te', 'le', 'ar', 'co']",2,paroxítona,False
+telecarregamento,"['te', 'le', 'car', 're', 'ga', 'men', 'to']",5,paroxítona,False
+telecinema,"['te', 'le', 'ci', 'ne', 'ma']",3,paroxítona,True
+telecinematográfico,"['te', 'le', 'ci', 'ne', 'ma', 'to', 'grá', 'fi', 'co']",6,proparoxítona,False
+telecinematógrafo,"['te', 'le', 'ci', 'ne', 'ma', 'tó', 'gra', 'fo']",5,proparoxítona,False
+telecinético,"['te', 'le', 'ci', 'né', 'ti', 'co']",3,proparoxítona,True
+telecomandado,"['te', 'le', 'co', 'man', 'da', 'do']",4,paroxítona,False
+telecomandar,"['te', 'le', 'co', 'man', 'dar']",4,oxítona,False
+telecomando,"['te', 'le', 'co', 'man', 'do']",3,paroxítona,False
+telecomércio,"['te', 'le', 'co', 'mér', 'ci', 'o']",3,proparoxítona,False
+telecompra,"['te', 'le', 'com', 'pra']",2,paroxítona,False
+telecomunicação,"['te', 'le', 'co', 'mu', 'ni', 'ca', 'ção']",6,oxítona,False
+telecomunicações,"['te', 'le', 'co', 'mu', 'ni', 'ca', 'ções']",6,oxítona,False
+telecomunicar,"['te', 'le', 'co', 'mu', 'ni', 'car']",5,oxítona,False
+teleconduzir,"['te', 'le', 'con', 'du', 'zir']",4,oxítona,False
+teleconferência,"['te', 'le', 'con', 'fe', 'rên', 'ci', 'a']",4,proparoxítona,False
+telecópia,"['te', 'le', 'có', 'pi', 'a']",2,proparoxítona,False
+telecopiador,"['te', 'le', 'co', 'pi', 'a', 'dor']",5,oxítona,False
+telecopiadora,"['te', 'le', 'co', 'pi', 'a', 'do', 'ra']",5,paroxítona,False
+telecriptografia,"['te', 'le', 'crip', 'to', 'gra', 'fi', 'a']",5,paroxítona,False
+telecriptográfico,"['te', 'le', 'crip', 'to', 'grá', 'fi', 'co']",4,proparoxítona,False
+telecriptógrafo,"['te', 'le', 'crip', 'tó', 'gra', 'fo']",3,proparoxítona,False
+teledetecção,"['te', 'le', 'de', 'tec', 'ção']",4,oxítona,False
+teledetetar,"['te', 'le', 'de', 'te', 'tar']",4,oxítona,False
+teledifundir,"['te', 'le', 'di', 'fun', 'dir']",4,oxítona,False
+teledifusão,"['te', 'le', 'di', 'fu', 'são']",4,oxítona,False
+teledinâmica,"['te', 'le', 'di', 'nâ', 'mi', 'ca']",3,proparoxítona,True
+teledinâmico,"['te', 'le', 'di', 'nâ', 'mi', 'co']",3,proparoxítona,True
+teledirigido,"['te', 'le', 'di', 'ri', 'gi', 'do']",4,paroxítona,True
+teledirigir,"['te', 'le', 'di', 'ri', 'gir']",4,oxítona,False
+teledisco,"['te', 'le', 'dis', 'co']",2,paroxítona,False
+telefax,"['te', 'le', 'fax']",2,oxítona,False
+telefaxe,"['te', 'le', 'fa', 'xe']",2,paroxítona,True
+teleférico,"['te', 'le', 'fé', 'ri', 'co']",2,proparoxítona,True
+telefilme,"['te', 'le', 'fil', 'me']",2,paroxítona,False
+telefonado,"['te', 'le', 'fo', 'na', 'do']",3,paroxítona,True
+telefonar,"['te', 'le', 'fo', 'nar']",3,oxítona,False
+telefone,"['te', 'le', 'fo', 'ne']",2,paroxítona,True
+telefonema,"['te', 'le', 'fo', 'ne', 'ma']",3,paroxítona,True
+telefonia,"['te', 'le', 'fo', 'ni', 'a']",3,paroxítona,False
+telefonicamente,"['te', 'le', 'fo', 'ni', 'ca', 'men', 'te']",5,paroxítona,False
+telefónico,"['te', 'le', 'fó', 'ni', 'co']",2,proparoxítona,True
+telefonista,"['te', 'le', 'fo', 'nis', 'ta']",3,paroxítona,False
+telefonográfico,"['te', 'le', 'fo', 'no', 'grá', 'fi', 'co']",4,proparoxítona,False
+telefonógrafo,"['te', 'le', 'fo', 'nó', 'gra', 'fo']",3,proparoxítona,False
+telefoto,"['te', 'le', 'fo', 'to']",2,paroxítona,True
+telefotografia,"['te', 'le', 'fo', 'to', 'gra', 'fi', 'a']",5,paroxítona,False
+telefotográfico,"['te', 'le', 'fo', 'to', 'grá', 'fi', 'co']",4,proparoxítona,False
+telefotógrafo,"['te', 'le', 'fo', 'tó', 'gra', 'fo']",3,proparoxítona,False
+telegenia,"['te', 'le', 'ge', 'ni', 'a']",3,paroxítona,False
+telegénico,"['te', 'le', 'gé', 'ni', 'co']",2,proparoxítona,True
+telegestão,"['te', 'le', 'ges', 'tão']",3,oxítona,False
+telegrafar,"['te', 'le', 'gra', 'far']",3,oxítona,False
+telegrafia,"['te', 'le', 'gra', 'fi', 'a']",3,paroxítona,False
+telegraficamente,"['te', 'le', 'gra', 'fi', 'ca', 'men', 'te']",5,paroxítona,False
+telegráfico,"['te', 'le', 'grá', 'fi', 'co']",2,proparoxítona,False
+telegrafista,"['te', 'le', 'gra', 'fis', 'ta']",3,paroxítona,False
+telégrafo,"['te', 'lé', 'gra', 'fo']",1,proparoxítona,False
+telegrama,"['te', 'le', 'gra', 'ma']",2,paroxítona,False
+teleguiado,"['te', 'le', 'gui', 'a', 'do']",3,paroxítona,False
+teleguiar,"['te', 'le', 'gui', 'ar']",3,oxítona,False
+teleiconográfico,"['te', 'lei', 'co', 'no', 'grá', 'fi', 'co']",4,proparoxítona,False
+teleimpressor,"['te', 'le', 'im', 'pres', 'sor']",4,oxítona,False
+teleinformática,"['te', 'le', 'in', 'for', 'má', 'ti', 'ca']",4,proparoxítona,False
+telejornal,"['te', 'le', 'jor', 'nal']",3,oxítona,False
+telejornalismo,"['te', 'le', 'jor', 'na', 'lis', 'mo']",4,paroxítona,False
+telemarketing,"['te', 'le', 'mar', 'ke', 'ting']",2,proparoxítona,False
+telemática,"['te', 'le', 'má', 'ti', 'ca']",2,proparoxítona,True
+telemático,"['te', 'le', 'má', 'ti', 'co']",2,proparoxítona,True
+telemecânica,"['te', 'le', 'me', 'câ', 'ni', 'ca']",3,proparoxítona,True
+telemecânico,"['te', 'le', 'me', 'câ', 'ni', 'co']",3,proparoxítona,True
+telemedicina,"['te', 'le', 'me', 'di', 'ci', 'na']",4,paroxítona,True
+telemetria,"['te', 'le', 'me', 'tri', 'a']",3,paroxítona,False
+telemétrico,"['te', 'le', 'mé', 'tri', 'co']",2,proparoxítona,False
+telemicrofone,"['te', 'le', 'mi', 'cro', 'fo', 'ne']",4,paroxítona,False
+telemicroscópico,"['te', 'le', 'mi', 'cros', 'có', 'pi', 'co']",4,proparoxítona,False
+telemicroscópio,"['te', 'le', 'mi', 'cros', 'có', 'pi', 'o']",4,proparoxítona,False
+telemóvel,"['te', 'le', 'mó', 'vel']",2,paroxítona,False
+telenovela,"['te', 'le', 'no', 've', 'la']",3,paroxítona,True
+teleobjectiva,"['te', 'le', 'ob', 'jec', 'ti', 'va']",4,paroxítona,False
+teleobjetiva,"['te', 'le', 'ob', 'je', 'ti', 'va']",4,paroxítona,False
+teleologia,"['te', 'le', 'o', 'lo', 'gi', 'a']",4,paroxítona,False
+teleológico,"['te', 'le', 'o', 'ló', 'gi', 'co']",3,proparoxítona,False
+teleósteo,"['te', 'le', 'ós', 'te', 'o']",2,proparoxítona,False
+telepagamento,"['te', 'le', 'pa', 'ga', 'men', 'to']",4,paroxítona,False
+telepata,"['te', 'le', 'pa', 'ta']",2,paroxítona,True
+telepatia,"['te', 'le', 'pa', 'ti', 'a']",3,paroxítona,False
+telepaticamente,"['te', 'le', 'pa', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+telepático,"['te', 'le', 'pá', 'ti', 'co']",2,proparoxítona,True
+teleponto,"['te', 'le', 'pon', 'to']",2,paroxítona,False
+teleprocessamento,"['te', 'le', 'pro', 'ces', 'sa', 'men', 'to']",5,paroxítona,False
+teleprojétil,"['te', 'le', 'pro', 'jé', 'til']",3,paroxítona,False
+telerradiografia,"['te', 'ler', 'ra', 'di', 'o', 'gra', 'fi', 'a']",6,paroxítona,False
+telerradiográfico,"['te', 'ler', 'ra', 'di', 'o', 'grá', 'fi', 'co']",5,proparoxítona,False
+telerrecetor,"['te', 'ler', 're', 'ce', 'tor']",4,oxítona,False
+telescola,"['te', 'les', 'co', 'la']",2,paroxítona,False
+telescópico,"['te', 'les', 'có', 'pi', 'co']",2,proparoxítona,False
+telescópio,"['te', 'les', 'có', 'pi', 'o']",2,proparoxítona,False
+telespetador,"['te', 'les', 'pe', 'ta', 'dor']",4,oxítona,False
+telespetadora,"['te', 'les', 'pe', 'ta', 'do', 'ra']",4,paroxítona,False
+telesqui,"['te', 'les', 'qui']",2,oxítona,False
+telessismo,"['te', 'les', 'sis', 'mo']",2,paroxítona,False
+telessismográfico,"['te', 'les', 'sis', 'mo', 'grá', 'fi', 'co']",4,proparoxítona,False
+telessismógrafo,"['te', 'les', 'sis', 'mó', 'gra', 'fo']",3,proparoxítona,False
+telessonda,"['te', 'les', 'son', 'da']",2,paroxítona,False
+teletexto,"['te', 'le', 'tex', 'to']",2,paroxítona,False
+teletípico,"['te', 'le', 'tí', 'pi', 'co']",2,proparoxítona,True
+teletrabalhador,"['te', 'le', 'tra', 'ba', 'lha', 'dor']",5,oxítona,False
+teletrabalhadora,"['te', 'le', 'tra', 'ba', 'lha', 'do', 'ra']",5,paroxítona,False
+teletrabalhar,"['te', 'le', 'tra', 'ba', 'lhar']",4,oxítona,False
+teletrabalho,"['te', 'le', 'tra', 'ba', 'lho']",3,paroxítona,False
+teletransmissão,"['te', 'le', 'trans', 'mis', 'são']",4,oxítona,False
+televenda,"['te', 'le', 'ven', 'da']",2,paroxítona,False
+televisado,"['te', 'le', 'vi', 'sa', 'do']",3,paroxítona,True
+televisão,"['te', 'le', 'vi', 'são']",3,oxítona,False
+televisar,"['te', 'le', 'vi', 'sar']",3,oxítona,False
+televisionado,"['te', 'le', 'vi', 'si', 'o', 'na', 'do']",5,paroxítona,False
+televisionamento,"['te', 'le', 'vi', 'si', 'o', 'na', 'men', 'to']",6,paroxítona,False
+televisionar,"['te', 'le', 'vi', 'si', 'o', 'nar']",5,oxítona,False
+televisivamente,"['te', 'le', 'vi', 'si', 'va', 'men', 'te']",5,paroxítona,False
+televisível,"['te', 'le', 'vi', 'sí', 'vel']",3,paroxítona,False
+televisivo,"['te', 'le', 'vi', 'si', 'vo']",3,paroxítona,True
+televisor,"['te', 'le', 'vi', 'sor']",3,oxítona,False
+telex,"['te', 'lex']",1,oxítona,False
+telexar,"['te', 'le', 'xar']",2,oxítona,False
+telha,"['te', 'lha']",0,paroxítona,False
+telhado,"['te', 'lha', 'do']",1,paroxítona,False
+telhal,"['te', 'lhal']",1,oxítona,False
+telhar,"['te', 'lhar']",1,oxítona,False
+telheira,"['te', 'lhei', 'ra']",1,paroxítona,False
+telheiro,"['te', 'lhei', 'ro']",1,paroxítona,False
+teliz,"['te', 'liz']",1,oxítona,False
+telómero,"['te', 'ló', 'me', 'ro']",1,proparoxítona,True
+telúrico,"['te', 'lú', 'ri', 'co']",1,proparoxítona,True
+telúrio,"['te', 'lú', 'ri', 'o']",1,proparoxítona,False
+telurismo,"['te', 'lu', 'ris', 'mo']",2,paroxítona,False
+tem-te-não-caias,"['tem', '-te-não-', 'cai', 'as']",2,paroxítona,False
+tema,"['te', 'ma']",0,paroxítona,True
+tema-título,"['te', 'ma-', 'tí', 'tu', 'lo']",2,proparoxítona,False
+temão,"['te', 'mão']",1,oxítona,False
+temário,"['te', 'má', 'ri', 'o']",1,proparoxítona,False
+temática,"['te', 'má', 'ti', 'ca']",1,proparoxítona,True
+tematicamente,"['te', 'ma', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+temático,"['te', 'má', 'ti', 'co']",1,proparoxítona,True
+temente,"['te', 'men', 'te']",1,paroxítona,False
+temer,"['te', 'mer']",1,oxítona,False
+temerar,"['te', 'me', 'rar']",2,oxítona,False
+temerariamente,"['te', 'me', 'ra', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+temerário,"['te', 'me', 'rá', 'ri', 'o']",2,proparoxítona,False
+temeridade,"['te', 'me', 'ri', 'da', 'de']",3,paroxítona,True
+temerosamente,"['te', 'me', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+temeroso,"['te', 'me', 'ro', 'so']",2,paroxítona,True
+temido,"['te', 'mi', 'do']",1,paroxítona,True
+temível,"['te', 'mí', 'vel']",1,paroxítona,False
+temivelmente,"['te', 'mi', 'vel', 'men', 'te']",3,paroxítona,False
+temo,"['te', 'mo']",0,paroxítona,True
+temor,"['te', 'mor']",1,oxítona,False
+têmpera,"['têm', 'pe', 'ra']",0,proparoxítona,False
+tempera,"['tem', 'pe', 'ra']",1,paroxítona,False
+temperadamente,"['tem', 'pe', 'ra', 'da', 'men', 'te']",4,paroxítona,False
+temperado,"['tem', 'pe', 'ra', 'do']",2,paroxítona,False
+temperamental,"['tem', 'pe', 'ra', 'men', 'tal']",4,oxítona,False
+temperamento,"['tem', 'pe', 'ra', 'men', 'to']",3,paroxítona,False
+temperança,"['tem', 'pe', 'ran', 'ça']",2,paroxítona,False
+temperar,"['tem', 'pe', 'rar']",2,oxítona,False
+temperatura,"['tem', 'pe', 'ra', 'tu', 'ra']",3,paroxítona,False
+tempero,"['tem', 'pe', 'ro']",1,paroxítona,False
+tempestade,"['tem', 'pes', 'ta', 'de']",2,paroxítona,False
+tempestivamente,"['tem', 'pes', 'ti', 'va', 'men', 'te']",4,paroxítona,False
+tempestivo,"['tem', 'pes', 'ti', 'vo']",2,paroxítona,False
+tempestuosamente,"['tem', 'pes', 'tu', 'o', 'sa', 'men', 'te']",5,paroxítona,False
+tempestuoso,"['tem', 'pes', 'tu', 'o', 'so']",3,paroxítona,False
+templário,"['tem', 'plá', 'ri', 'o']",1,proparoxítona,False
+templo,"['tem', 'plo']",0,paroxítona,False
+tempo,"['tem', 'po']",0,paroxítona,False
+têmpora,"['têm', 'po', 'ra']",0,proparoxítona,False
+temporada,"['tem', 'po', 'ra', 'da']",2,paroxítona,False
+temporal,"['tem', 'po', 'ral']",2,oxítona,False
+temporalidade,"['tem', 'po', 'ra', 'li', 'da', 'de']",4,paroxítona,False
+temporalmente,"['tem', 'po', 'ral', 'men', 'te']",3,paroxítona,False
+temporão,"['tem', 'po', 'rão']",2,oxítona,False
+temporariamente,"['tem', 'po', 'ra', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+temporário,"['tem', 'po', 'rá', 'ri', 'o']",2,proparoxítona,False
+temporização,"['tem', 'po', 'ri', 'za', 'ção']",4,oxítona,False
+temporizador,"['tem', 'po', 'ri', 'za', 'dor']",4,oxítona,False
+temporizar,"['tem', 'po', 'ri', 'zar']",3,oxítona,False
+tempura,"['tem', 'pu', 'ra']",1,paroxítona,False
+temudo,"['te', 'mu', 'do']",1,paroxítona,True
+tenacidade,"['te', 'na', 'ci', 'da', 'de']",3,paroxítona,True
+tenaz,"['te', 'naz']",1,oxítona,False
+tenazmente,"['te', 'naz', 'men', 'te']",2,paroxítona,False
+tença,"['ten', 'ça']",0,paroxítona,False
+tenção,"['ten', 'ção']",1,oxítona,False
+tencionar,"['ten', 'ci', 'o', 'nar']",3,oxítona,False
+tenda,"['ten', 'da']",0,paroxítona,False
+tendal,"['ten', 'dal']",1,oxítona,False
+tendão,"['ten', 'dão']",1,oxítona,False
+tendeiro,"['ten', 'dei', 'ro']",1,paroxítona,False
+tendência,"['ten', 'dên', 'ci', 'a']",1,proparoxítona,False
+tendencial,"['ten', 'den', 'ci', 'al']",3,oxítona,False
+tendencialmente,"['ten', 'den', 'ci', 'al', 'men', 'te']",4,paroxítona,False
+tendenciosamente,"['ten', 'den', 'ci', 'o', 'sa', 'men', 'te']",5,paroxítona,False
+tendencioso,"['ten', 'den', 'ci', 'o', 'so']",3,paroxítona,False
+tendente,"['ten', 'den', 'te']",1,paroxítona,False
+tender,"['ten', 'der']",1,oxítona,False
+tendido,"['ten', 'di', 'do']",1,paroxítona,False
+tendinite,"['ten', 'di', 'ni', 'te']",2,paroxítona,False
+tendinoso,"['ten', 'di', 'no', 'so']",2,paroxítona,False
+tenebrismo,"['te', 'ne', 'bris', 'mo']",2,paroxítona,False
+tenebrosamente,"['te', 'ne', 'bro', 'sa', 'men', 'te']",4,paroxítona,False
+tenebroso,"['te', 'ne', 'bro', 'so']",2,paroxítona,False
+tenente,"['te', 'nen', 'te']",1,paroxítona,False
+tenente-coronel,"['te', 'nen', 'te-co', 'ro', 'nel']",4,oxítona,False
+tenente-general,"['te', 'nen', 'te-ge', 'ne', 'ral']",4,oxítona,False
+ténis,"['té', 'nis']",0,paroxítona,False
+ténis de mesa,"['té', 'nis de ', 'me', 'sa']",2,paroxítona,False
+tenista,"['te', 'nis', 'ta']",1,paroxítona,False
+tenor,"['te', 'nor']",1,oxítona,False
+tenorino,"['te', 'no', 'ri', 'no']",2,paroxítona,True
+tenramente,"['ten', 'ra', 'men', 'te']",2,paroxítona,False
+tenreiro,"['ten', 'rei', 'ro']",1,paroxítona,False
+tenríssimo,"['ten', 'rís', 'si', 'mo']",1,proparoxítona,False
+tenro,"['ten', 'ro']",0,paroxítona,False
+tenrura,"['ten', 'ru', 'ra']",1,paroxítona,False
+tensa,"['ten', 'sa']",0,paroxítona,False
+tensamente,"['ten', 'sa', 'men', 'te']",2,paroxítona,False
+tensão,"['ten', 'são']",1,oxítona,False
+tenso,"['ten', 'so']",0,paroxítona,False
+tensor,"['ten', 'sor']",1,oxítona,False
+tenta,"['ten', 'ta']",0,paroxítona,False
+tentação,"['ten', 'ta', 'ção']",2,oxítona,False
+tentacular,"['ten', 'ta', 'cu', 'lar']",3,oxítona,False
+tentáculo,"['ten', 'tá', 'cu', 'lo']",1,proparoxítona,False
+tentado,"['ten', 'ta', 'do']",1,paroxítona,False
+tentador,"['ten', 'ta', 'dor']",2,oxítona,False
+tentadora,"['ten', 'ta', 'do', 'ra']",2,paroxítona,False
+tentadoramente,"['ten', 'ta', 'do', 'ra', 'men', 'te']",4,paroxítona,False
+tentar,"['ten', 'tar']",1,oxítona,False
+tentativa,"['ten', 'ta', 'ti', 'va']",2,paroxítona,False
+tentativo,"['ten', 'ta', 'ti', 'vo']",2,paroxítona,False
+tentear,"['ten', 'te', 'ar']",2,oxítona,False
+tenteio,"['ten', 'tei', 'o']",1,paroxítona,False
+tenter,"['ten', 'ter']",1,oxítona,False
+tentilhão,"['ten', 'ti', 'lhão']",2,oxítona,False
+tento,"['ten', 'to']",0,paroxítona,False
+ténue,"['té', 'nu', 'e']",0,proparoxítona,False
+tenuemente,"['te', 'nu', 'e', 'men', 'te']",3,paroxítona,False
+teocracia,"['te', 'o', 'cra', 'ci', 'a']",3,paroxítona,False
+teocrata,"['te', 'o', 'cra', 'ta']",2,paroxítona,False
+teocraticamente,"['te', 'o', 'cra', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+teocrático,"['te', 'o', 'crá', 'ti', 'co']",2,proparoxítona,False
+teodiceia,"['te', 'o', 'di', 'cei', 'a']",3,paroxítona,False
+teodolito,"['te', 'o', 'do', 'li', 'to']",3,paroxítona,False
+teofania,"['te', 'o', 'fa', 'ni', 'a']",3,paroxítona,False
+teofilina,"['te', 'o', 'fi', 'li', 'na']",3,paroxítona,False
+teogonia,"['te', 'o', 'go', 'ni', 'a']",3,paroxítona,False
+teologal,"['te', 'o', 'lo', 'gal']",3,oxítona,False
+teologalmente,"['te', 'o', 'lo', 'gal', 'men', 'te']",4,paroxítona,False
+teologia,"['te', 'o', 'lo', 'gi', 'a']",3,paroxítona,False
+teologicamente,"['te', 'o', 'lo', 'gi', 'ca', 'men', 'te']",5,paroxítona,False
+teológico,"['te', 'o', 'ló', 'gi', 'co']",2,proparoxítona,False
+teólogo,"['te', 'ó', 'lo', 'go']",1,proparoxítona,False
+teor,"['te', 'or']",1,oxítona,False
+teorba,"['te', 'or', 'ba']",1,paroxítona,False
+teorema,"['te', 'o', 're', 'ma']",2,paroxítona,False
+teoreticamente,"['te', 'o', 're', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+teorético,"['te', 'o', 'ré', 'ti', 'co']",2,proparoxítona,False
+teoria,"['te', 'o', 'ri', 'a']",2,paroxítona,False
+teórica,"['te', 'ó', 'ri', 'ca']",1,proparoxítona,False
+teoricamente,"['te', 'o', 'ri', 'ca', 'men', 'te']",4,paroxítona,False
+teórico,"['te', 'ó', 'ri', 'co']",1,proparoxítona,False
+teórico-prática,"['te', 'ó', 'ri', 'co-', 'prá', 'ti', 'ca']",4,proparoxítona,False
+teórico-prático,"['te', 'ó', 'ri', 'co-', 'prá', 'ti', 'co']",4,proparoxítona,False
+teorização,"['te', 'o', 'ri', 'za', 'ção']",4,oxítona,False
+teorizador,"['te', 'o', 'ri', 'za', 'dor']",4,oxítona,False
+teorizante,"['te', 'o', 'ri', 'zan', 'te']",3,paroxítona,False
+teorizar,"['te', 'o', 'ri', 'zar']",3,oxítona,False
+teosofia,"['te', 'o', 'so', 'fi', 'a']",3,paroxítona,False
+teosófico,"['te', 'o', 'só', 'fi', 'co']",2,proparoxítona,False
+teosofismo,"['te', 'o', 'so', 'fis', 'mo']",3,paroxítona,False
+tepe,"['te', 'pe']",0,paroxítona,True
+tepidamente,"['te', 'pi', 'da', 'men', 'te']",3,paroxítona,False
+tepidez,"['te', 'pi', 'dez']",2,oxítona,False
+tépido,"['té', 'pi', 'do']",0,proparoxítona,True
+tequila,"['te', 'qui', 'la']",1,paroxítona,False
+ter,['ter'],0,oxítona,False
+terapeuta,"['te', 'ra', 'peu', 'ta']",2,paroxítona,False
+terapêutica,"['te', 'ra', 'pêu', 'ti', 'ca']",2,proparoxítona,False
+terapeuticamente,"['te', 'ra', 'peu', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+terapêutico,"['te', 'ra', 'pêu', 'ti', 'co']",2,proparoxítona,False
+terapia,"['te', 'ra', 'pi', 'a']",2,paroxítona,False
+teratogénico,"['te', 'ra', 'to', 'gé', 'ni', 'co']",3,proparoxítona,True
+teratológico,"['te', 'ra', 'to', 'ló', 'gi', 'co']",3,proparoxítona,True
+terçã,"['ter', 'çã']",1,oxítona,False
+terça,"['ter', 'ça']",0,paroxítona,False
+terça-feira,"['ter', 'ça-', 'fei', 'ra']",2,paroxítona,False
+terçar,"['ter', 'çar']",1,oxítona,False
+terceira,"['ter', 'cei', 'ra']",1,paroxítona,False
+terceirar,"['ter', 'cei', 'rar']",2,oxítona,False
+terceirense,"['ter', 'cei', 'ren', 'se']",2,paroxítona,False
+terceiro,"['ter', 'cei', 'ro']",1,paroxítona,False
+terceiro-mundismo,"['ter', 'cei', 'ro-mun', 'dis', 'mo']",3,paroxítona,False
+terceiro-mundista,"['ter', 'cei', 'ro-mun', 'dis', 'ta']",3,paroxítona,False
+terceto,"['ter', 'ce', 'to']",1,paroxítona,False
+terciado,"['ter', 'ci', 'a', 'do']",2,paroxítona,False
+terciário,"['ter', 'ci', 'á', 'ri', 'o']",2,proparoxítona,False
+terciarização,"['ter', 'ci', 'a', 'ri', 'za', 'ção']",5,oxítona,False
+tércio,"['tér', 'ci', 'o']",0,proparoxítona,False
+terço,"['ter', 'ço']",0,paroxítona,False
+terçolho,"['ter', 'ço', 'lho']",1,paroxítona,False
+teres,"['te', 'res']",0,paroxítona,False
+tereso,"['te', 're', 'so']",1,paroxítona,True
+tergiversação,"['ter', 'gi', 'ver', 'sa', 'ção']",4,oxítona,False
+tergiversar,"['ter', 'gi', 'ver', 'sar']",3,oxítona,False
+terma,"['ter', 'ma']",0,paroxítona,False
+termal,"['ter', 'mal']",1,oxítona,False
+termalismo,"['ter', 'ma', 'lis', 'mo']",2,paroxítona,False
+termas,"['ter', 'mas']",0,paroxítona,False
+termia,"['ter', 'mi', 'a']",1,paroxítona,False
+termicamente,"['ter', 'mi', 'ca', 'men', 'te']",3,paroxítona,False
+térmico,"['tér', 'mi', 'co']",0,proparoxítona,False
+terminação,"['ter', 'mi', 'na', 'ção']",3,oxítona,False
+terminador,"['ter', 'mi', 'na', 'dor']",3,oxítona,False
+terminal,"['ter', 'mi', 'nal']",2,oxítona,False
+terminante,"['ter', 'mi', 'nan', 'te']",2,paroxítona,False
+terminantemente,"['ter', 'mi', 'nan', 'te', 'men', 'te']",4,paroxítona,False
+terminar,"['ter', 'mi', 'nar']",2,oxítona,False
+término,"['tér', 'mi', 'no']",0,proparoxítona,False
+terminologia,"['ter', 'mi', 'no', 'lo', 'gi', 'a']",4,paroxítona,False
+terminológico,"['ter', 'mi', 'no', 'ló', 'gi', 'co']",3,proparoxítona,False
+térmita,"['tér', 'mi', 'ta']",0,proparoxítona,False
+térmite,"['tér', 'mi', 'te']",0,proparoxítona,False
+termiteira,"['ter', 'mi', 'tei', 'ra']",2,paroxítona,False
+termo,"['ter', 'mo']",0,paroxítona,False
+termoacumulador,"['ter', 'mo', 'a', 'cu', 'mu', 'la', 'dor']",6,oxítona,False
+termodinâmica,"['ter', 'mo', 'di', 'nâ', 'mi', 'ca']",3,proparoxítona,False
+termodinâmico,"['ter', 'mo', 'di', 'nâ', 'mi', 'co']",3,proparoxítona,False
+termoeléctrico,"['ter', 'mo', 'e', 'léc', 'tri', 'co']",3,proparoxítona,False
+termófilo,"['ter', 'mó', 'fi', 'lo']",1,proparoxítona,False
+termólise,"['ter', 'mó', 'li', 'se']",1,proparoxítona,False
+termómetro,"['ter', 'mó', 'me', 'tro']",1,proparoxítona,False
+termonuclear,"['ter', 'mo', 'nu', 'cle', 'ar']",4,oxítona,False
+termoplástico,"['ter', 'mo', 'plás', 'ti', 'co']",2,proparoxítona,False
+termosfera,"['ter', 'mos', 'fe', 'ra']",2,paroxítona,False
+termostato,"['ter', 'mos', 'ta', 'to']",2,paroxítona,False
+termóstato,"['ter', 'mós', 'ta', 'to']",1,proparoxítona,False
+ternamente,"['ter', 'na', 'men', 'te']",2,paroxítona,False
+ternário,"['ter', 'ná', 'ri', 'o']",1,proparoxítona,False
+terno,"['ter', 'no']",0,paroxítona,False
+ternura,"['ter', 'nu', 'ra']",1,paroxítona,False
+ternurento,"['ter', 'nu', 'ren', 'to']",2,paroxítona,False
+terópode,"['te', 'ró', 'po', 'de']",1,proparoxítona,True
+terra,"['ter', 'ra']",0,paroxítona,False
+terra a terra,"['ter', 'ra a ', 'ter', 'ra']",2,paroxítona,False
+terra-nova,"['ter', 'ra-', 'no', 'va']",2,paroxítona,False
+terraço,"['ter', 'ra', 'ço']",1,paroxítona,False
+terracota,"['ter', 'ra', 'co', 'ta']",2,paroxítona,False
+terrado,"['ter', 'ra', 'do']",1,paroxítona,False
+terramoto,"['ter', 'ra', 'mo', 'to']",2,paroxítona,False
+terrão,"['ter', 'rão']",1,oxítona,False
+terraplanagem,"['ter', 'ra', 'pla', 'na', 'gem']",3,paroxítona,False
+terraplenado,"['ter', 'ra', 'ple', 'na', 'do']",3,paroxítona,False
+terraplenagem,"['ter', 'ra', 'ple', 'na', 'gem']",3,paroxítona,False
+terraplenar,"['ter', 'ra', 'ple', 'nar']",3,oxítona,False
+terrapleno,"['ter', 'ra', 'ple', 'no']",2,paroxítona,False
+terráqueo,"['ter', 'rá', 'que', 'o']",1,proparoxítona,False
+terrário,"['ter', 'rá', 'ri', 'o']",1,proparoxítona,False
+terreal,"['ter', 're', 'al']",2,oxítona,False
+terreiro,"['ter', 'rei', 'ro']",1,paroxítona,False
+terremoto,"['ter', 're', 'mo', 'to']",2,paroxítona,False
+terrenho,"['ter', 're', 'nho']",1,paroxítona,False
+terreno,"['ter', 're', 'no']",1,paroxítona,False
+térreo,"['tér', 're', 'o']",0,proparoxítona,False
+terrestre,"['ter', 'res', 'tre']",1,paroxítona,False
+terrestremente,"['ter', 'res', 'tre', 'men', 'te']",3,paroxítona,False
+terrier,"['ter', 'rier']",1,oxítona,False
+terrificamente,"['ter', 'ri', 'fi', 'ca', 'men', 'te']",4,paroxítona,False
+terrificante,"['ter', 'ri', 'fi', 'can', 'te']",3,paroxítona,False
+terrífico,"['ter', 'rí', 'fi', 'co']",1,proparoxítona,False
+terrina,"['ter', 'ri', 'na']",1,paroxítona,False
+terriola,"['ter', 'ri', 'o', 'la']",2,paroxítona,False
+territorial,"['ter', 'ri', 'to', 'ri', 'al']",4,oxítona,False
+territorialidade,"['ter', 'ri', 'to', 'ri', 'a', 'li', 'da', 'de']",6,paroxítona,False
+territorialmente,"['ter', 'ri', 'to', 'ri', 'al', 'men', 'te']",5,paroxítona,False
+território,"['ter', 'ri', 'tó', 'ri', 'o']",2,proparoxítona,False
+terrível,"['ter', 'rí', 'vel']",1,paroxítona,False
+terrivelmente,"['ter', 'ri', 'vel', 'men', 'te']",3,paroxítona,False
+terror,"['ter', 'ror']",1,oxítona,False
+terrorar,"['ter', 'ro', 'rar']",2,oxítona,False
+terrorífico,"['ter', 'ro', 'rí', 'fi', 'co']",2,proparoxítona,False
+terrorismo,"['ter', 'ro', 'ris', 'mo']",2,paroxítona,False
+terrorista,"['ter', 'ro', 'ris', 'ta']",2,paroxítona,False
+terroso,"['ter', 'ro', 'so']",1,paroxítona,False
+terrunho,"['ter', 'ru', 'nho']",1,paroxítona,False
+terso,"['ter', 'so']",0,paroxítona,False
+tertúlia,"['ter', 'tú', 'li', 'a']",1,proparoxítona,False
+tesa,"['te', 'sa']",0,paroxítona,True
+tesamente,"['te', 'sa', 'men', 'te']",2,paroxítona,False
+tesão,"['te', 'são']",1,oxítona,False
+tesar,"['te', 'sar']",1,oxítona,False
+tesauro,"['te', 'sau', 'ro']",1,paroxítona,False
+tese,"['te', 'se']",0,paroxítona,True
+tesla,"['tes', 'la']",0,paroxítona,False
+teso,"['te', 'so']",0,paroxítona,True
+tesoirar,"['te', 'soi', 'rar']",2,oxítona,False
+tesoiro,"['te', 'soi', 'ro']",1,paroxítona,False
+tesoura,"['te', 'sou', 'ra']",1,paroxítona,False
+tesourada,"['te', 'sou', 'ra', 'da']",2,paroxítona,False
+tesourar,"['te', 'sou', 'rar']",2,oxítona,False
+tesouraria,"['te', 'sou', 'ra', 'ri', 'a']",3,paroxítona,False
+tesoureiro,"['te', 'sou', 'rei', 'ro']",2,paroxítona,False
+tesouro,"['te', 'sou', 'ro']",1,paroxítona,False
+tessália,"['tes', 'sá', 'li', 'a']",1,proparoxítona,False
+tessálio,"['tes', 'sá', 'li', 'o']",1,proparoxítona,False
+tessela,"['tes', 'se', 'la']",1,paroxítona,False
+tessitura,"['tes', 'si', 'tu', 'ra']",2,paroxítona,False
+testa,"['tes', 'ta']",0,paroxítona,False
+testa de ferro,"['tes', 'ta de ', 'fer', 'ro']",2,paroxítona,False
+testa de ponte,"['tes', 'ta de ', 'pon', 'te']",2,paroxítona,False
+testada,"['tes', 'ta', 'da']",1,paroxítona,False
+testador,"['tes', 'ta', 'dor']",2,oxítona,False
+testamentário,"['tes', 'ta', 'men', 'tá', 'ri', 'o']",3,proparoxítona,False
+testamenteiro,"['tes', 'ta', 'men', 'tei', 'ro']",3,paroxítona,False
+testamento,"['tes', 'ta', 'men', 'to']",2,paroxítona,False
+testar,"['tes', 'tar']",1,oxítona,False
+testável,"['tes', 'tá', 'vel']",1,paroxítona,False
+teste,"['tes', 'te']",0,paroxítona,False
+testemunha,"['tes', 'te', 'mu', 'nha']",2,paroxítona,False
+testemunhal,"['tes', 'te', 'mu', 'nhal']",3,oxítona,False
+testemunhalmente,"['tes', 'te', 'mu', 'nhal', 'men', 'te']",4,paroxítona,False
+testemunhar,"['tes', 'te', 'mu', 'nhar']",3,oxítona,False
+testemunho,"['tes', 'te', 'mu', 'nho']",2,paroxítona,False
+testicular,"['tes', 'ti', 'cu', 'lar']",3,oxítona,False
+testículo,"['tes', 'tí', 'cu', 'lo']",1,proparoxítona,False
+testículo-de-cão,"['tes', 'tí', 'cu', 'lo-de-', 'cão']",4,oxítona,False
+testo,"['tes', 'to']",0,paroxítona,False
+testosterona,"['tes', 'tos', 'te', 'ro', 'na']",3,paroxítona,False
+teta,"['te', 'ta']",0,paroxítona,True
+tétano,"['té', 'ta', 'no']",0,proparoxítona,True
+tetas,"['te', 'tas']",0,paroxítona,False
+teté,"['te', 'té']",1,oxítona,True
+tete,"['te', 'te']",0,paroxítona,True
+tête-à-tête,"['tê', 'te-à-', 'tê', 'te']",2,paroxítona,False
+tetina,"['te', 'ti', 'na']",1,paroxítona,True
+teto,"['te', 'to']",0,paroxítona,True
+tetraciclina,"['te', 'tra', 'ci', 'cli', 'na']",3,paroxítona,False
+tetraédrico,"['te', 'tra', 'é', 'dri', 'co']",2,proparoxítona,False
+tetraedro,"['te', 'tra', 'e', 'dro']",2,paroxítona,False
+tetragrama,"['te', 'tra', 'gra', 'ma']",2,paroxítona,False
+tetralogia,"['te', 'tra', 'lo', 'gi', 'a']",3,paroxítona,False
+tetraneto,"['te', 'tra', 'ne', 'to']",2,paroxítona,False
+tetraplégica,"['te', 'tra', 'plé', 'gi', 'ca']",2,proparoxítona,False
+tetraplégico,"['te', 'tra', 'plé', 'gi', 'co']",2,proparoxítona,False
+tetrarca,"['te', 'trar', 'ca']",1,paroxítona,False
+tetrarquia,"['te', 'trar', 'qui', 'a']",2,paroxítona,False
+tetravô,"['te', 'tra', 'vô']",2,oxítona,False
+tetravó,"['te', 'tra', 'vó']",2,oxítona,False
+tetricamente,"['te', 'tri', 'ca', 'men', 'te']",3,paroxítona,False
+tétrico,"['té', 'tri', 'co']",0,proparoxítona,False
+tetro,"['te', 'tro']",0,paroxítona,False
+tétum,"['té', 'tum']",0,paroxítona,False
+teu,['teu'],0,oxítona,False
+teucro,"['teu', 'cro']",0,paroxítona,False
+teúdo,"['te', 'ú', 'do']",1,paroxítona,False
+teutão,"['teu', 'tão']",1,oxítona,False
+teutonicamente,"['teu', 'to', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+teutónico,"['teu', 'tó', 'ni', 'co']",1,proparoxítona,False
+texana,"['te', 'xa', 'na']",1,paroxítona,True
+texano,"['te', 'xa', 'no']",1,paroxítona,True
+têxtil,"['têx', 'til']",0,paroxítona,False
+texto,"['tex', 'to']",0,paroxítona,False
+textual,"['tex', 'tu', 'al']",2,oxítona,False
+textualmente,"['tex', 'tu', 'al', 'men', 'te']",3,paroxítona,False
+textura,"['tex', 'tu', 'ra']",1,paroxítona,False
+texturação,"['tex', 'tu', 'ra', 'ção']",3,oxítona,False
+texturar,"['tex', 'tu', 'rar']",2,oxítona,False
+texturização,"['tex', 'tu', 'ri', 'za', 'ção']",4,oxítona,False
+texturizar,"['tex', 'tu', 'ri', 'zar']",3,oxítona,False
+texugo,"['te', 'xu', 'go']",1,paroxítona,True
+tez,['tez'],0,oxítona,False
+thesaurus,"['the', 'sau', 'rus']",1,paroxítona,False
+thriller,"['thril', 'ler']",0,paroxítona,False
+ti,['ti'],0,oxítona,True
+tia,"['ti', 'a']",0,paroxítona,False
+tiá,"['ti', 'á']",1,oxítona,False
+tia-avó,"['ti', 'a-a', 'vó']",2,oxítona,False
+tiara,"['ti', 'a', 'ra']",1,paroxítona,False
+tibetana,"['ti', 'be', 'ta', 'na']",2,paroxítona,True
+tibetano,"['ti', 'be', 'ta', 'no']",2,paroxítona,True
+tíbia,"['tí', 'bi', 'a']",0,proparoxítona,False
+tibiamente,"['ti', 'bi', 'a', 'men', 'te']",3,paroxítona,False
+tibieza,"['ti', 'bi', 'e', 'za']",2,paroxítona,False
+tíbio,"['tí', 'bi', 'o']",0,proparoxítona,False
+tibiotársico,"['ti', 'bi', 'o', 'tár', 'si', 'co']",3,proparoxítona,False
+tica,"['ti', 'ca']",0,paroxítona,True
+tição,"['ti', 'ção']",1,oxítona,False
+ticket,"['tic', 'ket']",0,paroxítona,False
+tico,"['ti', 'co']",0,paroxítona,True
+tico-tico,"['ti', 'co-', 'ti', 'co']",2,paroxítona,False
+ticuna,"['ti', 'cu', 'na']",1,paroxítona,True
+tido,"['ti', 'do']",0,paroxítona,True
+tie-break,"['tie', 'break']",1,oxítona,False
+tiete,"['ti', 'e', 'te']",1,paroxítona,False
+tifo,"['ti', 'fo']",0,paroxítona,True
+tifoide,"['ti', 'foi', 'de']",1,paroxítona,False
+tifoso,"['ti', 'fo', 'so']",1,paroxítona,True
+tigela,"['ti', 'ge', 'la']",1,paroxítona,True
+tigelada,"['ti', 'ge', 'la', 'da']",2,paroxítona,True
+tigelinha,"['ti', 'ge', 'li', 'nha']",2,paroxítona,False
+tigrado,"['ti', 'gra', 'do']",1,paroxítona,False
+tigré,"['ti', 'gré']",1,oxítona,False
+tigre,"['ti', 'gre']",0,paroxítona,False
+tigresa,"['ti', 'gre', 'sa']",1,paroxítona,False
+tijoleira,"['ti', 'jo', 'lei', 'ra']",2,paroxítona,False
+tijoleiro,"['ti', 'jo', 'lei', 'ro']",2,paroxítona,False
+tijolo,"['ti', 'jo', 'lo']",1,paroxítona,True
+tijuca,"['ti', 'ju', 'ca']",1,paroxítona,True
+tijuco,"['ti', 'ju', 'co']",1,paroxítona,True
+til,['til'],0,oxítona,False
+tilar,"['ti', 'lar']",1,oxítona,False
+tildar,"['til', 'dar']",1,oxítona,False
+tília,"['tí', 'li', 'a']",0,proparoxítona,False
+tilintar,"['ti', 'lin', 'tar']",2,oxítona,False
+tilo,"['ti', 'lo']",0,paroxítona,True
+timão,"['ti', 'mão']",1,oxítona,False
+timbale,"['tim', 'ba', 'le']",1,paroxítona,False
+timbaleiro,"['tim', 'ba', 'lei', 'ro']",2,paroxítona,False
+timbila,"['tim', 'bi', 'la']",1,paroxítona,False
+timbrado,"['tim', 'bra', 'do']",1,paroxítona,False
+timbrar,"['tim', 'brar']",1,oxítona,False
+timbre,"['tim', 'bre']",0,paroxítona,False
+time,"['ti', 'me']",0,paroxítona,True
+time-sharing,"['ti', 'me-', 'sha', 'ring']",2,paroxítona,False
+tímida,"['tí', 'mi', 'da']",0,proparoxítona,True
+timidamente,"['ti', 'mi', 'da', 'men', 'te']",3,paroxítona,False
+timidez,"['ti', 'mi', 'dez']",2,oxítona,False
+tímido,"['tí', 'mi', 'do']",0,proparoxítona,True
+timina,"['ti', 'mi', 'na']",1,paroxítona,True
+timing,"['ti', 'ming']",0,paroxítona,False
+timo,"['ti', 'mo']",0,paroxítona,True
+timonar,"['ti', 'mo', 'nar']",2,oxítona,False
+timoneira,"['ti', 'mo', 'nei', 'ra']",2,paroxítona,False
+timoneiro,"['ti', 'mo', 'nei', 'ro']",2,paroxítona,False
+timor,"['ti', 'mor']",1,oxítona,False
+timoratamente,"['ti', 'mo', 'ra', 'ta', 'men', 'te']",4,paroxítona,False
+timorato,"['ti', 'mo', 'ra', 'to']",2,paroxítona,True
+timorense,"['ti', 'mo', 'ren', 'se']",2,paroxítona,False
+tímpano,"['tím', 'pa', 'no']",0,proparoxítona,False
+tina,"['ti', 'na']",0,paroxítona,True
+tineta,"['ti', 'ne', 'ta']",1,paroxítona,True
+tingido,"['tin', 'gi', 'do']",1,paroxítona,False
+tingimento,"['tin', 'gi', 'men', 'to']",2,paroxítona,False
+tingir,"['tin', 'gir']",1,oxítona,False
+tinha,"['ti', 'nha']",0,paroxítona,False
+tinhorão,"['ti', 'nho', 'rão']",2,oxítona,False
+tinhosamente,"['ti', 'nho', 'sa', 'men', 'te']",3,paroxítona,False
+tinhoso,"['ti', 'nho', 'so']",1,paroxítona,False
+tinir,"['ti', 'nir']",1,oxítona,False
+tino,"['ti', 'no']",0,paroxítona,True
+tinoca,"['ti', 'no', 'ca']",1,paroxítona,True
+tinta,"['tin', 'ta']",0,paroxítona,False
+tinta da China,"['tin', 'ta da ', 'Chi', 'na']",2,paroxítona,False
+tinteiro,"['tin', 'tei', 'ro']",1,paroxítona,False
+tintim,"['tin', 'tim']",1,oxítona,False
+tinto,"['tin', 'to']",0,paroxítona,False
+tintura,"['tin', 'tu', 'ra']",1,paroxítona,False
+tinturaria,"['tin', 'tu', 'ra', 'ri', 'a']",3,paroxítona,False
+tintureira,"['tin', 'tu', 'rei', 'ra']",2,paroxítona,False
+tintureiro,"['tin', 'tu', 'rei', 'ro']",2,paroxítona,False
+tio,"['ti', 'o']",0,paroxítona,False
+tio-avô,"['ti', 'o-a', 'vô']",2,oxítona,False
+tiorba,"['ti', 'or', 'ba']",1,paroxítona,False
+tipa,"['ti', 'pa']",0,paroxítona,True
+tipicamente,"['ti', 'pi', 'ca', 'men', 'te']",3,paroxítona,False
+tipicidade,"['ti', 'pi', 'ci', 'da', 'de']",3,paroxítona,True
+típico,"['tí', 'pi', 'co']",0,proparoxítona,True
+tipificação,"['ti', 'pi', 'fi', 'ca', 'ção']",4,oxítona,False
+tipificar,"['ti', 'pi', 'fi', 'car']",3,oxítona,False
+tipo,"['ti', 'po']",0,paroxítona,True
+tipografia,"['ti', 'po', 'gra', 'fi', 'a']",3,paroxítona,False
+tipograficamente,"['ti', 'po', 'gra', 'fi', 'ca', 'men', 'te']",5,paroxítona,False
+tipográfico,"['ti', 'po', 'grá', 'fi', 'co']",2,proparoxítona,False
+tipógrafo,"['ti', 'pó', 'gra', 'fo']",1,proparoxítona,False
+tipoia,"['ti', 'poi', 'a']",1,paroxítona,False
+tipologia,"['ti', 'po', 'lo', 'gi', 'a']",3,paroxítona,False
+tipológico,"['ti', 'po', 'ló', 'gi', 'co']",2,proparoxítona,True
+tipu,"['ti', 'pu']",1,oxítona,True
+tipuana,"['ti', 'pu', 'a', 'na']",2,paroxítona,False
+tique,"['ti', 'que']",0,paroxítona,False
+tiquetaque,"['ti', 'que', 'ta', 'que']",2,paroxítona,False
+tiquinho,"['ti', 'qui', 'nho']",1,paroxítona,False
+tira,"['ti', 'ra']",0,paroxítona,True
+tira-dentes,"['ti', 'ra-', 'den', 'tes']",2,paroxítona,False
+tira-linhas,"['ti', 'ra-', 'li', 'nhas']",2,paroxítona,False
+tira-nódoas,"['ti', 'ra-', 'nó', 'do', 'as']",2,proparoxítona,False
+tira-teimas,"['ti', 'ra-', 'tei', 'mas']",2,paroxítona,False
+tiracolo,"['ti', 'ra', 'co', 'lo']",2,paroxítona,True
+tirada,"['ti', 'ra', 'da']",1,paroxítona,True
+tirador,"['ti', 'ra', 'dor']",2,oxítona,False
+tiragem,"['ti', 'ra', 'gem']",1,paroxítona,False
+tiramisu,"['ti', 'ra', 'mi', 'su']",3,oxítona,True
+tirana,"['ti', 'ra', 'na']",1,paroxítona,True
+tiranamente,"['ti', 'ra', 'na', 'men', 'te']",3,paroxítona,False
+tiranete,"['ti', 'ra', 'ne', 'te']",2,paroxítona,True
+tirania,"['ti', 'ra', 'ni', 'a']",2,paroxítona,False
+tiranicamente,"['ti', 'ra', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+tiranicídio,"['ti', 'ra', 'ni', 'cí', 'di', 'o']",3,proparoxítona,False
+tirânico,"['ti', 'râ', 'ni', 'co']",1,proparoxítona,True
+tiranizar,"['ti', 'ra', 'ni', 'zar']",3,oxítona,False
+tirano,"['ti', 'ra', 'no']",1,paroxítona,True
+tiranossauro,"['ti', 'ra', 'nos', 'sau', 'ro']",3,paroxítona,False
+tirante,"['ti', 'ran', 'te']",1,paroxítona,False
+tirar,"['ti', 'rar']",1,oxítona,False
+tiririca,"['ti', 'ri', 'ri', 'ca']",2,paroxítona,True
+tiritar,"['ti', 'ri', 'tar']",2,oxítona,False
+tiro,"['ti', 'ro']",0,paroxítona,True
+tirocinante,"['ti', 'ro', 'ci', 'nan', 'te']",3,paroxítona,False
+tirocínio,"['ti', 'ro', 'cí', 'ni', 'o']",2,proparoxítona,False
+tiroide,"['ti', 'roi', 'de']",1,paroxítona,False
+tirolês,"['ti', 'ro', 'lês']",2,oxítona,False
+tirolesa,"['ti', 'ro', 'le', 'sa']",2,paroxítona,True
+tirosinase,"['ti', 'ro', 'si', 'na', 'se']",3,paroxítona,True
+tirotear,"['ti', 'ro', 'te', 'ar']",3,oxítona,False
+tiroteio,"['ti', 'ro', 'tei', 'o']",2,paroxítona,False
+tirreno,"['tir', 're', 'no']",1,paroxítona,False
+tirsense,"['tir', 'sen', 'se']",1,paroxítona,False
+tirso,"['tir', 'so']",0,paroxítona,False
+tisana,"['ti', 'sa', 'na']",1,paroxítona,True
+tísica,"['tí', 'si', 'ca']",0,proparoxítona,True
+tísico,"['tí', 'si', 'co']",0,proparoxítona,True
+tisnado,"['tis', 'na', 'do']",1,paroxítona,False
+tisnar,"['tis', 'nar']",1,oxítona,False
+titã,"['ti', 'tã']",1,oxítona,True
+titanicamente,"['ti', 'ta', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+titânico,"['ti', 'tâ', 'ni', 'co']",1,proparoxítona,True
+titânio,"['ti', 'tâ', 'ni', 'o']",1,proparoxítona,False
+títere,"['tí', 'te', 're']",0,proparoxítona,True
+titi,"['ti', 'ti']",1,oxítona,True
+titilação,"['ti', 'ti', 'la', 'ção']",3,oxítona,False
+titilante,"['ti', 'ti', 'lan', 'te']",2,paroxítona,False
+titina,"['ti', 'ti', 'na']",1,paroxítona,True
+titismo,"['ti', 'tis', 'mo']",1,paroxítona,False
+titista,"['ti', 'tis', 'ta']",1,paroxítona,False
+titubeante,"['ti', 'tu', 'be', 'an', 'te']",3,paroxítona,False
+titubeantemente,"['ti', 'tu', 'be', 'an', 'te', 'men', 'te']",5,paroxítona,False
+titubear,"['ti', 'tu', 'be', 'ar']",3,oxítona,False
+titulação,"['ti', 'tu', 'la', 'ção']",3,oxítona,False
+titulado,"['ti', 'tu', 'la', 'do']",2,paroxítona,True
+titular,"['ti', 'tu', 'lar']",2,oxítona,False
+titularidade,"['ti', 'tu', 'la', 'ri', 'da', 'de']",4,paroxítona,True
+título,"['tí', 'tu', 'lo']",0,proparoxítona,True
+tixotrópico,"['ti', 'xo', 'tró', 'pi', 'co']",2,proparoxítona,False
+tlim,['tlim'],0,oxítona,False
+tô,['tô'],0,oxítona,True
+tó,['tó'],0,oxítona,True
+toa,"['to', 'a']",0,paroxítona,False
+toada,"['to', 'a', 'da']",1,paroxítona,False
+toalha,"['to', 'a', 'lha']",1,paroxítona,False
+toalhão,"['to', 'a', 'lhão']",2,oxítona,False
+toalheiro,"['to', 'a', 'lhei', 'ro']",2,paroxítona,False
+toalhete,"['to', 'a', 'lhe', 'te']",2,paroxítona,False
+toar,"['to', 'ar']",1,oxítona,False
+tobogã,"['to', 'bo', 'gã']",2,oxítona,True
+toca,"['to', 'ca']",0,paroxítona,True
+tocado,"['to', 'ca', 'do']",1,paroxítona,True
+tocador,"['to', 'ca', 'dor']",2,oxítona,False
+tocadora,"['to', 'ca', 'do', 'ra']",2,paroxítona,True
+tocaia,"['to', 'cai', 'a']",1,paroxítona,False
+tocaiar,"['to', 'cai', 'ar']",2,oxítona,False
+tocaio,"['to', 'cai', 'o']",1,paroxítona,False
+tocante,"['to', 'can', 'te']",1,paroxítona,False
+tocantemente,"['to', 'can', 'te', 'men', 'te']",3,paroxítona,False
+tocantim,"['to', 'can', 'tim']",2,oxítona,False
+tocar,"['to', 'car']",1,oxítona,False
+tocata,"['to', 'ca', 'ta']",1,paroxítona,True
+tocatina,"['to', 'ca', 'ti', 'na']",2,paroxítona,True
+tocável,"['to', 'cá', 'vel']",1,paroxítona,False
+toccata,"['toc', 'ca', 'ta']",1,paroxítona,False
+tocha,"['to', 'cha']",0,paroxítona,False
+tocheiro,"['to', 'chei', 'ro']",1,paroxítona,False
+toco,"['to', 'co']",0,paroxítona,True
+toda,"['to', 'da']",0,paroxítona,True
+todavia,"['to', 'da', 'vi', 'a']",2,paroxítona,False
+todinho,"['to', 'di', 'nho']",1,paroxítona,False
+todo,"['to', 'do']",0,paroxítona,True
+todo-poderosa,"['to', 'do-po', 'de', 'ro', 'sa']",3,paroxítona,False
+todo-poderoso,"['to', 'do-po', 'de', 'ro', 'so']",3,paroxítona,False
+toeira,"['to', 'ei', 'ra']",1,paroxítona,False
+tofu,"['to', 'fu']",1,oxítona,True
+toga,"['to', 'ga']",0,paroxítona,True
+togado,"['to', 'ga', 'do']",1,paroxítona,True
+togar,"['to', 'gar']",1,oxítona,False
+togolês,"['to', 'go', 'lês']",2,oxítona,False
+togolesa,"['to', 'go', 'le', 'sa']",2,paroxítona,True
+toiça,"['toi', 'ça']",0,paroxítona,False
+toilette,"['toi', 'let', 'te']",1,paroxítona,False
+toirada,"['toi', 'ra', 'da']",1,paroxítona,False
+toirão,"['toi', 'rão']",1,oxítona,False
+toiro,"['toi', 'ro']",0,paroxítona,False
+tojal,"['to', 'jal']",1,oxítona,False
+tojeira,"['to', 'jei', 'ra']",1,paroxítona,False
+tojeiro,"['to', 'jei', 'ro']",1,paroxítona,False
+tojo,"['to', 'jo']",0,paroxítona,True
+tola,"['to', 'la']",0,paroxítona,True
+tolamente,"['to', 'la', 'men', 'te']",2,paroxítona,False
+tolar,"['to', 'lar']",1,oxítona,False
+tolda,"['tol', 'da']",0,paroxítona,False
+toldado,"['tol', 'da', 'do']",1,paroxítona,False
+toldar,"['tol', 'dar']",1,oxítona,False
+tolde,"['tol', 'de']",0,paroxítona,False
+toldo,"['tol', 'do']",0,paroxítona,False
+toledano,"['to', 'le', 'da', 'no']",2,paroxítona,True
+toledo,"['to', 'le', 'do']",1,paroxítona,True
+toleima,"['to', 'lei', 'ma']",1,paroxítona,False
+tolerabilidade,"['to', 'le', 'ra', 'bi', 'li', 'da', 'de']",5,paroxítona,True
+tolerada,"['to', 'le', 'ra', 'da']",2,paroxítona,True
+toleradamente,"['to', 'le', 'ra', 'da', 'men', 'te']",4,paroxítona,False
+tolerado,"['to', 'le', 'ra', 'do']",2,paroxítona,True
+tolerância,"['to', 'le', 'rân', 'ci', 'a']",2,proparoxítona,False
+tolerante,"['to', 'le', 'ran', 'te']",2,paroxítona,False
+tolerar,"['to', 'le', 'rar']",2,oxítona,False
+tolerável,"['to', 'le', 'rá', 'vel']",2,paroxítona,False
+toleravelmente,"['to', 'le', 'ra', 'vel', 'men', 'te']",4,paroxítona,False
+toleta,"['to', 'le', 'ta']",1,paroxítona,True
+tolher,"['to', 'lher']",1,oxítona,False
+tolhido,"['to', 'lhi', 'do']",1,paroxítona,False
+tolice,"['to', 'li', 'ce']",1,paroxítona,True
+tolinha,"['to', 'li', 'nha']",1,paroxítona,False
+tolo,"['to', 'lo']",0,paroxítona,True
+tolstoiano,"['tols', 'toi', 'a', 'no']",2,paroxítona,False
+tolteca,"['tol', 'te', 'ca']",1,paroxítona,False
+tolu,"['to', 'lu']",1,oxítona,True
+tolueno,"['to', 'lu', 'e', 'no']",2,paroxítona,False
+tom,['tom'],0,oxítona,False
+toma,"['to', 'ma']",0,paroxítona,True
+tomada,"['to', 'ma', 'da']",1,paroxítona,True
+tomadia,"['to', 'ma', 'di', 'a']",2,paroxítona,False
+tomado,"['to', 'ma', 'do']",1,paroxítona,True
+tomador,"['to', 'ma', 'dor']",2,oxítona,False
+tomadora,"['to', 'ma', 'do', 'ra']",2,paroxítona,True
+tomar,"['to', 'mar']",1,oxítona,False
+tomarense,"['to', 'ma', 'ren', 'se']",2,paroxítona,False
+tomares,"['to', 'ma', 'res']",1,paroxítona,False
+tomata,"['to', 'ma', 'ta']",1,paroxítona,True
+tomatada,"['to', 'ma', 'ta', 'da']",2,paroxítona,True
+tomate,"['to', 'ma', 'te']",1,paroxítona,True
+tomateiro,"['to', 'ma', 'tei', 'ro']",2,paroxítona,False
+tomba,"['tom', 'ba']",0,paroxítona,False
+tombada,"['tom', 'ba', 'da']",1,paroxítona,False
+tombadilho,"['tom', 'ba', 'di', 'lho']",2,paroxítona,False
+tombar,"['tom', 'bar']",1,oxítona,False
+tombo,"['tom', 'bo']",0,paroxítona,False
+tômbola,"['tôm', 'bo', 'la']",0,proparoxítona,False
+tombolar,"['tom', 'bo', 'lar']",2,oxítona,False
+tomentoso,"['to', 'men', 'to', 'so']",2,paroxítona,False
+tomilho,"['to', 'mi', 'lho']",1,paroxítona,False
+tomismo,"['to', 'mis', 'mo']",1,paroxítona,False
+tomista,"['to', 'mis', 'ta']",1,paroxítona,False
+tomo,"['to', 'mo']",0,paroxítona,True
+tomografia,"['to', 'mo', 'gra', 'fi', 'a']",3,paroxítona,False
+tona,"['to', 'na']",0,paroxítona,True
+tonal,"['to', 'nal']",1,oxítona,False
+tonalidade,"['to', 'na', 'li', 'da', 'de']",3,paroxítona,True
+tonalmente,"['to', 'nal', 'men', 'te']",2,paroxítona,False
+tonante,"['to', 'nan', 'te']",1,paroxítona,False
+tonar,"['to', 'nar']",1,oxítona,False
+tondelense,"['ton', 'de', 'len', 'se']",2,paroxítona,False
+tone,"['to', 'ne']",0,paroxítona,True
+tonel,"['to', 'nel']",1,oxítona,False
+tonelada,"['to', 'ne', 'la', 'da']",2,paroxítona,True
+tonelagem,"['to', 'ne', 'la', 'gem']",2,paroxítona,False
+toner,"['to', 'ner']",1,oxítona,False
+tonga,"['ton', 'ga']",0,paroxítona,False
+tonia,"['to', 'ni', 'a']",1,paroxítona,False
+tónica,"['tó', 'ni', 'ca']",0,proparoxítona,True
+tonicamente,"['to', 'ni', 'ca', 'men', 'te']",3,paroxítona,False
+tonicidade,"['to', 'ni', 'ci', 'da', 'de']",3,paroxítona,True
+tónico,"['tó', 'ni', 'co']",0,proparoxítona,True
+tonificação,"['to', 'ni', 'fi', 'ca', 'ção']",4,oxítona,False
+tonificador,"['to', 'ni', 'fi', 'ca', 'dor']",4,oxítona,False
+tonificante,"['to', 'ni', 'fi', 'can', 'te']",3,paroxítona,False
+tonificar,"['to', 'ni', 'fi', 'car']",3,oxítona,False
+toninha,"['to', 'ni', 'nha']",1,paroxítona,False
+toninho,"['to', 'ni', 'nho']",1,paroxítona,False
+tonitruante,"['to', 'ni', 'tru', 'an', 'te']",3,paroxítona,False
+tono,"['to', 'no']",0,paroxítona,True
+tonquim,"['ton', 'quim']",1,oxítona,False
+tonsura,"['ton', 'su', 'ra']",1,paroxítona,False
+tonsurar,"['ton', 'su', 'rar']",2,oxítona,False
+tonta,"['ton', 'ta']",0,paroxítona,False
+tontaria,"['ton', 'ta', 'ri', 'a']",2,paroxítona,False
+tontice,"['ton', 'ti', 'ce']",1,paroxítona,False
+tonto,"['ton', 'to']",0,paroxítona,False
+tontura,"['ton', 'tu', 'ra']",1,paroxítona,False
+tónus,"['tó', 'nus']",0,paroxítona,False
+top,['top'],0,oxítona,False
+topa,"['to', 'pa']",0,paroxítona,True
+topada,"['to', 'pa', 'da']",1,paroxítona,True
+topar,"['to', 'par']",1,oxítona,False
+topaz,"['to', 'paz']",1,oxítona,False
+topázio,"['to', 'pá', 'zi', 'o']",1,proparoxítona,False
+tope,"['to', 'pe']",0,paroxítona,True
+topetar,"['to', 'pe', 'tar']",2,oxítona,False
+topete,"['to', 'pe', 'te']",1,paroxítona,True
+tópica,"['tó', 'pi', 'ca']",0,proparoxítona,True
+tópico,"['tó', 'pi', 'co']",0,proparoxítona,True
+topless,"['to', 'pless']",1,oxítona,False
+topless,"['to', 'pless']",0,paroxítona,False
+topo,"['to', 'po']",0,paroxítona,True
+topografia,"['to', 'po', 'gra', 'fi', 'a']",3,paroxítona,False
+topograficamente,"['to', 'po', 'gra', 'fi', 'ca', 'men', 'te']",5,paroxítona,False
+topográfico,"['to', 'po', 'grá', 'fi', 'co']",2,proparoxítona,False
+topógrafo,"['to', 'pó', 'gra', 'fo']",1,proparoxítona,False
+topologia,"['to', 'po', 'lo', 'gi', 'a']",3,paroxítona,False
+topológico,"['to', 'po', 'ló', 'gi', 'co']",2,proparoxítona,True
+toponímia,"['to', 'po', 'ní', 'mi', 'a']",2,proparoxítona,False
+toponimicamente,"['to', 'po', 'ni', 'mi', 'ca', 'men', 'te']",5,paroxítona,False
+toponímico,"['to', 'po', 'ní', 'mi', 'co']",2,proparoxítona,True
+topónimo,"['to', 'pó', 'ni', 'mo']",1,proparoxítona,True
+toque,"['to', 'que']",0,paroxítona,False
+tora,"['to', 'ra']",0,paroxítona,True
+torácico,"['to', 'rá', 'ci', 'co']",1,proparoxítona,True
+toral,"['to', 'ral']",1,oxítona,False
+toranja,"['to', 'ran', 'ja']",1,paroxítona,False
+torar,"['to', 'rar']",1,oxítona,False
+tórax,"['tó', 'rax']",0,paroxítona,False
+torça,"['tor', 'ça']",0,paroxítona,False
+torção,"['tor', 'ção']",1,oxítona,False
+torcaz,"['tor', 'caz']",1,oxítona,False
+torcedor,"['tor', 'ce', 'dor']",2,oxítona,False
+torcedora,"['tor', 'ce', 'do', 'ra']",2,paroxítona,False
+torcer,"['tor', 'cer']",1,oxítona,False
+torcicolar,"['tor', 'ci', 'co', 'lar']",3,oxítona,False
+torcicolo,"['tor', 'ci', 'co', 'lo']",2,paroxítona,False
+torcida,"['tor', 'ci', 'da']",1,paroxítona,False
+torcidamente,"['tor', 'ci', 'da', 'men', 'te']",3,paroxítona,False
+torcido,"['tor', 'ci', 'do']",1,paroxítona,False
+torcionária,"['tor', 'ci', 'o', 'ná', 'ri', 'a']",3,proparoxítona,False
+torcionário,"['tor', 'ci', 'o', 'ná', 'ri', 'o']",3,proparoxítona,False
+torço,"['tor', 'ço']",0,paroxítona,False
+torda,"['tor', 'da']",0,paroxítona,False
+tordo,"['tor', 'do']",0,paroxítona,False
+torga,"['tor', 'ga']",0,paroxítona,False
+torgal,"['tor', 'gal']",1,oxítona,False
+torguiano,"['tor', 'gui', 'a', 'no']",2,paroxítona,False
+tório,"['tó', 'ri', 'o']",0,proparoxítona,False
+tormenta,"['tor', 'men', 'ta']",1,paroxítona,False
+tormento,"['tor', 'men', 'to']",1,paroxítona,False
+tormentosamente,"['tor', 'men', 'to', 'sa', 'men', 'te']",4,paroxítona,False
+tormentoso,"['tor', 'men', 'to', 'so']",2,paroxítona,False
+torna,"['tor', 'na']",0,paroxítona,False
+torna-viagem,"['tor', 'na-vi', 'a', 'gem']",2,paroxítona,False
+tornada,"['tor', 'na', 'da']",1,paroxítona,False
+tornado,"['tor', 'na', 'do']",1,paroxítona,False
+tornar,"['tor', 'nar']",1,oxítona,False
+torneado,"['tor', 'ne', 'a', 'do']",2,paroxítona,False
+torneamento,"['tor', 'ne', 'a', 'men', 'to']",3,paroxítona,False
+tornear,"['tor', 'ne', 'ar']",2,oxítona,False
+torneio,"['tor', 'nei', 'o']",1,paroxítona,False
+torneira,"['tor', 'nei', 'ra']",1,paroxítona,False
+torneiro,"['tor', 'nei', 'ro']",1,paroxítona,False
+torneja,"['tor', 'ne', 'ja']",1,paroxítona,False
+tornejar,"['tor', 'ne', 'jar']",2,oxítona,False
+torniquete,"['tor', 'ni', 'que', 'te']",2,paroxítona,False
+torno,"['tor', 'no']",0,paroxítona,False
+tornozelo,"['tor', 'no', 'ze', 'lo']",2,paroxítona,False
+toro,"['to', 'ro']",0,paroxítona,True
+toroidal,"['to', 'roi', 'dal']",2,oxítona,False
+torpe,"['tor', 'pe']",0,paroxítona,False
+torpedear,"['tor', 'pe', 'de', 'ar']",3,oxítona,False
+torpedeiro,"['tor', 'pe', 'dei', 'ro']",2,paroxítona,False
+torpedo,"['tor', 'pe', 'do']",1,paroxítona,False
+torpemente,"['tor', 'pe', 'men', 'te']",2,paroxítona,False
+torpeza,"['tor', 'pe', 'za']",1,paroxítona,False
+torpor,"['tor', 'por']",1,oxítona,False
+torque,"['tor', 'que']",0,paroxítona,False
+torquês,"['tor', 'quês']",1,oxítona,False
+torr,['torr'],0,oxítona,False
+torra,"['tor', 'ra']",0,paroxítona,False
+torrada,"['tor', 'ra', 'da']",1,paroxítona,False
+torradeira,"['tor', 'ra', 'dei', 'ra']",2,paroxítona,False
+torrado,"['tor', 'ra', 'do']",1,paroxítona,False
+torrão,"['tor', 'rão']",1,oxítona,False
+torrar,"['tor', 'rar']",1,oxítona,False
+torre,"['tor', 're']",0,paroxítona,False
+torreão,"['tor', 're', 'ão']",2,oxítona,False
+torrefacção,"['tor', 're', 'fac', 'ção']",3,oxítona,False
+torreira,"['tor', 'rei', 'ra']",1,paroxítona,False
+torrejana,"['tor', 're', 'ja', 'na']",2,paroxítona,False
+torrejano,"['tor', 're', 'ja', 'no']",2,paroxítona,False
+torrencial,"['tor', 'ren', 'ci', 'al']",3,oxítona,False
+torrencialmente,"['tor', 'ren', 'ci', 'al', 'men', 'te']",4,paroxítona,False
+torrente,"['tor', 'ren', 'te']",1,paroxítona,False
+torresmo,"['tor', 'res', 'mo']",1,paroxítona,False
+torreta,"['tor', 're', 'ta']",1,paroxítona,False
+tórrido,"['tór', 'ri', 'do']",0,proparoxítona,False
+torriense,"['tor', 'ri', 'en', 'se']",2,paroxítona,False
+torrinha,"['tor', 'ri', 'nha']",1,paroxítona,False
+torso,"['tor', 'so']",0,paroxítona,False
+torta,"['tor', 'ta']",0,paroxítona,False
+tortamente,"['tor', 'ta', 'men', 'te']",2,paroxítona,False
+tortilha,"['tor', 'ti', 'lha']",1,paroxítona,False
+torto,"['tor', 'to']",0,paroxítona,False
+tortulho,"['tor', 'tu', 'lho']",1,paroxítona,False
+tortuosamente,"['tor', 'tu', 'o', 'sa', 'men', 'te']",4,paroxítona,False
+tortuosidade,"['tor', 'tu', 'o', 'si', 'da', 'de']",4,paroxítona,False
+tortuoso,"['tor', 'tu', 'o', 'so']",2,paroxítona,False
+tortura,"['tor', 'tu', 'ra']",1,paroxítona,False
+torturada,"['tor', 'tu', 'ra', 'da']",2,paroxítona,False
+torturado,"['tor', 'tu', 'ra', 'do']",2,paroxítona,False
+torturador,"['tor', 'tu', 'ra', 'dor']",3,oxítona,False
+torturante,"['tor', 'tu', 'ran', 'te']",2,paroxítona,False
+torturantemente,"['tor', 'tu', 'ran', 'te', 'men', 'te']",4,paroxítona,False
+torturar,"['tor', 'tu', 'rar']",2,oxítona,False
+torvelinhar,"['tor', 've', 'li', 'nhar']",3,oxítona,False
+torvelinho,"['tor', 've', 'li', 'nho']",2,paroxítona,False
+tosão,"['to', 'são']",1,oxítona,False
+tosar,"['to', 'sar']",1,oxítona,False
+tosca,"['tos', 'ca']",0,paroxítona,False
+toscamente,"['tos', 'ca', 'men', 'te']",2,paroxítona,False
+toscana,"['tos', 'ca', 'na']",1,paroxítona,False
+toscano,"['tos', 'ca', 'no']",1,paroxítona,False
+toscar,"['tos', 'car']",1,oxítona,False
+tosco,"['tos', 'co']",0,paroxítona,False
+tosga,"['tos', 'ga']",0,paroxítona,False
+toso,"['to', 'so']",0,paroxítona,True
+tosquia,"['tos', 'qui', 'a']",1,paroxítona,False
+tosquiadela,"['tos', 'qui', 'a', 'de', 'la']",3,paroxítona,False
+tosquiado,"['tos', 'qui', 'a', 'do']",2,paroxítona,False
+tosquiador,"['tos', 'qui', 'a', 'dor']",3,oxítona,False
+tosquiar,"['tos', 'qui', 'ar']",2,oxítona,False
+tosse,"['tos', 'se']",0,paroxítona,False
+tossicar,"['tos', 'si', 'car']",2,oxítona,False
+tossidela,"['tos', 'si', 'de', 'la']",2,paroxítona,False
+tossir,"['tos', 'sir']",1,oxítona,False
+tosta,"['tos', 'ta']",0,paroxítona,False
+tostado,"['tos', 'ta', 'do']",1,paroxítona,False
+tostão,"['tos', 'tão']",1,oxítona,False
+tostar,"['tos', 'tar']",1,oxítona,False
+toste,"['tos', 'te']",0,paroxítona,False
+tostemente,"['tos', 'te', 'men', 'te']",2,paroxítona,False
+total,"['to', 'tal']",1,oxítona,False
+totalidade,"['to', 'ta', 'li', 'da', 'de']",3,paroxítona,True
+totalista,"['to', 'ta', 'lis', 'ta']",2,paroxítona,False
+totalitariamente,"['to', 'ta', 'li', 'ta', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+totalitário,"['to', 'ta', 'li', 'tá', 'ri', 'o']",3,proparoxítona,False
+totalitarismo,"['to', 'ta', 'li', 'ta', 'ris', 'mo']",4,paroxítona,False
+totalização,"['to', 'ta', 'li', 'za', 'ção']",4,oxítona,False
+totalizador,"['to', 'ta', 'li', 'za', 'dor']",4,oxítona,False
+totalizar,"['to', 'ta', 'li', 'zar']",3,oxítona,False
+totalmente,"['to', 'tal', 'men', 'te']",2,paroxítona,False
+totem,"['to', 'tem']",0,paroxítona,False
+tóteme,"['tó', 'te', 'me']",0,proparoxítona,True
+totémico,"['to', 'té', 'mi', 'co']",1,proparoxítona,True
+totó,"['to', 'tó']",1,oxítona,True
+totobola,"['to', 'to', 'bo', 'la']",2,paroxítona,True
+totoloto,"['to', 'to', 'lo', 'to']",2,paroxítona,True
+touca,"['tou', 'ca']",0,paroxítona,False
+touça,"['tou', 'ça']",0,paroxítona,False
+toucado,"['tou', 'ca', 'do']",1,paroxítona,False
+toucador,"['tou', 'ca', 'dor']",2,oxítona,False
+toucar,"['tou', 'car']",1,oxítona,False
+toucinheiro,"['tou', 'ci', 'nhei', 'ro']",2,paroxítona,False
+toucinho,"['tou', 'ci', 'nho']",1,paroxítona,False
+tougue,"['tou', 'gue']",0,paroxítona,False
+toupeira,"['tou', 'pei', 'ra']",1,paroxítona,False
+tourada,"['tou', 'ra', 'da']",1,paroxítona,False
+toural,"['tou', 'ral']",1,oxítona,False
+tourão,"['tou', 'rão']",1,oxítona,False
+toureador,"['tou', 're', 'a', 'dor']",3,oxítona,False
+tourear,"['tou', 're', 'ar']",2,oxítona,False
+toureio,"['tou', 'rei', 'o']",1,paroxítona,False
+toureira,"['tou', 'rei', 'ra']",1,paroxítona,False
+toureiro,"['tou', 'rei', 'ro']",1,paroxítona,False
+touriga,"['tou', 'ri', 'ga']",1,paroxítona,False
+tourinha,"['tou', 'ri', 'nha']",1,paroxítona,False
+tournée,"['tour', 'née']",1,oxítona,False
+touro,"['tou', 'ro']",0,paroxítona,False
+toutiço,"['tou', 'ti', 'ço']",1,paroxítona,False
+toutinegra,"['tou', 'ti', 'ne', 'gra']",2,paroxítona,False
+toxicidade,"['to', 'xi', 'ci', 'da', 'de']",3,paroxítona,True
+tóxico,"['tó', 'xi', 'co']",0,proparoxítona,True
+toxicodependência,"['to', 'xi', 'co', 'de', 'pen', 'dên', 'ci', 'a']",5,proparoxítona,False
+toxicodependente,"['to', 'xi', 'co', 'de', 'pen', 'den', 'te']",5,paroxítona,False
+toxicologia,"['to', 'xi', 'co', 'lo', 'gi', 'a']",4,paroxítona,False
+toxicológico,"['to', 'xi', 'co', 'ló', 'gi', 'co']",3,proparoxítona,True
+toxicologista,"['to', 'xi', 'co', 'lo', 'gis', 'ta']",4,paroxítona,False
+toxicólogo,"['to', 'xi', 'có', 'lo', 'go']",2,proparoxítona,True
+toxicómana,"['to', 'xi', 'có', 'ma', 'na']",2,proparoxítona,True
+toxicomania,"['to', 'xi', 'co', 'ma', 'ni', 'a']",4,paroxítona,False
+toxicómano,"['to', 'xi', 'có', 'ma', 'no']",2,proparoxítona,True
+toxidade,"['to', 'xi', 'da', 'de']",2,paroxítona,True
+toxina,"['to', 'xi', 'na']",1,paroxítona,True
+toxoplasmose,"['to', 'xo', 'plas', 'mo', 'se']",3,paroxítona,False
+trabalhadamente,"['tra', 'ba', 'lha', 'da', 'men', 'te']",4,paroxítona,False
+trabalhadeira,"['tra', 'ba', 'lha', 'dei', 'ra']",3,paroxítona,False
+trabalhado,"['tra', 'ba', 'lha', 'do']",2,paroxítona,False
+trabalhador,"['tra', 'ba', 'lha', 'dor']",3,oxítona,False
+trabalhadora,"['tra', 'ba', 'lha', 'do', 'ra']",3,paroxítona,False
+trabalhão,"['tra', 'ba', 'lhão']",2,oxítona,False
+trabalhar,"['tra', 'ba', 'lhar']",2,oxítona,False
+trabalheira,"['tra', 'ba', 'lhei', 'ra']",2,paroxítona,False
+trabalhismo,"['tra', 'ba', 'lhis', 'mo']",2,paroxítona,False
+trabalhista,"['tra', 'ba', 'lhis', 'ta']",2,paroxítona,False
+trabalho,"['tra', 'ba', 'lho']",1,paroxítona,False
+trabalhosamente,"['tra', 'ba', 'lho', 'sa', 'men', 'te']",4,paroxítona,False
+trabalhoso,"['tra', 'ba', 'lho', 'so']",2,paroxítona,False
+trabucar,"['tra', 'bu', 'car']",2,oxítona,False
+trabuco,"['tra', 'bu', 'co']",1,paroxítona,False
+trabular,"['tra', 'bu', 'lar']",2,oxítona,False
+trabulo,"['tra', 'bu', 'lo']",1,paroxítona,False
+traça,"['tra', 'ça']",0,paroxítona,False
+traçado,"['tra', 'ça', 'do']",1,paroxítona,False
+tração,"['tra', 'ção']",1,oxítona,False
+traçar,"['tra', 'çar']",1,oxítona,False
+traçaria,"['tra', 'ça', 'ri', 'a']",2,paroxítona,False
+tracejado,"['tra', 'ce', 'ja', 'do']",2,paroxítona,False
+tracejar,"['tra', 'ce', 'jar']",2,oxítona,False
+trácio,"['trá', 'ci', 'o']",0,proparoxítona,False
+traço,"['tra', 'ço']",0,paroxítona,False
+tracoma,"['tra', 'co', 'ma']",1,paroxítona,False
+tradição,"['tra', 'di', 'ção']",2,oxítona,False
+tradicional,"['tra', 'di', 'ci', 'o', 'nal']",4,oxítona,False
+tradicionalismo,"['tra', 'di', 'ci', 'o', 'na', 'lis', 'mo']",5,paroxítona,False
+tradicionalista,"['tra', 'di', 'ci', 'o', 'na', 'lis', 'ta']",5,paroxítona,False
+tradicionalmente,"['tra', 'di', 'ci', 'o', 'nal', 'men', 'te']",5,paroxítona,False
+trado,"['tra', 'do']",0,paroxítona,False
+tradução,"['tra', 'du', 'ção']",2,oxítona,False
+tradutor,"['tra', 'du', 'tor']",2,oxítona,False
+tradutora,"['tra', 'du', 'to', 'ra']",2,paroxítona,False
+traduzibilidade,"['tra', 'du', 'zi', 'bi', 'li', 'da', 'de']",5,paroxítona,False
+traduzir,"['tra', 'du', 'zir']",2,oxítona,False
+traduzível,"['tra', 'du', 'zí', 'vel']",2,paroxítona,False
+trafegar,"['tra', 'fe', 'gar']",2,oxítona,False
+tráfego,"['trá', 'fe', 'go']",0,proparoxítona,False
+traficância,"['tra', 'fi', 'cân', 'ci', 'a']",2,proparoxítona,False
+traficante,"['tra', 'fi', 'can', 'te']",2,paroxítona,False
+traficar,"['tra', 'fi', 'car']",2,oxítona,False
+tráfico,"['trá', 'fi', 'co']",0,proparoxítona,False
+trafulha,"['tra', 'fu', 'lha']",1,paroxítona,False
+trafulhice,"['tra', 'fu', 'lhi', 'ce']",2,paroxítona,False
+tragada,"['tra', 'ga', 'da']",1,paroxítona,False
+tragar,"['tra', 'gar']",1,oxítona,False
+tragédia,"['tra', 'gé', 'di', 'a']",1,proparoxítona,False
+tragediar,"['tra', 'ge', 'di', 'ar']",3,oxítona,False
+tragediógrafo,"['tra', 'ge', 'di', 'ó', 'gra', 'fo']",3,proparoxítona,False
+trágica,"['trá', 'gi', 'ca']",0,proparoxítona,False
+tragicamente,"['tra', 'gi', 'ca', 'men', 'te']",3,paroxítona,False
+trágico,"['trá', 'gi', 'co']",0,proparoxítona,False
+trágico-marítimo,"['trá', 'gi', 'co-ma', 'rí', 'ti', 'mo']",3,proparoxítona,False
+tragicomédia,"['tra', 'gi', 'co', 'mé', 'di', 'a']",3,proparoxítona,False
+tragicomicamente,"['tra', 'gi', 'co', 'mi', 'ca', 'men', 'te']",5,paroxítona,False
+tragicómico,"['tra', 'gi', 'có', 'mi', 'co']",2,proparoxítona,False
+trago,"['tra', 'go']",0,paroxítona,False
+traição,"['trai', 'ção']",1,oxítona,False
+traiçoeiramente,"['trai', 'ço', 'ei', 'ra', 'men', 'te']",4,paroxítona,False
+traiçoeiro,"['trai', 'ço', 'ei', 'ro']",2,paroxítona,False
+traído,"['tra', 'í', 'do']",1,paroxítona,False
+traidor,"['trai', 'dor']",1,oxítona,False
+traidora,"['trai', 'do', 'ra']",1,paroxítona,False
+trailer,"['trai', 'ler']",0,paroxítona,False
+traineira,"['trai', 'nei', 'ra']",1,paroxítona,False
+trair,"['tra', 'ir']",1,oxítona,False
+traíra,"['tra', 'í', 'ra']",1,paroxítona,False
+trajado,"['tra', 'ja', 'do']",1,paroxítona,False
+trajadura,"['tra', 'ja', 'du', 'ra']",2,paroxítona,False
+trajar,"['tra', 'jar']",1,oxítona,False
+traje,"['tra', 'je']",0,paroxítona,False
+trajeto,"['tra', 'je', 'to']",1,paroxítona,False
+trajetória,"['tra', 'je', 'tó', 'ri', 'a']",2,proparoxítona,False
+trajo,"['tra', 'jo']",0,paroxítona,False
+tralha,"['tra', 'lha']",0,paroxítona,False
+tralhão,"['tra', 'lhão']",1,oxítona,False
+tralhar,"['tra', 'lhar']",1,oxítona,False
+trama,"['tra', 'ma']",0,paroxítona,False
+tramado,"['tra', 'ma', 'do']",1,paroxítona,False
+tramagal,"['tra', 'ma', 'gal']",2,oxítona,False
+tramar,"['tra', 'mar']",1,oxítona,False
+trambelho,"['tram', 'be', 'lho']",1,paroxítona,False
+trambolhão,"['tram', 'bo', 'lhão']",2,oxítona,False
+trambolhar,"['tram', 'bo', 'lhar']",2,oxítona,False
+trambolho,"['tram', 'bo', 'lho']",1,paroxítona,False
+tramitação,"['tra', 'mi', 'ta', 'ção']",3,oxítona,False
+tramitar,"['tra', 'mi', 'tar']",2,oxítona,False
+trâmite,"['trâ', 'mi', 'te']",0,proparoxítona,False
+tramo,"['tra', 'mo']",0,paroxítona,False
+tramoia,"['tra', 'moi', 'a']",1,paroxítona,False
+tramontana,"['tra', 'mon', 'ta', 'na']",2,paroxítona,False
+tramontar,"['tra', 'mon', 'tar']",2,oxítona,False
+trampa,"['tram', 'pa']",0,paroxítona,False
+trampolim,"['tram', 'po', 'lim']",2,oxítona,False
+trampolineiro,"['tram', 'po', 'li', 'nei', 'ro']",3,paroxítona,False
+trâmuei,"['trâ', 'mu', 'ei']",0,proparoxítona,False
+tranar,"['tra', 'nar']",1,oxítona,False
+tranca,"['tran', 'ca']",0,paroxítona,False
+trança,"['tran', 'ça']",0,paroxítona,False
+trancada,"['tran', 'ca', 'da']",1,paroxítona,False
+trancado,"['tran', 'ca', 'do']",1,paroxítona,False
+trancão,"['tran', 'cão']",1,oxítona,False
+trancar,"['tran', 'car']",1,oxítona,False
+trançar,"['tran', 'çar']",1,oxítona,False
+tranchar,"['tran', 'char']",1,oxítona,False
+tranche,"['tran', 'che']",0,paroxítona,False
+trancinha,"['tran', 'ci', 'nha']",1,paroxítona,False
+tranco,"['tran', 'co']",0,paroxítona,False
+trangalhadanças,"['tran', 'ga', 'lha', 'dan', 'ças']",3,paroxítona,False
+tranqueira,"['tran', 'quei', 'ra']",1,paroxítona,False
+tranquilamente,"['tran', 'qui', 'la', 'men', 'te']",3,paroxítona,False
+tranquilidade,"['tran', 'qui', 'li', 'da', 'de']",3,paroxítona,False
+tranquilizador,"['tran', 'qui', 'li', 'za', 'dor']",4,oxítona,False
+tranquilizadoramente,"['tran', 'qui', 'li', 'za', 'do', 'ra', 'men', 'te']",6,paroxítona,False
+tranquilizante,"['tran', 'qui', 'li', 'zan', 'te']",3,paroxítona,False
+tranquilizar,"['tran', 'qui', 'li', 'zar']",3,oxítona,False
+tranquilo,"['tran', 'qui', 'lo']",1,paroxítona,False
+trans-sexual,"['trans-se', 'xu', 'al']",2,oxítona,False
+transação,"['tran', 'sa', 'ção']",2,oxítona,False
+transacional,"['tran', 'sa', 'ci', 'o', 'nal']",4,oxítona,False
+transacionar,"['tran', 'sa', 'ci', 'o', 'nar']",4,oxítona,False
+transacionável,"['tran', 'sa', 'ci', 'o', 'ná', 'vel']",4,paroxítona,False
+transacto,"['tran', 'sac', 'to']",1,paroxítona,False
+transalpino,"['tran', 'sal', 'pi', 'no']",2,paroxítona,False
+transatlântico,"['tran', 'sa', 'tlân', 'ti', 'co']",2,proparoxítona,False
+transato,"['tran', 'sa', 'to']",1,paroxítona,False
+transbordador,"['trans', 'bor', 'da', 'dor']",3,oxítona,False
+transbordamento,"['trans', 'bor', 'da', 'men', 'to']",3,paroxítona,False
+transbordante,"['trans', 'bor', 'dan', 'te']",2,paroxítona,False
+transbordar,"['trans', 'bor', 'dar']",2,oxítona,False
+transbordo,"['trans', 'bor', 'do']",1,paroxítona,False
+transcaucasiano,"['trans', 'cau', 'ca', 'si', 'a', 'no']",4,paroxítona,False
+transcendência,"['trans', 'cen', 'dên', 'ci', 'a']",2,proparoxítona,False
+transcendental,"['trans', 'cen', 'den', 'tal']",3,oxítona,False
+transcendentalismo,"['trans', 'cen', 'den', 'ta', 'lis', 'mo']",4,paroxítona,False
+transcendentalista,"['trans', 'cen', 'den', 'ta', 'lis', 'ta']",4,paroxítona,False
+transcendentalmente,"['trans', 'cen', 'den', 'tal', 'men', 'te']",4,paroxítona,False
+transcendente,"['trans', 'cen', 'den', 'te']",2,paroxítona,False
+transcender,"['trans', 'cen', 'der']",2,oxítona,False
+transcontinental,"['trans', 'con', 'ti', 'nen', 'tal']",4,oxítona,False
+transcorrer,"['trans', 'cor', 'rer']",2,oxítona,False
+transcorrido,"['trans', 'cor', 'ri', 'do']",2,paroxítona,False
+transcrever,"['trans', 'cre', 'ver']",2,oxítona,False
+transcrição,"['trans', 'cri', 'ção']",2,oxítona,False
+transcriptase,"['trans', 'crip', 'ta', 'se']",2,paroxítona,False
+transcrito,"['trans', 'cri', 'to']",1,paroxítona,False
+transcritor,"['trans', 'cri', 'tor']",2,oxítona,False
+transdisciplinaridade,"['trans', 'dis', 'ci', 'pli', 'na', 'ri', 'da', 'de']",6,paroxítona,False
+transdução,"['trans', 'du', 'ção']",2,oxítona,False
+transe,"['tran', 'se']",0,paroxítona,False
+transepto,"['tran', 'sep', 'to']",1,paroxítona,False
+transeunte,"['tran', 'se', 'un', 'te']",2,paroxítona,False
+transexual,"['tran', 'se', 'xu', 'al']",3,oxítona,False
+transexualidade,"['tran', 'se', 'xu', 'a', 'li', 'da', 'de']",5,paroxítona,False
+transexualismo,"['tran', 'se', 'xu', 'a', 'lis', 'mo']",4,paroxítona,False
+transferência,"['trans', 'fe', 'rên', 'ci', 'a']",2,proparoxítona,False
+transferidor,"['trans', 'fe', 'ri', 'dor']",3,oxítona,False
+transferir,"['trans', 'fe', 'rir']",2,oxítona,False
+transferível,"['trans', 'fe', 'rí', 'vel']",2,paroxítona,False
+transfiguração,"['trans', 'fi', 'gu', 'ra', 'ção']",4,oxítona,False
+transfigurado,"['trans', 'fi', 'gu', 'ra', 'do']",3,paroxítona,False
+transfigurador,"['trans', 'fi', 'gu', 'ra', 'dor']",4,oxítona,False
+transfigurar,"['trans', 'fi', 'gu', 'rar']",3,oxítona,False
+transformação,"['trans', 'for', 'ma', 'ção']",3,oxítona,False
+transformada,"['trans', 'for', 'ma', 'da']",2,paroxítona,False
+transformado,"['trans', 'for', 'ma', 'do']",2,paroxítona,False
+transformador,"['trans', 'for', 'ma', 'dor']",3,oxítona,False
+transformadora,"['trans', 'for', 'ma', 'do', 'ra']",3,paroxítona,False
+transformante,"['trans', 'for', 'man', 'te']",2,paroxítona,False
+transformar,"['trans', 'for', 'mar']",2,oxítona,False
+transformativo,"['trans', 'for', 'ma', 'ti', 'vo']",3,paroxítona,False
+transformável,"['trans', 'for', 'má', 'vel']",2,paroxítona,False
+transformismo,"['trans', 'for', 'mis', 'mo']",2,paroxítona,False
+transformista,"['trans', 'for', 'mis', 'ta']",2,paroxítona,False
+transfronteiras,"['trans', 'fron', 'tei', 'ras']",2,paroxítona,False
+transfronteiriço,"['trans', 'fron', 'tei', 'ri', 'ço']",3,paroxítona,False
+trânsfuga,"['trâns', 'fu', 'ga']",0,proparoxítona,False
+transfundir,"['trans', 'fun', 'dir']",2,oxítona,False
+transfusão,"['trans', 'fu', 'são']",2,oxítona,False
+transgénico,"['trans', 'gé', 'ni', 'co']",1,proparoxítona,False
+transgredir,"['trans', 'gre', 'dir']",2,oxítona,False
+transgressão,"['trans', 'gres', 'são']",2,oxítona,False
+transgressivamente,"['trans', 'gres', 'si', 'va', 'men', 'te']",4,paroxítona,False
+transgressivo,"['trans', 'gres', 'si', 'vo']",2,paroxítona,False
+transgressor,"['trans', 'gres', 'sor']",2,oxítona,False
+transgressora,"['trans', 'gres', 'so', 'ra']",2,paroxítona,False
+transiberiano,"['tran', 'si', 'be', 'ri', 'a', 'no']",4,paroxítona,False
+transição,"['tran', 'si', 'ção']",2,oxítona,False
+transido,"['tran', 'si', 'do']",1,paroxítona,False
+transigência,"['tran', 'si', 'gên', 'ci', 'a']",2,proparoxítona,False
+transigente,"['tran', 'si', 'gen', 'te']",2,paroxítona,False
+transigido,"['tran', 'si', 'gi', 'do']",2,paroxítona,False
+transigir,"['tran', 'si', 'gir']",2,oxítona,False
+transir,"['tran', 'sir']",1,oxítona,False
+transístor,"['tran', 'sís', 'tor']",1,paroxítona,False
+transistorizado,"['tran', 'sis', 'to', 'ri', 'za', 'do']",4,paroxítona,False
+transistorizar,"['tran', 'sis', 'to', 'ri', 'zar']",4,oxítona,False
+transitado,"['tran', 'si', 'ta', 'do']",2,paroxítona,False
+transitar,"['tran', 'si', 'tar']",2,oxítona,False
+transitário,"['tran', 'si', 'tá', 'ri', 'o']",2,proparoxítona,False
+transitável,"['tran', 'si', 'tá', 'vel']",2,paroxítona,False
+transitivamente,"['tran', 'si', 'ti', 'va', 'men', 'te']",4,paroxítona,False
+transitivar,"['tran', 'si', 'ti', 'var']",3,oxítona,False
+transitivo,"['tran', 'si', 'ti', 'vo']",2,paroxítona,False
+trânsito,"['trân', 'si', 'to']",0,proparoxítona,False
+transitoriamente,"['tran', 'si', 'to', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+transitoriedade,"['tran', 'si', 'to', 'ri', 'e', 'da', 'de']",5,paroxítona,False
+transitório,"['tran', 'si', 'tó', 'ri', 'o']",2,proparoxítona,False
+translação,"['trans', 'la', 'ção']",2,oxítona,False
+transladação,"['trans', 'la', 'da', 'ção']",3,oxítona,False
+transladar,"['trans', 'la', 'dar']",2,oxítona,False
+translativo,"['trans', 'la', 'ti', 'vo']",2,paroxítona,False
+translator,"['trans', 'la', 'tor']",2,oxítona,False
+transliteração,"['trans', 'li', 'te', 'ra', 'ção']",4,oxítona,False
+translucidamente,"['trans', 'lu', 'ci', 'da', 'men', 'te']",4,paroxítona,False
+translucidar,"['trans', 'lu', 'ci', 'dar']",3,oxítona,False
+translucidez,"['trans', 'lu', 'ci', 'dez']",3,oxítona,False
+translúcido,"['trans', 'lú', 'ci', 'do']",1,proparoxítona,False
+transmigração,"['trans', 'mi', 'gra', 'ção']",3,oxítona,False
+transmigrante,"['trans', 'mi', 'gran', 'te']",2,paroxítona,False
+transmissão,"['trans', 'mis', 'são']",2,oxítona,False
+transmissibilidade,"['trans', 'mis', 'si', 'bi', 'li', 'da', 'de']",5,paroxítona,False
+transmissível,"['trans', 'mis', 'sí', 'vel']",2,paroxítona,False
+transmissivelmente,"['trans', 'mis', 'si', 'vel', 'men', 'te']",4,paroxítona,False
+transmissor,"['trans', 'mis', 'sor']",2,oxítona,False
+transmissora,"['trans', 'mis', 'so', 'ra']",2,paroxítona,False
+transmitir,"['trans', 'mi', 'tir']",2,oxítona,False
+transmontana,"['trans', 'mon', 'ta', 'na']",2,paroxítona,False
+transmontano,"['trans', 'mon', 'ta', 'no']",2,paroxítona,False
+transmudar,"['trans', 'mu', 'dar']",2,oxítona,False
+transmutação,"['trans', 'mu', 'ta', 'ção']",3,oxítona,False
+transmutar,"['trans', 'mu', 'tar']",2,oxítona,False
+transnacional,"['trans', 'na', 'ci', 'o', 'nal']",4,oxítona,False
+transoceânico,"['tran', 'so', 'ce', 'â', 'ni', 'co']",3,proparoxítona,False
+transparecer,"['trans', 'pa', 're', 'cer']",3,oxítona,False
+transparência,"['trans', 'pa', 'rên', 'ci', 'a']",2,proparoxítona,False
+transparentar,"['trans', 'pa', 'ren', 'tar']",3,oxítona,False
+transparente,"['trans', 'pa', 'ren', 'te']",2,paroxítona,False
+transparentemente,"['trans', 'pa', 'ren', 'te', 'men', 'te']",4,paroxítona,False
+transpiração,"['trans', 'pi', 'ra', 'ção']",3,oxítona,False
+transpirar,"['trans', 'pi', 'rar']",2,oxítona,False
+transplantação,"['trans', 'plan', 'ta', 'ção']",3,oxítona,False
+transplantar,"['trans', 'plan', 'tar']",2,oxítona,False
+transplante,"['trans', 'plan', 'te']",1,paroxítona,False
+transponível,"['trans', 'po', 'ní', 'vel']",2,paroxítona,False
+transpor,"['trans', 'por']",1,oxítona,False
+transportador,"['trans', 'por', 'ta', 'dor']",3,oxítona,False
+transportadora,"['trans', 'por', 'ta', 'do', 'ra']",3,paroxítona,False
+transportar,"['trans', 'por', 'tar']",2,oxítona,False
+transportável,"['trans', 'por', 'tá', 'vel']",2,paroxítona,False
+transporte,"['trans', 'por', 'te']",1,paroxítona,False
+transposição,"['trans', 'po', 'si', 'ção']",3,oxítona,False
+transposto,"['trans', 'pos', 'to']",1,paroxítona,False
+transtagano,"['trans', 'ta', 'ga', 'no']",2,paroxítona,False
+transtornado,"['trans', 'tor', 'na', 'do']",2,paroxítona,False
+transtornar,"['trans', 'tor', 'nar']",2,oxítona,False
+transtorno,"['trans', 'tor', 'no']",1,paroxítona,False
+transubstanciação,"['tran', 'subs', 'tan', 'ci', 'a', 'ção']",5,oxítona,False
+transumância,"['tran', 'su', 'mân', 'ci', 'a']",2,proparoxítona,False
+transumante,"['tran', 'su', 'man', 'te']",2,paroxítona,False
+transvasamento,"['trans', 'va', 'sa', 'men', 'to']",3,paroxítona,False
+transvasar,"['trans', 'va', 'sar']",2,oxítona,False
+transvase,"['trans', 'va', 'se']",1,paroxítona,False
+transvazar,"['trans', 'va', 'zar']",2,oxítona,False
+transversal,"['trans', 'ver', 'sal']",2,oxítona,False
+transversalidade,"['trans', 'ver', 'sa', 'li', 'da', 'de']",4,paroxítona,False
+transversalmente,"['trans', 'ver', 'sal', 'men', 'te']",3,paroxítona,False
+transviada,"['trans', 'vi', 'a', 'da']",2,paroxítona,False
+transviado,"['trans', 'vi', 'a', 'do']",2,paroxítona,False
+transviar,"['trans', 'vi', 'ar']",2,oxítona,False
+transvio,"['trans', 'vi', 'o']",1,paroxítona,False
+tranvia,"['tran', 'vi', 'a']",1,paroxítona,False
+trapa,"['tra', 'pa']",0,paroxítona,False
+trapaça,"['tra', 'pa', 'ça']",1,paroxítona,False
+trapacear,"['tra', 'pa', 'ce', 'ar']",3,oxítona,False
+trapaceiro,"['tra', 'pa', 'cei', 'ro']",2,paroxítona,False
+trapalhada,"['tra', 'pa', 'lha', 'da']",2,paroxítona,False
+trapalhado,"['tra', 'pa', 'lha', 'do']",2,paroxítona,False

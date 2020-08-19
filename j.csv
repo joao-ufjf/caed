@@ -1,0 +1,347 @@
+word,syllables,tonic,class,canonic
+já,['já'],0,oxítona,True
+jabiru,"['ja', 'bi', 'ru']",2,oxítona,True
+jabuti,"['ja', 'bu', 'ti']",2,oxítona,True
+jaca,"['ja', 'ca']",0,paroxítona,True
+jacarandá,"['ja', 'ca', 'ran', 'dá']",3,oxítona,False
+jacaré,"['ja', 'ca', 'ré']",2,oxítona,True
+jacente,"['ja', 'cen', 'te']",1,paroxítona,False
+jacinto,"['ja', 'cin', 'to']",1,paroxítona,False
+jackpot,"['jack', 'pot']",1,oxítona,False
+jacobeia,"['ja', 'co', 'bei', 'a']",2,paroxítona,False
+jacobeu,"['ja', 'co', 'beu']",2,oxítona,False
+jacobinamente,"['ja', 'co', 'bi', 'na', 'men', 'te']",4,paroxítona,False
+jacobinismo,"['ja', 'co', 'bi', 'nis', 'mo']",3,paroxítona,False
+jacobino,"['ja', 'co', 'bi', 'no']",2,paroxítona,True
+jactância,"['jac', 'tân', 'ci', 'a']",1,proparoxítona,False
+jactar,"['jac', 'tar']",1,oxítona,False
+jacto,"['jac', 'to']",0,paroxítona,False
+jaculatória,"['ja', 'cu', 'la', 'tó', 'ri', 'a']",3,proparoxítona,False
+jaculatório,"['ja', 'cu', 'la', 'tó', 'ri', 'o']",3,proparoxítona,False
+jacutinga,"['ja', 'cu', 'tin', 'ga']",2,paroxítona,False
+jacuzzi,"['ja', 'cuz', 'zi']",1,paroxítona,False
+jade,"['ja', 'de']",0,paroxítona,True
+jaez,"['ja', 'ez']",1,oxítona,False
+jaga,"['ja', 'ga']",0,paroxítona,True
+jagra,"['ja', 'gra']",0,paroxítona,False
+jaguar,"['ja', 'guar']",1,oxítona,False
+jagunço,"['ja', 'gun', 'ço']",1,paroxítona,False
+jainismo,"['jai', 'nis', 'mo']",1,paroxítona,False
+jainista,"['jai', 'nis', 'ta']",1,paroxítona,False
+jalde,"['jal', 'de']",0,paroxítona,False
+jaleca,"['ja', 'le', 'ca']",1,paroxítona,True
+jaleco,"['ja', 'le', 'co']",1,paroxítona,True
+jam-session,"['jam', 'ses', 'sion']",1,paroxítona,False
+jamaicana,"['ja', 'mai', 'ca', 'na']",2,paroxítona,False
+jamaicano,"['ja', 'mai', 'ca', 'no']",2,paroxítona,False
+jamais,"['ja', 'mais']",1,oxítona,False
+jamba,"['jam', 'ba']",0,paroxítona,False
+jambi,"['jam', 'bi']",1,oxítona,False
+jambo,"['jam', 'bo']",0,paroxítona,False
+jamboree,"['jam', 'bo', 'ree']",2,oxítona,False
+janar,"['ja', 'nar']",1,oxítona,False
+janda,"['jan', 'da']",0,paroxítona,False
+janeirada,"['ja', 'nei', 'ra', 'da']",2,paroxítona,False
+janeiras,"['ja', 'nei', 'ras']",1,paroxítona,False
+janeireiro,"['ja', 'nei', 'rei', 'ro']",2,paroxítona,False
+janeirinha,"['ja', 'nei', 'ri', 'nha']",2,paroxítona,False
+janeirinho,"['ja', 'nei', 'ri', 'nho']",2,paroxítona,False
+janeiros,"['ja', 'nei', 'ros']",1,paroxítona,False
+janela,"['ja', 'ne', 'la']",1,paroxítona,True
+janelar,"['ja', 'ne', 'lar']",2,oxítona,False
+janelinha,"['ja', 'ne', 'li', 'nha']",2,paroxítona,False
+janelo,"['ja', 'ne', 'lo']",1,paroxítona,True
+jangada,"['jan', 'ga', 'da']",1,paroxítona,False
+jangadeiro,"['jan', 'ga', 'dei', 'ro']",2,paroxítona,False
+jango,"['jan', 'go']",0,paroxítona,False
+janízaro,"['ja', 'ní', 'za', 'ro']",1,proparoxítona,True
+janota,"['ja', 'no', 'ta']",1,paroxítona,True
+janotar,"['ja', 'no', 'tar']",2,oxítona,False
+jansenismo,"['jan', 'se', 'nis', 'mo']",2,paroxítona,False
+jansenista,"['jan', 'se', 'nis', 'ta']",2,paroxítona,False
+janta,"['jan', 'ta']",0,paroxítona,False
+jantado,"['jan', 'ta', 'do']",1,paroxítona,False
+jantar,"['jan', 'tar']",1,oxítona,False
+jantar-comício,"['jan', 'tar', '-co', 'mí', 'ci', 'o']",3,proparoxítona,False
+jantarada,"['jan', 'ta', 'ra', 'da']",2,paroxítona,False
+jantarão,"['jan', 'ta', 'rão']",2,oxítona,False
+jante,"['jan', 'te']",0,paroxítona,False
+januário,"['ja', 'nu', 'á', 'ri', 'o']",2,proparoxítona,False
+japão,"['ja', 'pão']",1,oxítona,False
+japoneira,"['ja', 'po', 'nei', 'ra']",2,paroxítona,False
+japonense,"['ja', 'po', 'nen', 'se']",2,paroxítona,False
+japonês,"['ja', 'po', 'nês']",2,oxítona,False
+japonesa,"['ja', 'po', 'ne', 'sa']",2,paroxítona,True
+japonesar,"['ja', 'po', 'ne', 'sar']",3,oxítona,False
+japonicamente,"['ja', 'po', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+japónico,"['ja', 'pó', 'ni', 'co']",1,proparoxítona,True
+japonismo,"['ja', 'po', 'nis', 'mo']",2,paroxítona,False
+japonização,"['ja', 'po', 'ni', 'za', 'ção']",4,oxítona,False
+jaque,"['ja', 'que']",0,paroxítona,False
+jaqueta,"['ja', 'que', 'ta']",1,paroxítona,False
+jaquetão,"['ja', 'que', 'tão']",2,oxítona,False
+jaquinzinho,"['ja', 'quin', 'zi', 'nho']",2,paroxítona,False
+jarda,"['jar', 'da']",0,paroxítona,False
+jardim,"['jar', 'dim']",1,oxítona,False
+jardim de infância,"['jar', 'dim', ' de in', 'fân', 'ci', 'a']",3,proparoxítona,False
+jardim-escola,"['jar', 'dim-es', 'co', 'la']",2,paroxítona,False
+jardinagem,"['jar', 'di', 'na', 'gem']",2,paroxítona,False
+jardinar,"['jar', 'di', 'nar']",2,oxítona,False
+jardineira,"['jar', 'di', 'nei', 'ra']",2,paroxítona,False
+jardineiro,"['jar', 'di', 'nei', 'ro']",2,paroxítona,False
+jardinista,"['jar', 'di', 'nis', 'ta']",2,paroxítona,False
+jargão,"['jar', 'gão']",1,oxítona,False
+jaro,"['ja', 'ro']",0,paroxítona,True
+jarra,"['jar', 'ra']",0,paroxítona,False
+jarrão,"['jar', 'rão']",1,oxítona,False
+jarreta,"['jar', 're', 'ta']",1,paroxítona,False
+jarretar,"['jar', 're', 'tar']",2,oxítona,False
+jarrete,"['jar', 're', 'te']",1,paroxítona,False
+jarreteira,"['jar', 're', 'tei', 'ra']",2,paroxítona,False
+jarrinha,"['jar', 'ri', 'nha']",1,paroxítona,False
+jarro,"['jar', 'ro']",0,paroxítona,False
+jasmim,"['jas', 'mim']",1,oxítona,False
+jaspe,"['jas', 'pe']",0,paroxítona,False
+jataí,"['ja', 'ta', 'í']",2,oxítona,False
+jato,"['ja', 'to']",0,paroxítona,True
+jau,['jau'],0,oxítona,False
+jaú,"['ja', 'ú']",1,oxítona,False
+jaula,"['jau', 'la']",0,paroxítona,False
+java,"['ja', 'va']",0,paroxítona,True
+javali,"['ja', 'va', 'li']",2,oxítona,True
+javanês,"['ja', 'va', 'nês']",2,oxítona,False
+javanesa,"['ja', 'va', 'ne', 'sa']",2,paroxítona,True
+javarda,"['ja', 'var', 'da']",1,paroxítona,False
+javardice,"['ja', 'var', 'di', 'ce']",2,paroxítona,False
+javardo,"['ja', 'var', 'do']",1,paroxítona,False
+javari,"['ja', 'va', 'ri']",2,oxítona,True
+jazente,"['ja', 'zen', 'te']",1,paroxítona,False
+jazer,"['ja', 'zer']",1,oxítona,False
+jazida,"['ja', 'zi', 'da']",1,paroxítona,True
+jazigo,"['ja', 'zi', 'go']",1,paroxítona,True
+jazz,['jazz'],0,oxítona,False
+jazzista,"['jaz', 'zis', 'ta']",1,paroxítona,False
+jazzístico,"['jaz', 'zís', 'ti', 'co']",1,proparoxítona,False
+jeans,['jeans'],0,oxítona,False
+jeep,['jeep'],0,oxítona,False
+jeito,"['jei', 'to']",0,paroxítona,False
+jeitosamente,"['jei', 'to', 'sa', 'men', 'te']",3,paroxítona,False
+jeitoso,"['jei', 'to', 'so']",1,paroxítona,False
+jejuar,"['je', 'ju', 'ar']",2,oxítona,False
+jejum,"['je', 'jum']",1,oxítona,False
+jeque,"['je', 'que']",0,paroxítona,False
+jeremiar,"['je', 're', 'mi', 'ar']",3,oxítona,False
+jeremias,"['je', 're', 'mi', 'as']",2,paroxítona,False
+jerico,"['je', 'ri', 'co']",1,paroxítona,True
+jerónimo,"['je', 'ró', 'ni', 'mo']",1,proparoxítona,True
+jeropiga,"['je', 'ro', 'pi', 'ga']",2,paroxítona,True
+jesuíta,"['je', 'su', 'í', 'ta']",2,paroxítona,False
+jesuiticamente,"['je', 'sui', 'ti', 'ca', 'men', 'te']",4,paroxítona,False
+jesuítico,"['je', 'su', 'í', 'ti', 'co']",2,proparoxítona,False
+jesus,"['je', 'sus']",1,oxítona,False
+jet-set,"['jet', 'set']",1,oxítona,False
+ji,['ji'],0,oxítona,True
+jiboia,"['ji', 'boi', 'a']",1,paroxítona,False
+jiga,"['ji', 'ga']",0,paroxítona,True
+jigajoga,"['ji', 'ga', 'jo', 'ga']",2,paroxítona,True
+jihad,"['ji', 'had']",1,oxítona,False
+jimbo,"['jim', 'bo']",0,paroxítona,False
+jinga,"['jin', 'ga']",0,paroxítona,False
+jipe,"['ji', 'pe']",0,paroxítona,True
+jiu-jitsu,"['jiu', '-jit', 'su']",2,oxítona,False
+joalharia,"['jo', 'a', 'lha', 'ri', 'a']",3,paroxítona,False
+joalheira,"['jo', 'a', 'lhei', 'ra']",2,paroxítona,False
+joalheiro,"['jo', 'a', 'lhei', 'ro']",2,paroxítona,False
+joanete,"['jo', 'a', 'ne', 'te']",2,paroxítona,False
+joanico,"['jo', 'a', 'ni', 'co']",2,paroxítona,False
+joaninha,"['jo', 'a', 'ni', 'nha']",2,paroxítona,False
+joanino,"['jo', 'a', 'ni', 'no']",2,paroxítona,False
+job,['job'],0,oxítona,False
+jobar,"['jo', 'bar']",1,oxítona,False
+jocosamente,"['jo', 'co', 'sa', 'men', 'te']",3,paroxítona,False
+jocosidade,"['jo', 'co', 'si', 'da', 'de']",3,paroxítona,True
+jocoso,"['jo', 'co', 'so']",1,paroxítona,True
+joeirar,"['jo', 'ei', 'rar']",2,oxítona,False
+joelhada,"['jo', 'e', 'lha', 'da']",2,paroxítona,False
+joelhar,"['jo', 'e', 'lhar']",2,oxítona,False
+joelheira,"['jo', 'e', 'lhei', 'ra']",2,paroxítona,False
+joelheiro,"['jo', 'e', 'lhei', 'ro']",2,paroxítona,False
+joelho,"['jo', 'e', 'lho']",1,paroxítona,False
+joga,"['jo', 'ga']",0,paroxítona,True
+jogada,"['jo', 'ga', 'da']",1,paroxítona,True
+jogado,"['jo', 'ga', 'do']",1,paroxítona,True
+jogador,"['jo', 'ga', 'dor']",2,oxítona,False
+jogadora,"['jo', 'ga', 'do', 'ra']",2,paroxítona,True
+jogão,"['jo', 'gão']",1,oxítona,False
+jogar,"['jo', 'gar']",1,oxítona,False
+jogatina,"['jo', 'ga', 'ti', 'na']",2,paroxítona,True
+jogável,"['jo', 'gá', 'vel']",1,paroxítona,False
+jogging,"['jog', 'ging']",0,paroxítona,False
+jogo,"['jo', 'go']",0,paroxítona,True
+jogó,"['jo', 'gó']",1,oxítona,True
+jogral,"['jo', 'gral']",1,oxítona,False
+jogralesca,"['jo', 'gra', 'les', 'ca']",2,paroxítona,False
+jogralesco,"['jo', 'gra', 'les', 'co']",2,paroxítona,False
+jogue,"['jo', 'gue']",0,paroxítona,False
+joguetar,"['jo', 'gue', 'tar']",2,oxítona,False
+joguete,"['jo', 'gue', 'te']",1,paroxítona,False
+joia,"['joi', 'a']",0,paroxítona,False
+joint-venture,"['joint', '-ven', 'tu', 're']",2,paroxítona,False
+joio,"['joi', 'o']",0,paroxítona,False
+jojoba,"['jo', 'jo', 'ba']",1,paroxítona,True
+joker,"['jo', 'ker']",0,paroxítona,False
+jolar,"['jo', 'lar']",1,oxítona,False
+jónica,"['jó', 'ni', 'ca']",0,proparoxítona,True
+jonicamente,"['jo', 'ni', 'ca', 'men', 'te']",3,paroxítona,False
+jónico,"['jó', 'ni', 'co']",0,proparoxítona,True
+jónio,"['jó', 'ni', 'o']",0,proparoxítona,False
+jóquei,"['jó', 'quei']",0,paroxítona,False
+jordana,"['jor', 'da', 'na']",1,paroxítona,False
+jordano,"['jor', 'da', 'no']",1,paroxítona,False
+jorna,"['jor', 'na']",0,paroxítona,False
+jornada,"['jor', 'na', 'da']",1,paroxítona,False
+jornal,"['jor', 'nal']",1,oxítona,False
+jornaleco,"['jor', 'na', 'le', 'co']",2,paroxítona,False
+jornaleiro,"['jor', 'na', 'lei', 'ro']",2,paroxítona,False
+jornalismo,"['jor', 'na', 'lis', 'mo']",2,paroxítona,False
+jornalista,"['jor', 'na', 'lis', 'ta']",2,paroxítona,False
+jornalisticamente,"['jor', 'na', 'lis', 'ti', 'ca', 'men', 'te']",5,paroxítona,False
+jornalístico,"['jor', 'na', 'lís', 'ti', 'co']",2,proparoxítona,False
+jorra,"['jor', 'ra']",0,paroxítona,False
+jorrar,"['jor', 'rar']",1,oxítona,False
+jorro,"['jor', 'ro']",0,paroxítona,False
+josefino,"['jo', 'se', 'fi', 'no']",2,paroxítona,True
+jota,"['jo', 'ta']",0,paroxítona,True
+joule,"['jou', 'le']",0,paroxítona,False
+jovem,"['jo', 'vem']",0,paroxítona,False
+jovial,"['jo', 'vi', 'al']",2,oxítona,False
+jovialidade,"['jo', 'vi', 'a', 'li', 'da', 'de']",4,paroxítona,False
+jovialmente,"['jo', 'vi', 'al', 'men', 'te']",3,paroxítona,False
+joystick,"['joy', 'stick']",1,oxítona,False
+juba,"['ju', 'ba']",0,paroxítona,True
+jubilação,"['ju', 'bi', 'la', 'ção']",3,oxítona,False
+jubilado,"['ju', 'bi', 'la', 'do']",2,paroxítona,True
+jubilar,"['ju', 'bi', 'lar']",2,oxítona,False
+jubileu,"['ju', 'bi', 'leu']",2,oxítona,False
+júbilo,"['jú', 'bi', 'lo']",0,proparoxítona,True
+jubilosamente,"['ju', 'bi', 'lo', 'sa', 'men', 'te']",4,paroxítona,False
+jubiloso,"['ju', 'bi', 'lo', 'so']",2,paroxítona,True
+jucá,"['ju', 'cá']",1,oxítona,True
+judaicamente,"['ju', 'dai', 'ca', 'men', 'te']",3,paroxítona,False
+judaico,"['ju', 'dai', 'co']",1,paroxítona,False
+judaico-cristão,"['ju', 'dai', 'co-cris', 'tão']",3,oxítona,False
+judaísmo,"['ju', 'da', 'ís', 'mo']",2,paroxítona,False
+judaizante,"['ju', 'dai', 'zan', 'te']",2,paroxítona,False
+judaizar,"['ju', 'dai', 'zar']",2,oxítona,False
+judas,"['ju', 'das']",0,paroxítona,False
+judeu,"['ju', 'deu']",1,oxítona,False
+judia,"['ju', 'di', 'a']",1,paroxítona,False
+judiar,"['ju', 'di', 'ar']",2,oxítona,False
+judiaria,"['ju', 'di', 'a', 'ri', 'a']",3,paroxítona,False
+judicante,"['ju', 'di', 'can', 'te']",2,paroxítona,False
+judicativo,"['ju', 'di', 'ca', 'ti', 'vo']",3,paroxítona,True
+judicatura,"['ju', 'di', 'ca', 'tu', 'ra']",3,paroxítona,True
+judicial,"['ju', 'di', 'ci', 'al']",3,oxítona,False
+judicialmente,"['ju', 'di', 'ci', 'al', 'men', 'te']",4,paroxítona,False
+judiciar,"['ju', 'di', 'ci', 'ar']",3,oxítona,False
+judiciariamente,"['ju', 'di', 'ci', 'a', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+judiciário,"['ju', 'di', 'ci', 'á', 'ri', 'o']",3,proparoxítona,False
+judiciosamente,"['ju', 'di', 'ci', 'o', 'sa', 'men', 'te']",5,paroxítona,False
+judicioso,"['ju', 'di', 'ci', 'o', 'so']",3,paroxítona,False
+judio,"['ju', 'di', 'o']",1,paroxítona,False
+judo,"['ju', 'do']",0,paroxítona,True
+judoca,"['ju', 'do', 'ca']",1,paroxítona,True
+jugadar,"['ju', 'ga', 'dar']",2,oxítona,False
+jugar,"['ju', 'gar']",1,oxítona,False
+jugo,"['ju', 'go']",0,paroxítona,True
+jugoslava,"['ju', 'gos', 'la', 'va']",2,paroxítona,False
+jugoslavo,"['ju', 'gos', 'la', 'vo']",2,paroxítona,False
+jugueiro,"['ju', 'guei', 'ro']",1,paroxítona,False
+jugular,"['ju', 'gu', 'lar']",2,oxítona,False
+juiz,"['ju', 'iz']",1,oxítona,False
+juiz de linha,"['ju', 'iz', ' de ', 'li', 'nha']",3,paroxítona,False
+juiz-conselheiro,"['ju', 'iz', '-con', 'se', 'lhei', 'ro']",4,paroxítona,False
+juiz-presidente,"['ju', 'iz', '-pre', 'si', 'den', 'te']",4,paroxítona,False
+juíza,"['ju', 'í', 'za']",1,paroxítona,False
+juízo,"['ju', 'í', 'zo']",1,paroxítona,False
+jujuba,"['ju', 'ju', 'ba']",1,paroxítona,True
+jukebox,"['ju', 'ke', 'box']",2,oxítona,False
+julgado,"['jul', 'ga', 'do']",1,paroxítona,False
+julgador,"['jul', 'ga', 'dor']",2,oxítona,False
+julgamento,"['jul', 'ga', 'men', 'to']",2,paroxítona,False
+julgar,"['jul', 'gar']",1,oxítona,False
+juliana,"['ju', 'li', 'a', 'na']",2,paroxítona,False
+juliano,"['ju', 'li', 'a', 'no']",2,paroxítona,False
+jumbai,"['jum', 'bai']",1,oxítona,False
+jumbair,"['jum', 'ba', 'ir']",2,oxítona,False
+jumento,"['ju', 'men', 'to']",1,paroxítona,False
+junça,"['jun', 'ça']",0,paroxítona,False
+juncada,"['jun', 'ca', 'da']",1,paroxítona,False
+juncal,"['jun', 'cal']",1,oxítona,False
+junção,"['jun', 'ção']",1,oxítona,False
+juncar,"['jun', 'car']",1,oxítona,False
+junceira,"['jun', 'cei', 'ra']",1,paroxítona,False
+junco,"['jun', 'co']",0,paroxítona,False
+juncoso,"['jun', 'co', 'so']",1,paroxítona,False
+jungir,"['jun', 'gir']",1,oxítona,False
+junguiano,"['jun', 'gui', 'a', 'no']",2,paroxítona,False
+júnior,"['jú', 'ni', 'or']",0,proparoxítona,False
+junkie,"['jun', 'kie']",0,paroxítona,False
+junqueira,"['jun', 'quei', 'ra']",1,paroxítona,False
+junquilho,"['jun', 'qui', 'lho']",1,paroxítona,False
+junta,"['jun', 'ta']",0,paroxítona,False
+juntamente,"['jun', 'ta', 'men', 'te']",2,paroxítona,False
+juntar,"['jun', 'tar']",1,oxítona,False
+junto,"['jun', 'to']",0,paroxítona,False
+jura,"['ju', 'ra']",0,paroxítona,True
+jurada,"['ju', 'ra', 'da']",1,paroxítona,True
+jurado,"['ju', 'ra', 'do']",1,paroxítona,True
+juramentar,"['ju', 'ra', 'men', 'tar']",3,oxítona,False
+juramento,"['ju', 'ra', 'men', 'to']",2,paroxítona,False
+jurar,"['ju', 'rar']",1,oxítona,False
+jurássico,"['ju', 'rás', 'si', 'co']",1,proparoxítona,False
+jurema,"['ju', 're', 'ma']",1,paroxítona,True
+júri,"['jú', 'ri']",0,paroxítona,True
+juridicamente,"['ju', 'ri', 'di', 'ca', 'men', 'te']",4,paroxítona,False
+juridicidade,"['ju', 'ri', 'di', 'ci', 'da', 'de']",4,paroxítona,True
+jurídico,"['ju', 'rí', 'di', 'co']",1,proparoxítona,True
+jurídico-constitucional,"['ju', 'rí', 'di', 'co-cons', 'ti', 'tu', 'ci', 'o', 'nal']",8,oxítona,False
+jurisconsulto,"['ju', 'ris', 'con', 'sul', 'to']",3,paroxítona,False
+jurisdição,"['ju', 'ris', 'di', 'ção']",3,oxítona,False
+jurisdicional,"['ju', 'ris', 'di', 'ci', 'o', 'nal']",5,oxítona,False
+jurisprudência,"['ju', 'ris', 'pru', 'dên', 'ci', 'a']",3,proparoxítona,False
+jurisprudencial,"['ju', 'ris', 'pru', 'den', 'ci', 'al']",5,oxítona,False
+jurista,"['ju', 'ris', 'ta']",1,paroxítona,False
+juro,"['ju', 'ro']",0,paroxítona,True
+jus,['jus'],0,oxítona,False
+jusante,"['ju', 'san', 'te']",1,paroxítona,False
+justa,"['jus', 'ta']",0,paroxítona,False
+justamente,"['jus', 'ta', 'men', 'te']",2,paroxítona,False
+justapor,"['jus', 'ta', 'por']",2,oxítona,False
+justaposição,"['jus', 'ta', 'po', 'si', 'ção']",4,oxítona,False
+justaposto,"['jus', 'ta', 'pos', 'to']",2,paroxítona,False
+justar,"['jus', 'tar']",1,oxítona,False
+justeza,"['jus', 'te', 'za']",1,paroxítona,False
+justiça,"['jus', 'ti', 'ça']",1,paroxítona,False
+justiçado,"['jus', 'ti', 'ça', 'do']",2,paroxítona,False
+justiçar,"['jus', 'ti', 'çar']",2,oxítona,False
+justiceira,"['jus', 'ti', 'cei', 'ra']",2,paroxítona,False
+justiceiramente,"['jus', 'ti', 'cei', 'ra', 'men', 'te']",4,paroxítona,False
+justiceiro,"['jus', 'ti', 'cei', 'ro']",2,paroxítona,False
+justificação,"['jus', 'ti', 'fi', 'ca', 'ção']",4,oxítona,False
+justificadamente,"['jus', 'ti', 'fi', 'ca', 'da', 'men', 'te']",5,paroxítona,False
+justificado,"['jus', 'ti', 'fi', 'ca', 'do']",3,paroxítona,False
+justificador,"['jus', 'ti', 'fi', 'ca', 'dor']",4,oxítona,False
+justificadora,"['jus', 'ti', 'fi', 'ca', 'do', 'ra']",4,paroxítona,False
+justificar,"['jus', 'ti', 'fi', 'car']",3,oxítona,False
+justificativa,"['jus', 'ti', 'fi', 'ca', 'ti', 'va']",4,paroxítona,False
+justificativo,"['jus', 'ti', 'fi', 'ca', 'ti', 'vo']",4,paroxítona,False
+justificável,"['jus', 'ti', 'fi', 'cá', 'vel']",3,paroxítona,False
+justiniano,"['jus', 'ti', 'ni', 'a', 'no']",3,paroxítona,False
+justíssimo,"['jus', 'tís', 'si', 'mo']",1,proparoxítona,False
+justo,"['jus', 'to']",0,paroxítona,False
+juta,"['ju', 'ta']",0,paroxítona,True
+juvenil,"['ju', 've', 'nil']",2,oxítona,False
+juvenilidade,"['ju', 've', 'ni', 'li', 'da', 'de']",4,paroxítona,True
+juvenilmente,"['ju', 've', 'nil', 'men', 'te']",3,paroxítona,False
+juventude,"['ju', 'ven', 'tu', 'de']",2,paroxítona,False

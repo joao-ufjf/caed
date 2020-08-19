@@ -1,0 +1,1261 @@
+word,syllables,tonic,class,canonic
+vaca,"['va', 'ca']",0,paroxítona,True
+vacada,"['va', 'ca', 'da']",1,paroxítona,True
+vacante,"['va', 'can', 'te']",1,paroxítona,False
+vacar,"['va', 'car']",1,oxítona,False
+vacaria,"['va', 'ca', 'ri', 'a']",2,paroxítona,False
+vacatura,"['va', 'ca', 'tu', 'ra']",2,paroxítona,True
+vacilação,"['va', 'ci', 'la', 'ção']",3,oxítona,False
+vacilante,"['va', 'ci', 'lan', 'te']",2,paroxítona,False
+vacilantemente,"['va', 'ci', 'lan', 'te', 'men', 'te']",4,paroxítona,False
+vacilar,"['va', 'ci', 'lar']",2,oxítona,False
+vacina,"['va', 'ci', 'na']",1,paroxítona,True
+vacinação,"['va', 'ci', 'na', 'ção']",3,oxítona,False
+vacinado,"['va', 'ci', 'na', 'do']",2,paroxítona,True
+vacinal,"['va', 'ci', 'nal']",2,oxítona,False
+vacinar,"['va', 'ci', 'nar']",2,oxítona,False
+vacuidade,"['va', 'cui', 'da', 'de']",2,paroxítona,False
+vacum,"['va', 'cum']",1,oxítona,False
+vácuo,"['vá', 'cu', 'o']",0,proparoxítona,False
+vadia,"['va', 'di', 'a']",1,paroxítona,False
+vadiagem,"['va', 'di', 'a', 'gem']",2,paroxítona,False
+vadiamente,"['va', 'di', 'a', 'men', 'te']",3,paroxítona,False
+vadiar,"['va', 'di', 'ar']",2,oxítona,False
+vadio,"['va', 'di', 'o']",1,paroxítona,False
+vaga,"['va', 'ga']",0,paroxítona,True
+vagabunda,"['va', 'ga', 'bun', 'da']",2,paroxítona,False
+vagabundagem,"['va', 'ga', 'bun', 'da', 'gem']",3,paroxítona,False
+vagabundar,"['va', 'ga', 'bun', 'dar']",3,oxítona,False
+vagabundear,"['va', 'ga', 'bun', 'de', 'ar']",4,oxítona,False
+vagabundo,"['va', 'ga', 'bun', 'do']",2,paroxítona,False
+vagalhão,"['va', 'ga', 'lhão']",2,oxítona,False
+vagamente,"['va', 'ga', 'men', 'te']",2,paroxítona,False
+vagamundo,"['va', 'ga', 'mun', 'do']",2,paroxítona,False
+vagão,"['va', 'gão']",1,oxítona,False
+vagão-restaurante,"['va', 'gão', '-res', 'tau', 'ran', 'te']",4,paroxítona,False
+vagar,"['va', 'gar']",1,oxítona,False
+vagarosa,"['va', 'ga', 'ro', 'sa']",2,paroxítona,True
+vagarosamente,"['va', 'ga', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+vagaroso,"['va', 'ga', 'ro', 'so']",2,paroxítona,True
+vagem,"['va', 'gem']",0,paroxítona,False
+vagido,"['va', 'gi', 'do']",1,paroxítona,True
+vagina,"['va', 'gi', 'na']",1,paroxítona,True
+vaginal,"['va', 'gi', 'nal']",2,oxítona,False
+vaginismo,"['va', 'gi', 'nis', 'mo']",2,paroxítona,False
+vagir,"['va', 'gir']",1,oxítona,False
+vago,"['va', 'go']",0,paroxítona,True
+vagoneta,"['va', 'go', 'ne', 'ta']",2,paroxítona,True
+vagonete,"['va', 'go', 'ne', 'te']",2,paroxítona,True
+vaguear,"['va', 'gue', 'ar']",2,oxítona,False
+vagueira,"['va', 'guei', 'ra']",1,paroxítona,False
+vagueiro,"['va', 'guei', 'ro']",1,paroxítona,False
+vaguense,"['va', 'guen', 'se']",1,paroxítona,False
+vaguíssimo,"['va', 'guís', 'si', 'mo']",1,proparoxítona,False
+vai-não-vai,"['vai', '-não-', 'vai']",2,oxítona,False
+vaia,"['vai', 'a']",0,paroxítona,False
+vaiar,"['vai', 'ar']",1,oxítona,False
+vaidade,"['vai', 'da', 'de']",1,paroxítona,False
+vaidosa,"['vai', 'do', 'sa']",1,paroxítona,False
+vaidosamente,"['vai', 'do', 'sa', 'men', 'te']",3,paroxítona,False
+vaidoso,"['vai', 'do', 'so']",1,paroxítona,False
+vairão,"['vai', 'rão']",1,oxítona,False
+vaivém,"['vai', 'vém']",1,oxítona,False
+vala,"['va', 'la']",0,paroxítona,True
+valada,"['va', 'la', 'da']",1,paroxítona,True
+valado,"['va', 'la', 'do']",1,paroxítona,True
+valador,"['va', 'la', 'dor']",2,oxítona,False
+valão,"['va', 'lão']",1,oxítona,False
+valáquia,"['va', 'lá', 'qui', 'a']",1,proparoxítona,False
+valáquio,"['va', 'lá', 'qui', 'o']",1,proparoxítona,False
+valar,"['va', 'lar']",1,oxítona,False
+valboense,"['val', 'bo', 'en', 'se']",2,paroxítona,False
+valdense,"['val', 'den', 'se']",1,paroxítona,False
+valdevinos,"['val', 'de', 'vi', 'nos']",2,paroxítona,False
+valdo,"['val', 'do']",0,paroxítona,False
+vale,"['va', 'le']",0,paroxítona,True
+vale-cambrense,"['va', 'le-cam', 'bren', 'se']",2,paroxítona,False
+valedor,"['va', 'le', 'dor']",2,oxítona,False
+valeira,"['va', 'lei', 'ra']",1,paroxítona,False
+valeiro,"['va', 'lei', 'ro']",1,paroxítona,False
+valejo,"['va', 'le', 'jo']",1,paroxítona,True
+valência,"['va', 'lên', 'ci', 'a']",1,proparoxítona,False
+valenciana,"['va', 'len', 'ci', 'a', 'na']",3,paroxítona,False
+valenciano,"['va', 'len', 'ci', 'a', 'no']",3,paroxítona,False
+valentão,"['va', 'len', 'tão']",2,oxítona,False
+valente,"['va', 'len', 'te']",1,paroxítona,False
+valentemente,"['va', 'len', 'te', 'men', 'te']",3,paroxítona,False
+valentia,"['va', 'len', 'ti', 'a']",2,paroxítona,False
+valer,"['va', 'ler']",1,oxítona,False
+valeriana,"['va', 'le', 'ri', 'a', 'na']",3,paroxítona,False
+valerosamente,"['va', 'le', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+valeroso,"['va', 'le', 'ro', 'so']",2,paroxítona,True
+valete,"['va', 'le', 'te']",1,paroxítona,True
+valia,"['va', 'li', 'a']",1,paroxítona,False
+valida,"['va', 'li', 'da']",1,paroxítona,True
+validação,"['va', 'li', 'da', 'ção']",3,oxítona,False
+validade,"['va', 'li', 'da', 'de']",2,paroxítona,True
+validamente,"['va', 'li', 'da', 'men', 'te']",3,paroxítona,False
+validar,"['va', 'li', 'dar']",2,oxítona,False
+validez,"['va', 'li', 'dez']",2,oxítona,False
+valido,"['va', 'li', 'do']",1,paroxítona,True
+válido,"['vá', 'li', 'do']",0,proparoxítona,True
+valimento,"['va', 'li', 'men', 'to']",2,paroxítona,False
+valiosamente,"['va', 'li', 'o', 'sa', 'men', 'te']",4,paroxítona,False
+valioso,"['va', 'li', 'o', 'so']",2,paroxítona,False
+valo,"['va', 'lo']",0,paroxítona,True
+valonguense,"['va', 'lon', 'guen', 'se']",2,paroxítona,False
+valor,"['va', 'lor']",1,oxítona,False
+valor-base,"['va', 'lor', 'ba', 'se']",2,paroxítona,False
+valoração,"['va', 'lo', 'ra', 'ção']",3,oxítona,False
+valorado,"['va', 'lo', 'ra', 'do']",2,paroxítona,True
+valorar,"['va', 'lo', 'rar']",2,oxítona,False
+valorativo,"['va', 'lo', 'ra', 'ti', 'vo']",3,paroxítona,True
+valorização,"['va', 'lo', 'ri', 'za', 'ção']",4,oxítona,False
+valorizado,"['va', 'lo', 'ri', 'za', 'do']",3,paroxítona,True
+valorizador,"['va', 'lo', 'ri', 'za', 'dor']",4,oxítona,False
+valorizadora,"['va', 'lo', 'ri', 'za', 'do', 'ra']",4,paroxítona,True
+valorizar,"['va', 'lo', 'ri', 'zar']",3,oxítona,False
+valorizável,"['va', 'lo', 'ri', 'zá', 'vel']",3,paroxítona,False
+valorosamente,"['va', 'lo', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+valoroso,"['va', 'lo', 'ro', 'so']",2,paroxítona,True
+valpacense,"['val', 'pa', 'cen', 'se']",2,paroxítona,False
+valquíria,"['val', 'quí', 'ri', 'a']",1,proparoxítona,False
+valsa,"['val', 'sa']",0,paroxítona,False
+valsar,"['val', 'sar']",1,oxítona,False
+valverde,"['val', 'ver', 'de']",1,paroxítona,False
+válvula,"['vál', 'vu', 'la']",0,proparoxítona,False
+valvular,"['val', 'vu', 'lar']",2,oxítona,False
+vampe,"['vam', 'pe']",0,paroxítona,False
+vampírico,"['vam', 'pí', 'ri', 'co']",1,proparoxítona,False
+vampirismo,"['vam', 'pi', 'ris', 'mo']",2,paroxítona,False
+vampirizar,"['vam', 'pi', 'ri', 'zar']",3,oxítona,False
+vampiro,"['vam', 'pi', 'ro']",1,paroxítona,False
+vanádio,"['va', 'ná', 'di', 'o']",1,proparoxítona,False
+vandalismo,"['van', 'da', 'lis', 'mo']",2,paroxítona,False
+vandalização,"['van', 'da', 'li', 'za', 'ção']",4,oxítona,False
+vandalizar,"['van', 'da', 'li', 'zar']",3,oxítona,False
+vândalo,"['vân', 'da', 'lo']",0,proparoxítona,False
+vanglória,"['van', 'gló', 'ri', 'a']",1,proparoxítona,False
+vangloriar,"['van', 'glo', 'ri', 'ar']",3,oxítona,False
+vanguarda,"['van', 'guar', 'da']",1,paroxítona,False
+vanguardismo,"['van', 'guar', 'dis', 'mo']",2,paroxítona,False
+vanguardista,"['van', 'guar', 'dis', 'ta']",2,paroxítona,False
+vanidade,"['va', 'ni', 'da', 'de']",2,paroxítona,True
+vantagem,"['van', 'ta', 'gem']",1,paroxítona,False
+vantajosamente,"['van', 'ta', 'jo', 'sa', 'men', 'te']",4,paroxítona,False
+vantajoso,"['van', 'ta', 'jo', 'so']",2,paroxítona,False
+vante,"['van', 'te']",0,paroxítona,False
+vão,['vão'],0,oxítona,False
+vapor,"['va', 'por']",1,oxítona,False
+vaporar,"['va', 'po', 'rar']",2,oxítona,False
+vaporização,"['va', 'po', 'ri', 'za', 'ção']",4,oxítona,False
+vaporizador,"['va', 'po', 'ri', 'za', 'dor']",4,oxítona,False
+vaporizar,"['va', 'po', 'ri', 'zar']",3,oxítona,False
+vaporosamente,"['va', 'po', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+vaporoso,"['va', 'po', 'ro', 'so']",2,paroxítona,True
+vaqueira,"['va', 'quei', 'ra']",1,paroxítona,False
+vaqueiro,"['va', 'quei', 'ro']",1,paroxítona,False
+vaquinha,"['va', 'qui', 'nha']",1,paroxítona,False
+vara,"['va', 'ra']",0,paroxítona,True
+varada,"['va', 'ra', 'da']",1,paroxítona,True
+varado,"['va', 'ra', 'do']",1,paroxítona,True
+varadouro,"['va', 'ra', 'dou', 'ro']",2,paroxítona,False
+varal,"['va', 'ral']",1,oxítona,False
+varanda,"['va', 'ran', 'da']",1,paroxítona,False
+varandim,"['va', 'ran', 'dim']",2,oxítona,False
+varão,"['va', 'rão']",1,oxítona,False
+varapau,"['va', 'ra', 'pau']",2,oxítona,False
+varar,"['va', 'rar']",1,oxítona,False
+vareira,"['va', 'rei', 'ra']",1,paroxítona,False
+vareiro,"['va', 'rei', 'ro']",1,paroxítona,False
+varejão,"['va', 're', 'jão']",2,oxítona,False
+varejar,"['va', 're', 'jar']",2,oxítona,False
+varejeira,"['va', 're', 'jei', 'ra']",2,paroxítona,False
+varejeiro,"['va', 're', 'jei', 'ro']",2,paroxítona,False
+varejo,"['va', 're', 'jo']",1,paroxítona,True
+varela,"['va', 're', 'la']",1,paroxítona,True
+vareta,"['va', 're', 'ta']",1,paroxítona,True
+varga,"['var', 'ga']",0,paroxítona,False
+vargem,"['var', 'gem']",0,paroxítona,False
+vária,"['vá', 'ri', 'a']",0,proparoxítona,False
+variabilidade,"['va', 'ri', 'a', 'bi', 'li', 'da', 'de']",5,paroxítona,False
+variação,"['va', 'ri', 'a', 'ção']",3,oxítona,False
+variadamente,"['va', 'ri', 'a', 'da', 'men', 'te']",4,paroxítona,False
+variadíssimo,"['va', 'ri', 'a', 'dís', 'si', 'mo']",3,proparoxítona,False
+variado,"['va', 'ri', 'a', 'do']",2,paroxítona,False
+variamente,"['va', 'ri', 'a', 'men', 'te']",3,paroxítona,False
+variância,"['va', 'ri', 'ân', 'ci', 'a']",2,proparoxítona,False
+variante,"['va', 'ri', 'an', 'te']",2,paroxítona,False
+variar,"['va', 'ri', 'ar']",2,oxítona,False
+variável,"['va', 'ri', 'á', 'vel']",2,paroxítona,False
+variavelmente,"['va', 'ri', 'a', 'vel', 'men', 'te']",4,paroxítona,False
+varicela,"['va', 'ri', 'ce', 'la']",2,paroxítona,True
+varicelar,"['va', 'ri', 'ce', 'lar']",3,oxítona,False
+variedade,"['va', 'ri', 'e', 'da', 'de']",3,paroxítona,False
+variegadamente,"['va', 'ri', 'e', 'ga', 'da', 'men', 'te']",5,paroxítona,False
+variegado,"['va', 'ri', 'e', 'ga', 'do']",3,paroxítona,False
+variegar,"['va', 'ri', 'e', 'gar']",3,oxítona,False
+varinha,"['va', 'ri', 'nha']",1,paroxítona,False
+varino,"['va', 'ri', 'no']",1,paroxítona,True
+vário,"['vá', 'ri', 'o']",0,proparoxítona,False
+varíola,"['va', 'rí', 'o', 'la']",1,proparoxítona,False
+variz,"['va', 'riz']",1,oxítona,False
+varjão,"['var', 'jão']",1,oxítona,False
+varonia,"['va', 'ro', 'ni', 'a']",2,paroxítona,False
+varonil,"['va', 'ro', 'nil']",2,oxítona,False
+varonilmente,"['va', 'ro', 'nil', 'men', 'te']",3,paroxítona,False
+varrasco,"['var', 'ras', 'co']",1,paroxítona,False
+varredela,"['var', 're', 'de', 'la']",2,paroxítona,False
+varredor,"['var', 're', 'dor']",2,oxítona,False
+varredora,"['var', 're', 'do', 'ra']",2,paroxítona,False
+varredoura,"['var', 're', 'dou', 'ra']",2,paroxítona,False
+varredura,"['var', 're', 'du', 'ra']",2,paroxítona,False
+varrer,"['var', 'rer']",1,oxítona,False
+varrida,"['var', 'ri', 'da']",1,paroxítona,False
+varrido,"['var', 'ri', 'do']",1,paroxítona,False
+varsoviana,"['var', 'so', 'vi', 'a', 'na']",3,paroxítona,False
+varsoviano,"['var', 'so', 'vi', 'a', 'no']",3,paroxítona,False
+várzea,"['vár', 'ze', 'a']",0,proparoxítona,False
+varzim,"['var', 'zim']",1,oxítona,False
+vasa,"['va', 'sa']",0,paroxítona,True
+vasca,"['vas', 'ca']",0,paroxítona,False
+vascão,"['vas', 'cão']",1,oxítona,False
+vasco,"['vas', 'co']",0,paroxítona,False
+vascular,"['vas', 'cu', 'lar']",2,oxítona,False
+vascularização,"['vas', 'cu', 'la', 'ri', 'za', 'ção']",5,oxítona,False
+vasculhar,"['vas', 'cu', 'lhar']",2,oxítona,False
+vasectomia,"['va', 'sec', 'to', 'mi', 'a']",3,paroxítona,False
+vaselina,"['va', 'se', 'li', 'na']",2,paroxítona,True
+vasilha,"['va', 'si', 'lha']",1,paroxítona,False
+vasilhame,"['va', 'si', 'lha', 'me']",2,paroxítona,False
+vaso,"['va', 'so']",0,paroxítona,True
+vasodilatador,"['va', 'so', 'di', 'la', 'ta', 'dor']",5,oxítona,False
+vasopressina,"['va', 'so', 'pres', 'si', 'na']",3,paroxítona,False
+vassalagem,"['vas', 'sa', 'la', 'gem']",2,paroxítona,False
+vassalo,"['vas', 'sa', 'lo']",1,paroxítona,False
+vassoura,"['vas', 'sou', 'ra']",1,paroxítona,False
+vassourada,"['vas', 'sou', 'ra', 'da']",2,paroxítona,False
+vassourar,"['vas', 'sou', 'rar']",2,oxítona,False
+vassourinha,"['vas', 'sou', 'ri', 'nha']",2,paroxítona,False
+vastamente,"['vas', 'ta', 'men', 'te']",2,paroxítona,False
+vastar,"['vas', 'tar']",1,oxítona,False
+vastidão,"['vas', 'ti', 'dão']",2,oxítona,False
+vastíssimo,"['vas', 'tís', 'si', 'mo']",1,proparoxítona,False
+vasto,"['vas', 'to']",0,paroxítona,False
+vatapá,"['va', 'ta', 'pá']",2,oxítona,True
+vate,"['va', 'te']",0,paroxítona,True
+vaticanista,"['va', 'ti', 'ca', 'nis', 'ta']",3,paroxítona,False
+vaticano,"['va', 'ti', 'ca', 'no']",2,paroxítona,True
+vaticinar,"['va', 'ti', 'ci', 'nar']",3,oxítona,False
+vaticínio,"['va', 'ti', 'cí', 'ni', 'o']",2,proparoxítona,False
+vátua,"['vá', 'tu', 'a']",0,proparoxítona,False
+vau,['vau'],0,oxítona,False
+vaudeville,"['vau', 'de', 'vil', 'le']",2,paroxítona,False
+vaza,"['va', 'za']",0,paroxítona,True
+vazado,"['va', 'za', 'do']",1,paroxítona,True
+vazadouro,"['va', 'za', 'dou', 'ro']",2,paroxítona,False
+vazamento,"['va', 'za', 'men', 'to']",2,paroxítona,False
+vazante,"['va', 'zan', 'te']",1,paroxítona,False
+vazão,"['va', 'zão']",1,oxítona,False
+vazar,"['va', 'zar']",1,oxítona,False
+vazia,"['va', 'zi', 'a']",1,paroxítona,False
+vaziamente,"['va', 'zi', 'a', 'men', 'te']",3,paroxítona,False
+vaziar,"['va', 'zi', 'ar']",2,oxítona,False
+vazio,"['va', 'zi', 'o']",1,paroxítona,False
+vazo,"['va', 'zo']",0,paroxítona,True
+vê,['vê'],0,oxítona,True
+vê-lo-emos,"['vê', '-lo-', 'e', 'mos']",2,paroxítona,False
+veado,"['ve', 'a', 'do']",1,paroxítona,False
+veador,"['ve', 'a', 'dor']",2,oxítona,False
+vectorial,"['vec', 'to', 'ri', 'al']",3,oxítona,False
+vectorizar,"['vec', 'to', 'ri', 'zar']",3,oxítona,False
+veda,"['ve', 'da']",0,paroxítona,True
+vedação,"['ve', 'da', 'ção']",2,oxítona,False
+vedado,"['ve', 'da', 'do']",1,paroxítona,True
+vedar,"['ve', 'dar']",1,oxítona,False
+vedeta,"['ve', 'de', 'ta']",1,paroxítona,True
+vedetismo,"['ve', 'de', 'tis', 'mo']",2,paroxítona,False
+védico,"['vé', 'di', 'co']",0,proparoxítona,True
+vedor,"['ve', 'dor']",1,oxítona,False
+vedoria,"['ve', 'do', 'ri', 'a']",2,paroxítona,False
+vedro,"['ve', 'dro']",0,paroxítona,False
+veemência,"['ve', 'e', 'mên', 'ci', 'a']",2,proparoxítona,False
+veemente,"['ve', 'e', 'men', 'te']",2,paroxítona,False
+veementemente,"['ve', 'e', 'men', 'te', 'men', 'te']",4,paroxítona,False
+vegan,"['ve', 'gan']",0,paroxítona,False
+vegetação,"['ve', 'ge', 'ta', 'ção']",3,oxítona,False
+vegetal,"['ve', 'ge', 'tal']",2,oxítona,False
+vegetalista,"['ve', 'ge', 'ta', 'lis', 'ta']",3,paroxítona,False
+vegetar,"['ve', 'ge', 'tar']",2,oxítona,False
+vegetariana,"['ve', 'ge', 'ta', 'ri', 'a', 'na']",4,paroxítona,False
+vegetarianismo,"['ve', 'ge', 'ta', 'ri', 'a', 'nis', 'mo']",5,paroxítona,False
+vegetariano,"['ve', 'ge', 'ta', 'ri', 'a', 'no']",4,paroxítona,False
+vegetativamente,"['ve', 'ge', 'ta', 'ti', 'va', 'men', 'te']",5,paroxítona,False
+vegetativo,"['ve', 'ge', 'ta', 'ti', 'vo']",3,paroxítona,True
+veia,"['vei', 'a']",0,paroxítona,False
+veiculação,"['vei', 'cu', 'la', 'ção']",3,oxítona,False
+veiculador,"['vei', 'cu', 'la', 'dor']",3,oxítona,False
+veicular,"['vei', 'cu', 'lar']",2,oxítona,False
+veículo,"['ve', 'í', 'cu', 'lo']",1,proparoxítona,False
+veiga,"['vei', 'ga']",0,paroxítona,False
+veio,"['vei', 'o']",0,paroxítona,False
+veiro,"['vei', 'ro']",0,paroxítona,False
+vela,"['ve', 'la']",0,paroxítona,True
+velada,"['ve', 'la', 'da']",1,paroxítona,True
+veladamente,"['ve', 'la', 'da', 'men', 'te']",3,paroxítona,False
+velado,"['ve', 'la', 'do']",1,paroxítona,True
+velador,"['ve', 'la', 'dor']",2,oxítona,False
+veladora,"['ve', 'la', 'do', 'ra']",2,paroxítona,True
+velame,"['ve', 'la', 'me']",1,paroxítona,True
+velar,"['ve', 'lar']",1,oxítona,False
+velatura,"['ve', 'la', 'tu', 'ra']",2,paroxítona,True
+velcro,"['vel', 'cro']",0,paroxítona,False
+veleidade,"['ve', 'lei', 'da', 'de']",2,paroxítona,False
+veleiro,"['ve', 'lei', 'ro']",1,paroxítona,False
+velejador,"['ve', 'le', 'ja', 'dor']",3,oxítona,False
+velejar,"['ve', 'le', 'jar']",2,oxítona,False
+veleta,"['ve', 'le', 'ta']",1,paroxítona,True
+velha,"['ve', 'lha']",0,paroxítona,False
+velhaca,"['ve', 'lha', 'ca']",1,paroxítona,False
+velhacamente,"['ve', 'lha', 'ca', 'men', 'te']",3,paroxítona,False
+velhacaria,"['ve', 'lha', 'ca', 'ri', 'a']",3,paroxítona,False
+velhaco,"['ve', 'lha', 'co']",1,paroxítona,False
+velhada,"['ve', 'lha', 'da']",1,paroxítona,False
+velharia,"['ve', 'lha', 'ri', 'a']",2,paroxítona,False
+velhice,"['ve', 'lhi', 'ce']",1,paroxítona,False
+velhinha,"['ve', 'lhi', 'nha']",1,paroxítona,False
+velhinho,"['ve', 'lhi', 'nho']",1,paroxítona,False
+velho,"['ve', 'lho']",0,paroxítona,False
+velhote,"['ve', 'lho', 'te']",1,paroxítona,False
+velinha,"['ve', 'li', 'nha']",1,paroxítona,False
+velo,"['ve', 'lo']",0,paroxítona,True
+velocidade,"['ve', 'lo', 'ci', 'da', 'de']",3,paroxítona,True
+velocímetro,"['ve', 'lo', 'cí', 'me', 'tro']",2,proparoxítona,False
+velocípede,"['ve', 'lo', 'cí', 'pe', 'de']",2,proparoxítona,True
+velocipedia,"['ve', 'lo', 'ci', 'pe', 'di', 'a']",4,paroxítona,False
+velocipédico,"['ve', 'lo', 'ci', 'pé', 'di', 'co']",3,proparoxítona,True
+velocíssimo,"['ve', 'lo', 'cís', 'si', 'mo']",2,proparoxítona,False
+velocista,"['ve', 'lo', 'cis', 'ta']",2,paroxítona,False
+velódromo,"['ve', 'ló', 'dro', 'mo']",1,proparoxítona,False
+velório,"['ve', 'ló', 'ri', 'o']",1,proparoxítona,False
+veloso,"['ve', 'lo', 'so']",1,paroxítona,True
+veloz,"['ve', 'loz']",1,oxítona,False
+velozmente,"['ve', 'loz', 'men', 'te']",2,paroxítona,False
+veludo,"['ve', 'lu', 'do']",1,paroxítona,True
+venal,"['ve', 'nal']",1,oxítona,False
+venalidade,"['ve', 'na', 'li', 'da', 'de']",3,paroxítona,True
+venalmente,"['ve', 'nal', 'men', 'te']",2,paroxítona,False
+venatório,"['ve', 'na', 'tó', 'ri', 'o']",2,proparoxítona,False
+vencedor,"['ven', 'ce', 'dor']",2,oxítona,False
+vencedora,"['ven', 'ce', 'do', 'ra']",2,paroxítona,False
+vencer,"['ven', 'cer']",1,oxítona,False
+vencida,"['ven', 'ci', 'da']",1,paroxítona,False
+vencido,"['ven', 'ci', 'do']",1,paroxítona,False
+vencimento,"['ven', 'ci', 'men', 'to']",2,paroxítona,False
+venda,"['ven', 'da']",0,paroxítona,False
+vendado,"['ven', 'da', 'do']",1,paroxítona,False
+vendagem,"['ven', 'da', 'gem']",1,paroxítona,False
+vendar,"['ven', 'dar']",1,oxítona,False
+vendaval,"['ven', 'da', 'val']",2,oxítona,False
+vendável,"['ven', 'dá', 'vel']",1,paroxítona,False
+vendedeira,"['ven', 'de', 'dei', 'ra']",2,paroxítona,False
+vendedor,"['ven', 'de', 'dor']",2,oxítona,False
+vendedora,"['ven', 'de', 'do', 'ra']",2,paroxítona,False
+vender,"['ven', 'der']",1,oxítona,False
+vendeta,"['ven', 'de', 'ta']",1,paroxítona,False
+vendida,"['ven', 'di', 'da']",1,paroxítona,False
+vendido,"['ven', 'di', 'do']",1,paroxítona,False
+vendilhão,"['ven', 'di', 'lhão']",2,oxítona,False
+veneno,"['ve', 'ne', 'no']",1,paroxítona,True
+venenosamente,"['ve', 'ne', 'no', 'sa', 'men', 'te']",4,paroxítona,False
+venenoso,"['ve', 'ne', 'no', 'so']",2,paroxítona,True
+venera,"['ve', 'ne', 'ra']",1,paroxítona,True
+veneração,"['ve', 'ne', 'ra', 'ção']",3,oxítona,False
+veneradamente,"['ve', 'ne', 'ra', 'da', 'men', 'te']",4,paroxítona,False
+venerado,"['ve', 'ne', 'ra', 'do']",2,paroxítona,True
+venerador,"['ve', 'ne', 'ra', 'dor']",3,oxítona,False
+venerando,"['ve', 'ne', 'ran', 'do']",2,paroxítona,False
+venerar,"['ve', 'ne', 'rar']",2,oxítona,False
+venerável,"['ve', 'ne', 'rá', 'vel']",2,paroxítona,False
+veneravelmente,"['ve', 'ne', 'ra', 'vel', 'men', 'te']",4,paroxítona,False
+venéreo,"['ve', 'né', 're', 'o']",1,proparoxítona,False
+venereologia,"['ve', 'ne', 're', 'o', 'lo', 'gi', 'a']",5,paroxítona,False
+veneta,"['ve', 'ne', 'ta']",1,paroxítona,True
+véneto,"['vé', 'ne', 'to']",0,proparoxítona,True
+veneziana,"['ve', 'ne', 'zi', 'a', 'na']",3,paroxítona,False
+veneziano,"['ve', 'ne', 'zi', 'a', 'no']",3,paroxítona,False
+venezuelano,"['ve', 'ne', 'zu', 'e', 'la', 'no']",4,paroxítona,False
+vénia,"['vé', 'ni', 'a']",0,proparoxítona,False
+veniaga,"['ve', 'ni', 'a', 'ga']",2,paroxítona,False
+veniagar,"['ve', 'ni', 'a', 'gar']",3,oxítona,False
+venial,"['ve', 'ni', 'al']",2,oxítona,False
+venialidade,"['ve', 'ni', 'a', 'li', 'da', 'de']",4,paroxítona,False
+venialmente,"['ve', 'ni', 'al', 'men', 'te']",3,paroxítona,False
+venoso,"['ve', 'no', 'so']",1,paroxítona,True
+venta,"['ven', 'ta']",0,paroxítona,False
+ventania,"['ven', 'ta', 'ni', 'a']",2,paroxítona,False
+ventar,"['ven', 'tar']",1,oxítona,False
+ventarola,"['ven', 'ta', 'ro', 'la']",2,paroxítona,False
+ventilação,"['ven', 'ti', 'la', 'ção']",3,oxítona,False
+ventilado,"['ven', 'ti', 'la', 'do']",2,paroxítona,False
+ventilador,"['ven', 'ti', 'la', 'dor']",3,oxítona,False
+ventilar,"['ven', 'ti', 'lar']",2,oxítona,False
+vento,"['ven', 'to']",0,paroxítona,False
+ventoinha,"['ven', 'to', 'i', 'nha']",2,paroxítona,False
+ventoinhar,"['ven', 'to', 'i', 'nhar']",3,oxítona,False
+ventosa,"['ven', 'to', 'sa']",1,paroxítona,False
+ventosidade,"['ven', 'to', 'si', 'da', 'de']",3,paroxítona,False
+ventoso,"['ven', 'to', 'so']",1,paroxítona,False
+ventral,"['ven', 'tral']",1,oxítona,False
+ventre,"['ven', 'tre']",0,paroxítona,False
+ventricular,"['ven', 'tri', 'cu', 'lar']",3,oxítona,False
+ventrículo,"['ven', 'trí', 'cu', 'lo']",1,proparoxítona,False
+ventriloquismo,"['ven', 'tri', 'lo', 'quis', 'mo']",3,paroxítona,False
+ventríloquo,"['ven', 'trí', 'lo', 'quo']",1,proparoxítona,False
+ventura,"['ven', 'tu', 'ra']",1,paroxítona,False
+ventureiro,"['ven', 'tu', 'rei', 'ro']",2,paroxítona,False
+venturo,"['ven', 'tu', 'ro']",1,paroxítona,False
+venturosamente,"['ven', 'tu', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+venturoso,"['ven', 'tu', 'ro', 'so']",2,paroxítona,False
+vénus,"['vé', 'nus']",0,paroxítona,False
+venusiano,"['ve', 'nu', 'si', 'a', 'no']",3,paroxítona,False
+ver,['ver'],0,oxítona,False
+veracidade,"['ve', 'ra', 'ci', 'da', 'de']",3,paroxítona,True
+veramente,"['ve', 'ra', 'men', 'te']",2,paroxítona,False
+veraneante,"['ve', 'ra', 'ne', 'an', 'te']",3,paroxítona,False
+veranear,"['ve', 'ra', 'ne', 'ar']",3,oxítona,False
+veraneio,"['ve', 'ra', 'nei', 'o']",2,paroxítona,False
+veras,"['ve', 'ras']",0,paroxítona,False
+veraz,"['ve', 'raz']",1,oxítona,False
+verba,"['ver', 'ba']",0,paroxítona,False
+verbal,"['ver', 'bal']",1,oxítona,False
+verbalismo,"['ver', 'ba', 'lis', 'mo']",2,paroxítona,False
+verbalista,"['ver', 'ba', 'lis', 'ta']",2,paroxítona,False
+verbalização,"['ver', 'ba', 'li', 'za', 'ção']",4,oxítona,False
+verbalizado,"['ver', 'ba', 'li', 'za', 'do']",3,paroxítona,False
+verbalizar,"['ver', 'ba', 'li', 'zar']",3,oxítona,False
+verbalmente,"['ver', 'bal', 'men', 'te']",2,paroxítona,False
+verbena,"['ver', 'be', 'na']",1,paroxítona,False
+verberar,"['ver', 'be', 'rar']",2,oxítona,False
+verbetar,"['ver', 'be', 'tar']",2,oxítona,False
+verbete,"['ver', 'be', 'te']",1,paroxítona,False
+verbo,"['ver', 'bo']",0,paroxítona,False
+verborreia,"['ver', 'bor', 'rei', 'a']",2,paroxítona,False
+verbosamente,"['ver', 'bo', 'sa', 'men', 'te']",3,paroxítona,False
+verbosidade,"['ver', 'bo', 'si', 'da', 'de']",3,paroxítona,False
+verboso,"['ver', 'bo', 'so']",1,paroxítona,False
+verdade,"['ver', 'da', 'de']",1,paroxítona,False
+verdadeiramente,"['ver', 'da', 'dei', 'ra', 'men', 'te']",4,paroxítona,False
+verdadeiro,"['ver', 'da', 'dei', 'ro']",2,paroxítona,False
+verdasca,"['ver', 'das', 'ca']",1,paroxítona,False
+verdascar,"['ver', 'das', 'car']",2,oxítona,False
+verdasco,"['ver', 'das', 'co']",1,paroxítona,False
+verde,"['ver', 'de']",0,paroxítona,False
+verde-alface,"['ver', 'de-al', 'fa', 'ce']",2,paroxítona,False
+verde-amarelado,"['ver', 'de-a', 'ma', 're', 'la', 'do']",4,paroxítona,False
+verde-azeitona,"['ver', 'de-a', 'zei', 'to', 'na']",3,paroxítona,False
+verde-claro,"['ver', 'de-', 'cla', 'ro']",2,paroxítona,False
+verde-escuro,"['ver', 'de-es', 'cu', 'ro']",2,paroxítona,False
+verde-esmeralda,"['ver', 'de-es', 'me', 'ral', 'da']",3,paroxítona,False
+verde-garrafa,"['ver', 'de-gar', 'ra', 'fa']",2,paroxítona,False
+verde-mar,"['ver', 'de-', 'mar']",2,oxítona,False
+verde-rubro,"['ver', 'de-', 'ru', 'bro']",2,paroxítona,False
+verdeal,"['ver', 'de', 'al']",2,oxítona,False
+verdegar,"['ver', 'de', 'gar']",2,oxítona,False
+verdejante,"['ver', 'de', 'jan', 'te']",2,paroxítona,False
+verdejar,"['ver', 'de', 'jar']",2,oxítona,False
+verdelha,"['ver', 'de', 'lha']",1,paroxítona,False
+verdelho,"['ver', 'de', 'lho']",1,paroxítona,False
+verdete,"['ver', 'de', 'te']",1,paroxítona,False
+verdilhão,"['ver', 'di', 'lhão']",2,oxítona,False
+verdizela,"['ver', 'di', 'ze', 'la']",2,paroxítona,False
+verdugo,"['ver', 'du', 'go']",1,paroxítona,False
+verdura,"['ver', 'du', 'ra']",1,paroxítona,False
+vereação,"['ve', 're', 'a', 'ção']",3,oxítona,False
+vereador,"['ve', 're', 'a', 'dor']",3,oxítona,False
+vereadora,"['ve', 're', 'a', 'do', 'ra']",3,paroxítona,False
+vereda,"['ve', 're', 'da']",1,paroxítona,True
+veredicto,"['ve', 're', 'dic', 'to']",2,paroxítona,False
+verga,"['ver', 'ga']",0,paroxítona,False
+vergado,"['ver', 'ga', 'do']",1,paroxítona,False
+vergalhar,"['ver', 'ga', 'lhar']",2,oxítona,False
+vergalho,"['ver', 'ga', 'lho']",1,paroxítona,False
+vergão,"['ver', 'gão']",1,oxítona,False
+vergar,"['ver', 'gar']",1,oxítona,False
+vergasta,"['ver', 'gas', 'ta']",1,paroxítona,False
+vergastada,"['ver', 'gas', 'ta', 'da']",2,paroxítona,False
+vergastar,"['ver', 'gas', 'tar']",2,oxítona,False
+vergel,"['ver', 'gel']",1,oxítona,False
+vergonha,"['ver', 'go', 'nha']",1,paroxítona,False
+vergonhosa,"['ver', 'go', 'nho', 'sa']",2,paroxítona,False
+vergonhosamente,"['ver', 'go', 'nho', 'sa', 'men', 'te']",4,paroxítona,False
+vergonhoso,"['ver', 'go', 'nho', 'so']",2,paroxítona,False
+vergueiro,"['ver', 'guei', 'ro']",1,paroxítona,False
+verguinha,"['ver', 'gui', 'nha']",1,paroxítona,False
+veridicamente,"['ve', 'ri', 'di', 'ca', 'men', 'te']",4,paroxítona,False
+verídico,"['ve', 'rí', 'di', 'co']",1,proparoxítona,True
+verificação,"['ve', 'ri', 'fi', 'ca', 'ção']",4,oxítona,False
+verificado,"['ve', 'ri', 'fi', 'ca', 'do']",3,paroxítona,True
+verificador,"['ve', 'ri', 'fi', 'ca', 'dor']",4,oxítona,False
+verificar,"['ve', 'ri', 'fi', 'car']",3,oxítona,False
+verificável,"['ve', 'ri', 'fi', 'cá', 'vel']",3,paroxítona,False
+verismo,"['ve', 'ris', 'mo']",1,paroxítona,False
+verista,"['ve', 'ris', 'ta']",1,paroxítona,False
+verme,"['ver', 'me']",0,paroxítona,False
+vermelha,"['ver', 'me', 'lha']",1,paroxítona,False
+vermelhão,"['ver', 'me', 'lhão']",2,oxítona,False
+vermelhar,"['ver', 'me', 'lhar']",2,oxítona,False
+vermelhidão,"['ver', 'me', 'lhi', 'dão']",3,oxítona,False
+vermelhinha,"['ver', 'me', 'lhi', 'nha']",2,paroxítona,False
+vermelhinho,"['ver', 'me', 'lhi', 'nho']",2,paroxítona,False
+vermelho,"['ver', 'me', 'lho']",1,paroxítona,False
+vermelho-escuro,"['ver', 'me', 'lho-es', 'cu', 'ro']",3,paroxítona,False
+vermelhoso,"['ver', 'me', 'lho', 'so']",2,paroxítona,False
+vermelhusco,"['ver', 'me', 'lhus', 'co']",2,paroxítona,False
+vermute,"['ver', 'mu', 'te']",1,paroxítona,False
+verna,"['ver', 'na']",0,paroxítona,False
+vernaculamente,"['ver', 'na', 'cu', 'la', 'men', 'te']",4,paroxítona,False
+vernaculidade,"['ver', 'na', 'cu', 'li', 'da', 'de']",4,paroxítona,False
+vernáculo,"['ver', 'ná', 'cu', 'lo']",1,proparoxítona,False
+vernal,"['ver', 'nal']",1,oxítona,False
+vernar,"['ver', 'nar']",1,oxítona,False
+verne,"['ver', 'ne']",0,paroxítona,False
+vernissage,"['ver', 'nis', 'sa', 'ge']",2,paroxítona,False
+verniz,"['ver', 'niz']",1,oxítona,False
+verno,"['ver', 'no']",0,paroxítona,False
+vero,"['ve', 'ro']",0,paroxítona,True
+veronal,"['ve', 'ro', 'nal']",2,oxítona,False
+verónica,"['ve', 'ró', 'ni', 'ca']",1,proparoxítona,True
+verosímil,"['ve', 'ro', 'sí', 'mil']",2,paroxítona,False
+verosimilhança,"['ve', 'ro', 'si', 'mi', 'lhan', 'ça']",4,paroxítona,False
+verosimilhante,"['ve', 'ro', 'si', 'mi', 'lhan', 'te']",4,paroxítona,False
+verosimilmente,"['ve', 'ro', 'si', 'mil', 'men', 'te']",4,paroxítona,False
+verrina,"['ver', 'ri', 'na']",1,paroxítona,False
+verrinar,"['ver', 'ri', 'nar']",2,oxítona,False
+verrinosamente,"['ver', 'ri', 'no', 'sa', 'men', 'te']",4,paroxítona,False
+verrinoso,"['ver', 'ri', 'no', 'so']",2,paroxítona,False
+verruga,"['ver', 'ru', 'ga']",1,paroxítona,False
+versa,"['ver', 'sa']",0,paroxítona,False
+versado,"['ver', 'sa', 'do']",1,paroxítona,False
+versalhada,"['ver', 'sa', 'lha', 'da']",2,paroxítona,False
+versão,"['ver', 'são']",1,oxítona,False
+versar,"['ver', 'sar']",1,oxítona,False
+versaria,"['ver', 'sa', 'ri', 'a']",2,paroxítona,False
+versátil,"['ver', 'sá', 'til']",1,paroxítona,False
+versatilidade,"['ver', 'sa', 'ti', 'li', 'da', 'de']",4,paroxítona,False
+versatilmente,"['ver', 'sa', 'til', 'men', 'te']",3,paroxítona,False
+versejador,"['ver', 'se', 'ja', 'dor']",3,oxítona,False
+versejar,"['ver', 'se', 'jar']",2,oxítona,False
+versículo,"['ver', 'sí', 'cu', 'lo']",1,proparoxítona,False
+versificação,"['ver', 'si', 'fi', 'ca', 'ção']",4,oxítona,False
+versificador,"['ver', 'si', 'fi', 'ca', 'dor']",4,oxítona,False
+verso,"['ver', 'so']",0,paroxítona,False
+vértebra,"['vér', 'te', 'bra']",0,proparoxítona,False
+vertebrado,"['ver', 'te', 'bra', 'do']",2,paroxítona,False
+vertebral,"['ver', 'te', 'bral']",2,oxítona,False
+vertebrar,"['ver', 'te', 'brar']",2,oxítona,False
+vertente,"['ver', 'ten', 'te']",1,paroxítona,False
+verter,"['ver', 'ter']",1,oxítona,False
+vertical,"['ver', 'ti', 'cal']",2,oxítona,False
+verticalidade,"['ver', 'ti', 'ca', 'li', 'da', 'de']",4,paroxítona,False
+verticalização,"['ver', 'ti', 'ca', 'li', 'za', 'ção']",5,oxítona,False
+verticalizar,"['ver', 'ti', 'ca', 'li', 'zar']",4,oxítona,False
+verticalmente,"['ver', 'ti', 'cal', 'men', 'te']",3,paroxítona,False
+vértice,"['vér', 'ti', 'ce']",0,proparoxítona,False
+verticilo,"['ver', 'ti', 'ci', 'lo']",2,paroxítona,False
+vertigem,"['ver', 'ti', 'gem']",1,paroxítona,False
+vertiginosamente,"['ver', 'ti', 'gi', 'no', 'sa', 'men', 'te']",5,paroxítona,False
+vertiginoso,"['ver', 'ti', 'gi', 'no', 'so']",3,paroxítona,False
+verve,"['ver', 've']",0,paroxítona,False
+very-light,"['ve', 'ry-', 'light']",2,oxítona,False
+vesco,"['ves', 'co']",0,paroxítona,False
+vesga,"['ves', 'ga']",0,paroxítona,False
+vesgamente,"['ves', 'ga', 'men', 'te']",2,paroxítona,False
+vesgo,"['ves', 'go']",0,paroxítona,False
+vesicante,"['ve', 'si', 'can', 'te']",2,paroxítona,False
+vesícula,"['ve', 'sí', 'cu', 'la']",1,proparoxítona,True
+vesicular,"['ve', 'si', 'cu', 'lar']",3,oxítona,False
+vesiculoso,"['ve', 'si', 'cu', 'lo', 'so']",3,paroxítona,True
+vespa,"['ves', 'pa']",0,paroxítona,False
+vespeiro,"['ves', 'pei', 'ro']",1,paroxítona,False
+véspera,"['vés', 'pe', 'ra']",0,proparoxítona,False
+vespertino,"['ves', 'per', 'ti', 'no']",2,paroxítona,False
+vessada,"['ves', 'sa', 'da']",1,paroxítona,False
+vessadoiro,"['ves', 'sa', 'doi', 'ro']",2,paroxítona,False
+vessar,"['ves', 'sar']",1,oxítona,False
+vestal,"['ves', 'tal']",1,oxítona,False
+veste,"['ves', 'te']",0,paroxítona,False
+véstia,"['vés', 'ti', 'a']",0,proparoxítona,False
+vestiaria,"['ves', 'ti', 'a', 'ri', 'a']",3,paroxítona,False
+vestiário,"['ves', 'ti', 'á', 'ri', 'o']",2,proparoxítona,False
+vestibular,"['ves', 'ti', 'bu', 'lar']",3,oxítona,False
+vestíbulo,"['ves', 'tí', 'bu', 'lo']",1,proparoxítona,False
+vestido,"['ves', 'ti', 'do']",1,paroxítona,False
+vestígio,"['ves', 'tí', 'gi', 'o']",1,proparoxítona,False
+vestimenta,"['ves', 'ti', 'men', 'ta']",2,paroxítona,False
+vestir,"['ves', 'tir']",1,oxítona,False
+vestuário,"['ves', 'tu', 'á', 'ri', 'o']",2,proparoxítona,False
+vetar,"['ve', 'tar']",1,oxítona,False
+veterana,"['ve', 'te', 'ra', 'na']",2,paroxítona,True
+veterano,"['ve', 'te', 'ra', 'no']",2,paroxítona,True
+veterinária,"['ve', 'te', 'ri', 'ná', 'ri', 'a']",3,proparoxítona,False
+veterinariamente,"['ve', 'te', 'ri', 'na', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+veterinário,"['ve', 'te', 'ri', 'ná', 'ri', 'o']",3,proparoxítona,False
+vetiver,"['ve', 'ti', 'ver']",2,oxítona,False
+veto,"['ve', 'to']",0,paroxítona,True
+vetor,"['ve', 'tor']",1,oxítona,False
+vetustamente,"['ve', 'tus', 'ta', 'men', 'te']",3,paroxítona,False
+vetustez,"['ve', 'tus', 'tez']",2,oxítona,False
+vetusto,"['ve', 'tus', 'to']",1,paroxítona,False
+véu,['véu'],0,oxítona,False
+vexado,"['ve', 'xa', 'do']",1,paroxítona,True
+vexame,"['ve', 'xa', 'me']",1,paroxítona,True
+vexante,"['ve', 'xan', 'te']",1,paroxítona,False
+vexar,"['ve', 'xar']",1,oxítona,False
+vexatoriamente,"['ve', 'xa', 'to', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+vexatório,"['ve', 'xa', 'tó', 'ri', 'o']",2,proparoxítona,False
+vez,['vez'],0,oxítona,False
+vezar,"['ve', 'zar']",1,oxítona,False
+vezeira,"['ve', 'zei', 'ra']",1,paroxítona,False
+vezeiro,"['ve', 'zei', 'ro']",1,paroxítona,False
+vezo,"['ve', 'zo']",0,paroxítona,True
+via,"['vi', 'a']",0,paroxítona,False
+via-férrea,"['vi', 'a-', 'fér', 're', 'a']",2,proparoxítona,False
+via-sacra,"['vi', 'a-', 'sa', 'cra']",2,paroxítona,False
+viabilidade,"['vi', 'a', 'bi', 'li', 'da', 'de']",4,paroxítona,False
+viabilização,"['vi', 'a', 'bi', 'li', 'za', 'ção']",5,oxítona,False
+viabilizar,"['vi', 'a', 'bi', 'li', 'zar']",4,oxítona,False
+viação,"['vi', 'a', 'ção']",2,oxítona,False
+viaduto,"['vi', 'a', 'du', 'to']",2,paroxítona,False
+viageiro,"['vi', 'a', 'gei', 'ro']",2,paroxítona,False
+viagem,"['vi', 'a', 'gem']",1,paroxítona,False
+viagenzinha,"['vi', 'a', 'gen', 'zi', 'nha']",3,paroxítona,False
+viajada,"['vi', 'a', 'ja', 'da']",2,paroxítona,False
+viajado,"['vi', 'a', 'ja', 'do']",2,paroxítona,False
+viajante,"['vi', 'a', 'jan', 'te']",2,paroxítona,False
+viajar,"['vi', 'a', 'jar']",2,oxítona,False
+vial,"['vi', 'al']",1,oxítona,False
+vianda,"['vi', 'an', 'da']",1,paroxítona,False
+viandante,"['vi', 'an', 'dan', 'te']",2,paroxítona,False
+viandar,"['vi', 'an', 'dar']",2,oxítona,False
+vianense,"['vi', 'a', 'nen', 'se']",2,paroxítona,False
+vianês,"['vi', 'a', 'nês']",2,oxítona,False
+viário,"['vi', 'á', 'ri', 'o']",1,proparoxítona,False
+viático,"['vi', 'á', 'ti', 'co']",1,proparoxítona,False
+viatura,"['vi', 'a', 'tu', 'ra']",2,paroxítona,False
+viável,"['vi', 'á', 'vel']",1,paroxítona,False
+víbora,"['ví', 'bo', 'ra']",0,proparoxítona,True
+víbora-cornuda,"['ví', 'bo', 'ra-cor', 'nu', 'da']",3,paroxítona,False
+vibração,"['vi', 'bra', 'ção']",2,oxítona,False
+vibrador,"['vi', 'bra', 'dor']",2,oxítona,False
+vibrafone,"['vi', 'bra', 'fo', 'ne']",2,paroxítona,False
+vibrafonista,"['vi', 'bra', 'fo', 'nis', 'ta']",3,paroxítona,False
+vibrante,"['vi', 'bran', 'te']",1,paroxítona,False
+vibrantemente,"['vi', 'bran', 'te', 'men', 'te']",3,paroxítona,False
+vibrar,"['vi', 'brar']",1,oxítona,False
+vibrátil,"['vi', 'brá', 'til']",1,paroxítona,False
+vibrato,"['vi', 'bra', 'to']",1,paroxítona,False
+vibratoriamente,"['vi', 'bra', 'to', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+vibratório,"['vi', 'bra', 'tó', 'ri', 'o']",2,proparoxítona,False
+vibrião,"['vi', 'bri', 'ão']",2,oxítona,False
+viçar,"['vi', 'çar']",1,oxítona,False
+vicariato,"['vi', 'ca', 'ri', 'a', 'to']",3,paroxítona,False
+vicário,"['vi', 'cá', 'ri', 'o']",1,proparoxítona,False
+vice-almirante,"['vi', 'ce-al', 'mi', 'ran', 'te']",3,paroxítona,False
+vice-campeã,"['vi', 'ce-cam', 'pe', 'ã']",3,oxítona,False
+vice-campeão,"['vi', 'ce-cam', 'pe', 'ão']",3,oxítona,False
+vice-campeonato,"['vi', 'ce-cam', 'pe', 'o', 'na', 'to']",4,paroxítona,False
+vice-chanceler,"['vi', 'ce-chan', 'ce', 'ler']",3,oxítona,False
+vice-chefe,"['vi', 'ce-', 'che', 'fe']",2,paroxítona,False
+vice-chefia,"['vi', 'ce-che', 'fi', 'a']",2,paroxítona,False
+vice-comissário,"['vi', 'ce-co', 'mis', 'sá', 'ri', 'o']",3,proparoxítona,False
+vice-cônsul,"['vi', 'ce-', 'côn', 'sul']",2,paroxítona,False
+vice-diretor,"['vi', 'ce-di', 're', 'tor']",3,oxítona,False
+vice-governador,"['vi', 'ce-go', 'ver', 'na', 'dor']",4,oxítona,False
+vice-líder,"['vi', 'ce-', 'lí', 'der']",2,paroxítona,False
+vice-ministro,"['vi', 'ce-mi', 'nis', 'tro']",2,paroxítona,False
+vice-presidência,"['vi', 'ce-pre', 'si', 'dên', 'ci', 'a']",3,proparoxítona,False
+vice-presidente,"['vi', 'ce-pre', 'si', 'den', 'te']",3,paroxítona,False
+vice-primeiro-ministro,"['vi', 'ce-pri', 'mei', 'ro-mi', 'nis', 'tro']",4,paroxítona,False
+vice-rei,"['vi', 'ce-', 'rei']",2,oxítona,False
+vice-reinado,"['vi', 'ce-rei', 'na', 'do']",2,paroxítona,False
+vice-reino,"['vi', 'ce-', 'rei', 'no']",2,paroxítona,False
+vice-reitor,"['vi', 'ce-rei', 'tor']",2,oxítona,False
+vice-secretária,"['vi', 'ce-se', 'cre', 'tá', 'ri', 'a']",3,proparoxítona,False
+vice-secretário,"['vi', 'ce-se', 'cre', 'tá', 'ri', 'o']",3,proparoxítona,False
+vice-versa,"['vi', 'ce-', 'ver', 'sa']",2,paroxítona,False
+vicejante,"['vi', 'ce', 'jan', 'te']",2,paroxítona,False
+vicejar,"['vi', 'ce', 'jar']",2,oxítona,False
+vicente,"['vi', 'cen', 'te']",1,paroxítona,False
+vicentina,"['vi', 'cen', 'ti', 'na']",2,paroxítona,False
+vicentino,"['vi', 'cen', 'ti', 'no']",2,paroxítona,False
+vicentista,"['vi', 'cen', 'tis', 'ta']",2,paroxítona,False
+viciação,"['vi', 'ci', 'a', 'ção']",3,oxítona,False
+viciada,"['vi', 'ci', 'a', 'da']",2,paroxítona,False
+viciado,"['vi', 'ci', 'a', 'do']",2,paroxítona,False
+viciante,"['vi', 'ci', 'an', 'te']",2,paroxítona,False
+viciar,"['vi', 'ci', 'ar']",2,oxítona,False
+vicinal,"['vi', 'ci', 'nal']",2,oxítona,False
+vício,"['ví', 'ci', 'o']",0,proparoxítona,False
+viciosa,"['vi', 'ci', 'o', 'sa']",2,paroxítona,False
+viciosamente,"['vi', 'ci', 'o', 'sa', 'men', 'te']",4,paroxítona,False
+viciosidade,"['vi', 'ci', 'o', 'si', 'da', 'de']",4,paroxítona,False
+vicioso,"['vi', 'ci', 'o', 'so']",2,paroxítona,False
+vicissitude,"['vi', 'cis', 'si', 'tu', 'de']",3,paroxítona,False
+viço,"['vi', 'ço']",0,paroxítona,True
+viçosamente,"['vi', 'ço', 'sa', 'men', 'te']",3,paroxítona,False
+viçoso,"['vi', 'ço', 'so']",1,paroxítona,True
+vicunha,"['vi', 'cu', 'nha']",1,paroxítona,False
+vida,"['vi', 'da']",0,paroxítona,True
+vidar,"['vi', 'dar']",1,oxítona,False
+vide,"['vi', 'de']",0,paroxítona,True
+videasta,"['vi', 'de', 'as', 'ta']",2,paroxítona,False
+videira,"['vi', 'dei', 'ra']",1,paroxítona,False
+videirinho,"['vi', 'dei', 'ri', 'nho']",2,paroxítona,False
+videirismo,"['vi', 'dei', 'ris', 'mo']",2,paroxítona,False
+videiro,"['vi', 'dei', 'ro']",1,paroxítona,False
+vidência,"['vi', 'dên', 'ci', 'a']",1,proparoxítona,False
+vidente,"['vi', 'den', 'te']",1,paroxítona,False
+vídeo,"['ví', 'de', 'o']",0,proparoxítona,False
+videoamador,"['vi', 'de', 'o', 'a', 'ma', 'dor']",5,oxítona,False
+videoarte,"['vi', 'de', 'o', 'ar', 'te']",3,paroxítona,False
+videocassete,"['vi', 'de', 'o', 'cas', 'se', 'te']",4,paroxítona,False
+videoclip,"['vi', 'deo', 'clip']",1,paroxítona,False
+videoclipe,"['vi', 'de', 'o', 'cli', 'pe']",3,paroxítona,False
+videoclube,"['vi', 'de', 'o', 'clu', 'be']",3,paroxítona,False
+videoconferência,"['vi', 'de', 'o', 'con', 'fe', 'rên', 'ci', 'a']",5,proparoxítona,False
+videodisco,"['vi', 'de', 'o', 'dis', 'co']",3,paroxítona,False
+videofone,"['vi', 'de', 'o', 'fo', 'ne']",3,paroxítona,False
+videogame,"['vi', 'deo', 'ga', 'me']",2,paroxítona,False
+videograma,"['vi', 'de', 'o', 'gra', 'ma']",3,paroxítona,False
+videogravador,"['vi', 'de', 'o', 'gra', 'va', 'dor']",5,oxítona,False
+videojogo,"['vi', 'de', 'o', 'jo', 'go']",3,paroxítona,False
+videotape,"['vi', 'deo', 'ta', 'pe']",2,paroxítona,False
+videoteca,"['vi', 'de', 'o', 'te', 'ca']",3,paroxítona,False
+videotelefone,"['vi', 'de', 'o', 'te', 'le', 'fo', 'ne']",5,paroxítona,False
+videotexto,"['vi', 'de', 'o', 'tex', 'to']",3,paroxítona,False
+videovigilância,"['vi', 'de', 'o', 'vi', 'gi', 'lân', 'ci', 'a']",5,proparoxítona,False
+videowall,"['vi', 'deo', 'wall']",2,oxítona,False
+vidinha,"['vi', 'di', 'nha']",1,paroxítona,False
+vido,"['vi', 'do']",0,paroxítona,True
+vidoeiro,"['vi', 'do', 'ei', 'ro']",2,paroxítona,False
+vidraça,"['vi', 'dra', 'ça']",1,paroxítona,False
+vidraceiro,"['vi', 'dra', 'cei', 'ro']",2,paroxítona,False
+vidraço,"['vi', 'dra', 'ço']",1,paroxítona,False
+vidrado,"['vi', 'dra', 'do']",1,paroxítona,False
+vidragem,"['vi', 'dra', 'gem']",1,paroxítona,False
+vidrão,"['vi', 'drão']",1,oxítona,False
+vidrar,"['vi', 'drar']",1,oxítona,False
+vidreira,"['vi', 'drei', 'ra']",1,paroxítona,False
+vidreiro,"['vi', 'drei', 'ro']",1,paroxítona,False
+vidrinho,"['vi', 'dri', 'nho']",1,paroxítona,False
+vidro,"['vi', 'dro']",0,paroxítona,False
+vieira,"['vi', 'ei', 'ra']",1,paroxítona,False
+vieirense,"['vi', 'ei', 'ren', 'se']",2,paroxítona,False
+viela,"['vi', 'e', 'la']",1,paroxítona,False
+vienense,"['vi', 'e', 'nen', 'se']",2,paroxítona,False
+viés,"['vi', 'és']",1,oxítona,False
+vietnamita,"['vi', 'et', 'na', 'mi', 'ta']",3,paroxítona,False
+viga,"['vi', 'ga']",0,paroxítona,True
+vigamento,"['vi', 'ga', 'men', 'to']",2,paroxítona,False
+vigar,"['vi', 'gar']",1,oxítona,False
+vigária,"['vi', 'gá', 'ri', 'a']",1,proparoxítona,False
+vigarice,"['vi', 'ga', 'ri', 'ce']",2,paroxítona,True
+vigário,"['vi', 'gá', 'ri', 'o']",1,proparoxítona,False
+vigário-geral,"['vi', 'gá', 'ri', 'o-ge', 'ral']",4,oxítona,False
+vigarista,"['vi', 'ga', 'ris', 'ta']",2,paroxítona,False
+vigarizar,"['vi', 'ga', 'ri', 'zar']",3,oxítona,False
+vigência,"['vi', 'gên', 'ci', 'a']",1,proparoxítona,False
+vigente,"['vi', 'gen', 'te']",1,paroxítona,False
+viger,"['vi', 'ger']",1,oxítona,False
+vigésimo,"['vi', 'gé', 'si', 'mo']",1,proparoxítona,True
+vigia,"['vi', 'gi', 'a']",1,paroxítona,False
+vigiar,"['vi', 'gi', 'ar']",2,oxítona,False
+vigilância,"['vi', 'gi', 'lân', 'ci', 'a']",2,proparoxítona,False
+vigilante,"['vi', 'gi', 'lan', 'te']",2,paroxítona,False
+vigilantemente,"['vi', 'gi', 'lan', 'te', 'men', 'te']",4,paroxítona,False
+vigília,"['vi', 'gí', 'li', 'a']",1,proparoxítona,False
+vigor,"['vi', 'gor']",1,oxítona,False
+vigorar,"['vi', 'go', 'rar']",2,oxítona,False
+vigorosamente,"['vi', 'go', 'ro', 'sa', 'men', 'te']",4,paroxítona,False
+vigoroso,"['vi', 'go', 'ro', 'so']",2,paroxítona,True
+viking,"['vi', 'king']",0,paroxítona,False
+vil,['vil'],0,oxítona,False
+vila,"['vi', 'la']",0,paroxítona,True
+vila-condense,"['vi', 'la-con', 'den', 'se']",2,paroxítona,False
+vila-franquense,"['vi', 'la-fran', 'quen', 'se']",2,paroxítona,False
+vila-realense,"['vi', 'la-re', 'a', 'len', 'se']",3,paroxítona,False
+vila-verdense,"['vi', 'la-ver', 'den', 'se']",2,paroxítona,False
+vilanagem,"['vi', 'la', 'na', 'gem']",2,paroxítona,False
+vilancete,"['vi', 'lan', 'ce', 'te']",2,paroxítona,False
+vilancico,"['vi', 'lan', 'ci', 'co']",2,paroxítona,False
+vilania,"['vi', 'la', 'ni', 'a']",2,paroxítona,False
+vilão,"['vi', 'lão']",1,oxítona,False
+vilar,"['vi', 'lar']",1,oxítona,False
+vilarejo,"['vi', 'la', 're', 'jo']",2,paroxítona,True
+vilarelho,"['vi', 'la', 're', 'lho']",2,paroxítona,False
+vilarinho,"['vi', 'la', 'ri', 'nho']",2,paroxítona,False
+vilegiatura,"['vi', 'le', 'gi', 'a', 'tu', 'ra']",4,paroxítona,False
+vilegiaturar,"['vi', 'le', 'gi', 'a', 'tu', 'rar']",5,oxítona,False
+vilela,"['vi', 'le', 'la']",1,paroxítona,True
+vileza,"['vi', 'le', 'za']",1,paroxítona,True
+vilipendiado,"['vi', 'li', 'pen', 'di', 'a', 'do']",4,paroxítona,False
+vilipendiar,"['vi', 'li', 'pen', 'di', 'ar']",4,oxítona,False
+vilipêndio,"['vi', 'li', 'pên', 'di', 'o']",2,proparoxítona,False
+vilmente,"['vil', 'men', 'te']",1,paroxítona,False
+vilória,"['vi', 'ló', 'ri', 'a']",1,proparoxítona,False
+vilosidade,"['vi', 'lo', 'si', 'da', 'de']",3,paroxítona,True
+vima,"['vi', 'ma']",0,paroxítona,True
+vimaranense,"['vi', 'ma', 'ra', 'nen', 'se']",3,paroxítona,False
+vime,"['vi', 'me']",0,paroxítona,True
+vimeiro,"['vi', 'mei', 'ro']",1,paroxítona,False
+vimieiro,"['vi', 'mi', 'ei', 'ro']",2,paroxítona,False
+vina,"['vi', 'na']",0,paroxítona,True
+vinagrar,"['vi', 'na', 'grar']",2,oxítona,False
+vinagre,"['vi', 'na', 'gre']",1,paroxítona,False
+vinagreiro,"['vi', 'na', 'grei', 'ro']",2,paroxítona,False
+vinagreta,"['vi', 'na', 'gre', 'ta']",2,paroxítona,False
+vinagrete,"['vi', 'na', 'gre', 'te']",2,paroxítona,False
+vinário,"['vi', 'ná', 'ri', 'o']",1,proparoxítona,False
+vincada,"['vin', 'ca', 'da']",1,paroxítona,False
+vincadamente,"['vin', 'ca', 'da', 'men', 'te']",3,paroxítona,False
+vincado,"['vin', 'ca', 'do']",1,paroxítona,False
+vincar,"['vin', 'car']",1,oxítona,False
+vincendo,"['vin', 'cen', 'do']",1,paroxítona,False
+vinco,"['vin', 'co']",0,paroxítona,False
+vinculação,"['vin', 'cu', 'la', 'ção']",3,oxítona,False
+vinculadamente,"['vin', 'cu', 'la', 'da', 'men', 'te']",4,paroxítona,False
+vinculado,"['vin', 'cu', 'la', 'do']",2,paroxítona,False
+vincular,"['vin', 'cu', 'lar']",2,oxítona,False
+vinculativo,"['vin', 'cu', 'la', 'ti', 'vo']",3,paroxítona,False
+vínculo,"['vín', 'cu', 'lo']",0,proparoxítona,False
+vinda,"['vin', 'da']",0,paroxítona,False
+vindicativamente,"['vin', 'di', 'ca', 'ti', 'va', 'men', 'te']",5,paroxítona,False
+vindicativo,"['vin', 'di', 'ca', 'ti', 'vo']",3,paroxítona,False
+vindicta,"['vin', 'dic', 'ta']",1,paroxítona,False
+vindima,"['vin', 'di', 'ma']",1,paroxítona,False
+vindimado,"['vin', 'di', 'ma', 'do']",2,paroxítona,False
+vindimador,"['vin', 'di', 'ma', 'dor']",3,oxítona,False
+vindimar,"['vin', 'di', 'mar']",2,oxítona,False
+vindimo,"['vin', 'di', 'mo']",1,paroxítona,False
+vindo,"['vin', 'do']",0,paroxítona,False
+vindoura,"['vin', 'dou', 'ra']",1,paroxítona,False
+vindouro,"['vin', 'dou', 'ro']",1,paroxítona,False
+vinga,"['vin', 'ga']",0,paroxítona,False
+vingador,"['vin', 'ga', 'dor']",2,oxítona,False
+vingadora,"['vin', 'ga', 'do', 'ra']",2,paroxítona,False
+vingança,"['vin', 'gan', 'ça']",1,paroxítona,False
+vingar,"['vin', 'gar']",1,oxítona,False
+vingativamente,"['vin', 'ga', 'ti', 'va', 'men', 'te']",4,paroxítona,False
+vingativo,"['vin', 'ga', 'ti', 'vo']",2,paroxítona,False
+vingue,"['vin', 'gue']",0,paroxítona,False
+vinha,"['vi', 'nha']",0,paroxítona,False
+vinhaça,"['vi', 'nha', 'ça']",1,paroxítona,False
+vinhal,"['vi', 'nhal']",1,oxítona,False
+vinhão,"['vi', 'nhão']",1,oxítona,False
+vinhateiro,"['vi', 'nha', 'tei', 'ro']",2,paroxítona,False
+vinhático,"['vi', 'nhá', 'ti', 'co']",1,proparoxítona,False
+vinhedo,"['vi', 'nhe', 'do']",1,paroxítona,False
+vinheta,"['vi', 'nhe', 'ta']",1,paroxítona,False
+vinho,"['vi', 'nho']",0,paroxítona,False
+vínico,"['ví', 'ni', 'co']",0,proparoxítona,True
+vinícola,"['vi', 'ní', 'co', 'la']",1,proparoxítona,True
+vinicultor,"['vi', 'ni', 'cul', 'tor']",3,oxítona,False
+vinicultura,"['vi', 'ni', 'cul', 'tu', 'ra']",3,paroxítona,False
+vinificação,"['vi', 'ni', 'fi', 'ca', 'ção']",4,oxítona,False
+vinificador,"['vi', 'ni', 'fi', 'ca', 'dor']",4,oxítona,False
+vinificar,"['vi', 'ni', 'fi', 'car']",3,oxítona,False
+vinil,"['vi', 'nil']",1,oxítona,False
+vinílico,"['vi', 'ní', 'li', 'co']",1,proparoxítona,True
+vinilo,"['vi', 'ni', 'lo']",1,paroxítona,True
+vinosidade,"['vi', 'no', 'si', 'da', 'de']",3,paroxítona,True
+vinoso,"['vi', 'no', 'so']",1,paroxítona,True
+vintage,"['vin', 'ta', 'ge']",1,paroxítona,False
+vinte,"['vin', 'te']",0,paroxítona,False
+vintém,"['vin', 'tém']",1,oxítona,False
+vintena,"['vin', 'te', 'na']",1,paroxítona,False
+vinténio,"['vin', 'té', 'ni', 'o']",1,proparoxítona,False
+vinteno,"['vin', 'te', 'no']",1,paroxítona,False
+vintismo,"['vin', 'tis', 'mo']",1,paroxítona,False
+vintista,"['vin', 'tis', 'ta']",1,paroxítona,False
+viola,"['vi', 'o', 'la']",1,paroxítona,False
+violação,"['vi', 'o', 'la', 'ção']",3,oxítona,False
+violácea,"['vi', 'o', 'lá', 'ce', 'a']",2,proparoxítona,False
+violáceo,"['vi', 'o', 'lá', 'ce', 'o']",2,proparoxítona,False
+violado,"['vi', 'o', 'la', 'do']",2,paroxítona,False
+violador,"['vi', 'o', 'la', 'dor']",3,oxítona,False
+violadora,"['vi', 'o', 'la', 'do', 'ra']",3,paroxítona,False
+violão,"['vi', 'o', 'lão']",2,oxítona,False
+violar,"['vi', 'o', 'lar']",2,oxítona,False
+violaria,"['vi', 'o', 'la', 'ri', 'a']",3,paroxítona,False
+violável,"['vi', 'o', 'lá', 'vel']",2,paroxítona,False
+violeiro,"['vi', 'o', 'lei', 'ro']",2,paroxítona,False
+violência,"['vi', 'o', 'lên', 'ci', 'a']",2,proparoxítona,False
+violentado,"['vi', 'o', 'len', 'ta', 'do']",3,paroxítona,False
+violentador,"['vi', 'o', 'len', 'ta', 'dor']",4,oxítona,False
+violentadora,"['vi', 'o', 'len', 'ta', 'do', 'ra']",4,paroxítona,False
+violentamente,"['vi', 'o', 'len', 'ta', 'men', 'te']",4,paroxítona,False
+violentar,"['vi', 'o', 'len', 'tar']",3,oxítona,False
+violento,"['vi', 'o', 'len', 'to']",2,paroxítona,False
+violeta,"['vi', 'o', 'le', 'ta']",2,paroxítona,False
+violetista,"['vi', 'o', 'le', 'tis', 'ta']",3,paroxítona,False
+violinista,"['vi', 'o', 'li', 'nis', 'ta']",3,paroxítona,False
+violinístico,"['vi', 'o', 'li', 'nís', 'ti', 'co']",3,proparoxítona,False
+violino,"['vi', 'o', 'li', 'no']",2,paroxítona,False
+violista,"['vi', 'o', 'lis', 'ta']",2,paroxítona,False
+violoncelista,"['vi', 'o', 'lon', 'ce', 'lis', 'ta']",4,paroxítona,False
+violoncelo,"['vi', 'o', 'lon', 'ce', 'lo']",3,paroxítona,False
+violonista,"['vi', 'o', 'lo', 'nis', 'ta']",3,paroxítona,False
+viperina,"['vi', 'pe', 'ri', 'na']",2,paroxítona,True
+viperinamente,"['vi', 'pe', 'ri', 'na', 'men', 'te']",4,paroxítona,False
+viperino,"['vi', 'pe', 'ri', 'no']",2,paroxítona,True
+viquingue,"['vi', 'quin', 'gue']",1,paroxítona,False
+vir,['vir'],0,oxítona,False
+vira,"['vi', 'ra']",0,paroxítona,True
+vira-casaca,"['vi', 'ra-ca', 'sa', 'ca']",2,paroxítona,False
+vira-casacas,"['vi', 'ra-ca', 'sa', 'cas']",2,paroxítona,False
+vira-lata,"['vi', 'ra-', 'la', 'ta']",2,paroxítona,False
+viração,"['vi', 'ra', 'ção']",2,oxítona,False
+virada,"['vi', 'ra', 'da']",1,paroxítona,True
+viradeira,"['vi', 'ra', 'dei', 'ra']",2,paroxítona,False
+virado,"['vi', 'ra', 'do']",1,paroxítona,True
+viragem,"['vi', 'ra', 'gem']",1,paroxítona,False
+virago,"['vi', 'ra', 'go']",1,paroxítona,True
+viral,"['vi', 'ral']",1,oxítona,False
+virar,"['vi', 'rar']",1,oxítona,False
+viravolta,"['vi', 'ra', 'vol', 'ta']",2,paroxítona,False
+viravoltar,"['vi', 'ra', 'vol', 'tar']",3,oxítona,False
+virgem,"['vir', 'gem']",0,paroxítona,False
+virginal,"['vir', 'gi', 'nal']",2,oxítona,False
+virginalmente,"['vir', 'gi', 'nal', 'men', 'te']",3,paroxítona,False
+virgindade,"['vir', 'gin', 'da', 'de']",2,paroxítona,False
+virgínia,"['vir', 'gí', 'ni', 'a']",1,proparoxítona,False
+virgo,"['vir', 'go']",0,paroxítona,False
+vírgula,"['vír', 'gu', 'la']",0,proparoxítona,False
+virgular,"['vir', 'gu', 'lar']",2,oxítona,False
+viriato,"['vi', 'ri', 'a', 'to']",2,paroxítona,False
+viricida,"['vi', 'ri', 'ci', 'da']",2,paroxítona,True
+viril,"['vi', 'ril']",1,oxítona,False
+virilha,"['vi', 'ri', 'lha']",1,paroxítona,False
+virilidade,"['vi', 'ri', 'li', 'da', 'de']",3,paroxítona,True
+virilmente,"['vi', 'ril', 'men', 'te']",2,paroxítona,False
+viro,"['vi', 'ro']",0,paroxítona,True
+virola,"['vi', 'ro', 'la']",1,paroxítona,True
+virologia,"['vi', 'ro', 'lo', 'gi', 'a']",3,paroxítona,False
+virológico,"['vi', 'ro', 'ló', 'gi', 'co']",2,proparoxítona,True
+virologista,"['vi', 'ro', 'lo', 'gis', 'ta']",3,paroxítona,False
+virose,"['vi', 'ro', 'se']",1,paroxítona,True
+virote,"['vi', 'ro', 'te']",1,paroxítona,True
+virtual,"['vir', 'tu', 'al']",2,oxítona,False
+virtualidade,"['vir', 'tu', 'a', 'li', 'da', 'de']",4,paroxítona,False
+virtualmente,"['vir', 'tu', 'al', 'men', 'te']",3,paroxítona,False
+virtude,"['vir', 'tu', 'de']",1,paroxítona,False
+virtuosa,"['vir', 'tu', 'o', 'sa']",2,paroxítona,False
+virtuosamente,"['vir', 'tu', 'o', 'sa', 'men', 'te']",4,paroxítona,False
+virtuosidade,"['vir', 'tu', 'o', 'si', 'da', 'de']",4,paroxítona,False
+virtuosismo,"['vir', 'tu', 'o', 'sis', 'mo']",3,paroxítona,False
+virtuosístico,"['vir', 'tu', 'o', 'sís', 'ti', 'co']",3,proparoxítona,False
+virtuoso,"['vir', 'tu', 'o', 'so']",2,paroxítona,False
+virulência,"['vi', 'ru', 'lên', 'ci', 'a']",2,proparoxítona,False
+virulentamente,"['vi', 'ru', 'len', 'ta', 'men', 'te']",4,paroxítona,False
+virulento,"['vi', 'ru', 'len', 'to']",2,paroxítona,False
+vírus,"['ví', 'rus']",0,paroxítona,False
+vis-à-vis,"['vis', '-à-', 'vis']",2,oxítona,False
+visada,"['vi', 'sa', 'da']",1,paroxítona,True
+visado,"['vi', 'sa', 'do']",1,paroxítona,True
+visão,"['vi', 'são']",1,oxítona,False
+visar,"['vi', 'sar']",1,oxítona,False
+víscera,"['vís', 'ce', 'ra']",0,proparoxítona,False
+visceral,"['vis', 'ce', 'ral']",2,oxítona,False
+visceralidade,"['vis', 'ce', 'ra', 'li', 'da', 'de']",4,paroxítona,False
+visceralmente,"['vis', 'ce', 'ral', 'men', 'te']",3,paroxítona,False
+visco,"['vis', 'co']",0,paroxítona,False
+visconde,"['vis', 'con', 'de']",1,paroxítona,False
+viscondessa,"['vis', 'con', 'des', 'sa']",2,paroxítona,False
+viscose,"['vis', 'co', 'se']",1,paroxítona,False
+viscosidade,"['vis', 'co', 'si', 'da', 'de']",3,paroxítona,False
+viscoso,"['vis', 'co', 'so']",1,paroxítona,False
+viseense,"['vi', 'se', 'en', 'se']",2,paroxítona,False
+viseira,"['vi', 'sei', 'ra']",1,paroxítona,False
+visgar,"['vis', 'gar']",1,oxítona,False
+visgo,"['vis', 'go']",0,paroxítona,False
+visibilidade,"['vi', 'si', 'bi', 'li', 'da', 'de']",4,paroxítona,True
+visigodo,"['vi', 'si', 'go', 'do']",2,paroxítona,True
+visigótico,"['vi', 'si', 'gó', 'ti', 'co']",2,proparoxítona,True
+visionamento,"['vi', 'si', 'o', 'na', 'men', 'to']",4,paroxítona,False
+visionar,"['vi', 'si', 'o', 'nar']",3,oxítona,False
+visionária,"['vi', 'si', 'o', 'ná', 'ri', 'a']",3,proparoxítona,False
+visionariamente,"['vi', 'si', 'o', 'na', 'ri', 'a', 'men', 'te']",6,paroxítona,False
+visionário,"['vi', 'si', 'o', 'ná', 'ri', 'o']",3,proparoxítona,False
+visionarismo,"['vi', 'si', 'o', 'na', 'ris', 'mo']",4,paroxítona,False
+visita,"['vi', 'si', 'ta']",1,paroxítona,True
+visita-relâmpago,"['vi', 'si', 'ta-re', 'lâm', 'pa', 'go']",3,proparoxítona,False
+visitação,"['vi', 'si', 'ta', 'ção']",3,oxítona,False
+visitador,"['vi', 'si', 'ta', 'dor']",3,oxítona,False
+visitadora,"['vi', 'si', 'ta', 'do', 'ra']",3,paroxítona,True
+visitante,"['vi', 'si', 'tan', 'te']",2,paroxítona,False
+visitar,"['vi', 'si', 'tar']",2,oxítona,False
+visitável,"['vi', 'si', 'tá', 'vel']",2,paroxítona,False
+visível,"['vi', 'sí', 'vel']",1,paroxítona,False
+visivelmente,"['vi', 'si', 'vel', 'men', 'te']",3,paroxítona,False
+vislumbrar,"['vis', 'lum', 'brar']",2,oxítona,False
+vislumbre,"['vis', 'lum', 'bre']",1,paroxítona,False
+viso,"['vi', 'so']",0,paroxítona,True
+visom,"['vi', 'som']",0,paroxítona,False
+vison,"['vi', 'son']",1,oxítona,False
+visor,"['vi', 'sor']",1,oxítona,False
+vista,"['vis', 'ta']",0,paroxítona,False
+visto,"['vis', 'to']",0,paroxítona,False
+vistoria,"['vis', 'to', 'ri', 'a']",2,paroxítona,False
+vistoriar,"['vis', 'to', 'ri', 'ar']",3,oxítona,False
+vistosamente,"['vis', 'to', 'sa', 'men', 'te']",3,paroxítona,False
+vistoso,"['vis', 'to', 'so']",1,paroxítona,False
+visual,"['vi', 'su', 'al']",2,oxítona,False
+visualidade,"['vi', 'su', 'a', 'li', 'da', 'de']",4,paroxítona,False
+visualização,"['vi', 'su', 'a', 'li', 'za', 'ção']",5,oxítona,False
+visualizar,"['vi', 'su', 'a', 'li', 'zar']",4,oxítona,False
+visualmente,"['vi', 'su', 'al', 'men', 'te']",3,paroxítona,False
+vital,"['vi', 'tal']",1,oxítona,False
+vitaliciamente,"['vi', 'ta', 'li', 'ci', 'a', 'men', 'te']",5,paroxítona,False
+vitalício,"['vi', 'ta', 'lí', 'ci', 'o']",2,proparoxítona,False
+vitalidade,"['vi', 'ta', 'li', 'da', 'de']",3,paroxítona,True
+vitalismo,"['vi', 'ta', 'lis', 'mo']",2,paroxítona,False
+vitalista,"['vi', 'ta', 'lis', 'ta']",2,paroxítona,False
+vitalização,"['vi', 'ta', 'li', 'za', 'ção']",4,oxítona,False
+vitalizado,"['vi', 'ta', 'li', 'za', 'do']",3,paroxítona,True
+vitalizar,"['vi', 'ta', 'li', 'zar']",3,oxítona,False
+vitalmente,"['vi', 'tal', 'men', 'te']",2,paroxítona,False
+vitamina,"['vi', 'ta', 'mi', 'na']",2,paroxítona,True
+vitaminado,"['vi', 'ta', 'mi', 'na', 'do']",3,paroxítona,True
+vitaminar,"['vi', 'ta', 'mi', 'nar']",3,oxítona,False
+vitamínico,"['vi', 'ta', 'mí', 'ni', 'co']",2,proparoxítona,True
+vitela,"['vi', 'te', 'la']",1,paroxítona,True
+vitelo,"['vi', 'te', 'lo']",1,paroxítona,True
+vitícola,"['vi', 'tí', 'co', 'la']",1,proparoxítona,True
+viticultor,"['vi', 'ti', 'cul', 'tor']",3,oxítona,False
+viticultura,"['vi', 'ti', 'cul', 'tu', 'ra']",3,paroxítona,False
+vitiligo,"['vi', 'ti', 'li', 'go']",2,paroxítona,True
+vítima,"['ví', 'ti', 'ma']",0,proparoxítona,True
+vitimar,"['vi', 'ti', 'mar']",2,oxítona,False
+vitimização,"['vi', 'ti', 'mi', 'za', 'ção']",4,oxítona,False
+vitimizar,"['vi', 'ti', 'mi', 'zar']",3,oxítona,False
+vitivinícola,"['vi', 'ti', 'vi', 'ní', 'co', 'la']",3,proparoxítona,True
+vitivinicultor,"['vi', 'ti', 'vi', 'ni', 'cul', 'tor']",5,oxítona,False
+vitivinicultura,"['vi', 'ti', 'vi', 'ni', 'cul', 'tu', 'ra']",5,paroxítona,False
+vitória,"['vi', 'tó', 'ri', 'a']",1,proparoxítona,False
+vitoriana,"['vi', 'to', 'ri', 'a', 'na']",3,paroxítona,False
+vitoriano,"['vi', 'to', 'ri', 'a', 'no']",3,paroxítona,False
+vitoriar,"['vi', 'to', 'ri', 'ar']",3,oxítona,False
+vitoriosa,"['vi', 'to', 'ri', 'o', 'sa']",3,paroxítona,False
+vitoriosamente,"['vi', 'to', 'ri', 'o', 'sa', 'men', 'te']",5,paroxítona,False
+vitorioso,"['vi', 'to', 'ri', 'o', 'so']",3,paroxítona,False
+vitral,"['vi', 'tral']",1,oxítona,False
+vítreo,"['ví', 'tre', 'o']",0,proparoxítona,False
+vitrificar,"['vi', 'tri', 'fi', 'car']",3,oxítona,False
+vitrina,"['vi', 'tri', 'na']",1,paroxítona,False
+vitrine,"['vi', 'tri', 'ne']",1,paroxítona,False
+vitrinista,"['vi', 'tri', 'nis', 'ta']",2,paroxítona,False
+vitríolo,"['vi', 'trí', 'o', 'lo']",1,proparoxítona,False
+vitualha,"['vi', 'tu', 'a', 'lha']",2,paroxítona,False
+vitualhar,"['vi', 'tu', 'a', 'lhar']",3,oxítona,False
+vitualhas,"['vi', 'tu', 'a', 'lhas']",2,paroxítona,False
+vituperar,"['vi', 'tu', 'pe', 'rar']",3,oxítona,False
+vitupério,"['vi', 'tu', 'pé', 'ri', 'o']",2,proparoxítona,False
+viúva,"['vi', 'ú', 'va']",1,paroxítona,False
+viuvar,"['viu', 'var']",1,oxítona,False
+viuvez,"['viu', 'vez']",1,oxítona,False
+viuvinha,"['viu', 'vi', 'nha']",1,paroxítona,False
+viúvo,"['vi', 'ú', 'vo']",1,paroxítona,False
+viva,"['vi', 'va']",0,paroxítona,True
+vivaça,"['vi', 'va', 'ça']",1,paroxítona,True
+vivace,"['vi', 'va', 'ce']",1,paroxítona,True
+vivacidade,"['vi', 'va', 'ci', 'da', 'de']",3,paroxítona,True
+vivaço,"['vi', 'va', 'ço']",1,paroxítona,True
+vivalma,"['vi', 'val', 'ma']",1,paroxítona,False
+vivamente,"['vi', 'va', 'men', 'te']",2,paroxítona,False
+vivar,"['vi', 'var']",1,oxítona,False
+vivaz,"['vi', 'vaz']",1,oxítona,False
+vivazmente,"['vi', 'vaz', 'men', 'te']",2,paroxítona,False
+viveirista,"['vi', 'vei', 'ris', 'ta']",2,paroxítona,False
+viveiro,"['vi', 'vei', 'ro']",1,paroxítona,False
+vivência,"['vi', 'vên', 'ci', 'a']",1,proparoxítona,False
+vivencial,"['vi', 'ven', 'ci', 'al']",3,oxítona,False
+vivenciar,"['vi', 'ven', 'ci', 'ar']",3,oxítona,False
+vivenda,"['vi', 'ven', 'da']",1,paroxítona,False
+vivente,"['vi', 'ven', 'te']",1,paroxítona,False
+viver,"['vi', 'ver']",1,oxítona,False
+víveres,"['ví', 've', 'res']",0,proparoxítona,False
+viveza,"['vi', 've', 'za']",1,paroxítona,True
+vividamente,"['vi', 'vi', 'da', 'men', 'te']",3,paroxítona,False
+vívido,"['ví', 'vi', 'do']",0,proparoxítona,True
+vivido,"['vi', 'vi', 'do']",1,paroxítona,True
+vivificação,"['vi', 'vi', 'fi', 'ca', 'ção']",4,oxítona,False
+vivificador,"['vi', 'vi', 'fi', 'ca', 'dor']",4,oxítona,False
+vivificadora,"['vi', 'vi', 'fi', 'ca', 'do', 'ra']",4,paroxítona,True
+vivificante,"['vi', 'vi', 'fi', 'can', 'te']",3,paroxítona,False
+vivificantemente,"['vi', 'vi', 'fi', 'can', 'te', 'men', 'te']",5,paroxítona,False
+vivificar,"['vi', 'vi', 'fi', 'car']",3,oxítona,False
+vivissecção,"['vi', 'vis', 'sec', 'ção']",3,oxítona,False
+vivo,"['vi', 'vo']",0,paroxítona,True
+vizelense,"['vi', 'ze', 'len', 'se']",2,paroxítona,False
+vizinha,"['vi', 'zi', 'nha']",1,paroxítona,False
+vizinhança,"['vi', 'zi', 'nhan', 'ça']",2,paroxítona,False
+vizinhar,"['vi', 'zi', 'nhar']",2,oxítona,False
+vizinho,"['vi', 'zi', 'nho']",1,paroxítona,False
+vizir,"['vi', 'zir']",1,oxítona,False
+voador,"['vo', 'a', 'dor']",2,oxítona,False
+voadora,"['vo', 'a', 'do', 'ra']",2,paroxítona,False
+voar,"['vo', 'ar']",1,oxítona,False
+voaria,"['vo', 'a', 'ri', 'a']",2,paroxítona,False
+vocabular,"['vo', 'ca', 'bu', 'lar']",3,oxítona,False
+vocabulário,"['vo', 'ca', 'bu', 'lá', 'ri', 'o']",3,proparoxítona,False
+vocábulo,"['vo', 'cá', 'bu', 'lo']",1,proparoxítona,True
+vocação,"['vo', 'ca', 'ção']",2,oxítona,False
+vocacionado,"['vo', 'ca', 'ci', 'o', 'na', 'do']",4,paroxítona,False
+vocacional,"['vo', 'ca', 'ci', 'o', 'nal']",4,oxítona,False
+vocacionar,"['vo', 'ca', 'ci', 'o', 'nar']",4,oxítona,False
+vocal,"['vo', 'cal']",1,oxítona,False
+vocalicamente,"['vo', 'ca', 'li', 'ca', 'men', 'te']",4,paroxítona,False
+vocálico,"['vo', 'cá', 'li', 'co']",1,proparoxítona,True
+vocalista,"['vo', 'ca', 'lis', 'ta']",2,paroxítona,False
+vocalização,"['vo', 'ca', 'li', 'za', 'ção']",4,oxítona,False
+vocalizar,"['vo', 'ca', 'li', 'zar']",3,oxítona,False
+vocalizo,"['vo', 'ca', 'li', 'zo']",2,paroxítona,True
+vocalmente,"['vo', 'cal', 'men', 'te']",2,paroxítona,False
+vocativamente,"['vo', 'ca', 'ti', 'va', 'men', 'te']",4,paroxítona,False
+vocativo,"['vo', 'ca', 'ti', 'vo']",2,paroxítona,True
+você,"['vo', 'cê']",1,oxítona,True
+vociferação,"['vo', 'ci', 'fe', 'ra', 'ção']",4,oxítona,False
+vociferante,"['vo', 'ci', 'fe', 'ran', 'te']",3,paroxítona,False
+vociferar,"['vo', 'ci', 'fe', 'rar']",3,oxítona,False
+vodka,"['vod', 'ka']",0,paroxítona,False
+voga,"['vo', 'ga']",0,paroxítona,True
+vogal,"['vo', 'gal']",1,oxítona,False
+vogar,"['vo', 'gar']",1,oxítona,False
+voice-mail,"['voi', 'ce-', 'mail']",2,oxítona,False
+voile,"['voi', 'le']",0,paroxítona,False
+volante,"['vo', 'lan', 'te']",1,paroxítona,False
+volapuque,"['vo', 'la', 'pu', 'que']",2,paroxítona,False
+volátil,"['vo', 'lá', 'til']",1,paroxítona,False
+volatilidade,"['vo', 'la', 'ti', 'li', 'da', 'de']",4,paroxítona,True
+volatilização,"['vo', 'la', 'ti', 'li', 'za', 'ção']",5,oxítona,False
+volatilizar,"['vo', 'la', 'ti', 'li', 'zar']",4,oxítona,False
+vólei,"['vó', 'lei']",0,paroxítona,False
+voleibol,"['vo', 'lei', 'bol']",2,oxítona,False
+voleibolista,"['vo', 'lei', 'bo', 'lis', 'ta']",3,paroxítona,False
+volfrâmio,"['vol', 'frâ', 'mi', 'o']",1,proparoxítona,False
+volframista,"['vol', 'fra', 'mis', 'ta']",2,paroxítona,False
+volframite,"['vol', 'fra', 'mi', 'te']",2,paroxítona,False
+volição,"['vo', 'li', 'ção']",2,oxítona,False
+volitivo,"['vo', 'li', 'ti', 'vo']",2,paroxítona,True
+volo,"['vo', 'lo']",0,paroxítona,True
+volt,['volt'],0,oxítona,False
+volta,"['vol', 'ta']",0,paroxítona,False
+voltagem,"['vol', 'ta', 'gem']",1,paroxítona,False
+voltaico,"['vol', 'tai', 'co']",1,paroxítona,False
+voltairiano,"['vol', 'tai', 'ri', 'a', 'no']",3,paroxítona,False
+voltar,"['vol', 'tar']",1,oxítona,False
+volte,"['vol', 'te']",0,paroxítona,False
+volte-face,"['vol', 'te-', 'fa', 'ce']",2,paroxítona,False
+voltear,"['vol', 'te', 'ar']",2,oxítona,False
+volteio,"['vol', 'tei', 'o']",1,paroxítona,False
+voltejar,"['vol', 'te', 'jar']",2,oxítona,False
+voltímetro,"['vol', 'tí', 'me', 'tro']",1,proparoxítona,False
+vóltio,"['vól', 'ti', 'o']",0,proparoxítona,False
+volubilidade,"['vo', 'lu', 'bi', 'li', 'da', 'de']",4,paroxítona,True
+volumar,"['vo', 'lu', 'mar']",2,oxítona,False
+volume,"['vo', 'lu', 'me']",1,paroxítona,True
+volumetria,"['vo', 'lu', 'me', 'tri', 'a']",3,paroxítona,False
+volumetricamente,"['vo', 'lu', 'me', 'tri', 'ca', 'men', 'te']",5,paroxítona,False
+volumétrico,"['vo', 'lu', 'mé', 'tri', 'co']",2,proparoxítona,False
+volúmico,"['vo', 'lú', 'mi', 'co']",1,proparoxítona,True
+volumosamente,"['vo', 'lu', 'mo', 'sa', 'men', 'te']",4,paroxítona,False
+volumoso,"['vo', 'lu', 'mo', 'so']",2,paroxítona,True
+voluntária,"['vo', 'lun', 'tá', 'ri', 'a']",2,proparoxítona,False
+voluntariado,"['vo', 'lun', 'ta', 'ri', 'a', 'do']",4,paroxítona,False
+voluntariamente,"['vo', 'lun', 'ta', 'ri', 'a', 'men', 'te']",5,paroxítona,False
+voluntariar,"['vo', 'lun', 'ta', 'ri', 'ar']",4,oxítona,False
+voluntariedade,"['vo', 'lun', 'ta', 'ri', 'e', 'da', 'de']",5,paroxítona,False
+voluntário,"['vo', 'lun', 'tá', 'ri', 'o']",2,proparoxítona,False
+voluntariosa,"['vo', 'lun', 'ta', 'ri', 'o', 'sa']",4,paroxítona,False
+voluntariosamente,"['vo', 'lun', 'ta', 'ri', 'o', 'sa', 'men', 'te']",6,paroxítona,False
+voluntarioso,"['vo', 'lun', 'ta', 'ri', 'o', 'so']",4,paroxítona,False
+voluntarismo,"['vo', 'lun', 'ta', 'ris', 'mo']",3,paroxítona,False
+voluntarista,"['vo', 'lun', 'ta', 'ris', 'ta']",3,paroxítona,False
+volúpia,"['vo', 'lú', 'pi', 'a']",1,proparoxítona,False
+voluptuosa,"['vo', 'lup', 'tu', 'o', 'sa']",3,paroxítona,False
+voluptuosamente,"['vo', 'lup', 'tu', 'o', 'sa', 'men', 'te']",5,paroxítona,False
+voluptuosidade,"['vo', 'lup', 'tu', 'o', 'si', 'da', 'de']",5,paroxítona,False
+voluptuoso,"['vo', 'lup', 'tu', 'o', 'so']",3,paroxítona,False
+voluta,"['vo', 'lu', 'ta']",1,paroxítona,True
+volutar,"['vo', 'lu', 'tar']",2,oxítona,False
+volúvel,"['vo', 'lú', 'vel']",1,paroxítona,False
+voluvelmente,"['vo', 'lu', 'vel', 'men', 'te']",3,paroxítona,False
+volva,"['vol', 'va']",0,paroxítona,False
+volver,"['vol', 'ver']",1,oxítona,False
+volvido,"['vol', 'vi', 'do']",1,paroxítona,False
+volvo,"['vol', 'vo']",0,paroxítona,False
+vomitado,"['vo', 'mi', 'ta', 'do']",2,paroxítona,True
+vomitar,"['vo', 'mi', 'tar']",2,oxítona,False
+vómito,"['vó', 'mi', 'to']",0,proparoxítona,True
+vomitório,"['vo', 'mi', 'tó', 'ri', 'o']",2,proparoxítona,False
+vontade,"['von', 'ta', 'de']",1,paroxítona,False
+voo,"['vo', 'o']",0,paroxítona,False
+voracidade,"['vo', 'ra', 'ci', 'da', 'de']",3,paroxítona,True
+voragem,"['vo', 'ra', 'gem']",1,paroxítona,False
+voraz,"['vo', 'raz']",1,oxítona,False
+vorazmente,"['vo', 'raz', 'men', 'te']",2,paroxítona,False
+vórtice,"['vór', 'ti', 'ce']",0,proparoxítona,False
+vós,['vós'],0,oxítona,False
+vos,['vos'],0,oxítona,False
+vossemecê,"['vos', 'se', 'me', 'cê']",3,oxítona,False
+vosso,"['vos', 'so']",0,paroxítona,False
+votação,"['vo', 'ta', 'ção']",2,oxítona,False
+votado,"['vo', 'ta', 'do']",1,paroxítona,True
+votante,"['vo', 'tan', 'te']",1,paroxítona,False
+votar,"['vo', 'tar']",1,oxítona,False
+votivamente,"['vo', 'ti', 'va', 'men', 'te']",3,paroxítona,False
+votivo,"['vo', 'ti', 'vo']",1,paroxítona,True
+voto,"['vo', 'to']",0,paroxítona,True
+voucher,"['vou', 'cher']",1,oxítona,False
+vouzelense,"['vou', 'ze', 'len', 'se']",2,paroxítona,False
+vovô,"['vo', 'vô']",1,oxítona,True
+vovó,"['vo', 'vó']",1,oxítona,True
+voyeur,"['voy', 'eur']",1,oxítona,False
+voyeurismo,"['voy', 'eu', 'ris', 'mo']",2,paroxítona,False
+voyeurista,"['voy', 'eu', 'ris', 'ta']",2,paroxítona,False
+voz,['voz'],0,oxítona,False
+voz-off,"['voz', 'off']",1,oxítona,False
+vozear,"['vo', 'ze', 'ar']",2,oxítona,False
+vozearia,"['vo', 'ze', 'a', 'ri', 'a']",3,paroxítona,False
+vozeirão,"['vo', 'zei', 'rão']",2,oxítona,False
+vudu,"['vu', 'du']",1,oxítona,True
+vulcanicamente,"['vul', 'ca', 'ni', 'ca', 'men', 'te']",4,paroxítona,False
+vulcânico,"['vul', 'câ', 'ni', 'co']",1,proparoxítona,False
+vulcanismo,"['vul', 'ca', 'nis', 'mo']",2,paroxítona,False
+vulcanização,"['vul', 'ca', 'ni', 'za', 'ção']",4,oxítona,False
+vulcanizar,"['vul', 'ca', 'ni', 'zar']",3,oxítona,False
+vulcanologia,"['vul', 'ca', 'no', 'lo', 'gi', 'a']",4,paroxítona,False
+vulcanológico,"['vul', 'ca', 'no', 'ló', 'gi', 'co']",3,proparoxítona,False
+vulcanologista,"['vul', 'ca', 'no', 'lo', 'gis', 'ta']",4,paroxítona,False
+vulcanólogo,"['vul', 'ca', 'nó', 'lo', 'go']",2,proparoxítona,False
+vulcão,"['vul', 'cão']",1,oxítona,False
+vulgar,"['vul', 'gar']",1,oxítona,False
+vulgaridade,"['vul', 'ga', 'ri', 'da', 'de']",3,paroxítona,False
+vulgarização,"['vul', 'ga', 'ri', 'za', 'ção']",4,oxítona,False
+vulgarizar,"['vul', 'ga', 'ri', 'zar']",3,oxítona,False
+vulgarmente,"['vul', 'gar', 'men', 'te']",2,paroxítona,False
+vulgo,"['vul', 'go']",0,paroxítona,False
+vulnerabilidade,"['vul', 'ne', 'ra', 'bi', 'li', 'da', 'de']",5,paroxítona,False
+vulnerabilizar,"['vul', 'ne', 'ra', 'bi', 'li', 'zar']",5,oxítona,False
+vulnerar,"['vul', 'ne', 'rar']",2,oxítona,False
+vulnerável,"['vul', 'ne', 'rá', 'vel']",2,paroxítona,False
+vulneravelmente,"['vul', 'ne', 'ra', 'vel', 'men', 'te']",4,paroxítona,False
+vulto,"['vul', 'to']",0,paroxítona,False
+vultosamente,"['vul', 'to', 'sa', 'men', 'te']",3,paroxítona,False
+vultoso,"['vul', 'to', 'so']",1,paroxítona,False
+vultuosamente,"['vul', 'tu', 'o', 'sa', 'men', 'te']",4,paroxítona,False
+vultuoso,"['vul', 'tu', 'o', 'so']",2,paroxítona,False
+vulva,"['vul', 'va']",0,paroxítona,False
+vulvar,"['vul', 'var']",1,oxítona,False
+vuvu,"['vu', 'vu']",1,oxítona,True
