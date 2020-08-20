@@ -31,8 +31,8 @@ def isConsoant(x):
     return unidecode.unidecode(x) in consoants
 
 first = 'a'
-last = 'z'
-pages = 1000
+last = 'b'
+pages = 10
 
 # Recupera as palavras de a até z
 for c in char_range(first, last):
@@ -76,12 +76,14 @@ for c in char_range(first, last):
                 elif not (isConsoant(syllable[0]) & isVogal(syllable[1])):
                     word['canonic'] = False
                     break
-
             
             df.loc[n_words] = [ word['word'], word['syllables'], word['tonic'], word['class'], word['canonic']]
             n_words = n_words + 1
     
     df = df.drop_duplicates(subset = ['word', 'tonic', 'class'])
-    df.to_json(c + '.json')
+
+    # improve
+    df.index = [i for i in range(0, len(df))]
+    df.to_json(c + '.json', orient = "index")
     print(" with " + str(len(df)) + " words")
             

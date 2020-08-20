@@ -3,15 +3,10 @@
 import pandas as pd
 import streamlit as st
 import random
+import copy
 
 import display
-import src.pages.select_words
 import src.pages.select_pseudo_words
-
-MENU = {
-    "Seleção de Palavras" : src.pages.select_words,
-    "Geração de pseudo Palavras" : src.pages.select_pseudo_words
-}
 
 tonic_options = {
     'Oxítona': 'oxitona',
@@ -26,7 +21,7 @@ canonic_options = {
 
 class Composition:
 
-    words_df = pd.read_csv('b.csv')
+    words_df = pd.read_json('b.json', orient = "index")
     rnd_words = []
     selected_words = []
     selecting_words = False
@@ -40,23 +35,34 @@ for x in range(ord('b'), ord('z') + 1):
 composition = Composition()
 
 def makePseudoWord(word):
-    st.write(word['word'])
-    pseudo = ""
+    # st.write(word['word'])
+    pseudo = copy.deepcopy(word)
+    pseudo['word'] = ''
+    pseudo['syllables'] = []
     if word['canonic']:
+        # st.write("  canonic" + str(len(word['syllables'])))
         for i in range(len(word['syllables'])):
             syllable = word['syllables'][i]
-            st.write(syllable)
-            if i == word.tonic:
-                pseudo = pseudo + syllable
+            # st.write("    " + syllable)
+            if i == int(word.tonic):
+                pseudo['syllables'].append(syllable)
+                pseudo['word'] = pseudo['word'] + syllable
             else:
-                pseudo = pseudo + consoants[random.randint(0, len(consoants))] + vogals[random.randint(0, len(vogals))]
-                # if random.randint(0, 2):
-                #     pseudo = pseudo + consoants[random.randint(0, len(consoants))] + syllable[1]
-                # else:
-                #     pseudo = pseudo + syllable[0] + vogals[random.randint(0, len(vogals))]
+                # pseudo = pseudo + consoants[random.randint(0, len(consoants))] + vogals[random.randint(0, len(vogals))]
+                if random.randint(0, 2):
+                    consoant = consoants[random.randint(0, 20)]
+                    new_syllable = consoant + syllable[1]
+                    pseudo['syllables'].append(new_syllable)
+                    pseudo['word'] = pseudo['word'] + new_syllable
+                else:
+                    vogal = vogals[random.randint(0, 5)]
+                    new_syllable = syllable[0] + vogal
+                    pseudo['syllables'].append(new_syllable)
+                    pseudo['word'] = pseudo['word'] + new_syllable
     else:
-        st.write("syllable")
-        pseudo = word['word']
+        # st.write("  not canonic")
+        pseudo['word'] = "bananice"
+        pseudo['syllables'] = []
 
     return pseudo
 
@@ -66,12 +72,16 @@ def write():
 
     st.subheader("Escolha uma configuração")
 
+    st.write(consoants)
+
     tonic_selection = st.radio("Escolha uma opção quanto à sílaba tônica", list(tonic_options.keys()))
     canonic_selection = st.radio("Escolha uma opção quanto à sílaba tônica", list(canonic_options.keys()))
     
     composition.selecting_words = True
 
-    st.subheader("Busque palavras")
+    st.write(composition.words_df)
+
+    st.subheader("Busque palavras nessa configuração")
     if st.button("Clique para buscar palavras"):
         composition.rnd_words = random.sample(range(0, len(composition.words_df)), min(5, len(composition.words_df)))
 
@@ -92,8 +102,13 @@ def write():
     sliced_df = composition.words_df.loc[composition.words_df['word'].isin(composition.selected_words)]
     st.dataframe(sliced_df)
 
+    pseudo_words = pd.DataFrame(columns = sliced_df.columns)
+    n_pw = 0
     for i, word in sliced_df.iterrows():
-        st.write(makePseudoWord(word))
+        pseudo_words.loc[n_pw] = makePseudoWord(word)
+        n_pw = n_pw + 1
+
+    st.dataframe(pseudo_words)
 
     # with st.spinner(f"Loading {menu_selection} ..."):
         # display.render_page(menu)
