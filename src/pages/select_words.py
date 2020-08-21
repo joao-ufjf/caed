@@ -83,6 +83,21 @@ def makePseudoWord(word):
 
     return pseudo
 
+def to_excell(df, name):
+    wb = Workbook()
+    ws = wb.active
+
+    for r in dataframe_to_rows(df, index=False, header=True):
+        ws.append(r)
+
+    vw = save_virtual_workbook(wb)
+    xlsx_io = io.BytesIO(vw)
+    xlsx_io.seek(0)
+    media_type = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+    data = base64.b64encode(xlsx_io.read()).decode("utf-8")
+    href_data_downloadable = f'data:{media_type};base64,{data}'
+    
+    st.markdown(f'<a href="{href_data_downloadable}" download="template.xlsx">{name}</a>', unsafe_allow_html=True)
 
 def write():
     st.title("Gerador de Pseudo-palavras")
@@ -140,6 +155,7 @@ def write():
     # Recupera os registros que contém as palavras selecionadas
     sliced_df = composition.words_df.loc[composition.words_df['word'].isin(composition.selected_words)]
     st.dataframe(sliced_df)
+    # TODO to_excell(sliced_df, "Download das palavras selecionadas")
 
     st.write("""
         Ao clicar no botão "Gerar", serão geradas de 2 a 5 pseudo-palavras para cada palavra selecionada.
@@ -166,21 +182,8 @@ def write():
             return (str1.join(s))
 
         pseudo_words["syllables"] = pseudo_words["syllables"].apply(listToString)
+        to_excell(pseudo_words, "Download das Pseudo-palavras")
 
-        wb = Workbook()
-        ws = wb.active
-
-        for r in dataframe_to_rows(pseudo_words, index=False, header=True):
-            ws.append(r)
-
-        vw = save_virtual_workbook(wb)
-        xlsx_io = io.BytesIO(vw)
-        xlsx_io.seek(0)
-        media_type = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
-        data = base64.b64encode(xlsx_io.read()).decode("utf-8")
-        href_data_downloadable = f'data:{media_type};base64,{data}'
-
-        st.markdown(f'<a href="{href_data_downloadable}" download="template.xlsx">Download das Pseudo-palavras</a>', unsafe_allow_html=True)
 
 if __name__ == "__main__":
     # composition = Composition()
