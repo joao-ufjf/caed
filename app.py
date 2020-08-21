@@ -14,8 +14,22 @@ MENU = {
 }
 
 def main():
-    st.sidebar.title("O que deseja fazer?")
-    menu_selection = st.sidebar.radio("Escolha uma opção", list(MENU.keys()))
+    st.markdown(
+            f"""
+    <style>
+        .reportview-container .main .block-container{{
+            max-width: 60%;
+        }}
+        .reportview-container .main {{
+        }}
+    </style>
+    """,
+            unsafe_allow_html=True,
+        )
+    # st.sidebar.title("O que deseja fazer?")
+    # menu_selection = st.sidebar.radio("Escolha uma opção", list(MENU.keys()))
+
+    menu_selection = "Seleção de Palavras"
 
     menu = MENU[menu_selection]
 

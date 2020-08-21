@@ -68,7 +68,19 @@ def makePseudoWord(word):
 
 
 def write():
-    st.title("Escolha das Palavras:")
+    st.title("Gerador de Pseudo-palavras")
+
+    st.write("""
+        Uma forma de avaliar a capacidade de leitura de uma criança é verificar a capacidade de decodificação. Para isso, costuma-se utilizar testes 
+        com palavras e com pseudo-palavras, ou seja, palavras que não existem na língua portuguesa, mas que são palavras “corretas”.
+        Exemplos de pseudo-palavras são comalo, rupeita, lopi. Não são exemplos de pseudo-palavras o que não faz
+        sentido na sintaxe da língua portuguesa como sunpa, crippa, treazsa. Essa aplicação foi desenvolvida com o objetivo de 
+        prover uma ferramenta ao avaliador para gerar os testes de pseudo-palavras.
+    """)
+
+    st.header("Escolha das Palavras:")
+
+    st.write("Aqui o avaliador deve escolher as características da palavra, em seguida selecionar as desejadas para gerar pseudo-palavras.")
 
     st.subheader("Escolha uma configuração")
 
@@ -80,7 +92,12 @@ def write():
     # st.write(composition.words_df)
 
     st.subheader("Busque palavras nessa configuração")
-    if st.button("Clique para buscar palavras"):
+    st.write("""
+        Ao buscar palavras, serão apresentadas 30 palavras do banco de palavras, 
+        onde podem ser selecionadas diversas delas. Ao buscar novamente outras 30 
+        palavras são recuperas do banco de palavras.
+    """)
+    if st.button("Buscar palavras"):
         composition.rnd_words = random.sample(range(0, len(composition.words_df)), min(15, len(composition.words_df)))
 
     # st.dataframe(composition.words_df.loc[composition.rnd_words])
@@ -89,23 +106,30 @@ def write():
         'Selecione as palavras desejadas',
         list(composition.words_df.loc[composition.rnd_words]['word']))
 
-    # st.write(selected)
+    st.write("""
+        Ao adicionar palavras, elas vão para a lista de palavras utilizadas para gerar pseudo-palavras.
+    """)
 
     if st.button("Adicionar palavras"):
         composition.selected_words = composition.selected_words + selected
 
-    st.title("Geração de Pseudo-palavras:")
+    st.header("Geração de Pseudo-palavras:")
 
     st.subheader("Palavras selecionadas:")
     sliced_df = composition.words_df.loc[composition.words_df['word'].isin(composition.selected_words)]
     st.dataframe(sliced_df)
+
+    st.write("""
+        Ao clicar no botão "Gerar", serão geradas de 2 a 5 pseudo-palavras para cada palavra selecionada.
+        Clicar no botão novamente gera outras pseudo-palavras.
+    """)
 
     st.subheader("Gerar pseudo-palavras:")
     if st.button("Gerar"):
         pseudo_words = pd.DataFrame(columns = sliced_df.columns)
         n_pw = 0
         for i, word in sliced_df.iterrows():
-            for j in range(random.randint(1, 5)):
+            for j in range(random.randint(2, 5)):
                 pseudo_words.loc[n_pw] = makePseudoWord(word)
                 n_pw = n_pw + 1
 
