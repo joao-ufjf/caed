@@ -84,6 +84,6 @@ for c in char_range(first, last):
 
     # improve
     df.index = [i for i in range(0, len(df))]
-    df.to_json(c + '.json', orient = "index")
+    df.to_json('data/' + c + '.json', orient = "index")
     print(" with " + str(len(df)) + " words")
             

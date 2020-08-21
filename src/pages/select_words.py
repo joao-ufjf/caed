@@ -21,7 +21,7 @@ canonic_options = {
 
 class Composition:
 
-    words_df = pd.read_json('b.json', orient = "index")
+    words_df = pd.read_json('data/b.json', orient = "index")
     rnd_words = []
     selected_words = []
     selecting_words = False
@@ -55,7 +55,7 @@ def makePseudoWord(word):
                     pseudo['syllables'].append(new_syllable)
                     pseudo['word'] = pseudo['word'] + new_syllable
                 else:
-                    vogal = vogals[random.randint(0, 5)]
+                    vogal = vogals[random.randint(0, 4)]
                     new_syllable = syllable[0] + vogal
                     pseudo['syllables'].append(new_syllable)
                     pseudo['word'] = pseudo['word'] + new_syllable
@@ -72,18 +72,16 @@ def write():
 
     st.subheader("Escolha uma configuração")
 
-    st.write(consoants)
-
     tonic_selection = st.radio("Escolha uma opção quanto à sílaba tônica", list(tonic_options.keys()))
     canonic_selection = st.radio("Escolha uma opção quanto à sílaba tônica", list(canonic_options.keys()))
     
     composition.selecting_words = True
 
-    st.write(composition.words_df)
+    # st.write(composition.words_df)
 
     st.subheader("Busque palavras nessa configuração")
     if st.button("Clique para buscar palavras"):
-        composition.rnd_words = random.sample(range(0, len(composition.words_df)), min(5, len(composition.words_df)))
+        composition.rnd_words = random.sample(range(0, len(composition.words_df)), min(15, len(composition.words_df)))
 
     # st.dataframe(composition.words_df.loc[composition.rnd_words])
 
@@ -93,7 +91,7 @@ def write():
 
     # st.write(selected)
 
-    if st.button("Adicionar Palavras"):
+    if st.button("Adicionar palavras"):
         composition.selected_words = composition.selected_words + selected
 
     st.title("Geração de Pseudo-palavras:")
@@ -102,13 +100,16 @@ def write():
     sliced_df = composition.words_df.loc[composition.words_df['word'].isin(composition.selected_words)]
     st.dataframe(sliced_df)
 
-    pseudo_words = pd.DataFrame(columns = sliced_df.columns)
-    n_pw = 0
-    for i, word in sliced_df.iterrows():
-        pseudo_words.loc[n_pw] = makePseudoWord(word)
-        n_pw = n_pw + 1
+    st.subheader("Gerar pseudo-palavras:")
+    if st.button("Gerar"):
+        pseudo_words = pd.DataFrame(columns = sliced_df.columns)
+        n_pw = 0
+        for i, word in sliced_df.iterrows():
+            for j in range(random.randint(1, 5)):
+                pseudo_words.loc[n_pw] = makePseudoWord(word)
+                n_pw = n_pw + 1
 
-    st.dataframe(pseudo_words)
+        st.dataframe(pseudo_words)
 
     # with st.spinner(f"Loading {menu_selection} ..."):
         # display.render_page(menu)
