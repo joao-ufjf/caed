@@ -6,35 +6,38 @@ import random
 
 import display
 import src.pages.select_words
-import src.pages.select_pseudo_words
+import src.pages.info
 
 MENU = {
-    "Seleção de Palavras" : src.pages.select_words,
-    "Geração de pseudo Palavras" : src.pages.select_pseudo_words
+    "Informações" : src.pages.info,
+    "Gerador" : src.pages.select_words
 }
 
 def main():
-    st.markdown(
-            f"""
-    <style>
-        .reportview-container .main .block-container{{
-            max-width: 60%;
-        }}
-        .reportview-container .main {{
-        }}
-    </style>
+    st.markdown(f"""
+        <style>
+            .reportview-container .main .block-container{{
+                max-width: 60%;
+            }}
+            .reportview-container .main {{
+            }}
+        </style>
     """,
-            unsafe_allow_html=True,
-        )
-    # st.sidebar.title("O que deseja fazer?")
-    # menu_selection = st.sidebar.radio("Escolha uma opção", list(MENU.keys()))
+        unsafe_allow_html=True,
+    )
 
-    menu_selection = "Seleção de Palavras"
+    st.sidebar.title("Páginas:")
+    menu_selection = st.sidebar.radio("Escolha uma opção", list(MENU.keys()))
 
     menu = MENU[menu_selection]
 
     with st.spinner(f"Loading {menu_selection} ..."):
         display.render_page(menu)
+
+    st.sidebar.header("Infos:")
+    st.sidebar.info(
+        "https://github.com/Joao-ufjf/caed"
+    )
 
 if __name__ == "__main__":
     # composition = Composition()

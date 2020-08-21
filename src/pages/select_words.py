@@ -4,14 +4,18 @@ import pandas as pd
 import streamlit as st
 import random
 import copy
+import io
+import base64
+from openpyxl import Workbook
+from openpyxl.utils.dataframe import dataframe_to_rows
+from openpyxl.writer.excel import save_virtual_workbook
 
 import display
-import src.pages.select_pseudo_words
 
 tonic_options = {
-    'Oxítona': 'oxitona',
-    'Paroxítona': 'paroxitona',
-    'Proparoxítona': 'proparoxitona'
+    'Oxítona': 'oxítona',
+    'Paroxítona': 'paroxítona',
+    'Proparoxítona': 'proparoxítona'
 }
 
 canonic_options = {
@@ -24,7 +28,7 @@ class Composition:
     words_df = pd.read_json('data/b.json', orient = "index")
     rnd_words = []
     selected_words = []
-    selecting_words = False
+    selecting_words = None
 
 vogals = ['a', 'e', 'i', 'o', 'u']
 consoants = []
@@ -35,34 +39,47 @@ for x in range(ord('b'), ord('z') + 1):
 composition = Composition()
 
 def makePseudoWord(word):
+    """
+    A função deve retornar uma pseudo-palavra parecida e com as mesmas propriedades
+    """
+
     # st.write(word['word'])
     pseudo = copy.deepcopy(word)
     pseudo['word'] = ''
     pseudo['syllables'] = []
-    if word['canonic']:
-        # st.write("  canonic" + str(len(word['syllables'])))
+    if word['canonic']: # No caso de uma palavra canônica preservamos a sílaba tônica
         for i in range(len(word['syllables'])):
             syllable = word['syllables'][i]
-            # st.write("    " + syllable)
-            if i == int(word.tonic):
+            if i == int(word.tonic): # Mantém a sílaba tônica
                 pseudo['syllables'].append(syllable)
                 pseudo['word'] = pseudo['word'] + syllable
-            else:
-                # pseudo = pseudo + consoants[random.randint(0, len(consoants))] + vogals[random.randint(0, len(vogals))]
-                if random.randint(0, 2):
+            else: # Se não é tõnica, decido o que fazer
+                if random.randint(0, 2): # 50% de chande de manter a consoante
                     consoant = consoants[random.randint(0, 20)]
                     new_syllable = consoant + syllable[1]
                     pseudo['syllables'].append(new_syllable)
                     pseudo['word'] = pseudo['word'] + new_syllable
-                else:
+                else: # 50% de chande de manter a vogal
                     vogal = vogals[random.randint(0, 4)]
                     new_syllable = syllable[0] + vogal
                     pseudo['syllables'].append(new_syllable)
                     pseudo['word'] = pseudo['word'] + new_syllable
-    else:
-        # st.write("  not canonic")
-        pseudo['word'] = "bananice"
-        pseudo['syllables'] = []
+    else: # No caso de não ser canônica mantemos a sílaba tônica
+        for i in range(len(word['syllables'])):
+            syllable = word['syllables'][i]
+            # st.write("    " + syllable)
+            if i == int(word.tonic): # Mantém a sílaba tônica
+                pseudo['syllables'].append(syllable)
+                pseudo['word'] = pseudo['word'] + syllable
+            else: # Se não é tõnica, decido o que fazer
+                new_syllable = ''
+                for c in syllable:
+                    if c in vogals: # Troca a vogal por outra
+                        new_syllable = new_syllable + vogals[random.randint(0, 4)]
+                    else: # Troca a consoante por outra
+                        new_syllable = new_syllable + consoants[random.randint(0, 20)]
+                pseudo['syllables'].append(new_syllable)
+                pseudo['word'] = pseudo['word'] + new_syllable
 
     return pseudo
 
@@ -71,11 +88,10 @@ def write():
     st.title("Gerador de Pseudo-palavras")
 
     st.write("""
-        Uma forma de avaliar a capacidade de leitura de uma criança é verificar a capacidade de decodificação. Para isso, costuma-se utilizar testes 
-        com palavras e com pseudo-palavras, ou seja, palavras que não existem na língua portuguesa, mas que são palavras “corretas”.
-        Exemplos de pseudo-palavras são comalo, rupeita, lopi. Não são exemplos de pseudo-palavras o que não faz
-        sentido na sintaxe da língua portuguesa como sunpa, crippa, treazsa. Essa aplicação foi desenvolvida com o objetivo de 
-        prover uma ferramenta ao avaliador para gerar os testes de pseudo-palavras.
+        Essa aplicação foi desenvolvida com o objetivo de 
+        prover uma ferramenta ao avaliador para gerar os 
+        testes de pseudo-palavras. 
+        Mais informações e conceitos na aba **informações**.
     """)
 
     st.header("Escolha das Palavras:")
@@ -87,20 +103,24 @@ def write():
     tonic_selection = st.radio("Escolha uma opção quanto à sílaba tônica", list(tonic_options.keys()))
     canonic_selection = st.radio("Escolha uma opção quanto à sílaba tônica", list(canonic_options.keys()))
     
-    composition.selecting_words = True
 
     # st.write(composition.words_df)
 
     st.subheader("Busque palavras nessa configuração")
     st.write("""
-        Ao buscar palavras, serão apresentadas 30 palavras do banco de palavras, 
-        onde podem ser selecionadas diversas delas. Ao buscar novamente outras 30 
+        Serão apresentadas até 30 palavras do banco de palavras, 
+        onde podem ser selecionadas diversas delas. Ao buscar novamente outras 
         palavras são recuperas do banco de palavras.
     """)
     if st.button("Buscar palavras"):
-        composition.rnd_words = random.sample(range(0, len(composition.words_df)), min(15, len(composition.words_df)))
+        # Filtra os dados com a configuração selecionada
+        composition.selecting_words = composition.words_df[composition.words_df['class'] == tonic_options[tonic_selection]]
+        composition.selecting_words = composition.selecting_words[composition.selecting_words['canonic'] == canonic_options[canonic_selection]]
+        # Seleciona até 30 palavras aleatórias
+        composition.rnd_words = random.sample(list(composition.selecting_words.index), min(30, len(composition.selecting_words)))
+        composition.selecting_words = composition.selecting_words.loc[composition.rnd_words]
 
-    # st.dataframe(composition.words_df.loc[composition.rnd_words])
+    # st.dataframe(composition.selecting_words)
 
     selected = st.multiselect(
         'Selecione as palavras desejadas',
@@ -116,6 +136,8 @@ def write():
     st.header("Geração de Pseudo-palavras:")
 
     st.subheader("Palavras selecionadas:")
+
+    # Recupera os registros que contém as palavras selecionadas
     sliced_df = composition.words_df.loc[composition.words_df['word'].isin(composition.selected_words)]
     st.dataframe(sliced_df)
 
@@ -126,24 +148,39 @@ def write():
 
     st.subheader("Gerar pseudo-palavras:")
     if st.button("Gerar"):
+        # É criado um DataFrame com as colunas originais
         pseudo_words = pd.DataFrame(columns = sliced_df.columns)
         n_pw = 0
         for i, word in sliced_df.iterrows():
-            for j in range(random.randint(2, 5)):
+            for j in range(random.randint(2, 5)): # Para cada palavra são geradas de 2 a 5 pseudo-palavras
                 pseudo_words.loc[n_pw] = makePseudoWord(word)
                 n_pw = n_pw + 1
 
         st.dataframe(pseudo_words)
 
-    # with st.spinner(f"Loading {menu_selection} ..."):
-        # display.render_page(menu)
+        def listToString(s):          
+            # initialize an empty string 
+            str1 = "-" 
+            
+            # return string   
+            return (str1.join(s))
 
-    # st.sidebar.info(
-    #     "https://github.com/Avkash/demoapps"
-    # )
-    # st.sidebar.info(
-    #     "demoapps/StreamlitApp"
-    # )
+        pseudo_words["syllables"] = pseudo_words["syllables"].apply(listToString)
+
+        wb = Workbook()
+        ws = wb.active
+
+        for r in dataframe_to_rows(pseudo_words, index=False, header=True):
+            ws.append(r)
+
+        vw = save_virtual_workbook(wb)
+        xlsx_io = io.BytesIO(vw)
+        xlsx_io.seek(0)
+        media_type = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+        data = base64.b64encode(xlsx_io.read()).decode("utf-8")
+        href_data_downloadable = f'data:{media_type};base64,{data}'
+
+        st.markdown(f'<a href="{href_data_downloadable}" download="template.xlsx">Download das Pseudo-palavras</a>', unsafe_allow_html=True)
 
 if __name__ == "__main__":
     # composition = Composition()
