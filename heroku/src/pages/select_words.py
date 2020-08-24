@@ -152,10 +152,16 @@ def write():
 
     st.subheader("Palavras selecionadas:")
 
+    # Valores repetidos não entram
+    composition.selected_words = list(set(composition.selected_words))
+    to_use = st.multiselect(
+        '',
+        composition.selected_words, 
+        composition.selected_words)
+
     # Recupera os registros que contém as palavras selecionadas
-    sliced_df = composition.words_df.loc[composition.words_df['word'].isin(composition.selected_words)]
+    sliced_df = composition.words_df.loc[composition.words_df['word'].isin(to_use)]
     st.dataframe(sliced_df)
-    # TODO to_excell(sliced_df, "Download das palavras selecionadas")
 
     st.write("""
         Ao clicar no botão "Gerar", serão geradas de 2 a 5 pseudo-palavras para cada palavra selecionada.

@@ -31,8 +31,8 @@ def isConsoant(x):
     return unidecode.unidecode(x) in consoants
 
 first = 'a'
-last = 'b'
-pages = 10
+last = 'z'
+pages = 1000
 
 # Recupera as palavras de a até z
 for c in char_range(first, last):
@@ -40,7 +40,7 @@ for c in char_range(first, last):
     print("Gathering " + c, end = '')
 
     df = pd.DataFrame(columns=['word', 'syllables', 'tonic', 'class', 'canonic'])
-    # Recuperando 100 páginas com 20 resultados, no máximo 2000 palavras por letra
+    # Recuperando páginas com 20 resultados
     for p in range(0, pages):
         page = requests.get('http://www.portaldalinguaportuguesa.org/index.php?action=fonetica&region=rjx&act=list&letter={0}&start={1}'.format(c, p * 20))
         soup = BeautifulSoup(page.text, 'html.parser')
