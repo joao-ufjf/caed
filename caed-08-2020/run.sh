@@ -1,0 +1,1 @@
+nohup streamlit run app.py
