@@ -77,3 +77,6 @@ def write():
     st.write("""
         Definir o uso da letra y, funcionando como vogal ou consoante.
     """)
+    st.write("""
+        Definir regras para tratamento do hífen.
+    """)
