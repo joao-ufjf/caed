@@ -99,6 +99,7 @@ def to_excell(df, name):
     
     st.markdown(f'<a href="{href_data_downloadable}" download="template.xlsx">{name}</a>', unsafe_allow_html=True)
 
+@st.cache(suppress_st_warning=True)
 def write():
     if st.sidebar.button("Limpar Projeto"):
         composition.selected_words = []
