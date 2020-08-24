@@ -17,7 +17,7 @@ def write():
 
     st.subheader("Reiniciando o Projeto")
     st.write("""
-        Para recomeçar seu trabalho, limpar todos os campos, basta apenas recarregar a página.
+        Para recomeçar seu trabalho, limpar todos os campos, basta clicar no botão **Limpar Projeto**.
     """)
 
     st.subheader("Mãos na Massa")
