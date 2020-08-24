@@ -100,6 +100,9 @@ def to_excell(df, name):
     st.markdown(f'<a href="{href_data_downloadable}" download="template.xlsx">{name}</a>', unsafe_allow_html=True)
 
 def write():
+    if st.sidebar.button("Limpar Projeto"):
+        composition.selected_words = []
+
     st.title("Gerador de Pseudo-palavras")
 
     st.write("""
@@ -153,6 +156,7 @@ def write():
     st.subheader("Palavras selecionadas:")
 
     # Valores repetidos não entram
+    # TODO ao atualizar a página não está resetando no heroku, apenas em sessões locais
     composition.selected_words = list(set(composition.selected_words))
     to_use = st.multiselect(
         '',
